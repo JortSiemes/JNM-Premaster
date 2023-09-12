@@ -28,6 +28,12 @@ Chapter 8 delves into the concept of style and its various interpretations withi
 - Different style variations: telegram style (the channel factor), city hall style (the setting factor), and court ruling style (the genre factor)
 - Style and register are not the same thing whilst being often used without distinction.
 
+Differences in style: (met allemaal hun eigen stylistic betekenis)
+a. John does not go to school, because Mary is ill. 
+b. Because Mary is ill, John does not go to school. 
+c. Mary is ill. So, John does not go to school. 
+d. John does not go to school. Mary is ill.
+
 **8.3 Views on Style**
 
 - There are three main perspectives on style: a. Style as a possible form for specific content. b. Style as the choice of specific patterns by writers or speakers. c. Style as a deviation from reader/listener expectations.
