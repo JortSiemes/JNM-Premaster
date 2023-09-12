@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Woorden als wapens/Introduction to Discourse Studies_New Edition_Paragraaf8.pdf"
+                "file": "Vakken/Woorden als wapens/Introduction to Discourse Studies_New Edition_Paragraaf8.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Woorden als wapens/Introduction to Discourse Studies_New Edition_Paragraaf8.pdf",
+                "file": "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Woorden als wapens/Introduction to Discourse Studies_New Edition_Paragraaf8.pdf",
+                "file": "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Woorden als wapens/Introduction to Discourse Studies_New Edition_Paragraaf8.pdf"
+                "file": "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md"
               }
             }
           },
@@ -152,10 +152,66 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1361470a16529fa1",
+  "floating": {
+    "id": "b3cf421d952c38ce",
+    "type": "floating",
+    "children": [
+      {
+        "id": "be2e1422b86fed83",
+        "type": "window",
+        "children": [
+          {
+            "id": "05d0ecf36ee670fe",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b621c2571cf5463c",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "7ce290fcfb9e590f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical",
+        "x": 597,
+        "y": 19,
+        "width": 1916,
+        "height": 1352,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "7ce290fcfb9e590f",
   "lastOpenFiles": [
-    "Leiden/Notities Dagelijk/2023-09-11.md",
-    "Leiden/Notities Dagelijk/2023-09-06.md",
-    "Inleiding in de journalistiek/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf"
+    "Vakken/Woorden als wapens/Introduction to Discourse Studies_New Edition_Paragraaf8.pdf",
+    "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md",
+    "Notities Dagelijk/2023-09-12.md",
+    "Introductie JNM pre-ma 2023.pdf",
+    "Overig",
+    "Canvas MASTER.canvas",
+    "Basisboek_Journalistiek Schrijven.pdf",
+    "Vakken",
+    "Leiden/Vakken/Taal en communicatie.md",
+    "Leiden/Vakken/Inleiding in de journalistiek.md",
+    "Notities Dagelijk/2023-09-11.md",
+    "Notities Dagelijk/2023-09-06.md",
+    "Vakken/Inleiding in de journalistiek/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf"
   ]
 }
