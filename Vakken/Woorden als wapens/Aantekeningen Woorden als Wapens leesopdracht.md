@@ -45,4 +45,18 @@ The chapter highlights the complexities of defining and analyzing style, with a 
 
 
 
+----
+
+- Sluiter, I. (2005). M_aken en breken, Over taal, identiteit en minderheden_. Rede (verkort) uitgesproken in de Pieterskerk, ter gelegenheid van de 430e Dies Natalis van de Universiteit Leiden, 8 februari 2005. Beschikbaar via Brightspace (zie de map 'Literatuur').
+
+twee teksten
+- Pentheus zijn kwalijke invloed van klein-azie en lydie bij invoering van de riten van dionysus
+- de vraagtekens geplaatst bij de gruwelijkheden die tijdens de bacchanalia zouden hebben plaatsgehad.
+Belangrijk is de rol van taal hierin
+
+
+Opiniemakers en politici nemen krachtige standpun-  
+ten in: "het probleem is als een ziekte, of een vuur. De samenleving dreigt  
+eraan ten onder te gaan. Het is oorlog. De tegenstander moet opgejaagd worden als  
+een beest."
 
