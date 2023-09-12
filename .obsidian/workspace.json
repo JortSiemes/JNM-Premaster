@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notities Dagelijk/2023-09-12.md",
+                "file": "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notities Dagelijk/2023-09-12.md",
+                "file": "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notities Dagelijk/2023-09-12.md",
+                "file": "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notities Dagelijk/2023-09-12.md"
+                "file": "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,6 +148,7 @@
   },
   "active": "ccd80f652a135165",
   "lastOpenFiles": [
+    "Notities Dagelijk/2023-09-12.md",
     "Vakken/Inleiding in de journalistiek/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf",
     "Vakken/Inleiding in de journalistiek 1/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf"
   ]
