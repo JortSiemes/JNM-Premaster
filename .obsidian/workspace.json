@@ -11,9 +11,11 @@
             "id": "ccd80f652a135165",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf"
+                "file": "Notities Dagelijk/2023-09-12.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf",
+                "file": "Notities Dagelijk/2023-09-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf",
+                "file": "Notities Dagelijk/2023-09-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,12 +125,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf"
+                "file": "Notities Dagelijk/2023-09-12.md"
               }
+            }
+          },
+          {
+            "id": "8973b8e386562de5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -146,10 +156,19 @@
   },
   "active": "ccd80f652a135165",
   "lastOpenFiles": [
+    "Notities Dagelijk/2023-09-11.md",
+    "Notities Dagelijk/2023-09-06.md",
     "Notities Dagelijk/2023-09-12.md",
-    "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf",
-    "Vakken/Wetenschapsfilosofie/Unconfirmed 524860.crdownload",
+    "Literatuur Aantekeningen/Literatuur Aantekeningen.md",
+    "Literatuur Aantekeningen/Journalistieke Cultuur in Nederland (editie 2019).md",
+    "Literatuur Aantekeningen/Introduction to Discourse Studies, New Edition.md",
+    "Literatuur Aantekeningen/Er móét een verschil zijn. Waarom echte synoniemen niet bestaan.md",
     "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf",
+    "Vakken/Woorden als wapens/Woorden als wapens.md",
+    "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf",
+    "Vakken/Wetenschapsfilosofie/Cursusboek.pdf",
+    "Vakken/Wetenschapsfilosofie/Unconfirmed 638279.crdownload",
+    "Vakken/Wetenschapsfilosofie/Unconfirmed 524860.crdownload",
     "Vakken/Wetenschapsfilosofie/Unconfirmed 512356.crdownload",
     "Onderwerpen/Construal.md",
     "Onderwerpen/Stijl.md",
@@ -158,7 +177,6 @@
     "Canvas MASTER.canvas",
     "Introductie JNM pre-ma 2023.pdf",
     "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md",
-    "Vakken/Inleiding in de journalistiek/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf",
-    "Vakken/Inleiding in de journalistiek 1/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf"
+    "Vakken/Inleiding in de journalistiek/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf"
   ]
 }
