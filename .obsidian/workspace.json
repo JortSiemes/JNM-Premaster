@@ -11,11 +11,9 @@
             "id": "ccd80f652a135165",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notities Dagelijk/2023-09-12.md",
-                "mode": "source",
-                "source": false
+                "file": "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notities Dagelijk/2023-09-12.md",
+                "file": "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notities Dagelijk/2023-09-12.md",
+                "file": "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notities Dagelijk/2023-09-12.md"
+                "file": "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf"
               }
             }
           }
@@ -146,10 +144,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35ad91f310cc0551",
+  "active": "ccd80f652a135165",
   "lastOpenFiles": [
-    "Onderwerpen/Construal.md",
     "Notities Dagelijk/2023-09-12.md",
+    "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf",
+    "Vakken/Wetenschapsfilosofie/Unconfirmed 524860.crdownload",
+    "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf",
+    "Vakken/Wetenschapsfilosofie/Unconfirmed 512356.crdownload",
+    "Onderwerpen/Construal.md",
     "Onderwerpen/Stijl.md",
     "Vakken/Woorden als wapens/Introduction to Discourse Studies_New Edition_Paragraaf8.pdf",
     "Basisboek_Journalistiek Schrijven.pdf",
