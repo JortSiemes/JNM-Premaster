@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md",
+                "file": "stijl.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md",
+                "file": "stijl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md",
+                "file": "stijl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md"
+                "file": "stijl.md"
               }
             }
           }
@@ -148,7 +148,13 @@
   },
   "active": "ccd80f652a135165",
   "lastOpenFiles": [
+    "Vakken/Woorden als wapens/Introduction to Discourse Studies_New Edition_Paragraaf8.pdf",
+    "stijl.md",
+    "Basisboek_Journalistiek Schrijven.pdf",
+    "Canvas MASTER.canvas",
+    "Introductie JNM pre-ma 2023.pdf",
     "Notities Dagelijk/2023-09-12.md",
+    "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md",
     "Vakken/Inleiding in de journalistiek/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf",
     "Vakken/Inleiding in de journalistiek 1/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf"
   ]
