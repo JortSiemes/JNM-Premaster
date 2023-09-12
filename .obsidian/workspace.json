@@ -11,8 +11,10 @@
             "id": "1361470a16529fa1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Inleiding in de journalistiek/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inleiding in de journalistiek/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Inleiding in de journalistiek/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inleiding in de journalistiek/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf"
+              }
             }
           },
           {
@@ -156,6 +162,8 @@
   },
   "active": "1361470a16529fa1",
   "lastOpenFiles": [
+    "Basisboek_Journalistiek Schrijven.pdf",
+    "Introductie JNM pre-ma 2023.pdf",
     "Leiden/Notities Dagelijk/2023-09-11.md",
     "Vakken/Taal en communicatie/book_by_birner_betty_j_introduction_to_pragmatics-.pdf",
     "Vakken/Woorden als wapens/Introduction to Discourse Studies_New Edition_Paragraaf8.pdf",
@@ -167,7 +175,6 @@
     "Vakken/Journalistieke en Redactionele Vaardigheden/TestTekst.txt",
     "Vakken/Taal en communicatie",
     "Vakken/Woorden als wapens",
-    "Vakken/Wetenschapsfilosofie",
     "Onderwerpen/waarheidsconditioneel.md",
     "Onderwerpen/Semantiek.md",
     "Onderwerpen/Pragmatiek.md",
