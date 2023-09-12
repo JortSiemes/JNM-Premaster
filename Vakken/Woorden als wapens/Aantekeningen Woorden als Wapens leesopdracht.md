@@ -45,4 +45,8 @@ The chapter highlights the complexities of defining and analyzing style, with a 
 
 
 
+----
+
+- Sluiter, I. (2005). M_aken en breken, Over taal, identiteit en minderheden_. Rede (verkort) uitgesproken in de Pieterskerk, ter gelegenheid van de 430e Dies Natalis van de Universiteit Leiden, 8 februari 2005. Beschikbaar via Brightspace (zie de map 'Literatuur').
+
 
