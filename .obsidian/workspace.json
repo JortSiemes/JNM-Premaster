@@ -11,10 +11,8 @@
             "id": "1361470a16529fa1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Vakken/Woorden als wapens/Introduction to Discourse Studies_New Edition_Paragraaf8.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Woorden als wapens/Introduction to Discourse Studies_New Edition_Paragraaf8.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Woorden als wapens/Introduction to Discourse Studies_New Edition_Paragraaf8.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Vakken/Woorden als wapens/Introduction to Discourse Studies_New Edition_Paragraaf8.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -160,66 +154,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "b3cf421d952c38ce",
-    "type": "floating",
-    "children": [
-      {
-        "id": "be2e1422b86fed83",
-        "type": "window",
-        "children": [
-          {
-            "id": "05d0ecf36ee670fe",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b621c2571cf5463c",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              },
-              {
-                "id": "7ce290fcfb9e590f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 597,
-        "y": 19,
-        "width": 1916,
-        "height": 1352,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "1361470a16529fa1",
   "lastOpenFiles": [
-    "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md",
+    "Leiden/Notities Dagelijk/2023-09-11.md",
+    "Vakken/Taal en communicatie/book_by_birner_betty_j_introduction_to_pragmatics-.pdf",
     "Vakken/Woorden als wapens/Introduction to Discourse Studies_New Edition_Paragraaf8.pdf",
-    "Notities Dagelijk/2023-09-12.md",
-    "Introductie JNM pre-ma 2023.pdf",
-    "Overig",
-    "Canvas MASTER.canvas",
-    "Basisboek_Journalistiek Schrijven.pdf",
-    "Vakken",
-    "Leiden/Vakken/Taal en communicatie.md",
-    "Leiden/Vakken/Inleiding in de journalistiek.md",
+    "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md",
+    "Vakken/Wetenschapsfilosofie/tesktfile.xlsx",
+    "Vakken/Methoden en theorieen van Journalism Studies/Methoden voor Journalism Studies.pdf",
+    "Vakken/Inleiding in de journalistiek/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf",
+    "Vakken/Methoden en theorieen van Journalism Studies/Methoden voor journalism studies inkijk.pdf",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/TestTekst.txt",
+    "Vakken/Taal en communicatie",
+    "Vakken/Woorden als wapens",
+    "Vakken/Wetenschapsfilosofie",
+    "Onderwerpen/waarheidsconditioneel.md",
+    "Onderwerpen/Semantiek.md",
+    "Onderwerpen/Pragmatiek.md",
     "Notities Dagelijk/2023-09-11.md",
+    "Notities Dagelijk/2023-09-12.md",
     "Notities Dagelijk/2023-09-06.md",
-    "Vakken/Inleiding in de journalistiek/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf"
+    "Literatuur/Maken en breken, Over taal, identiteit en minderheden.md",
+    "Literatuur/Journalistieke Cultuur in Nederland (editie 2019).md",
+    "Literatuur/Introduction to Discourse Studies, New Edition.md",
+    "Literatuur/Er móét een verschil zijn. Waarom echte synoniemen niet bestaan.md",
+    "Canvas MASTER.canvas",
+    "Leiden/Notities Dagelijk/2023-09-06.md"
   ]
 }
