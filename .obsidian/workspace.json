@@ -11,8 +11,12 @@
             "id": "ccd80f652a135165",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notities Dagelijk/2023-09-12.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notities Dagelijk/2023-09-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notities Dagelijk/2023-09-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notities Dagelijk/2023-09-12.md"
+              }
             }
           }
         ]
@@ -139,5 +147,8 @@
     }
   },
   "active": "ccd80f652a135165",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Vakken/Inleiding in de journalistiek/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf",
+    "Vakken/Inleiding in de journalistiek 1/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf"
+  ]
 }
