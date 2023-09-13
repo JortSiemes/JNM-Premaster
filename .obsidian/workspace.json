@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notities Dagelijk/2023-09-12.md",
+                "file": "Notities Dagelijk/2023-09-13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29eaa583f876d912",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aantekeningen - Methoden en theorieën van Journalism studies.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notities Dagelijk/2023-09-12.md",
+                "file": "Aantekeningen - Methoden en theorieën van Journalism studies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notities Dagelijk/2023-09-12.md",
+                "file": "Aantekeningen - Methoden en theorieën van Journalism studies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notities Dagelijk/2023-09-12.md"
+                "file": "Aantekeningen - Methoden en theorieën van Journalism studies.md"
               }
             }
           },
@@ -154,10 +167,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ccd80f652a135165",
+  "active": "29eaa583f876d912",
   "lastOpenFiles": [
-    "Notities Dagelijk/Notities Dagelijk.md",
+    "Notities Dagelijk/2023-09-13.md",
+    "Aantekeningen - Methoden en theorieën van Journalism studies.md",
     "Notities Dagelijk/2023-09-12.md",
+    "Notities Dagelijk/Notities Dagelijk.md",
     "Vakken/Wetenschapsfilosofie/Wetenschapsfilosofie.md",
     "Vakken/Taal en communicatie/Taal en communicatie.md",
     "Vakken/Taal en communicatie/Taal en communicatie 1.md",
@@ -172,7 +187,6 @@
     "Vakken/Vakken.md",
     "Untitled/Untitled.md",
     "Untitled",
-    "Untitled.md",
     "Vakken/Wetenschapsfilosofie/Literatuur",
     "Vakken/Woorden als wapens/Woorden als wapens.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Methoden en theorieen van Journalism Studies.md",
