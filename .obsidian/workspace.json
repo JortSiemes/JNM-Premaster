@@ -26,9 +26,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "24deccb766df5f3f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notities Dagelijk/2023-09-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notities Dagelijk/2023-09-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notities Dagelijk/2023-09-12.md"
+              }
             }
           },
           {
@@ -159,7 +173,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6602b795069bc4b2",
+  "active": "24deccb766df5f3f",
   "lastOpenFiles": [
     "Notities Dagelijk/2023-09-11.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Theories of Journalism in a Digital age.pdf",
