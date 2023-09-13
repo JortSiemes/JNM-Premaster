@@ -23,12 +23,8 @@
             "id": "6602b795069bc4b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notities Dagelijk/2023-09-11.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notities Dagelijk/2023-09-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notities Dagelijk/2023-09-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notities Dagelijk/2023-09-11.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,6 +161,7 @@
   },
   "active": "6602b795069bc4b2",
   "lastOpenFiles": [
+    "Notities Dagelijk/2023-09-11.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Theories of Journalism in a Digital age.pdf",
     "Vakken/Methoden en theorieen van Journalism Studies/Niet bevestigd 326621.crdownload",
     "Vakken/Methoden en theorieen van Journalism Studies/Definitions_of_Journalism_3_17.pdf",
@@ -184,7 +177,6 @@
     "Onderwerpen/waarheidsconditioneel.md",
     "Vakken/Wetenschapsfilosofie/Literatuur/Literatuur.md",
     "Vakken/Wetenschapsfilosofie/Literatuur/Cursusboek.pdf",
-    "Notities Dagelijk/2023-09-11.md",
     "Onderwerpen/Onderwerpen.md",
     "Vakken/Vakken.md",
     "Untitled/Untitled.md",
@@ -200,7 +192,6 @@
     "Literatuur Aantekeningen/Introduction to Discourse Studies, New Edition.md",
     "Literatuur Aantekeningen/Er móét een verschil zijn. Waarom echte synoniemen niet bestaan.md",
     "Vakken/Wetenschapsfilosofie/Unconfirmed 638279.crdownload",
-    "Vakken/Wetenschapsfilosofie/Unconfirmed 524860.crdownload",
     "Onderwerpen/Construal.md",
     "Onderwerpen/Stijl.md",
     "Canvas MASTER.canvas",
