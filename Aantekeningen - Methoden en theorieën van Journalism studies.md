@@ -31,4 +31,9 @@ Nu nieuws is altijd en overal beschikbaar en mensen verwachten gratis
 
 journalism studies = parapluterm voor, wetenschappelijke studie van Journalistiek
 
+![[Pasted image 20230913132738.png]]
+
+
+![[Pasted image 20230913133035.png]]
+
 
