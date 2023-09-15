@@ -25,5 +25,10 @@
   },
   "version": "1.6.0",
   "firstRun": false,
-  "connectedCards": {}
+  "connectedCards": {
+    "yCjac--fzNBEJuUugwBf1": {
+      "cardId": "65045580f6a544b482ac0aa5",
+      "boardId": "64fd9d8ea51027f94a712430"
+    }
+  }
 }

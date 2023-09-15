@@ -31,9 +31,11 @@
             "id": "24deccb766df5f3f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.12"
+                "file": "Notities Dagelijk/2023-09-13.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notities Dagelijk/2023-09-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notities Dagelijk/2023-09-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notities Dagelijk/2023-09-13.md"
+              }
             }
           },
           {
@@ -151,9 +157,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "dcbb47f9ba4e361c",
+            "type": "leaf",
+            "state": {
+              "type": "trello-plugin",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -169,7 +183,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24deccb766df5f3f",
+  "active": "1556639a7c5832c6",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Aantekeningen - Methoden en theorieën van Journalism studies.md",
