@@ -1,4 +1,4 @@
-College 2
+College 2 [[2023-09-18]]
 
 hoorcollege
 ## Inleiding in Journalistiek
@@ -61,6 +61,22 @@ dag
 
 onder kostprijzen advertenties verkopen bleek niet succesvol metro als laatste failliet 2020.
 
+
+Oorzaken van het dalen krant:
+- Internet
+- Mediaconsumptie (meer internet & tv, minder radio & lezen)
+- immigratie, veel migranten lezen geen Nederlandse kranten.
+- Bezorging, de ochtend krantenbezorgers
+- Advertentie-inkomsten, teruglopende verdiensten aan advertenties.
+
+Meestal kwam krant in de avond ipv in de ochtend wat nu normaal is.
+
+Hoe kunnen de kranten het tij keren en hebben de volgende maatregelen:
+- Strategisch
+- Operationeel
+- Productvernieuwing
+
+Ze fuseren of kopen kranten op, om kosten te delen.
 
 
 
