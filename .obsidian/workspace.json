@@ -33,18 +33,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notities Dagelijk/2023-09-12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f043b38e18169c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Notities Dagelijk/2023-09-18.md",
                 "mode": "source",
                 "source": false
@@ -52,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,11 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f043b38e18169c9",
+  "active": "24deccb766df5f3f",
   "lastOpenFiles": [
     "Notities Dagelijk/2023-09-12.md",
-    "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md",
     "Notities Dagelijk/2023-09-18.md",
+    "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md",
     "Vakken/Woorden als wapens/EenGoedTennisserVerliestGeenWedstrijden.pdf",
     "Vakken/Woorden als wapens/Woorden als wapens.md",
     "Notities Dagelijk/2023-09-13.md",
