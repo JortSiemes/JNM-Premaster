@@ -54,7 +54,12 @@ tot jaren 70 100% van huishoudens een krant.
 
 Voor 2006 werden er meer regionale kranten gelezen dan landelijk, daarna meer landelijk.
 
+metro
+spits (eigendom Telegraaf mediagroep)
+pers
+dag
 
+onder kostprijzen advertenties verkopen bleek niet succesvol metro als laatste failliet 2020.
 
 
 
