@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9c4b788f806e5f06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 1 Inleiding in de Journalistiek.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3bd7a72656c4181d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notities Dagelijk/2023-09-18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a92ee7ed3c1b96fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 2 Inleiding in de Journalistiek.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notities Dagelijk/2023-09-18.md",
+                "file": "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 2 Inleiding in de Journalistiek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notities Dagelijk/2023-09-18.md",
+                "file": "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 2 Inleiding in de Journalistiek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notities Dagelijk/2023-09-18.md"
+                "file": "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 2 Inleiding in de Journalistiek.md"
               }
             }
           },
@@ -155,9 +192,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a3e32b90796986d1",
+  "active": "a92ee7ed3c1b96fc",
   "lastOpenFiles": [
     "Notities Dagelijk/2023-09-18.md",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 2 Inleiding in de Journalistiek.md",
+    "Vakken/Methoden en theorieen van Journalism Studies/Theories of Journalism in a Digital age.pdf",
+    "Basisboek_Journalistiek Schrijven.pdf",
+    "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 2 taal en communicatie.md",
+    "Vakken/Taal en communicatie/Hoorcolleges",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 1 Inleiding in de Journalistiek.md",
+    "Notities Dagelijk/2023-09-13.md",
     "Onderwerpen/Maxime.md",
     "Onderwerpen/attribuutframing.md",
     "Onderwerpen/valence consistent shift.md",
@@ -165,7 +210,6 @@
     "Vakken/Taal en communicatie/book_by_birner_betty_j_introduction_to_pragmatics-.pdf",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 2 (Jort Siemes, s4028198).md",
     "conflict-files-obsidian-git.md",
-    "Notities Dagelijk/2023-09-13.md",
     "Onderwerpen/valentie.md",
     "Vakken/Woorden als wapens/Weekopdrachten",
     "Vakken/Woorden als wapens/Programma.pdf",
@@ -174,13 +218,9 @@
     "Vakken/Woorden als wapens/Week2 Opdracht.pdf",
     "Overig/methodenvoorjournalismstudies.png",
     "Overig",
-    "Vakken/Woorden als wapens/Notities1.rtf",
     "Notities Dagelijk/2023-09-12.md",
-    "Beelden",
     "Vakken/Methoden en theorieen van Journalism Studies/Aantekeningen - Methoden en theorieën van Journalism studies.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Methoden en theorieen van Journalism Studies.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/Methoden voor journalism studies inkijk.pdf",
-    "Vakken/Methoden en theorieen van Journalism Studies/Methoden voor Journalism Studies.pdf",
     "Beelden/Pasted image 20230913133035.png",
     "Beelden/Pasted image 20230913132738.png",
     "Notities Dagelijk/Notities Dagelijk.md",
@@ -193,10 +233,6 @@
     "Notities Dagelijk/2023-09-06.md",
     "Onderwerpen/Onderwerpen.md",
     "Vakken/Vakken.md",
-    "Untitled/Untitled.md",
-    "Vakken/Woorden als wapens/Woorden als wapens.md",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Journalistieke en Redactionele Vaardigheden.md",
-    "Vakken/Inleiding in de journalistiek/Inleiding in de journalistiek.md",
     "Canvas MASTER.canvas"
   ]
 }
