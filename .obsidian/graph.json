@@ -1,22 +1,51 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Notities Dagelijk\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12189624
+      }
+    },
+    {
+      "query": "path:Onderwerpen  ",
+      "color": {
+        "a": 1,
+        "rgb": 14915586
+      }
+    },
+    {
+      "query": "path:Vakken  ",
+      "color": {
+        "a": 1,
+        "rgb": 16730053
+      }
+    },
+    {
+      "query": "path:\"Literatuur Aantekeningen\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16612947
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.713275462622443,
+  "collapse-forces": false,
+  "centerStrength": 0.347750865051903,
+  "repelStrength": 5.6401384083045,
+  "linkStrength": 0.662629757785467,
+  "linkDistance": 179,
+  "scale": 1.204213811674782,
   "close": false
 }
