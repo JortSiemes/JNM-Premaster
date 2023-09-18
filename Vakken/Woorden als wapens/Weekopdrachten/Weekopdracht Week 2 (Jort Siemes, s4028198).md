@@ -1,0 +1,12 @@
+1. Ik begrijp nog niet waarom we een kleiner effect verwachten voor (c) dan voor (d), aangezien ik juist van mening ben dat de inclusie van de naam Serena Williams de zin duidelijker maakt.
+
+P194-195: We zouden daarom kleinere effecten verwachten voor (c) dan voor (d). Als priming een verklaring is voor de gevonden congruentie-effecten maakt het echter niet uit of het standpunt botst met de mening van de ontvanger; priming is immers een snel en automatisch proces.   
+c. Serena Williams is een goede tennisster. Ze won/verloor 8/2 van de laatste 10 wedstrijden.   
+d.Zij is een goede tennisster. Ze heeft 8/2 van de laatste 10 wedstrijden gewonnen/verloren.
+
+2. a. Artikel 1 geeft een negatiever beeld vergeleken met artikel 2. Ook al wordt de finale in artikel 2 niet genoemd. Het feit dat het in de NRC kop als 'naast de overwinning grijpen' wordt beschreven klinkt volgens [[attribuutframing]] meer als een close-call. In vergelijking met het verlies, dat al meteen een negatief frame is.
+
+2. b.&c. Kop 1 (vrt): [Recordaantal Chinese gevechtsvliegtuigen duikt op in de buurt van Taiwan](https://www.vrt.be/vrtnws/nl/2023/09/18/recordaantal-chinese-gevechtsvliegtuigen-in-de-buurt-van-taiwan/)  
+Kop 2 (nos): [China stuurt tientallen gevechtsvliegtuigen richting Taiwan](https://nos.nl/artikel/2490897-china-stuurt-tientallen-gevechtsvliegtuigen-richting-taiwan)  
+Beschrijving: De koppen van vanochtend verschillen voornamelijk in de manier waarop ze het aantal vliegtuigen presenteren. Beide koppen zijn echter onduidelijk over het werkelijke aantal, namelijk 103 gevechtsvliegtuigen. Maar kop 1 wekt bij mij de indruk van een veel groter aantal vliegtuigen, vooral omdat ik geen informatie heb over het vorige record; ik neem aan dat het veel hoger is dan normaal. Kop 2, daarentegen, gebruikt de framing van tientallen en geeft daardoor het beeld van minder vliegtuigen, wat ook geïnterpreteerd kan worden als een gebruikelijk aantal.   
+Ook merk ik een verschil in framing als het gaat om de nabijheid van Taiwan en de richting naar Taiwan. In kop 2 lees ik de situatie als veel bedreigender, aangezien ze duidelijk gericht zijn op Taiwan, in tegenstelling tot kop 1 waar ze alleen verschijnen, wat in mijn beleving meer als een oefening in de buurt kan worden opgevat.
