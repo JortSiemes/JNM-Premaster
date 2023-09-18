@@ -1,4 +1,4 @@
-Hoorcollege
+Hoorcollege [[2023-09-18]]
 ## Taal en Communicatie
 
 Boek: (goed te volgen)

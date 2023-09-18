@@ -75,8 +75,27 @@ Hoe kunnen de kranten het tij keren en hebben de volgende maatregelen:
 - Strategisch
 - Operationeel
 - Productvernieuwing
-
+### Strategisch
 Ze fuseren of kopen kranten op, om kosten te delen.
+
+Krantuitgevers landelijk:
+	DPG Media 
+	Mediahuis
+	FD Mediagroep
+
+Krantuitgevers regionaal:
+	DPG Media 
+	Mediahuis
+
+Nadelen worden beschreven in artikelen van NRC syllabus van [[2023-09-18]]
+### Operationeel
+bezuiningen op papier
+ontslaan redactie
+### Productvernieuwing
+
+- Formaat (initieel bang voor tabloid reputatie van kleiner formaat)
+- Nieuwe abonnementsvormen, alleen weekend en week digitaal
+NRC.next, een jongerenkrant
 
 
 
