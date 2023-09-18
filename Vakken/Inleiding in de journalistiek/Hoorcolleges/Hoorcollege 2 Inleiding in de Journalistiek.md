@@ -29,9 +29,22 @@ Persvrijheid pas ontstaan halverwege 19e eeuw
 
 Kranten op broadsheet formaat
 
-
 penny press, ideologie om krant zo goedkoop mogelijk te maken.
 hierdoor kwamen ook meer publiek populaire onderwerpen: misdaad, sport, entertainment
+
+Voorbeelden tentamenvragen:
+1. Waardoor duurde het lang voordat foto's gemeengoed werden in kranten?
+- Techniek
+- Religie
+- Journalistieke cultuur
+- Wantrouwen
+
+2. bespreek drie ontwikkelingen ie plaats vonden in de fotojournalistiek door de opmars van digitalisering en internet.
+
+!geef op tentamen ook altijd waarom.
+
+2. Hedendaagse ontwikkelingen
+
 
 
 
