@@ -45,6 +45,15 @@ Voorbeelden tentamenvragen:
 
 2. Hedendaagse ontwikkelingen
 
+eind 1946 was er papiertekort
+
+vanaf 2000 is de daling van de papieren krant echt ingezet.
+
+1950 tot 2000 groei, voornamelijk door populatiegroei
+tot jaren 70 100% van huishoudens een krant.
+
+Voor 2006 werden er meer regionale kranten gelezen dan landelijk, daarna meer landelijk.
+
 
 
 
