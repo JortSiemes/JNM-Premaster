@@ -8,66 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a3e32b90796986d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notities Dagelijk/September/2023-09-18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c4b788f806e5f06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 1 Inleiding in de Journalistiek.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3bd7a72656c4181d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notities Dagelijk/September/2023-09-18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a92ee7ed3c1b96fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Interview opdracht Journalistiek en Redactionele Vaardigheden.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78c53ea32d1780f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notities Dagelijk/September/2023-09-13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9875bb90d8dc350b",
             "type": "leaf",
             "state": {
@@ -88,7 +28,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,23 +164,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35ad91f310cc0551",
+  "active": "23dd5095d385f56c",
   "lastOpenFiles": [
     "Vakken/Woorden als wapens/Colleges/Werkcollege 2 Woorden als Wapens.md",
     "Onderwerpen/Argumentatieve Oriëntatie.md",
-    "Notities Dagelijk/September/2023-09-06.md",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Interview opdracht Journalistiek en Redactionele Vaardigheden.md",
     "Notities Dagelijk/September/2023-09-13.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Interview opdracht Journalistiek en Redactionele Vaardigheden.md",
+    "Notities Dagelijk/September/2023-09-18.md",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 1 Inleiding in de Journalistiek.md",
+    "Notities Dagelijk/September/2023-09-06.md",
     "Overig/Pasted image 20230918115902.png",
     "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md",
     "Notities Dagelijk/September",
     "Notities Dagelijk/September/2023-09-19.md",
     "Vakken/Woorden als wapens/Colleges",
-    "Notities Dagelijk/September/2023-09-18.md",
     "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 2 Inleiding in de Journalistiek.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges",
     "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 2 taal en communicatie.md",
-    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 1 Inleiding in de Journalistiek.md",
     "Notities Dagelijk/September/2023-09-11.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Theories of Journalism in a Digital age.pdf",
     "Overig/Basisboek_Journalistiek Schrijven.pdf",
