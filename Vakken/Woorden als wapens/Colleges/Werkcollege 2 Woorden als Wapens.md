@@ -34,7 +34,7 @@ Hypotheses: congruente standpunt-argumentparen...
 
 sneller te beoordelen als valentie tussen standpunt en argument niet hetzelfde is.
 
-gaat het niet om een [[priming]] -effect
-(positieve standpunt/argument, zijn vaker voorkomend
+gaat het niet om een [[priming]]-effect = Priming is een effect dat woorden geassocieerd worden met andere woorden zoals winnen/gewonnen en wedstrijd.
 
-)
+[[Gemarkeerdheid]]? (het benoemen van personen wat het inder onduidelijk maakt)
+
