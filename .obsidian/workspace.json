@@ -66,9 +66,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9875bb90d8dc350b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23dd5095d385f56c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 2 Woorden als Wapens.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -134,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Interview opdracht Journalistiek en Redactionele Vaardigheden.md",
+                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 2 Woorden als Wapens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Interview opdracht Journalistiek en Redactionele Vaardigheden.md",
+                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 2 Woorden als Wapens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Interview opdracht Journalistiek en Redactionele Vaardigheden.md"
+                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 2 Woorden als Wapens.md"
               }
             }
           },
@@ -204,12 +228,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a92ee7ed3c1b96fc",
+  "active": "23dd5095d385f56c",
   "lastOpenFiles": [
-    "Notities Dagelijk/2023-09-18.md",
-    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 2 Inleiding in de Journalistiek.md",
+    "Notities Dagelijk/2023-09-19.md",
+    "Vakken/Woorden als wapens/Colleges/Werkcollege 2 Woorden als Wapens.md",
+    "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md",
+    "Vakken/Woorden als wapens/Colleges",
     "Notities Dagelijk/2023-09-13.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Interview opdracht Journalistiek en Redactionele Vaardigheden.md",
+    "Notities Dagelijk/2023-09-18.md",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 2 Inleiding in de Journalistiek.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges",
     "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 2 taal en communicatie.md",
     "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 1 Inleiding in de Journalistiek.md",
@@ -231,7 +259,6 @@
     "Vakken/Woorden als wapens/Programma.pdf",
     "Vakken/Woorden als wapens/EenGoedTennisserVerliestGeenWedstrijden.pdf",
     "Pasted image 20230918115902.png",
-    "Vakken/Woorden als wapens/Week2 Opdracht.pdf",
     "Overig/methodenvoorjournalismstudies.png",
     "Notities Dagelijk/2023-09-12.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Aantekeningen - Methoden en theorieën van Journalism studies.md",
@@ -243,9 +270,6 @@
     "Vakken/Taal en communicatie/Taal en communicatie.md",
     "Vakken/Taal en communicatie/Taal en communicatie 1.md",
     "Onderwerpen/waarheidsconditioneel.md",
-    "Vakken/Wetenschapsfilosofie/Literatuur/Literatuur.md",
-    "Onderwerpen/Onderwerpen.md",
-    "Vakken/Vakken.md",
     "Canvas MASTER.canvas"
   ]
 }
