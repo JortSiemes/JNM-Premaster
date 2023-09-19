@@ -32,3 +32,9 @@ Hypotheses: congruente standpunt-argumentparen...
 	... zijn sneller te verwerken
 	... worden makkelijker als waar/onwaar beoordeeld
 
+sneller te beoordelen als valentie tussen standpunt en argument niet hetzelfde is.
+
+gaat het niet om een [[priming]] -effect
+(positieve standpunt/argument, zijn vaker voorkomend
+
+)
