@@ -14,3 +14,7 @@ Termieten concept (organismen zoals kolonie mieren) van Eugène Marais
 
 
 
+
+
+Literatuur:
+https://www.youtube.com/watch?v=8NNRa5h6A3s&ab_channel=UseYourBrain
