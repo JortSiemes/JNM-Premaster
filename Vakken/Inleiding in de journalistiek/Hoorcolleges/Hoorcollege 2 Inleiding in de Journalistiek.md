@@ -95,7 +95,8 @@ ontslaan redactie
 
 - Formaat (initieel bang voor tabloid reputatie van kleiner formaat)
 - Nieuwe abonnementsvormen, alleen weekend en week digitaal
-NRC.next, een jongerenkrant
+- NRC.next, een jongerenkrant
+- Digitale krant
 
 
 
