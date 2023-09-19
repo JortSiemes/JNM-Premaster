@@ -15,3 +15,6 @@ Frame: een model/kader
 	Heeft een 'interne logica' > stuurt aan op bepaalde interpretatie van een verschijnsel in de werkelijkheid.
 
 
+valence consistent shift, verschijning die in positief frame word verteld lijdt dat tot een positiever verschil.
+
+AO = [[Argumentatieve Oriëntatie]]
