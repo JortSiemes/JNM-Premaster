@@ -21,3 +21,8 @@ Literatuur:
 https://www.youtube.com/watch?v=8NNRa5h6A3s&ab_channel=UseYourBrain
 
 
+
+Contact:
+https://www.universiteitleiden.nl/medewerkers/vincent-icke/publicaties#tab-4
+
+
