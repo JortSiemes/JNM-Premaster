@@ -80,3 +80,20 @@ Nieuwsframes identificeren
 - Deductief: investigates frames that are defined and operationalized prior to the investigations
 - Inductief: frames emerge from the material during the course of analysis
 
+Role concepts: wat journalisten zeggen te doen
+Role performance: wat journalisten daadwerkelijk doen
+Audience expectations: wat het publiek verwacht wat journalisten doen
+
+
+What is journalism?
+	public service: journalism provides a public service
+	objectivity: Journalists are impartial, neutral, objective, fair en thus credible
+	autonomy: Journalists must be autonomous, free and independent in their work
+	immediacy: ... 
+	ethics: ...
+
+Journalisten zijn van mening dat ze hun bias opzij zetten.
+maar publiek kijkt hier totaal anders naar
+
+
+
