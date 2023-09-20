@@ -19,6 +19,12 @@ Algemene relativiteits theorie vs quantummechanica (https://www.youtube.com/watc
 
 Toekomst ligt vast of toekomst is onzeker (https://www.youtube.com/watch?v=VHpEPLXqLGI&ab_channel=Op1 : 5:10)
 
+Mogelijke vraag: Gaat er een theorie of everything komen die relativiteit koppelt met quantum
+
+heeft op caltech gewerkt
+kip thorne? met een viltstift uitgewerkt hoe hij dat gaat doen
+
+
 
 
 
