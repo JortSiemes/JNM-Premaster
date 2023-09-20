@@ -56,4 +56,13 @@ drie typen nieuwswaarden:
 
 Framing: Welk verhaal wordt verteld?
 
+[[framingtheorie]] biedt een model voor de manier waarop nieuwsfeiten worden gebracht. Ook weer gerelateerd aan theorie over kennisverwerking en geheugen.
 
+Relatie met agendasetting theorie. Beide richten zich op de manier waarop de media de aandacht van het publiek vestigen op specifieke onderwerpen. Agenda setting meer gericht op actoren; framing meer op vorm en inhoud.
+
+Agendasetting gaat over waarover het publiek moet denken frames over hoe - in welke kaders, frames - over dat onderwerp gedacht moet worden.
+
+Bewust of onbewust kan allebei bij framing.
+
+Paradigma, grondlegger is de socioloog goffman met zijn artikel 'Frame Analysis', an essay on the organisation of experience.
+De analyse van sociale problemen en de manier waarop die in de media komen.
