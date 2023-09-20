@@ -29,7 +29,10 @@ deeltjes ruimte en tijd, hoe praten de deeltjes tegen de ruimte?
 kernenergie? een zon bouwen op aarde?
 
 mensen die geld beschikbaar hebben die hebben een verkeerde kijk op de wetenschap.
-Ze denken dat: wij werken met een helder geformuleerde onderzoeksvraag
+Ze denken dat: wij werken met een helder geformuleerde onderzoeksvraag, die ze vervolgens gaan beantwoorden.
+
+Quantum computer?
+
 
 
 
@@ -37,6 +40,9 @@ Ze denken dat: wij werken met een helder geformuleerde onderzoeksvraag
 Literatuur:
 https://www.youtube.com/watch?v=8NNRa5h6A3s&ab_channel=UseYourBrain
 https://www.youtube.com/watch?v=VHpEPLXqLGI&ab_channel=Op1 
+https://www.youtube.com/watch?v=WUVfypc9F9g&ab_channel=RTLZ
+https://www.youtube.com/watch?v=tdQfRoNXrQw&ab_channel=DWDD
+https://www.youtube.com/watch?v=y4PIota_svI&ab_channel=PlatformBurgerrechten
 
 Contact:
 https://www.universiteitleiden.nl/medewerkers/vincent-icke/publicaties#tab-4
