@@ -10,6 +10,8 @@ Maxime van Kwantiteit: zeg genoeg maar niet te veel
 	2. b, ?
 	3. b, Met alleen het zeggen van 'Voedsel' maakt hij duidelijk wat hij vanmiddag gegeten heeft (kwantiteit/wijze)
 	4. b, (Wat ik hier in lees) Is een meer bijdehante opmerking van de dochter over wat ze precies heeft gedaan in groot detail nadat ze thuiskwam, terwijl haar moeder misschien refereert naar wat ze ervoor heeft gedaan. (ontbreken van maxime of wijze en relatie)
+overt
+violate
 
 
 2.
