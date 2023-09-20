@@ -1,0 +1,1 @@
+verklaart waardoor bepaalde gebeurtenissen in het nieuws komen en andere niet. "How do events become news?"
