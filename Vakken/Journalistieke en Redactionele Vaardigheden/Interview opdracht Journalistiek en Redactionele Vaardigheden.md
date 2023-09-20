@@ -24,7 +24,12 @@ Mogelijke vraag: Gaat er een theorie of everything komen die relativiteit koppel
 heeft op caltech gewerkt
 kip thorne? met een viltstift uitgewerkt hoe hij dat gaat doen
 
+deeltjes ruimte en tijd, hoe praten de deeltjes tegen de ruimte?
 
+kernenergie? een zon bouwen op aarde?
+
+mensen die geld beschikbaar hebben die hebben een verkeerde kijk op de wetenschap.
+Ze denken dat: wij werken met een helder geformuleerde onderzoeksvraag
 
 
 
