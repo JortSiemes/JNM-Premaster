@@ -1,6 +1,6 @@
 Week 3 - Theorieën van journalism studies
 
-Ontwikkelingen in journalism studies:
+#### Ontwikkelingen in journalism studies:
 
 Theorievorming in journalism studies:
 Dit is een nieuw veld maar journalistiek is niet nieuw. Focus ligt vooral op media-effecten.
