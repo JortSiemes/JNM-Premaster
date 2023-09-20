@@ -67,10 +67,16 @@ Bewust of onbewust kan allebei bij framing.
 [[Paradigma]], grondlegger is de socioloog goffman met zijn artikel 'Frame Analysis', an essay on the organisation of experience.
 De analyse van sociale problemen en de manier waarop die in de media komen.
 
-Communicatie is niet statisch het gaat over frame-**building** en de ontvangers doen aan frame-**setting**.
+Communicatie is niet statisch het gaat over [[frame-building]] en de ontvangers doen aan [[frame-setting]].
 
 waar bevinden die frames zich?
 Frames hebben meerdere locaties: 
-Journalisten zender
-Mediainhoud / boodschap
-Publiek ontvanger
+	Journalisten / zender
+	Mediainhoud / boodschap
+	Publiek / ontvanger
+
+Nieuwsframes identificeren
+- kwantitatieve & kwalitatieve inhoudsanalyse.
+- Deductief: investigates frames that are defined and operationalized prior to the investigations
+- Inductief: frames emerge from the material during the course of analysis
+
