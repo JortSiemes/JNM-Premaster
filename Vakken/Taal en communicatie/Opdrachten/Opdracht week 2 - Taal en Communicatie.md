@@ -25,4 +25,4 @@ Maxime van Kwantiteit: zeg genoeg maar niet te veel
 	De vader lijkt echter niet aan de maxime van Kwaliteit te voldoen, omdat hij niet expliciet zegt of de auto wel of niet kan worden uitgeleend. 
 
 5, 
-	Gus houdt zich niet aan het coöperatief principe omdat hij als luisteraar niet zijn best heeft gedaan om de spreker te begrijpen. Dit wordt onthuld in de laatste illustratie waar hij impliceert dat het misschien het tegeno
+	Gus houdt zich niet aan het coöperatieprincipe omdat hij als luisteraar niet zijn best heeft gedaan om de spreker te begrijpen. Dit wordt onthuld in de laatste illustratie waarin hij impliceert dat het misschien het tegenovergestelde kan betekenen. De implicatuur van Tina wordt volledig genegeerd, waarin ze juist zegt dat hij kan doen wat hij wil.
