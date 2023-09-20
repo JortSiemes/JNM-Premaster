@@ -5,6 +5,9 @@ Maxime van Kwantiteit: zeg genoeg maar niet te veel
 - Maxime of Relatie/Relevantie: Zeg alleen wat relevant is op dat moment
 - Maxime of Wijze: Wees kort, duidelijk, en orderlijk
 
+verschil tussen wijze en kwantiteit, Kwantiteit: ik had meer willen weten dan dit. 
+														Wijze: ze raakte zwanger en getrouwd / ze is getrouwd en raakte zwanger (volgorde en lengte hebben belangrijk doel)
+
 1.
 	1. b, heeft een aantal "harry potter" films gezien (relevantie want is andere vraag)
 	2. b, ? (relevantie)
