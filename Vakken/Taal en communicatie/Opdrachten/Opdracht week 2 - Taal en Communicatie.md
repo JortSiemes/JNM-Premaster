@@ -6,8 +6,8 @@ Maxime van Kwantiteit: zeg genoeg maar niet te veel
 - Maxime of Wijze: Wees kort, duidelijk, en orderlijk
 
 1.
-	1. b, heeft een aantal "harry potter" films gezien (kwantiteit)
-	2. b, ?
+	1. b, heeft een aantal "harry potter" films gezien (relevantie want is andere vraag)
+	2. b, ? (relevantie)
 	3. b, Met alleen het zeggen van 'Voedsel' maakt hij duidelijk wat hij vanmiddag gegeten heeft (kwantiteit/wijze)
 	4. b, (Wat ik hier in lees) Is een meer bijdehante opmerking van de dochter over wat ze precies heeft gedaan in groot detail nadat ze thuiskwam, terwijl haar moeder misschien refereert naar wat ze ervoor heeft gedaan. (ontbreken van maxime of wijze en relatie)
 overt
