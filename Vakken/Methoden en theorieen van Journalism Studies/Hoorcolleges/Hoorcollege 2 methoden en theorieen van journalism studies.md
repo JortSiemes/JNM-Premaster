@@ -9,4 +9,19 @@ Nu meer wisselwerking tussen publiek en maker
 Gemeenschapsvolging tussen publiek en krant, publieke sfeer gaat over waar publieke debat plaats vind. De salon waar de krant word gelezen door de sociale elite (dit is publieke sfeer)
 
 
+Belangrijke theorieën:
+actor-network theory (Lewis & Westlund, 2014)
+Nieuws als ecosysteem (Cottle, 2007)
+Boundary work (Carlson, 2016)
+	Er word steeds minder duidelijk wat precies journalistiek is, in boundary work komt er een duidelijker definitie
+
+Analyse niveaus (reese, 2016)
+- Individueel: creatieve, professionele makers 
+- Routines: patronen en gedrag van 'newswork' (broersma, 2015/2019)
+- Organizatie: Hoe nieuws wordt geproduceerd in de context van een nieuwsbedrijf
+- Institutioneel: relatie journalistiek tot andere maatschappelijke instituties zoals politiek, economie etc (bordieu,2005)
+- Sociaal systeem: samenleving en macht
+- Assemblage: nieuws als een heterogeen netwerk (ANT)
+
+
 
