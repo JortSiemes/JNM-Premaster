@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 2 taal en communicatie.md",
+                "file": "Onderwerpen/Maxime.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,14 +33,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Werkcollege 2.md",
+                "file": "Vakken/Taal en communicatie/Hoorcolleges/Werkcollege 2 taal en communicatie.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Werkcollege 2.md",
+                "file": "Onderwerpen/Maxime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Werkcollege 2.md",
+                "file": "Onderwerpen/Maxime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Werkcollege 2.md"
+                "file": "Onderwerpen/Maxime.md"
               }
             }
           },
@@ -176,16 +176,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8cea1603c6adcb32",
+  "active": "23dd5095d385f56c",
   "lastOpenFiles": [
     "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 2 taal en communicatie.md",
-    "Werkcollege 2.md",
+    "Vakken/Taal en communicatie/Hoorcolleges/Werkcollege 2 taal en communicatie.md",
     "Vakken/Taal en communicatie/Opdrachten/Opdracht week 2 - Taal en Communicatie.md",
+    "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 1.pdf",
+    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 2 (Jort Siemes, s4028198).md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Interview opdracht Journalistiek en Redactionele Vaardigheden.md",
     "Vakken/Woorden als wapens/Colleges/Werkcollege 2 Woorden als Wapens.md",
     "Vakken/Taal en communicatie/Opdrachten/~$drachtweek 2_JortSiemes.docx",
     "Vakken/Taal en communicatie/Opdrachten/Opdrachtweek 2_JortSiemes.docx",
-    "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 1.pdf",
     "Vakken/Taal en communicatie/Opdrachten",
     "Vakken/Inleiding in de journalistiek/Leidraad - aanpassing juni 2021.pdf",
     "Vakken/Inleiding in de journalistiek/Interview/vragenlijstje 4 vrij persoonlijke vragen (1).doc",
@@ -207,7 +208,6 @@
     "Onderwerpen/attribuutframing.md",
     "Onderwerpen/valence consistent shift.md",
     "Onderwerpen/Implicatuur.md",
-    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 2 (Jort Siemes, s4028198).md",
     "conflict-files-obsidian-git.md",
     "Onderwerpen/valentie.md",
     "Overig/methodenvoorjournalismstudies.png",
@@ -217,7 +217,6 @@
     "Beelden/Pasted image 20230913133035.png",
     "Beelden/Pasted image 20230913132738.png",
     "Notities Dagelijk/Notities Dagelijk.md",
-    "Vakken/Wetenschapsfilosofie/Wetenschapsfilosofie.md",
     "Overig/Canvas MASTER.canvas"
   ]
 }

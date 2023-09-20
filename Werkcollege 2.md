@@ -1,2 +1,0 @@
-Cooperatieprincipe en maxime
-
