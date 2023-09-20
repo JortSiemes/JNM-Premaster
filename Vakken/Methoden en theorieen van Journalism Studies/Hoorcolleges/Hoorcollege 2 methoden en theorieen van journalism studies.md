@@ -54,4 +54,6 @@ drie typen nieuwswaarden:
 | Unexpectedness | Reference to elite persons | Competition               |
 | Unambiguity    |                            |                           |
 
+Framing: Welk verhaal wordt verteld?
+
 
