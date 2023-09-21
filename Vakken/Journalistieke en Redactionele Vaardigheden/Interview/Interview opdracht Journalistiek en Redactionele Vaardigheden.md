@@ -43,6 +43,7 @@ https://www.youtube.com/watch?v=VHpEPLXqLGI&ab_channel=Op1
 https://www.youtube.com/watch?v=WUVfypc9F9g&ab_channel=RTLZ
 https://www.youtube.com/watch?v=tdQfRoNXrQw&ab_channel=DWDD
 https://www.youtube.com/watch?v=y4PIota_svI&ab_channel=PlatformBurgerrechten
+https://www.vpro.nl/nooitmeerslapen/speel~POMS_VPRO_10924208~vincent-icke-spreekt-over-onze-buitenaardse-buren~.html
 
 Contact:
 https://www.universiteitleiden.nl/medewerkers/vincent-icke/publicaties#tab-4
