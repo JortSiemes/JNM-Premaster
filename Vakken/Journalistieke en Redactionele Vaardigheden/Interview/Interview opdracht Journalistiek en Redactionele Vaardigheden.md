@@ -139,3 +139,28 @@ Aantekeningen interview:
 - Sterrenstelsel structuur?
 - Sterrenstelsels als slierten en klonten verdeeld over universum
 - Sterrenstelsels verdeeld als voronoi effect
+
+
+
+
+Vragen voor vincent:
+
+Hoe kan het dat de ruimte uit die 3 constanten bestaat? maar toch niks weegt? (Waarom weegt de ruimte niets?)
+
+
+
+Mail:
+Beste Dr. Icke,
+
+Ik ben Jort Siemes, een Pre-Master Journalistiek student aan de Universiteit Leiden. Als journalist heb ik de gelegenheid gehad om verschillende interviews te houden voor VPRO Tegenlicht. Ik ga graag dieper in op diverse wetenschappelijke vraagstukken.
+
+Graag zou ik u willen uitnodigen voor een kort (online) interview, om te spreken over het boeiende samenspel tussen kunst en wetenschap. Uw werk, met name uw kunst en onderzoek in verband met de ruimte, biedt een fascinerende invalshoek om de kosmos beter te begrijpen (bijvoorbeeld uw interpretatie van een buitenaards ruimteschip).
+
+Ik kijk uit naar uw reactie en eventuele beschikbaarheid voor een kort interview van c.a. 30min. Uw inzichten en ervaringen zouden van onschatbare waarde zijn voor mijn artikel.
+
+Met vriendelijke groet,
+
+Jort Siemes
+
+
+

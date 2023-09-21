@@ -22,9 +22,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "7592c65c881d63a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -164,8 +180,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ac8533aa91a4fab4",
+  "active": "7592c65c881d63a1",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/vragenlijstje 4 vrij persoonlijke vragen (1).doc",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/vragenlijstje 2 denkt na over hoe het gesprek gaat verlopen (1).docx",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/vragenlijstje 3 terugblikkend op onderzoekscarriere (1).docx",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/vragenlijstje 1 over een publicatie (1).docx",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Interview opdracht Journalistiek en Redactionele Vaardigheden.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Interview",
     "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 2 methoden en theorieen van journalism studies.md",
     "Onderwerpen/Maxime.md",
     "Overig/Pasted image 20230918115902.png",
@@ -188,11 +211,6 @@
     "Vakken/Taal en communicatie/Opdrachten/~$drachtweek 2_JortSiemes.docx",
     "Vakken/Taal en communicatie/Opdrachten/Opdrachtweek 2_JortSiemes.docx",
     "Vakken/Taal en communicatie/Opdrachten",
-    "Vakken/Inleiding in de journalistiek/Leidraad - aanpassing juni 2021.pdf",
-    "Vakken/Inleiding in de journalistiek/Interview/vragenlijstje 4 vrij persoonlijke vragen (1).doc",
-    "Vakken/Inleiding in de journalistiek/Interview/vragenlijstje 3 terugblikkend op onderzoekscarriere (1).docx",
-    "Vakken/Inleiding in de journalistiek/Interview/vragenlijstje 2 denkt na over hoe het gesprek gaat verlopen (1).docx",
-    "Vakken/Inleiding in de journalistiek/Interview/vragenlijstje 1 over een publicatie (1).docx",
     "Onderwerpen/Argumentatieve Oriëntatie.md",
     "Notities Dagelijk/September/2023-09-18.md",
     "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 1 Inleiding in de Journalistiek.md",
@@ -201,7 +219,6 @@
     "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 2 Inleiding in de Journalistiek.md",
     "Notities Dagelijk/September/2023-09-11.md",
     "Onderwerpen/attribuutframing.md",
-    "Onderwerpen/valence consistent shift.md",
     "Overig/methodenvoorjournalismstudies.png",
     "Beelden/Pasted image 20230913133035.png",
     "Beelden/Pasted image 20230913132738.png",
