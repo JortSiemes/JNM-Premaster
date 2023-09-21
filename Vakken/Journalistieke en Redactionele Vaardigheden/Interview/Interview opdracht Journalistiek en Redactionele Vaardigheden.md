@@ -150,6 +150,11 @@ Hoe kan het dat de ruimte uit die 3 constanten bestaat? maar toch niks weegt? (W
 
 
 Mail:
+
+
+Reisbureau Einstein boek van Vincent
+
+
 Beste Dr. Icke,
 
 Ik ben Jort Siemes, een Pre-Master Journalistiek student aan de Universiteit Leiden. Als journalist heb ik de gelegenheid gehad om verschillende interviews te houden voor VPRO Tegenlicht. Ik ga graag dieper in op diverse wetenschappelijke vraagstukken.
@@ -161,6 +166,3 @@ Ik kijk uit naar uw reactie en eventuele beschikbaarheid voor een kort interview
 Met vriendelijke groet,
 
 Jort Siemes
-
-
-
