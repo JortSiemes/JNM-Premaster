@@ -139,3 +139,13 @@ Aantekeningen interview:
 - Sterrenstelsel structuur?
 - Sterrenstelsels als slierten en klonten verdeeld over universum
 - Sterrenstelsels verdeeld als voronoi effect
+
+
+
+
+Vragen voor vincent:
+
+Hoe kan het dat de ruimte uit die 3 constanten bestaat? maar toch niks weegt? (Waarom weegt de ruimte niets?)
+
+
+
