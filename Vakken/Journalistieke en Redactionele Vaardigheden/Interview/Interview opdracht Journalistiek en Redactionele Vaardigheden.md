@@ -3,7 +3,38 @@ Hoogleraar Theoretische Sterrenkunde
 # prof. dr. Vincent Icke
 
 
-Onderwerpen
+Verleden:
+De Bilt
+Artistieke vader
+
+
+
+
+
+Begin carriere:
+
+
+
+
+Mid carriere:
+
+
+
+
+
+Nu:
+
+
+
+
+
+
+
+
+Te bespreken onderwerpen
+
+
+Grabby Aliens
 
 
 2001 space odyssee
