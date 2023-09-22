@@ -41,8 +41,24 @@ GEEN TENTAMEN
 
 Introductie journalistieke tekst:
 
+Wat maakt een tekst journalistiek?
+- er moet een **verhaal** in zitten!
+- Goede tekst moet je scannen, heeft kernzinnen, heeft **herkenbare opbouw**
+	- een alinea heeft basis hoofdzin
+- **Duidelijke kop** een intro, kort bondig, aantrekkelijk, grap, woordspeling
+- Journalistieke tekst heeft **verschillende bronnen** (hoor en wederhoor) en is **onafhankelijk** tot stand gekomen.
+- **onafhankelijk** tot stand gekomen
+- bevat journalistieke **elementen** (streamers/citaten, intro, beeld, korte alinea's, fotobijschriften, kaartjes/graphics, kader)
+- Heeft een duidelijke insteek (je vertelt niet hele verhaal, maar kiest **invalshoek**)
+- Als journalist schijf je voor een **groot publiek**: toegankelijk, informerend.
 
-
+Genres:
+	Achtergrondartikel
+	Opiniestuk
+	Interview (vraag/antwoord interview, monoloog)
+	Nieuwsbericht
+	Liveblog
+	Report
 
 
 
