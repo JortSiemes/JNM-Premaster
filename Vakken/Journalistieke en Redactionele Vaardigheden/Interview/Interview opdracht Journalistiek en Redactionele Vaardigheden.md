@@ -197,4 +197,18 @@ Ik kijk uit naar uw reactie en eventuele beschikbaarheid voor een kort interview
 
 Met vriendelijke groet,
 
+
 Jort Siemes
+
+Beste Dr. Icke, 
+
+Dankjewel voor je snelle reactie! 
+
+Wat leuk om te horen dat je mijn uitnodiging hebt geaccepteerd. 
+Dat is geen enkel probleem, laat me na dit weekend anders weten wanneer het voor jou het beste uitkomt. 
+
+Nogmaals bedankt voor je positieve reactie, en ik kijk ernaar uit om binnenkort met je te spreken.
+
+Met vriendelijke groet, Jort
+
+PS: Wat betreft "Nog eens vier eeuwen" geen probleem vond dit zelf ook een erg goed stuk om naar te refereren sind je expertise en passie schijnen duidelijk door.
