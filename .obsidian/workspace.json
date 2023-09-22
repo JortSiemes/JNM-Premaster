@@ -55,12 +55,13 @@
             "id": "c77bd2b59da4e995",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Overig/Introductie JNM pre-ma 2023.pdf"
+              }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,8 +201,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c77bd2b59da4e995",
+  "active": "9875bb90d8dc350b",
   "lastOpenFiles": [
+    "Overig/Introductie JNM pre-ma 2023.pdf",
+    "Overig/Pasted image 20230918115902.png",
+    "Overig/methodenvoorjournalismstudies.png",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 1 Journalistiek en Redactionele Vaardigheden.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges",
     "Notities Dagelijk/September/2023-09-22.md",
@@ -234,11 +238,8 @@
     "Vakken/Inleiding in de journalistiek/Leidraad - aanpassing juni 2021.pdf",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/vragenlijstje 4 vrij persoonlijke vragen (1).doc",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/vragenlijstje 3 terugblikkend op onderzoekscarriere (1).docx",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/vragenlijstje 2 denkt na over hoe het gesprek gaat verlopen (1).docx",
     "Onderwerpen/Argumentatieve Oriëntatie.md",
     "Notities Dagelijk/September/2023-09-18.md",
-    "Overig/Pasted image 20230918115902.png",
-    "Overig/methodenvoorjournalismstudies.png",
     "Beelden/Pasted image 20230913133035.png",
     "Beelden/Pasted image 20230913132738.png",
     "Overig/Canvas MASTER.canvas"
