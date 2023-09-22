@@ -43,9 +43,19 @@
             "id": "9ed5ae8c668fd642",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Vakken/Wetenschapsfilosofie/Literatuur/Cursusboek.pdf"
+              }
+            }
+          },
+          {
+            "id": "77e6ab62d735fce6",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 1 Journalistiek en Redactionele Vaardigheden.md",
+                "file": "Vakken/Wetenschapsfilosofie/Notities Reader - Wetenschapsfilosofie.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -128,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 1 Journalistiek en Redactionele Vaardigheden.md",
+                "file": "Vakken/Wetenschapsfilosofie/Notities Reader - Wetenschapsfilosofie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 1 Journalistiek en Redactionele Vaardigheden.md",
+                "file": "Vakken/Wetenschapsfilosofie/Notities Reader - Wetenschapsfilosofie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 1 Journalistiek en Redactionele Vaardigheden.md"
+                "file": "Vakken/Wetenschapsfilosofie/Notities Reader - Wetenschapsfilosofie.md"
               }
             }
           },
@@ -206,11 +216,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9ed5ae8c668fd642",
+  "active": "35ad91f310cc0551",
   "lastOpenFiles": [
+    "Vakken/Wetenschapsfilosofie/Literatuur/Cursusboek.pdf",
+    "Vakken/Wetenschapsfilosofie/Notities Reader - Wetenschapsfilosofie.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 1 Journalistiek en Redactionele Vaardigheden.md",
     "Vakken/Inleiding in de journalistiek/Inleiding in de journalistiek.md",
     "Overig/Introductie JNM pre-ma 2023.pdf",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 1 Journalistiek en Redactionele Vaardigheden.md",
     "Onderwerpen/Maxime.md",
     "Overig/Pasted image 20230918115902.png",
     "Overig/methodenvoorjournalismstudies.png",
@@ -244,7 +256,6 @@
     "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/vragenlijstje 4 vrij persoonlijke vragen (1).doc",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/vragenlijstje 3 terugblikkend op onderzoekscarriere (1).docx",
     "Onderwerpen/Argumentatieve Oriëntatie.md",
-    "Notities Dagelijk/September/2023-09-18.md",
     "Beelden/Pasted image 20230913133035.png",
     "Beelden/Pasted image 20230913132738.png",
     "Overig/Canvas MASTER.canvas"
