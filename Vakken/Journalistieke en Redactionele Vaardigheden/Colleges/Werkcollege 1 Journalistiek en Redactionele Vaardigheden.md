@@ -24,10 +24,20 @@ Meestal inleveren onder
 Plaats je opdracht onder **de juiste werkgroep (104)** behalve voorstel wetenschapper: dit mag in algemene map.
 
 >Geef feedback aan elkaar.
-Feedback checklist in het boek basis 
 
+*Feedback checklist in het boek basis journalistiek.*
 Het halen van alle deadlines telt mee voor je eindcijfer
 
+
+Becijfering
+1. interview: 2x
+2. Nieuwsbericht: 2x
+3. Achtergrondverhaal: 3x
+4. Eindredactie 1x
+5. Deadlines 1x
+5,5 is halen
+
+GEEN TENTAMEN
 
 
 
