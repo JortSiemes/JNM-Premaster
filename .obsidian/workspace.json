@@ -33,7 +33,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Interview opdracht Journalistiek en Redactionele Vaardigheden.md",
+                "file": "Notities Dagelijk/September/2023-09-22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ed5ae8c668fd642",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 1 Journalistiek en Redactionele Vaardigheden.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Interview opdracht Journalistiek en Redactionele Vaardigheden.md",
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 1 Journalistiek en Redactionele Vaardigheden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Interview opdracht Journalistiek en Redactionele Vaardigheden.md",
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 1 Journalistiek en Redactionele Vaardigheden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Interview opdracht Journalistiek en Redactionele Vaardigheden.md"
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 1 Journalistiek en Redactionele Vaardigheden.md"
               }
             }
           },
@@ -192,14 +204,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8cea1603c6adcb32",
+  "active": "35ad91f310cc0551",
   "lastOpenFiles": [
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges",
+    "Notities Dagelijk/September/2023-09-22.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 1 Journalistiek en Redactionele Vaardigheden.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Interview opdracht Journalistiek en Redactionele Vaardigheden.md",
     "conflict-files-obsidian-git.md",
     "Onderwerpen/frame-setting.md",
     "Onderwerpen/frame-building.md",
     "Onderwerpen/Nieuwswaardentheorie.md",
     "Vakken/Inleiding in de journalistiek/Inleiding in de journalistiek.md",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Interview opdracht Journalistiek en Redactionele Vaardigheden.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 2 methoden en theorieen van journalism studies.md",
     "Notities Dagelijk/September/2023-09-20.md",
     "Notities Dagelijk/September/2023-09-13.md",
@@ -227,10 +242,7 @@
     "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/vragenlijstje 1 over een publicatie (1).docx",
     "Onderwerpen/Argumentatieve Oriëntatie.md",
     "Notities Dagelijk/September/2023-09-18.md",
-    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 1 Inleiding in de Journalistiek.md",
-    "Notities Dagelijk/September/2023-09-06.md",
     "Overig/Pasted image 20230918115902.png",
-    "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md",
     "Overig/methodenvoorjournalismstudies.png",
     "Beelden/Pasted image 20230913133035.png",
     "Beelden/Pasted image 20230913132738.png",
