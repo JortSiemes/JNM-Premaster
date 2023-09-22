@@ -39,8 +39,7 @@ Becijfering
 
 GEEN TENTAMEN
 
-
-goeie journalistieke vraag:
+Introductie journalistieke tekst:
 
 
 
