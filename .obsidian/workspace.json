@@ -52,6 +52,18 @@
             }
           },
           {
+            "id": "748cc97ba78ff519",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Wetenschapsfilosofie/Notities Reader - Wetenschapsfilosofie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c77bd2b59da4e995",
             "type": "leaf",
             "state": {
@@ -60,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 1 Journalistiek en Redactionele Vaardigheden.md",
+                "file": "Vakken/Wetenschapsfilosofie/Notities Reader - Wetenschapsfilosofie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 1 Journalistiek en Redactionele Vaardigheden.md",
+                "file": "Vakken/Wetenschapsfilosofie/Notities Reader - Wetenschapsfilosofie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 1 Journalistiek en Redactionele Vaardigheden.md"
+                "file": "Vakken/Wetenschapsfilosofie/Notities Reader - Wetenschapsfilosofie.md"
               }
             }
           },
@@ -204,9 +216,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9ed5ae8c668fd642",
+  "active": "748cc97ba78ff519",
   "lastOpenFiles": [
+    "Vakken/Wetenschapsfilosofie/Literatuur/Cursusboek.pdf",
     "Vakken/Wetenschapsfilosofie/Notities Reader - Wetenschapsfilosofie.md",
+    "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf",
+    "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf",
+    "Vakken/Wetenschapsfilosofie/Wetenschapsfilosofie.md",
+    "Vakken/Woorden als wapens/Programma.pdf",
+    "Vakken/Woorden als wapens/Week2 Opdracht.pdf",
+    "Vakken/Woorden als wapens/EenGoedTennisserVerliestGeenWedstrijden.pdf",
+    "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md",
+    "Vakken/Wetenschapsfilosofie/Reader notities Wetenschapsfilosofie.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 1 Journalistiek en Redactionele Vaardigheden.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges",
     "Notities Dagelijk/September/2023-09-22.md",
@@ -231,17 +252,8 @@
     "Onderwerpen/Maxime.md",
     "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 2 taal en communicatie.md",
     "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 1.pdf",
-    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 2 (Jort Siemes, s4028198).md",
-    "Vakken/Woorden als wapens/Colleges/Werkcollege 2 Woorden als Wapens.md",
     "Vakken/Taal en communicatie/Opdrachten/~$drachtweek 2_JortSiemes.docx",
     "Vakken/Taal en communicatie/Opdrachten/Opdrachtweek 2_JortSiemes.docx",
-    "Vakken/Taal en communicatie/Opdrachten",
-    "Vakken/Inleiding in de journalistiek/Leidraad - aanpassing juni 2021.pdf",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/vragenlijstje 4 vrij persoonlijke vragen (1).doc",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/vragenlijstje 3 terugblikkend op onderzoekscarriere (1).docx",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/vragenlijstje 2 denkt na over hoe het gesprek gaat verlopen (1).docx",
-    "Onderwerpen/Argumentatieve Oriëntatie.md",
-    "Notities Dagelijk/September/2023-09-18.md",
     "Overig/Pasted image 20230918115902.png",
     "Overig/methodenvoorjournalismstudies.png",
     "Beelden/Pasted image 20230913133035.png",
