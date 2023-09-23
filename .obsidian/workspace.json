@@ -55,12 +55,8 @@
             "id": "748cc97ba78ff519",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Notities Reader - Wetenschapsfilosofie.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -138,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Notities Reader - Wetenschapsfilosofie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Notities Reader - Wetenschapsfilosofie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Notities Reader - Wetenschapsfilosofie.md"
-              }
+              "state": {}
             }
           },
           {
@@ -218,9 +210,9 @@
   },
   "active": "748cc97ba78ff519",
   "lastOpenFiles": [
+    "Vakken/Wetenschapsfilosofie/Notities Reader - Wetenschapsfilosofie.md",
     "Aristotle.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 1 Journalistiek en Redactionele Vaardigheden.md",
-    "Vakken/Wetenschapsfilosofie/Notities Reader - Wetenschapsfilosofie.md",
     "Vakken/Wetenschapsfilosofie/Literatuur/Cursusboek.pdf",
     "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf",
     "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf",
