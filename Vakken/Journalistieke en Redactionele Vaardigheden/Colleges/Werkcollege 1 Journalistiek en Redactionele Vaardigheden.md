@@ -58,7 +58,10 @@ Genres:
 	Interview (vraag/antwoord interview, monoloog)
 	Nieuwsbericht
 	Liveblog
-	Report
+	Reportage
+	Longread, Reconstructie
+
+
 
 
 
