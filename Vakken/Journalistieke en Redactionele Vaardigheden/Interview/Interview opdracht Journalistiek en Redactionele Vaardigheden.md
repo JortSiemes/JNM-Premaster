@@ -181,6 +181,26 @@ Hoe kan het dat de ruimte uit die 3 constanten bestaat? maar toch niks weegt? (W
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Mail:
 
 
