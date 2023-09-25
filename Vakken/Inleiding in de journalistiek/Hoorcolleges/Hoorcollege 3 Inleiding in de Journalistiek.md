@@ -35,5 +35,4 @@ commerciële zenders uit Nederland legaal.
 	- Verscheidenheid programma-aanbod vergroten
 
 
-	- 
 
