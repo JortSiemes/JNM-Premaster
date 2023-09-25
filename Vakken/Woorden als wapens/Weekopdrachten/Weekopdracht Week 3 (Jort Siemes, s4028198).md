@@ -1,14 +1,6 @@
-1. Formuleer een discussiepunt Bestudeer de literatuur en formuleer daarover een kritische vraag of stelling waarover we kunnen doorpraten. Bijvoorbeeld: 
+1.  ‘de auteurs bedoelen dus kennelijk dat gebeurtenissen en daden worden metaforisch geconceptualiseerd als objecten. Dus omdat een wedstrijd zelf metaforische substantie is zeg je "Zit jij in de wedstrijd van zondag?" Maar omdat een naar een wedstrijd gaan een metaforisch object is zeg je "Ga jij naar de wedstrijd/Was jij bij de wedstrijd"  Zie ik dat goed of niet?’ 
 
-Je geeft aan wat je nog niet precies begrepen hebt: ‘Op p. X staat Y. Ik denk dat daar Z mee bedoeld wordt, maar helemaal duidelijk is me dat nog niet.’ 
-
-Je formuleert een stelling over jouw begrip de strekking van de inhoud: ‘de auteurs bedoelen dus kennelijk dat… Zie ik dat goed of niet?’ 
-
-Je formuleert een stelling over de inhoud zelf: ‘de auteurs beweren dat… Maar daar ben ik het niet mee eens/daar kan anders over gedacht worden.’ 
-
-2 
-
-a.  Hij gebruikt het metafoor: Planeten voor vak K, 
+2. a.  Hij gebruikt het metafoor: Planeten voor vak K, 
 - Maar een betere naam is: ‘Planeet Rutte’.
 - In hun eigen zonnestelsel.
 - Een planeet losgezongen...
