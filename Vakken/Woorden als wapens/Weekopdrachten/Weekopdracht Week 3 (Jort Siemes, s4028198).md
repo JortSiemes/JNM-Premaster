@@ -11,11 +11,13 @@ Je formuleert een stelling over de inhoud zelf: ‘de auteurs beweren dat… Maa
 a. Beschrijf de metafoor die Wilders gebruikt voor het kabinet-Rutte III (noem de conceptuele metafoor en de manier waarop de conceptuele metafoor precies tot uitdrukking komt in de tekst). 
 
 > Hij gebruikt het metafoor: Planeten voor vak K,
-> Maar een betere naam is: ‘Planeet Rutte’.
-> In hun eigen zonnestelsel.
-> Een planeet losgezongen...
-> 
+> - Maar een betere naam is: ‘Planeet Rutte’.
+> - In hun eigen zonnestelsel.
+> - Een planeet losgezongen...
+> - De Zonnekoning
+> - de baas van de planeet
+ 
 
-b. Vind je de metafoor strategisch gekozen? Leg uit waarom. 
+b. Ja, ik vind het een strategisch gekozen metafoor, omdat het doel van Wilders was om het verschil tussen de Kamer en 'vak K' aan te tonen. Ik denk dat iedereen dit begrijpt wanneer je het hebt over de metafoor van een andere planeet.
 
 c. Politici gebruiken vaker metaforen voor retorische doelstellingen. Zoek zelf een ander voorbeeld van zo’n metafoor, beschrijf die op de manier zoals bij a en leg uit of je de metafoor strategisch gekozen vindt. (Je mag eventueel ook een metafoor van een andere politicus kiezen.)
