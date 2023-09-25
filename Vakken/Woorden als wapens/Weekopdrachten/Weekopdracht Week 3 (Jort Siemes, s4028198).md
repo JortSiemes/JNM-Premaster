@@ -6,18 +6,19 @@ Je formuleert een stelling over jouw begrip de strekking van de inhoud: ‘de au
 
 Je formuleert een stelling over de inhoud zelf: ‘de auteurs beweren dat… Maar daar ben ik het niet mee eens/daar kan anders over gedacht worden.’ 
 
-2 Metaforen in de politiek Het onderstaande fragment is afkomstig uit de bijdrage van Geert Wilders (PVV) tijdens het Debat over de regeringsverklaring (2017): Nou, voorzitter, daar zitten ze dan. Het heeft even geduurd, maar dan heb je ook wat. Maar liefst 24 ministers en staatssecretarissen van het kabinet-Rutte III. Net zoveel zoals in de gemiddelde bananenrepubliek. Iedereen en zijn moeder heeft een baantje gekregen. Sommige ministeries hebben zelfs twee ministers. Je hebt ministers ‘van’ en ministers ‘voor’. Ze noemen dat stukje van de plenaire zaal ook wel ‘Vak K’. Maar een betere naam is: ‘Planeet Rutte’. In hun eigen zonnestelsel. Een planeet losgezongen van de werkelijkheid van miljoenen Nederlanders. Met hun gelijk van de helft plus 1. Zie ze zitten. Beetje rondkijken, beetje lachen, beetje op hun telefoon. Eindelijk op het felbegeerde pluche. Altijd netjes in de maat gelopen. Altijd koffie gehaald voor Halbe, altijd gelachen om de grapjes van Pechtold. En dan nu de beloning voor al die slaafsheid. Aangevoerd door die man daar in het midden, Mark Rutte, de grootste politieke leugenaar van de afgelopen 10 jaar maar in vak K De Zonnekoning, de baas van de planeet. Bron: Handelingen van de Tweede Kamer, via https://zoek.officielebekendmakingen.nl/uitgebreidzoeken/parlementair 
+2 
 
-a. Beschrijf de metafoor die Wilders gebruikt voor het kabinet-Rutte III (noem de conceptuele metafoor en de manier waarop de conceptuele metafoor precies tot uitdrukking komt in de tekst). 
-
-> Hij gebruikt het metafoor: Planeten voor vak K,
-> - Maar een betere naam is: ‘Planeet Rutte’.
-> - In hun eigen zonnestelsel.
-> - Een planeet losgezongen...
-> - De Zonnekoning
-> - de baas van de planeet
+a.  Hij gebruikt het metafoor: Planeten voor vak K, 
+- Maar een betere naam is: ‘Planeet Rutte’.
+- In hun eigen zonnestelsel.
+- Een planeet losgezongen...
+- De Zonnekoning
+- de baas van de planeet
  
 
 b. Ja, ik vind het een strategisch gekozen metafoor, omdat het doel van Wilders was om het verschil tussen de Kamer en 'vak K' aan te tonen. Ik denk dat iedereen dit begrijpt wanneer je het hebt over de metafoor van een andere planeet.
 
-c. Politici gebruiken vaker metaforen voor retorische doelstellingen. Zoek zelf een ander voorbeeld van zo’n metafoor, beschrijf die op de manier zoals bij a en leg uit of je de metafoor strategisch gekozen vindt. (Je mag eventueel ook een metafoor van een andere politicus kiezen.)
+c.  "Dat klimaatkonijn komt straks uit de hoge hoed bij de kabinetsformatie. En ik kan u garanderen dat dat konijn een heel duur prijskaartje om z'n nek heeft hangen."
+- Ed Nijpels
+
+Voor deze metafoor heb je ook pragmatiek nodig, namelijk dat je moet begrijpen wat een standaard goochelact is. Dit is namelijk waarom de metafoor een konijn en een hoge hoed bij elkaar brengt. Maar niet iedereen begrijpt dat Mr. Nijpels het heeft over een grote verrassing. En hij gaat verder met deze metafoor om vervolgens ideeën als organismen te gebruiken. Ik denk dat hij dit heeft gedaan om het klimaatprobleem meer 'personificatie' te geven.
