@@ -35,4 +35,13 @@ commerciële zenders uit Nederland legaal.
 	- Verscheidenheid programma-aanbod vergroten
 
 
+Voor de bioscoop polygoon journaal
+
+NTS kenmerken journaal in beginjaren
+- geen presentator
+- vermakelijke presentatie
+- 'lichte' onderwerpen
+- tijdloze items
+- oud buitenlands nieuws, zoals stierenrennen in Pamplona
+- Geen politiek
 
