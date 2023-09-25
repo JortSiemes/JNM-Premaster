@@ -28,3 +28,12 @@ commerciële zenders uit Nederland legaal.
 - Centrale rol voor net coördinatoren vanuit de NPO
 - Horizontale programmering
 
+2008: Mediawet 2008
+- Reprensentativiteitscriterium:
+	- Maatschappelijke, culturele of godsdienstige groep
+- Pluriformiteitscriterium:
+	- Verscheidenheid programma-aanbod vergroten
+
+
+	- 
+
