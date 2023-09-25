@@ -16,65 +16,19 @@
             }
           },
           {
-            "id": "23dd5095d385f56c",
+            "id": "1935c21be308bdb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Onderwerpen/Maxime.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8cea1603c6adcb32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notities Dagelijk/September/2023-09-22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ed5ae8c668fd642",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Interview opdracht Journalistiek en Redactionele Vaardigheden.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c77bd2b59da4e995",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Overig/Introductie JNM pre-ma 2023.pdf"
-              }
-            }
-          },
-          {
-            "id": "80ecfa084578be2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Onderwerpen/Aristotle.md",
+                "file": "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 3 Taal en communicatie.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Interview opdracht Journalistiek en Redactionele Vaardigheden.md",
+                "file": "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 3 Taal en communicatie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,9 +111,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Interview opdracht Journalistiek en Redactionele Vaardigheden.md",
+                "file": "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 3 Taal en communicatie.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -180,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Interview opdracht Journalistiek en Redactionele Vaardigheden.md"
+                "file": "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 3 Taal en communicatie.md"
               }
             }
           },
@@ -201,7 +155,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -218,11 +172,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9ed5ae8c668fd642",
+  "active": "1935c21be308bdb4",
   "lastOpenFiles": [
-    "Onderwerpen/Aristotle.md",
+    "Onderwerpen/Implicatuur.md",
+    "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 3 Taal en communicatie.md",
+    "Onderwerpen/Maxime.md",
+    "Notities Dagelijk/September/2023-09-22.md",
     "Overig/Introductie JNM pre-ma 2023.pdf",
+    "Notities Dagelijk/September/2023-09-25.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Interview opdracht Journalistiek en Redactionele Vaardigheden.md",
+    "Onderwerpen/Aristotle.md",
     "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf",
     "Vakken/Wetenschapsfilosofie/Wetenschapsfilosofie.md",
     "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf",
@@ -232,11 +191,9 @@
     "conflict-files-obsidian-git.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 1 Journalistiek en Redactionele Vaardigheden.md",
     "Vakken/Inleiding in de journalistiek/Inleiding in de journalistiek.md",
-    "Onderwerpen/Maxime.md",
     "Overig/Pasted image 20230918115902.png",
     "Overig/methodenvoorjournalismstudies.png",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges",
-    "Notities Dagelijk/September/2023-09-22.md",
     "Onderwerpen/frame-setting.md",
     "Onderwerpen/frame-building.md",
     "Onderwerpen/Nieuwswaardentheorie.md",
@@ -251,8 +208,6 @@
     "Nieuwswaardentheorie.md",
     "Vakken/Taal en communicatie/Opdrachten/Opdracht week 2 - Taal en Communicatie.md",
     "Notities Dagelijk/October",
-    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 1 Methoden en theorieen van journalism studies.md",
-    "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 2 taal en communicatie.md",
     "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 1.pdf",
     "Vakken/Taal en communicatie/Opdrachten/~$drachtweek 2_JortSiemes.docx",
     "Vakken/Taal en communicatie/Opdrachten/Opdrachtweek 2_JortSiemes.docx",
