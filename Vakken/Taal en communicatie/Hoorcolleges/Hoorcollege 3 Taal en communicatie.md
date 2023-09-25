@@ -1,7 +1,7 @@
 
 [[Implicatuur]]: Conventioneel, Conversationeel (Gegeneralisserd, Particulier)
 
-| what is said              | [[Implicatuur]]                |                             |
+| what is said (Letterlijke betekenis)             | [[Implicatuur]]                |                             |
 | ------------------------- | ------------------------------ | --------------------------- |
 | [[Waarheidsconditioneel]] | Niet [[Waarheidsconditioneel]] | Niet [[Waarheidsconditioneel]]  |
 | Not Cancellable           | Cancellable                    | Not Cancellable             |
@@ -23,3 +23,7 @@ It is raining but the sun in shining
 
 Metafoor: breekt bijna altijd [[Maxime]] van Kwaliteit want is eigenlijk altijd onwaar (Give an arm for you)
 
+[[Maxime]] van Kwaliteit
+[[Maxime]] van Kwantiteit
+[[Maxime]] van Relatie
+[[Maxime]] van Wijze
