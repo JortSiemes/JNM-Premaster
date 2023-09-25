@@ -34,8 +34,7 @@ commerciële zenders uit Nederland legaal.
 - Pluriformiteitscriterium:
 	- Verscheidenheid programma-aanbod vergroten
 
-
-Voor de bioscoop polygoon journaal
+Voor de bioscoop polygoon journaal (filmmodel)
 
 NTS kenmerken journaal in beginjaren
 - geen presentator
@@ -44,4 +43,13 @@ NTS kenmerken journaal in beginjaren
 - tijdloze items
 - oud buitenlands nieuws, zoals stierenrennen in Pamplona
 - Geen politiek
+
+in jaren 70 ontwikkeling:
+- Amerikanisering
+- meer journalistiek
+- Techniek
+	- Teleprompter
+	- Video
+	- Satellieten
+	- Computergraphics
 
