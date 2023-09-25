@@ -7,3 +7,8 @@ Journalistieke Code
 	4. Ministerie van Onderwijs, Cultuur en Wetenschap
 	5. Rechter
 
+4 zuilen
+katholiek, Protestant, Socialistisch, Liberaal
+
+- Spreekbuismodel, vooral informeren binnen eigen zuil.
+
