@@ -27,12 +27,12 @@ implication: -> ('als...dan')
 | t   | t   | t   |
 | t   | f   | f   |
 
-Conversationele implicatuur (niet omkeerbaar)
+Conversationele implicatuur (omkeerbaar)
 wat we verwachten van een logica in een zin, dit is wat we verwachten:
 >And = She got pregnant and married
 >And = She got married and pregnant
 
-Conventionele implicatuur (omkeerbaar)
+Conventionele implicatuur (niet omkeerbaar)
 
 
 Implicatie
