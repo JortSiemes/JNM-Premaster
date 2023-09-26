@@ -8,20 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9875bb90d8dc350b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "1935c21be308bdb4",
+            "id": "5244ed1b9d2405e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Onderwerpen/waarheidsconditioneel.md",
+                "file": "Aantekeningen cursusboek Wetenschapsfilosofie.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,15 +23,15 @@
             "id": "023614aa79a741f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 3 Inleiding in de Journalistiek.md",
-                "mode": "source",
-                "source": false
+                "file": "Vakken/Wetenschapsfilosofie/Literatuur/Cursusboek.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -105,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vakken/Wetenschapsfilosofie/Literatuur/Cursusboek.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vakken/Wetenschapsfilosofie/Literatuur/Cursusboek.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Vakken/Wetenschapsfilosofie/Literatuur/Cursusboek.pdf"
+              }
             }
           },
           {
@@ -179,13 +175,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9875bb90d8dc350b",
+  "active": "023614aa79a741f8",
   "lastOpenFiles": [
-    "Notities Dagelijk/September/2023-09-12.md",
+    "Aantekeningen cursusboek Wetenschapsfilosofie.md",
     "Onderwerpen/waarheidsconditioneel.md",
+    "Vakken/Wetenschapsfilosofie/Literatuur/Cursusboek.pdf",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 3 Inleiding in de Journalistiek.md",
+    "Onderwerpen/Onderwerpen.md",
+    "Notities Dagelijk/September/2023-09-12.md",
     "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 3 Taal en communicatie.md",
     "Onderwerpen/Implicatuur.md",
-    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 3 Inleiding in de Journalistiek.md",
     "conflict-files-obsidian-git.md",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 3 (Jort Siemes, s4028198).md",
     "Vakken/Woorden als wapens/Weekopdrachten/Week3_opdracht.pdf",
@@ -199,7 +198,6 @@
     "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf",
     "Vakken/Wetenschapsfilosofie/Wetenschapsfilosofie.md",
     "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf",
-    "Vakken/Wetenschapsfilosofie/Literatuur/Cursusboek.pdf",
     "Vakken/Wetenschapsfilosofie/Reader notities Wetenschapsfilosofie.md",
     "Vakken/Wetenschapsfilosofie/Notities Reader - Wetenschapsfilosofie.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 1 Journalistiek en Redactionele Vaardigheden.md",
@@ -214,8 +212,6 @@
     "Notities Dagelijk/September/2023-09-20.md",
     "Notities Dagelijk/September/2023-09-13.md",
     "Notities Dagelijk/September/2023-09-19.md",
-    "frame-building.md",
-    "frame-setting.md",
     "Notities Dagelijk/October",
     "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 1.pdf",
     "Vakken/Taal en communicatie/Opdrachten/~$drachtweek 2_JortSiemes.docx",
