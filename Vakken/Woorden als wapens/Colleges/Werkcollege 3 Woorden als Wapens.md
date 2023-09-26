@@ -1,0 +1,2 @@
+
+Metafoor theorie,

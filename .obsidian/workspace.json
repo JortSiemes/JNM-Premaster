@@ -4,34 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "7b79748f2b21369d",
+        "id": "0278b317940f3a24",
         "type": "tabs",
         "children": [
           {
-            "id": "5244ed1b9d2405e8",
+            "id": "5b3e9b12b22711fd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "40193c4beef662fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aantekeningen cursusboek Wetenschapsfilosofie.md",
+                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "023614aa79a741f8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Literatuur/Cursusboek.pdf"
-              }
-            }
           }
         ],
-        "currentTab": 1,
-        "stacked": true
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Literatuur/Cursusboek.pdf",
+                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Literatuur/Cursusboek.pdf",
+                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Literatuur/Cursusboek.pdf"
+                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md"
               }
             }
           },
@@ -162,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,42 +172,42 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "023614aa79a741f8",
+  "active": "40193c4beef662fd",
   "lastOpenFiles": [
-    "Aantekeningen cursusboek Wetenschapsfilosofie.md",
-    "Vakken/Wetenschapsfilosofie/Literatuur/Cursusboek.pdf",
-    "Onderwerpen/waarheidsconditioneel.md",
-    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 3 Inleiding in de Journalistiek.md",
-    "Onderwerpen/Onderwerpen.md",
-    "Notities Dagelijk/September/2023-09-12.md",
-    "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 3 Taal en communicatie.md",
-    "Onderwerpen/Implicatuur.md",
     "conflict-files-obsidian-git.md",
-    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 3 (Jort Siemes, s4028198).md",
+    "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md",
+    "Vakken/Wetenschapsfilosofie/Literatuur/Cursusboek.pdf",
+    "Vakken/Wetenschapsfilosofie/Aantekeningen Kennisclips wetenschapsfilosofie.md",
+    "Taal en communicatie.md",
+    "Taal en communicatie 1.md",
+    "Onderwerpen/priming.md",
+    "Onderwerpen/priming-effect.md",
+    "Onderwerpen/framingtheorie.md",
+    "Onderwerpen/congruente.md",
+    "Onderwerpen/Representative Data.md",
+    "Onderwerpen/Premises.md",
+    "Onderwerpen/Persbureaus.md",
+    "Onderwerpen/Paradigma.md",
+    "Onderwerpen/Journalistieke objectiviteit.md",
+    "Onderwerpen/Isaac Newton.md",
+    "Onderwerpen/Inductive argument.md",
+    "Onderwerpen/Gemarkeerdheid.md",
+    "Onderwerpen/Galilei.md",
+    "Onderwerpen/Falsification.md",
+    "Onderwerpen/Deductive argument.md",
+    "Onderwerpen/Dagblad.md",
+    "Onderwerpen/Correlation.md",
+    "Onderwerpen/Copernicus.md",
+    "Onderwerpen/Confirmation Bias.md",
+    "Onderwerpen/Conclusion.md",
     "Vakken/Woorden als wapens/Weekopdrachten/Week3_opdracht.pdf",
     "Vakken/Woorden als wapens/03 Lakoff & Johnson (1999)_H1-7,10.pdf",
-    "Onderwerpen/Maxime.md",
-    "Notities Dagelijk/September/2023-09-22.md",
     "Overig/Introductie JNM pre-ma 2023.pdf",
-    "Notities Dagelijk/September/2023-09-25.md",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Interview opdracht Journalistiek en Redactionele Vaardigheden.md",
-    "Onderwerpen/Aristotle.md",
     "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf",
-    "Vakken/Wetenschapsfilosofie/Wetenschapsfilosofie.md",
     "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf",
-    "Vakken/Wetenschapsfilosofie/Reader notities Wetenschapsfilosofie.md",
-    "Vakken/Wetenschapsfilosofie/Notities Reader - Wetenschapsfilosofie.md",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 1 Journalistiek en Redactionele Vaardigheden.md",
-    "Vakken/Inleiding in de journalistiek/Inleiding in de journalistiek.md",
     "Overig/Pasted image 20230918115902.png",
     "Overig/methodenvoorjournalismstudies.png",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges",
-    "Onderwerpen/frame-setting.md",
-    "Onderwerpen/frame-building.md",
-    "Onderwerpen/Nieuwswaardentheorie.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 2 methoden en theorieen van journalism studies.md",
-    "Notities Dagelijk/September/2023-09-20.md",
-    "Notities Dagelijk/September/2023-09-13.md",
     "Notities Dagelijk/October",
     "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 1.pdf",
     "Vakken/Taal en communicatie/Opdrachten/~$drachtweek 2_JortSiemes.docx",
