@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5b3e9b12b22711fd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "40193c4beef662fd",
             "type": "leaf",
             "state": {
@@ -37,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Woorden als wapens/03 Lakoff & Johnson (1999)_H1-7,10.pdf",
+                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Woorden als wapens/03 Lakoff & Johnson (1999)_H1-7,10.pdf",
+                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Woorden als wapens/03 Lakoff & Johnson (1999)_H1-7,10.pdf"
+                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md"
               }
             }
           },
@@ -182,8 +173,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "145a431bea83f095",
+  "active": "40193c4beef662fd",
   "lastOpenFiles": [
+    "Untitled.md",
     "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md",
     "Vakken/Woorden als wapens/03 Lakoff & Johnson (1999)_H1-7,10.pdf",
     "conflict-files-obsidian-git.md",
