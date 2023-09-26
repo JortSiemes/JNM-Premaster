@@ -37,4 +37,5 @@ Falsificationisme:
 - het doel van wetenschap is het falsificeren van theorieën
 
 Falsificeerbaar;
-- we
+- weerlegbaar door mogelijke waarnemingen.
+
