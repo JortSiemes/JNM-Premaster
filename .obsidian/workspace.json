@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 3 Taal en communicatie.md",
+                "file": "Onderwerpen/waarheidsconditioneel.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 3 Inleiding in de Journalistiek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 3 Inleiding in de Journalistiek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 3 Inleiding in de Journalistiek.md"
-              }
+              "state": {}
             }
           },
           {
@@ -184,16 +179,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "023614aa79a741f8",
+  "active": "9875bb90d8dc350b",
   "lastOpenFiles": [
-    "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 3 Taal en communicatie.md",
-    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 3 Inleiding in de Journalistiek.md",
+    "Notities Dagelijk/September/2023-09-12.md",
     "Onderwerpen/waarheidsconditioneel.md",
+    "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 3 Taal en communicatie.md",
+    "Onderwerpen/Implicatuur.md",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 3 Inleiding in de Journalistiek.md",
     "conflict-files-obsidian-git.md",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 3 (Jort Siemes, s4028198).md",
     "Vakken/Woorden als wapens/Weekopdrachten/Week3_opdracht.pdf",
     "Vakken/Woorden als wapens/03 Lakoff & Johnson (1999)_H1-7,10.pdf",
-    "Onderwerpen/Implicatuur.md",
     "Onderwerpen/Maxime.md",
     "Notities Dagelijk/September/2023-09-22.md",
     "Overig/Introductie JNM pre-ma 2023.pdf",
@@ -217,7 +213,6 @@
     "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 2 methoden en theorieen van journalism studies.md",
     "Notities Dagelijk/September/2023-09-20.md",
     "Notities Dagelijk/September/2023-09-13.md",
-    "Notities Dagelijk/September/2023-09-12.md",
     "Notities Dagelijk/September/2023-09-19.md",
     "frame-building.md",
     "frame-setting.md",
