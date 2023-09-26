@@ -11,9 +11,17 @@
             "id": "145a431bea83f095",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "3e8c8ea6f9c35425",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 3 (Jort Siemes, s4028198).md",
+                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 2 wetenschapsfilosofie.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 3 (Jort Siemes, s4028198).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 3 (Jort Siemes, s4028198).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 3 (Jort Siemes, s4028198).md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,8 +170,11 @@
   },
   "active": "145a431bea83f095",
   "lastOpenFiles": [
-    "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md",
+    "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 2 wetenschapsfilosofie.md",
+    "Vakken/Wetenschapsfilosofie/Aantekeningen cursusboek Wetenschapsfilosofie.md",
+    "Vakken/Wetenschapsfilosofie/Hoorcolleges",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 3 (Jort Siemes, s4028198).md",
+    "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md",
     "Onderwerpen/doeldomein.md",
     "Onderwerpen/Ontologische metaforen.md",
     "Onderwerpen/Oriëntatiemetaforen.md",
@@ -177,7 +184,6 @@
     "Untitled.md",
     "Taal en communicatie.md",
     "Taal en communicatie 1.md",
-    "Vakken/Wetenschapsfilosofie/Aantekeningen cursusboek Wetenschapsfilosofie.md",
     "conflict-files-obsidian-git.md",
     "Vakken/Wetenschapsfilosofie/Literatuur/Cursusboek.pdf",
     "Vakken/Wetenschapsfilosofie/Aantekeningen Kennisclips wetenschapsfilosofie.md",
@@ -193,7 +199,6 @@
     "Onderwerpen/Isaac Newton.md",
     "Onderwerpen/Inductive argument.md",
     "Onderwerpen/Gemarkeerdheid.md",
-    "Onderwerpen/Galilei.md",
     "Vakken/Woorden als wapens/Weekopdrachten/Week3_opdracht.pdf",
     "Overig/Introductie JNM pre-ma 2023.pdf",
     "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf",
@@ -203,7 +208,6 @@
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges",
     "Notities Dagelijk/October",
     "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 1.pdf",
-    "Vakken/Taal en communicatie/Opdrachten/~$drachtweek 2_JortSiemes.docx",
     "Beelden/Pasted image 20230913133035.png",
     "Beelden/Pasted image 20230913132738.png",
     "Overig/Canvas MASTER.canvas"
