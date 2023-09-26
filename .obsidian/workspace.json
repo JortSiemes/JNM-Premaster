@@ -63,11 +63,9 @@
             "id": "844497b57023c0ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Aantekeningen Kennisclip wetenschapsfilosofie.md",
-                "mode": "source",
-                "source": false
+                "file": "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf"
               }
             }
           }
@@ -138,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Aantekeningen Kennisclip wetenschapsfilosofie.md",
+                "file": "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,8 +153,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Aantekeningen Kennisclip wetenschapsfilosofie.md",
-                "linksCollapsed": true,
+                "file": "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -178,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Aantekeningen Kennisclip wetenschapsfilosofie.md"
+                "file": "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf"
               }
             }
           },
@@ -218,10 +216,19 @@
   },
   "active": "844497b57023c0ae",
   "lastOpenFiles": [
+    "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf",
+    "Vakken/Wetenschapsfilosofie/Literatuur/Cursusboek.pdf",
+    "Vakken/Wetenschapsfilosofie/Aantekeningen Kennisclips wetenschapsfilosofie.md",
+    "Vakken/Wetenschapsfilosofie/Reader notities Wetenschapsfilosofie.md",
+    "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf",
+    "Vakken/Wetenschapsfilosofie/Wetenschapsfilosofie.md",
+    "Vakken/Wetenschapsfilosofie/Hoorcolleges",
+    "Representative Data.md",
+    "Inductive argument.md",
+    "Conclusion.md",
+    "Premises.md",
     "Deductive argument.md",
     "Vakken/Inleiding in de journalistiek/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf",
-    "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf",
-    "Vakken/Wetenschapsfilosofie/Aantekeningen Kennisclip wetenschapsfilosofie.md",
     "conflict-files-obsidian-git.md",
     "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 3 Taal en communicatie.md",
     "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 3 Inleiding in de Journalistiek.md",
@@ -244,18 +251,10 @@
     "Vakken/Woorden als wapens/Colleges/Werkcollege 2 Woorden als Wapens.md",
     "Vakken/Woorden als wapens/03 Lakoff & Johnson (1999)_H1-7,10.pdf",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Interview opdracht Journalistiek en Redactionele Vaardigheden.md",
-    "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf",
-    "Vakken/Wetenschapsfilosofie/Wetenschapsfilosofie.md",
-    "Vakken/Wetenschapsfilosofie/Literatuur/Cursusboek.pdf",
-    "Vakken/Wetenschapsfilosofie/Reader notities Wetenschapsfilosofie.md",
     "Vakken/Wetenschapsfilosofie/Notities Reader - Wetenschapsfilosofie.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 1 Journalistiek en Redactionele Vaardigheden.md",
     "Vakken/Inleiding in de journalistiek/Inleiding in de journalistiek.md",
     "Onderwerpen/Maxime.md",
-    "Onderwerpen/frame-setting.md",
-    "Onderwerpen/frame-building.md",
-    "Onderwerpen/Nieuwswaardentheorie.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 2 methoden en theorieen van journalism studies.md",
     "Beelden/Pasted image 20230913133035.png",
     "Beelden/Pasted image 20230913132738.png"
   ]
