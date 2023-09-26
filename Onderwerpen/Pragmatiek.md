@@ -2,7 +2,7 @@
 Speaker meaning
 
 **boek**: introduction to pragmatics
-"C:\Users\jorts\Documents\LEIDEN\JNM-Premaster\[[[[Taal en communicatie]]]]\book_by_birner_betty_j_introduction_to_pragmatics-.pdf"
+"C:\Users\jorts\Documents\LEIDEN\JNM-Premaster\[[[Taal en communicatie]]]]\book_by_birner_betty_j_introduction_to_pragmatics-.pdf"
 
 "De scholen zijn weer begonnen"
 implicatie

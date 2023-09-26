@@ -53,7 +53,7 @@ The tendency to collect and take seriously evidence that supports our beliefs, a
 [[Correlation]]: the tendency of two things to occur together
 [[Causation]]: the relation between causes and effects
 
-[[Correlation]] does not imply [[causation]].
+[[Correlation]] does not imply [[Causation]].
 
 
 Probabilities
@@ -81,6 +81,6 @@ Critically testing theories and showing they are false.
 
 Observation that shows that a theory is false: [[Falsification]]
 Falsified: state of a theory that has been shown to be false.
-Falsificationism: Popper's claim that scientists are only interested in [[falsification]]
+Falsificationism: Popper's claim that scientists are only interested in [[Falsification]]
 
 
