@@ -22,5 +22,4 @@ Dit is het [[standaardbeeld]]
 [[Inductive argument]]
 - de waarheid van de premissen **ondersteunt** de waarheid van de conclusie, maar garandeert die niet. 
 
-
-
+theoretisch kader
