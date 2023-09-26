@@ -39,3 +39,11 @@ Falsificationisme:
 Falsificeerbaar;
 - weerlegbaar door mogelijke waarnemingen.
 
+belangrijkste probleem van Popper: Logische analyse van falsificatie loopt mank
+
+om falsificatie uit te voeren moeten we al een heleboel achtergrondinformatie hebben.
+	en dus een **Theoretisch kader**
+
+Wetenschappers kunnen niet zonder theoretisch kader
+
+
