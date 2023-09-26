@@ -8,24 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "40193c4beef662fd",
+            "id": "145a431bea83f095",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md",
+                "file": "Onderwerpen/brondomein.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "145a431bea83f095",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Vakken/Woorden als wapens/03 Lakoff & Johnson (1999)_H1-7,10.pdf"
               }
             }
           }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md",
+                "file": "Onderwerpen/brondomein.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,9 +102,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md",
+                "file": "Onderwerpen/brondomein.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md"
+                "file": "Onderwerpen/brondomein.md"
               }
             }
           },
@@ -173,16 +163,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "40193c4beef662fd",
+  "active": "35ad91f310cc0551",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md",
     "Vakken/Woorden als wapens/03 Lakoff & Johnson (1999)_H1-7,10.pdf",
+    "Untitled.md",
+    "Taal en communicatie.md",
+    "Taal en communicatie 1.md",
+    "Onderwerpen/brondomein.md",
+    "Vakken/Wetenschapsfilosofie/Aantekeningen cursusboek Wetenschapsfilosofie.md",
+    "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md",
     "conflict-files-obsidian-git.md",
     "Vakken/Wetenschapsfilosofie/Literatuur/Cursusboek.pdf",
     "Vakken/Wetenschapsfilosofie/Aantekeningen Kennisclips wetenschapsfilosofie.md",
-    "Taal en communicatie.md",
-    "Taal en communicatie 1.md",
     "Onderwerpen/priming.md",
     "Onderwerpen/priming-effect.md",
     "Onderwerpen/framingtheorie.md",
@@ -200,9 +192,6 @@
     "Onderwerpen/Deductive argument.md",
     "Onderwerpen/Dagblad.md",
     "Onderwerpen/Correlation.md",
-    "Onderwerpen/Copernicus.md",
-    "Onderwerpen/Confirmation Bias.md",
-    "Onderwerpen/Conclusion.md",
     "Vakken/Woorden als wapens/Weekopdrachten/Week3_opdracht.pdf",
     "Overig/Introductie JNM pre-ma 2023.pdf",
     "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf",
