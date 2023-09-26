@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6ae79064a9cf9798",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
