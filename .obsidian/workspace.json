@@ -65,12 +65,24 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf"
+                "file": "Vakken/Wetenschapsfilosofie/Literatuur/Cursusboek.pdf"
+              }
+            }
+          },
+          {
+            "id": "c4db7b64f7e55ed1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Wetenschapsfilosofie/Aantekeningen Kennisclips wetenschapsfilosofie.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -136,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf",
+                "file": "Vakken/Wetenschapsfilosofie/Aantekeningen Kennisclips wetenschapsfilosofie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf",
+                "file": "Vakken/Wetenschapsfilosofie/Aantekeningen Kennisclips wetenschapsfilosofie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf"
+                "file": "Vakken/Wetenschapsfilosofie/Aantekeningen Kennisclips wetenschapsfilosofie.md"
               }
             }
           },
@@ -214,20 +226,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "844497b57023c0ae",
+  "active": "c4db7b64f7e55ed1",
   "lastOpenFiles": [
-    "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf",
-    "Vakken/Wetenschapsfilosofie/Literatuur/Cursusboek.pdf",
+    "Causation.md",
     "Vakken/Wetenschapsfilosofie/Aantekeningen Kennisclips wetenschapsfilosofie.md",
-    "Vakken/Wetenschapsfilosofie/Reader notities Wetenschapsfilosofie.md",
+    "Correlation.md",
+    "Confirmation Bias.md",
+    "Onderwerpen/Conclusion.md",
     "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf",
+    "Vakken/Wetenschapsfilosofie/Literatuur/Cursusboek.pdf",
+    "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf",
+    "Vakken/Wetenschapsfilosofie/Reader notities Wetenschapsfilosofie.md",
     "Vakken/Wetenschapsfilosofie/Wetenschapsfilosofie.md",
     "Vakken/Wetenschapsfilosofie/Hoorcolleges",
-    "Representative Data.md",
-    "Inductive argument.md",
-    "Conclusion.md",
-    "Premises.md",
-    "Deductive argument.md",
+    "Onderwerpen/Representative Data.md",
+    "Onderwerpen/Inductive argument.md",
+    "Onderwerpen/Premises.md",
+    "Onderwerpen/Deductive argument.md",
     "Vakken/Inleiding in de journalistiek/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf",
     "conflict-files-obsidian-git.md",
     "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 3 Taal en communicatie.md",
@@ -249,12 +264,9 @@
     "Vakken/Woorden als wapens/Introduction to Discourse Studies_New Edition_Paragraaf8.pdf",
     "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md",
     "Vakken/Woorden als wapens/Colleges/Werkcollege 2 Woorden als Wapens.md",
-    "Vakken/Woorden als wapens/03 Lakoff & Johnson (1999)_H1-7,10.pdf",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Interview opdracht Journalistiek en Redactionele Vaardigheden.md",
     "Vakken/Wetenschapsfilosofie/Notities Reader - Wetenschapsfilosofie.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 1 Journalistiek en Redactionele Vaardigheden.md",
-    "Vakken/Inleiding in de journalistiek/Inleiding in de journalistiek.md",
-    "Onderwerpen/Maxime.md",
     "Beelden/Pasted image 20230913133035.png",
     "Beelden/Pasted image 20230913132738.png"
   ]

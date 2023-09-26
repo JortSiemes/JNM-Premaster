@@ -1,0 +1,1 @@
+The tendency to collect and take seriously evidence that supports our beliefs, and to disregard or ignore evidence that confilcts with our beliefs.
