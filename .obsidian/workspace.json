@@ -162,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,8 +179,8 @@
   "active": "023614aa79a741f8",
   "lastOpenFiles": [
     "Aantekeningen cursusboek Wetenschapsfilosofie.md",
-    "Onderwerpen/waarheidsconditioneel.md",
     "Vakken/Wetenschapsfilosofie/Literatuur/Cursusboek.pdf",
+    "Onderwerpen/waarheidsconditioneel.md",
     "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 3 Inleiding in de Journalistiek.md",
     "Onderwerpen/Onderwerpen.md",
     "Notities Dagelijk/September/2023-09-12.md",
@@ -211,7 +212,6 @@
     "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 2 methoden en theorieen van journalism studies.md",
     "Notities Dagelijk/September/2023-09-20.md",
     "Notities Dagelijk/September/2023-09-13.md",
-    "Notities Dagelijk/September/2023-09-19.md",
     "Notities Dagelijk/October",
     "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 1.pdf",
     "Vakken/Taal en communicatie/Opdrachten/~$drachtweek 2_JortSiemes.docx",
