@@ -58,9 +58,33 @@
                 "file": "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf"
               }
             }
+          },
+          {
+            "id": "844497b57023c0ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Wetenschapsfilosofie/Aantekeningen Kennisclip wetenschapsfilosofie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "037c21356b3bee8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -126,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -204,10 +228,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c77bd2b59da4e995",
+  "active": "037c21356b3bee8e",
   "lastOpenFiles": [
-    "Onderwerpen/Aristotle.md",
+    "Vakken/Wetenschapsfilosofie/Aantekeningen Kennisclip wetenschapsfilosofie.md",
+    "conflict-files-obsidian-git.md",
     "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf",
+    "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 3 Taal en communicatie.md",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 3 Inleiding in de Journalistiek.md",
+    "Notities Dagelijk/September/2023-09-25.md",
+    "Onderwerpen/Aristotle.md",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 3 (Jort Siemes, s4028198).md",
     "Overig/Introductie JNM pre-ma 2023.pdf",
     "Notities Dagelijk/September/2023-09-22.md",
@@ -231,7 +260,6 @@
     "Vakken/Wetenschapsfilosofie/Literatuur/Cursusboek.pdf",
     "Vakken/Wetenschapsfilosofie/Reader notities Wetenschapsfilosofie.md",
     "Vakken/Wetenschapsfilosofie/Notities Reader - Wetenschapsfilosofie.md",
-    "conflict-files-obsidian-git.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 1 Journalistiek en Redactionele Vaardigheden.md",
     "Vakken/Inleiding in de journalistiek/Inleiding in de journalistiek.md",
     "Onderwerpen/Maxime.md",
@@ -240,10 +268,6 @@
     "Onderwerpen/Nieuwswaardentheorie.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 2 methoden en theorieen van journalism studies.md",
     "Notities Dagelijk/September/2023-09-20.md",
-    "Notities Dagelijk/September/2023-09-13.md",
-    "Notities Dagelijk/September/2023-09-12.md",
-    "Notities Dagelijk/September/2023-09-19.md",
-    "frame-building.md",
     "Beelden/Pasted image 20230913133035.png",
     "Beelden/Pasted image 20230913132738.png"
   ]
