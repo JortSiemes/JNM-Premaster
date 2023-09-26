@@ -1,0 +1,78 @@
+{
+  "palette": [
+    {
+      "id": "W_mQnYHqYrPlccgmMzdE5",
+      "name": "Inleiding in de Journalistiek",
+      "value": "#8c00ff"
+    },
+    {
+      "id": "zA8dKDuudIv39b1iBLAHj",
+      "name": "Journalistieke en Redactionele Vaardigheden",
+      "value": "#1eff00"
+    },
+    {
+      "id": "Si3gtDU5tk92RzHGT7xD9",
+      "name": "Methoden en Theorieën van Journalistiek",
+      "value": "#ff0000"
+    },
+    {
+      "id": "FlNrvzJngnoaqGcAwcSVV",
+      "name": "Taal en Communicatie",
+      "value": "#00fbff"
+    },
+    {
+      "id": "ZXiNX8ik0cyniAkgpKvtT",
+      "name": "Wetenschapsfilosofie",
+      "value": "#ff00ae"
+    },
+    {
+      "id": "fV4q3Hl0EL5k7BV40Qgik",
+      "name": "Woorden als Wapens",
+      "value": "#ffea00"
+    },
+    {
+      "id": "m2kkBuRy1hb-wsF2tlKdn",
+      "name": "Notities Dagelijk",
+      "value": "#a16363"
+    },
+    {
+      "id": "ejYc6jLDBQduUiwmu1352",
+      "name": "Onderwerpen",
+      "value": "#355f56"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Vakken/Inleiding in de journalistiek",
+      "color": "W_mQnYHqYrPlccgmMzdE5"
+    },
+    {
+      "path": "Vakken/Journalistieke en Redactionele Vaardigheden",
+      "color": "zA8dKDuudIv39b1iBLAHj"
+    },
+    {
+      "path": "Vakken/Methoden en theorieen van Journalism Studies",
+      "color": "Si3gtDU5tk92RzHGT7xD9"
+    },
+    {
+      "path": "Vakken/Taal en communicatie",
+      "color": "FlNrvzJngnoaqGcAwcSVV"
+    },
+    {
+      "path": "Vakken/Wetenschapsfilosofie",
+      "color": "ZXiNX8ik0cyniAkgpKvtT"
+    },
+    {
+      "path": "Vakken/Woorden als wapens",
+      "color": "fV4q3Hl0EL5k7BV40Qgik"
+    },
+    {
+      "path": "Notities Dagelijk",
+      "color": "m2kkBuRy1hb-wsF2tlKdn"
+    },
+    {
+      "path": "Onderwerpen",
+      "color": "ejYc6jLDBQduUiwmu1352"
+    }
+  ]
+}
