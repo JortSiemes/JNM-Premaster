@@ -35,5 +35,13 @@ aspecten van bron domein, gebruiken als doel domein
 - Gelukkig is Boven; Droevig is Beneden
 	In hogere sferen zijn, opvrolijken, opgewekt humeur, terneergeslagen zijn, de moed zonk hemin de schoenen, ze leeft weer helemaal op
 
+[[Structuurmetaforen]]: gevallen waarin het ene concept een deel van de structuur van het andere concept bepaalt
+
+[[Oriëntatiemetaforen]]: gevallen waarin concepten tot elkaar worden geordend op een manier die te maken heeft met oriëntatie in de ruimte
+
+[[Ontologische metaforen]]: gevallen waarin we kunstmatige begrenzingen opleggen (=> gebeurtenissen, handelingen, emoties, ideeën, etc. als entiteiten en substanties beschouwen)
+	Subtype: personificatie
+
+
 
 

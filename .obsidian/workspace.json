@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ae79064a9cf9798",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 3 (Jort Siemes, s4028198).md",
+                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 3 (Jort Siemes, s4028198).md",
+                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 3 (Jort Siemes, s4028198).md"
+                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md"
               }
             }
           },
@@ -163,8 +176,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "145a431bea83f095",
+  "active": "6ae79064a9cf9798",
   "lastOpenFiles": [
+    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 3 (Jort Siemes, s4028198).md",
     "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md",
     "Vakken/Woorden als wapens/03 Lakoff & Johnson (1999)_H1-7,10.pdf",
     "Onderwerpen/brondomein.md",
