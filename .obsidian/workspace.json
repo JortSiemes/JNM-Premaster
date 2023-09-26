@@ -27,7 +27,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 2 wetenschapsfilosofie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 2 wetenschapsfilosofie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 2 wetenschapsfilosofie.md"
+              }
             }
           },
           {
@@ -154,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,8 +172,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "145a431bea83f095",
+  "active": "35ad91f310cc0551",
   "lastOpenFiles": [
+    "Onderwerpen/vrije consensus.md",
     "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 2 wetenschapsfilosofie.md",
     "Vakken/Wetenschapsfilosofie/Aantekeningen cursusboek Wetenschapsfilosofie.md",
     "Vakken/Wetenschapsfilosofie/Hoorcolleges",
@@ -198,7 +203,6 @@
     "Onderwerpen/Journalistieke objectiviteit.md",
     "Onderwerpen/Isaac Newton.md",
     "Onderwerpen/Inductive argument.md",
-    "Onderwerpen/Gemarkeerdheid.md",
     "Vakken/Woorden als wapens/Weekopdrachten/Week3_opdracht.pdf",
     "Overig/Introductie JNM pre-ma 2023.pdf",
     "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf",
