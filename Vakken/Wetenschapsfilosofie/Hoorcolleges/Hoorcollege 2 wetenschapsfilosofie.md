@@ -23,3 +23,18 @@ Dit is het [[standaardbeeld]]
 - de waarheid van de premissen **ondersteunt** de waarheid van de conclusie, maar garandeert die niet. 
 
 theoretisch kader
+
+Karl Popper 1902-1994
+
+Kritisch rationalisme.
+
+volgens popper alleen theorie wetenschappelijk als het weerlegd kan worden.
+
+[[Falsificatie]] 
+- laten zien dat een theorie niet klopt doordat een voorspelling ervan niet uitkomt.
+
+Falsificationisme:
+- het doel van wetenschap is het falsificeren van theorieën
+
+Falsificeerbaar;
+- we
