@@ -32,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md",
+                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 3 (Jort Siemes, s4028198).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md",
+                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 3 (Jort Siemes, s4028198).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md"
+                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 3 (Jort Siemes, s4028198).md"
               }
             }
           },
@@ -163,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,10 +177,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6ae79064a9cf9798",
+  "active": "145a431bea83f095",
   "lastOpenFiles": [
-    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 3 (Jort Siemes, s4028198).md",
     "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md",
+    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 3 (Jort Siemes, s4028198).md",
+    "Onderwerpen/doeldomein.md",
+    "Onderwerpen/Ontologische metaforen.md",
+    "Onderwerpen/Oriëntatiemetaforen.md",
+    "Onderwerpen/Structuurmetaforen.md",
     "Vakken/Woorden als wapens/03 Lakoff & Johnson (1999)_H1-7,10.pdf",
     "Onderwerpen/brondomein.md",
     "Untitled.md",
@@ -202,10 +207,6 @@
     "Onderwerpen/Inductive argument.md",
     "Onderwerpen/Gemarkeerdheid.md",
     "Onderwerpen/Galilei.md",
-    "Onderwerpen/Falsification.md",
-    "Onderwerpen/Deductive argument.md",
-    "Onderwerpen/Dagblad.md",
-    "Onderwerpen/Correlation.md",
     "Vakken/Woorden als wapens/Weekopdrachten/Week3_opdracht.pdf",
     "Overig/Introductie JNM pre-ma 2023.pdf",
     "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf",
