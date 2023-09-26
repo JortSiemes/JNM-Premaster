@@ -13,10 +13,9 @@ Premises: Louis VII of France was a mediaval king.
 Conclusion: So, Louis VII of France did not have absolute power over his subjects
 
 INVALID Argument:
-
-
-
-
+Premises: No medieval king had absolute power over his subjects.
+Premises: Louis VII of France had a horse.
+Conclusion: So, Louis VII of France did not have absolute power over his subjects
 
 [[Deductive argument]]:
 An argument in which the truth of the premises absolutely guarantees the truth of the conclusion
@@ -29,3 +28,4 @@ No A is B
 C is A
 So C is not B
 
+1.2

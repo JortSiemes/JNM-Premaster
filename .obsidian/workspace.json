@@ -70,21 +70,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "037c21356b3bee8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -150,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Vakken/Wetenschapsfilosofie/Aantekeningen Kennisclip wetenschapsfilosofie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,9 +155,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "Vakken/Wetenschapsfilosofie/Aantekeningen Kennisclip wetenschapsfilosofie.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -190,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Vakken/Wetenschapsfilosofie/Aantekeningen Kennisclip wetenschapsfilosofie.md"
               }
             }
           },
@@ -211,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -228,11 +216,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "037c21356b3bee8e",
+  "active": "844497b57023c0ae",
   "lastOpenFiles": [
+    "Deductive argument.md",
+    "Vakken/Inleiding in de journalistiek/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf",
+    "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf",
     "Vakken/Wetenschapsfilosofie/Aantekeningen Kennisclip wetenschapsfilosofie.md",
     "conflict-files-obsidian-git.md",
-    "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf",
     "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 3 Taal en communicatie.md",
     "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 3 Inleiding in de Journalistiek.md",
     "Notities Dagelijk/September/2023-09-25.md",
@@ -240,7 +230,6 @@
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 3 (Jort Siemes, s4028198).md",
     "Overig/Introductie JNM pre-ma 2023.pdf",
     "Notities Dagelijk/September/2023-09-22.md",
-    "Vakken/Inleiding in de journalistiek/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf",
     "Overig/Basisboek_Journalistiek Schrijven.pdf",
     "Overig/Canvas MASTER.canvas",
     "Overig/methodenvoorjournalismstudies.png",
@@ -267,7 +256,6 @@
     "Onderwerpen/frame-building.md",
     "Onderwerpen/Nieuwswaardentheorie.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 2 methoden en theorieen van journalism studies.md",
-    "Notities Dagelijk/September/2023-09-20.md",
     "Beelden/Pasted image 20230913133035.png",
     "Beelden/Pasted image 20230913132738.png"
   ]
