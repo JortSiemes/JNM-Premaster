@@ -11,8 +11,12 @@
             "id": "145a431bea83f095",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 2 wetenschapsfilosofie.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 2 wetenschapsfilosofie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 2 wetenschapsfilosofie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 2 wetenschapsfilosofie.md"
+              }
             }
           },
           {
@@ -157,6 +165,9 @@
   },
   "active": "145a431bea83f095",
   "lastOpenFiles": [
+    "Notities Dagelijk/September/2023-09-06.md",
+    "Notities Dagelijk/September/2023-09-11.md",
+    "Notities Dagelijk/September/2023-09-13.md",
     "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 2 wetenschapsfilosofie.md",
     "Onderwerpen/Deductive argument.md",
     "standaardbeeld.md",
@@ -183,9 +194,6 @@
     "Onderwerpen/framingtheorie.md",
     "Onderwerpen/congruente.md",
     "Onderwerpen/Representative Data.md",
-    "Onderwerpen/Premises.md",
-    "Onderwerpen/Persbureaus.md",
-    "Onderwerpen/Paradigma.md",
     "Vakken/Woorden als wapens/Weekopdrachten/Week3_opdracht.pdf",
     "Overig/Introductie JNM pre-ma 2023.pdf",
     "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf",
