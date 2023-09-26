@@ -58,6 +58,29 @@ The tendency to collect and take seriously evidence that supports our beliefs, a
 
 Probabilities
 
-
+---
 
 1.4
+
+**Karl Popper,** 20th century
+Scientist are always trying to show their theories are false.
+Real scientist keeps trying to falsify his own theory.
+
+Scienties don't accept any theories at all
+
+Stop claiming that scientists use [[inductive argument]], and accept they only use [[deductive argument]].
+
+Example [[Inductive argument]]:
+[[Premises]]: I put 25 frogs in the freezer for a week, and all of them died.
+[[Conclusion]]: So, all frogs die when they are put in the freezer for a week.
+
+Scientists don't draw general conclusions, they are not interested in claiming a theory is true.
+According to Popper, scientist never claim that theory is true/probable/likely
+
+Critically testing theories and showing they are false.
+
+Observation that shows that a theory is false: [[Falsification]]
+Falsified: state of a theory that has been shown to be false.
+Falsificationism: Popper's claim that scientists are only interested in [[falsification]]
+
+
