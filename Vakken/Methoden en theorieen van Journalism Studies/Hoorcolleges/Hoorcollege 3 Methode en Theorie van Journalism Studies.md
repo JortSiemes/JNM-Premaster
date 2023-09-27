@@ -25,3 +25,18 @@ Belangrijke begrippen
 
 
 
+|                 | Kwalitatief (=weten) | Kwantitatief (=meten) |
+| --------------- | -------------------- | --------------------- |
+| Onderzoeksvraag |                      |                       |
+| Onderzoeksopzet |                      |                       |
+| Dataverzameling |                      |                       |
+| Voor de analyse |                      |                       | 
+
+|          | Kwalitatief  | kwantitatief |
+| -------- | ------------ | ------------ |
+| bevragen | focusgroepen | surveys      | 
+
+**Onderzoeksethiek**
+Houdt zich bezig met bescherming van menselijke deelnemers (proefpersonen)
+
+
