@@ -11,4 +11,6 @@ a&b particuliere conversationele implicatuur; deze is anuleerbaar, want ander ha
 
 4.	Particulier. De spreker weet net van de persoon met het paarse shirt dat een persoon complimenteren een belediging betekent voor haar. De spreker geeft een compliment aan de man met de groene stropdas en beledigt dus de vrouw in het paarse shirt. Deze belediging is dus context afhankelijk, want dat had zij eerder uitgelegd. 
 
-5.	Conventioneel, want het is niet anuleerbaar.
+5.	Scalaire implicatuur, er is sprake van een schaal
+
+Volgende week geen werkcollege
