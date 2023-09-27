@@ -1,5 +1,5 @@
-1.	Conventionele implicatuur, dit zie je aan het woord ‘en’. Deze is niet anuleerbaar
-2.	Conversationeel (annuleerbaar)
+1.	Conversationeel, (annuleerbaar)
+2.	Conventioneel (niet annuleerbaar)
 3.	Conversationeel (annuleerbaar)
 
 2.	Het tegenoverstelde van ‘wat een fijne jongen ben jij”. Volgens het maxime van kwaliteit, De spreker flout de maxime.

@@ -1,8 +1,10 @@
 Soorten implicaturen
 
+test om conversationeel/conventioneel implicatuur te testen:
 
-calculable
-cancellable
+**Is het conversationeel?**
+calculable (kan uitgerekend worden door maximes)
+cancellable ()
 non-detachable
 non-conventional
 indeterminate
