@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 3 Taal en communicatie.md",
+                "file": "Vakken/Taal en communicatie/Opdrachten/Opdracht week 3 - Taal en Communicatie.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "a63ce3edf205b0da",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 1.pdf"
               }
             }
           },
@@ -97,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 3 Taal en communicatie.md",
+                "file": "Vakken/Taal en communicatie/Opdrachten/Opdracht week 3 - Taal en Communicatie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 3 Taal en communicatie.md",
+                "file": "Vakken/Taal en communicatie/Opdrachten/Opdracht week 3 - Taal en Communicatie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 3 Taal en communicatie.md"
+                "file": "Vakken/Taal en communicatie/Opdrachten/Opdracht week 3 - Taal en Communicatie.md"
               }
             }
           },
@@ -177,9 +187,13 @@
   },
   "active": "145a431bea83f095",
   "lastOpenFiles": [
-    "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 2 taal en communicatie.md",
-    "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 3 Taal en communicatie.md",
+    "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 1.pdf",
+    "Vakken/Taal en communicatie/Opdrachten/Opdracht week 3 - Taal en Communicatie.md",
     "Vakken/Taal en communicatie/Hoorcolleges/Werkcollege 2 taal en communicatie.md",
+    "Vakken/Taal en communicatie/Hoorcolleges/Werkcollege 3 taal en communicatie.md",
+    "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 2 taal en communicatie.md",
+    "Vakken/Taal en communicatie/Opdrachten/Opdracht week 2 - Taal en Communicatie.md",
+    "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 3 Taal en communicatie.md",
     "Vakken/Taal en communicatie/book_by_birner_betty_j_introduction_to_pragmatics-.pdf",
     "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 2 wetenschapsfilosofie.md",
     "Onderwerpen/standaardbeeld.md",
@@ -202,10 +216,7 @@
     "Onderwerpen/brondomein.md",
     "Untitled.md",
     "Taal en communicatie.md",
-    "Taal en communicatie 1.md",
-    "conflict-files-obsidian-git.md",
     "Vakken/Wetenschapsfilosofie/Literatuur/Cursusboek.pdf",
-    "Vakken/Wetenschapsfilosofie/Aantekeningen Kennisclips wetenschapsfilosofie.md",
     "Vakken/Woorden als wapens/Weekopdrachten/Week3_opdracht.pdf",
     "Overig/Introductie JNM pre-ma 2023.pdf",
     "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf",
@@ -213,7 +224,6 @@
     "Overig/Pasted image 20230918115902.png",
     "Overig/methodenvoorjournalismstudies.png",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges",
-    "Notities Dagelijk/October",
     "Beelden/Pasted image 20230913133035.png",
     "Beelden/Pasted image 20230913132738.png",
     "Overig/Canvas MASTER.canvas"
