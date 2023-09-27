@@ -41,3 +41,16 @@ Houdt zich bezig met bescherming van menselijke deelnemers (proefpersonen)
 
 Aangeven waar je data opslaat.
 
+---
+
+Hoe ziet ons mediagebruik eruit?
+
+Top 5 meest gebruikte nieuws media?
+1. Instagram
+2. Leidsch dagbland
+3. volkskrant
+4. nos.nl
+5. 20u journaal
+
+Welke vragen stel je elkaar?
+
