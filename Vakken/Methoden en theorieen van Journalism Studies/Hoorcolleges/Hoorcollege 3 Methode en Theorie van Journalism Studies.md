@@ -39,4 +39,5 @@ Belangrijke begrippen
 **Onderzoeksethiek**
 Houdt zich bezig met bescherming van menselijke deelnemers (proefpersonen)
 
+Aangeven waar je data opslaat.
 
