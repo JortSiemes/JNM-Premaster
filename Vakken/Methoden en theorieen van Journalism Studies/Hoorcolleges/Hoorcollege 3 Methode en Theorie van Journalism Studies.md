@@ -55,5 +55,5 @@ Top 5 meest gebruikte nieuws media?
 Welke vragen stel je elkaar?
 
 
-
+[[Survey]] = systematisch grote groepen mensen ondervragen
 
