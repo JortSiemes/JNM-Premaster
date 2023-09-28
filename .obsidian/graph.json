@@ -11,21 +11,14 @@
       "query": "path:\"Notities Dagelijk\"  ",
       "color": {
         "a": 1,
-        "rgb": 327424
+        "rgb": 10576739
       }
     },
     {
       "query": "path:Onderwerpen  ",
       "color": {
         "a": 1,
-        "rgb": 16755200
-      }
-    },
-    {
-      "query": "path:Vakken  ",
-      "color": {
-        "a": 1,
-        "rgb": 16711854
+        "rgb": 3497814
       }
     },
     {
@@ -33,6 +26,48 @@
       "color": {
         "a": 1,
         "rgb": 16728064
+      }
+    },
+    {
+      "query": "path:\"Vakken/Inleiding in de journalistiek\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9175295
+      }
+    },
+    {
+      "query": "path:\"Vakken/Journalistieke en Redactionele Vaardigheden\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2031360
+      }
+    },
+    {
+      "query": "path:\"Vakken/Methoden en theorieen van Journalism Studies\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"Vakken/Taal en communicatie\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 64511
+      }
+    },
+    {
+      "query": "path:Vakken/Wetenschapsfilosofie  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711854
+      }
+    },
+    {
+      "query": "path:\"Vakken/Woorden als wapens\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16771584
       }
     }
   ],
@@ -44,8 +79,8 @@
   "collapse-forces": false,
   "centerStrength": 0.347750865051903,
   "repelStrength": 5.6401384083045,
-  "linkStrength": 0.662629757785467,
-  "linkDistance": 179,
-  "scale": 0.597723512922716,
+  "linkStrength": 0.856401384083045,
+  "linkDistance": 150,
+  "scale": 0.5186779657062933,
   "close": false
 }

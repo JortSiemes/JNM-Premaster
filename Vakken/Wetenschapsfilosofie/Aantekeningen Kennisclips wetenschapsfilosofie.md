@@ -79,8 +79,8 @@ According to Popper, scientist never claim that theory is true/probable/likely
 
 Critically testing theories and showing they are false.
 
-Observation that shows that a theory is false: [[Falsification]]
+Observation that shows that a theory is false: [[Falsificatie]]
 Falsified: state of a theory that has been shown to be false.
-Falsificationism: Popper's claim that scientists are only interested in [[Falsification]]
+Falsificationism: Popper's claim that scientists are only interested in [[Falsificatie]]
 
 

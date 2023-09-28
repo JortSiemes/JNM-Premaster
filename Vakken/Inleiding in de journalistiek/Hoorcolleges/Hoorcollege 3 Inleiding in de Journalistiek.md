@@ -51,5 +51,5 @@ in jaren 70 ontwikkeling:
 	- Teleprompter
 	- Video
 	- Satellieten
-	- Computergraphics
+	- Computergraphic
 
