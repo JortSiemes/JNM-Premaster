@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "4027e4d6be7c2487",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "02f8ea7e3466a857",
             "type": "leaf",
             "state": {
@@ -90,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -156,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Woorden als wapens/COLLECTIE FILE Woorden als wapens.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Woorden als wapens/COLLECTIE FILE Woorden als wapens.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Woorden als wapens/COLLECTIE FILE Woorden als wapens.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -234,10 +246,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c0f6458b5748f73f",
+  "active": "4027e4d6be7c2487",
   "lastOpenFiles": [
-    "Vakken/Journalistieke en Redactionele Vaardigheden/COLLECTIE FILE journalistieke en redactionele vaardigheden.md",
     "Vakken/Woorden als wapens/COLLECTIE FILE Woorden als wapens.md",
+    "conflict-files-obsidian-git.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Leidraad notities Journalistieke en redactionele vaardigheden.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/2-7okt.png",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/COLLECTIE FILE journalistieke en redactionele vaardigheden.md",
     "Vakken/Wetenschapsfilosofie/COLLECTIE FILE Wetenschapsfilosofie.md",
     "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 2 wetenschapsfilosofie.md",
     "Vakken/Wetenschapsfilosofie/Reader notities Wetenschapsfilosofie.md",
@@ -262,8 +277,6 @@
     "Vakken/Taal en communicatie/Hoorcolleges/Werkcollege 3 taal en communicatie.md",
     "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 1.pdf",
     "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 2 taal en communicatie.md",
-    "Vakken/Taal en communicatie/Hoorcolleges/Werkcollege 2 taal en communicatie.md",
-    "Vakken/Taal en communicatie/Opdrachten/Opdracht week 2 - Taal en Communicatie.md",
     "Vakken/Taal en communicatie/book_by_birner_betty_j_introduction_to_pragmatics-.pdf",
     "Vakken/Wetenschapsfilosofie/Hoorcolleges",
     "Vakken/Woorden als wapens/03 Lakoff & Johnson (1999)_H1-7,10.pdf",
