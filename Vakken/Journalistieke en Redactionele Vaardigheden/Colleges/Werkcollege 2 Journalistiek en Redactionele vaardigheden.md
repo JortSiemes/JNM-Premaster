@@ -6,7 +6,7 @@ Schrijven voor Mare krant,
 Soorten interviews: (zie 199/200)
 - Vox-pop (straatinterview)
 - Nieuwsinterview (snel expert)
-- Achtergrondinterview (DEZE MAKEN WE, kan gelinkt aan event, gaat breder dieper, in iemands opinies onderzoek emoties, met afstand van het nieuws)
+- Achtergrond interview (DEZE MAKEN WE, kan gelinkt aan event, gaat breder dieper, in iemands opinies onderzoek emoties, met afstand van het nieuws)
 - Portret ()
 
 Voor:
@@ -21,3 +21,7 @@ tegenwoordig soms te strak geregisseerd
 
 eerste vraag die je stelt?
 vanaf nu ben je on the record.
+
+Jan Haerynck (disneyland ontvoering) verzon verhalen
+
+
