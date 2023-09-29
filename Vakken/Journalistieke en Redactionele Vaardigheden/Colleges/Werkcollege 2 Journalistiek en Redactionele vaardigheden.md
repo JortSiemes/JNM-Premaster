@@ -43,7 +43,10 @@ Vragenlijst ()
 
 Publiek: Breed, hoog opgeleid, MAAR niet noodzakelijk experts
 
-**Huiswerk: Werkplan + Vragenlijst**
+**Huiswerk: 
+Werkplan + Vragenlijst** 4ocktober 9uur
+aantal vragen 1 a4
+UITERLIJK 6 oktober
 
 vraag: Hoe kan ik dat verkopen aan de Mare?
 Willen: Kop, intro, interview (vraagantwoord/mengmodel), uitgelichte streamer, Foto van Vincent Icke
@@ -55,13 +58,21 @@ marielle tweebeeke tv interview zelenski
 "Beau: eet 20 bananen per dag"
 
 Hoe begin je interview:
-bedankt voor uw tijd.
-Luchtig gesprekje
-over jezelf
-ik ga het opnemen + toestemming, en het doel van interview.
-In het kader van mijn opleiding.
-(schrijf mee)
-laat merken dat je voorbereid bent
+	bedankt voor uw tijd.
+	Luchtig gesprekje
+	over jezelf
+	ik ga het opnemen + toestemming, en het doel van interview.
+	In het kader van mijn opleiding.
+	(schrijf mee)
+	laat merken dat je voorbereid bent
+	begin niet gelijk met een stevige 'waarom' - vraag.
+	volg je vragenlijst, jij bent de regisseur van het gesprek.
+	vraag door! Hoe dan PRECIES? Waarom dan PRECIES? Heeft u een voorbeeld? Maak het **concreet**
+	Herhaal af en toe antwoorden. Vat samen. (Dus u zei: ..... maar hoe zit het met: 'volgende vraag')
+
+
+Geef aan op t einde: mag ik u nog een keer benaderen als ik nog een vraag heb.
+
 
 
 
