@@ -25,3 +25,29 @@ vanaf nu ben je on the record.
 Jan Haerynck (disneyland ontvoering) verzon verhalen
 
 
+**Werkpan** (1 a4'tje, is eerste stap)
+-waarom deze persoon?
+-aanleiding?
+-waarom nu?
+-centrale vraag/welke invalshoek?
+-wat weet je al over hem? heeft de persoon bijzondere ervaring? Of duidelijke mening?
+-Wat worden hoofdvragen? hoeveel vragen? Niet te veel vragen!
+-persoon titel
+
+Vragenlijst ()
+- onderscheid algemene vragen, meer inhoudelijke vragen, afsluitende vragen.
+- Breder starten en dan in de details
+- Niet te brede vraag: (Wat zit er allemaal in de rook?: Beter: Zat er aluminium in de rook?)
+- Wel: originele vragen, concrete vragen, eigen ervaringen gebruiken "als je het aan iedereen kan stellen"
+(voorbeelden op Brightspace)
+
+Publiek: Breed, hoog opgeleid, MAAR niet noodzakelijk experts
+
+**Huiswerk: Werkplan + Vragenlijst**
+
+
+
+
+
+
+
