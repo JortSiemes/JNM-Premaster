@@ -19,4 +19,5 @@ Gemakkelijke manier om onderwerp te belichten
 Selectief uitspraken meenemen zo inkorten dat het uit verband wordt getrokken
 tegenwoordig soms te strak geregisseerd
 
-
+eerste vraag die je stelt?
+vanaf nu ben je on the record.
