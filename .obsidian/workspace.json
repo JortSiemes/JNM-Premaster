@@ -31,6 +31,14 @@
             "id": "844497b57023c0ae",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "d92071fcfa4b75a6",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 2 Journalistiek en Redactionele vaardigheden.md",
@@ -57,14 +65,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Werkplan.md",
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Vragenlijst.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -212,6 +220,8 @@
   "lastOpenFiles": [
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 2 Journalistiek en Redactionele vaardigheden.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Werkplan.md",
+    "Onderwerpen/brondomein.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Vragenlijst.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/COLLECTIE FILE journalistieke en redactionele vaardigheden.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Interview opdracht Journalistiek en Redactionele Vaardigheden.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Journalistieke en Redactionele Vaardigheden.md",
@@ -235,8 +245,6 @@
     "Onderwerpen/standaardbeeld.md",
     "Onderwerpen/open en axiaal coderen.md",
     "Onderwerpen/onafhankelijke en afhankelijke variabelen.md",
-    "Onderwerpen/inductief.md",
-    "Onderwerpen/doeldomein.md",
     "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf",
     "Vakken/Inleiding in de journalistiek/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf",
     "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf",
