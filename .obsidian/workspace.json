@@ -1,51 +1,60 @@
 {
   "main": {
-    "id": "cc511eefc092a8db",
+    "id": "1acaf4e7e62cd370",
     "type": "split",
     "children": [
       {
-        "id": "061f2aec5936e9b2",
+        "id": "7b79748f2b21369d",
         "type": "tabs",
         "children": [
           {
-            "id": "48869885a863f2a9",
+            "id": "9ed5ae8c668fd642",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 2 Journalistiek en Redactionele vaardigheden.md",
-                "mode": "source",
-                "source": false
+                "file": "Vakken/Inleiding in de journalistiek/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf"
               }
             }
           },
           {
-            "id": "4f489cb017cea66d",
+            "id": "c77bd2b59da4e995",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf"
+              }
+            }
+          },
+          {
+            "id": "844497b57023c0ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Leidraad notities Journalistieke en redactionele vaardigheden.md",
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Journalistieke en Redactionele Vaardigheden.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "aacfc98aee927ac2",
+    "id": "bcb510f8e24df928",
     "type": "split",
     "children": [
       {
-        "id": "7af7284ea34da718",
+        "id": "7062e3611fb45f02",
         "type": "tabs",
         "children": [
           {
-            "id": "34f98337b2da7afd",
+            "id": "35ad91f310cc0551",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,7 +64,7 @@
             }
           },
           {
-            "id": "6a550cbafb1b571c",
+            "id": "a9c5672a3cccbc16",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -70,7 +79,7 @@
             }
           },
           {
-            "id": "36a9ab7c120166e1",
+            "id": "dd4b29ff0b0903ee",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -84,28 +93,20 @@
     "width": 300
   },
   "right": {
-    "id": "cee8c141115ee0b5",
+    "id": "66bfdb431667253e",
     "type": "split",
     "children": [
       {
-        "id": "273881d89b28b195",
+        "id": "0ddfe97597d1b38c",
         "type": "tabs",
         "children": [
           {
-            "id": "b0fd51a7f36ae1a4",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "c0e9e4a64c6ac9f8",
+            "id": "1556639a7c5832c6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 2 Journalistiek en Redactionele vaardigheden.md",
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Journalistieke en Redactionele Vaardigheden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,19 +118,19 @@
             }
           },
           {
-            "id": "cc6e1233067d8b42",
+            "id": "e47d11ccea684fba",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 2 Journalistiek en Redactionele vaardigheden.md",
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Journalistieke en Redactionele Vaardigheden.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "9bef03acb8b248b1",
+            "id": "992197849ef3f89f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,16 +141,33 @@
             }
           },
           {
-            "id": "ba8b653e397d5544",
+            "id": "4234804445b0a2d7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 2 Journalistiek en Redactionele vaardigheden.md"
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Journalistieke en Redactionele Vaardigheden.md"
               }
             }
+          },
+          {
+            "id": "8973b8e386562de5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "13ddaaf8a988b614",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -157,18 +175,57 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "48869885a863f2a9",
+  "active": "844497b57023c0ae",
   "lastOpenFiles": [
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 2 Journalistiek en Redactionele vaardigheden.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Leidraad notities Journalistieke en redactionele vaardigheden.md",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 2 Journalistiek en Redactionele vaardigheden.md"
+    "conflict-files-obsidian-git.md",
+    "Vakken/Woorden als wapens/COLLECTIE FILE Woorden als wapens.md",
+    "Vakken/Wetenschapsfilosofie/COLLECTIE FILE Wetenschapsfilosofie.md",
+    "Vakken/Taal en communicatie/COLLECTIE FILE Taal en communicatie.md",
+    "Vakken/Methoden en theorieen van Journalism Studies/COLLECTIE FILE methoden en theorieen van journalism studies.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/COLLECTIE FILE journalistieke en redactionele vaardigheden.md",
+    "Vakken/Inleiding in de journalistiek/COLLECTIE FILE inleiding in de journalistiek.md",
+    "Onderwerpen/Survey.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Journalistieke en Redactionele Vaardigheden.md",
+    "Vakken/Wetenschapsfilosofie/Literatuur/Cursusboek.pdf",
+    "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md",
+    "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 2 wetenschapsfilosofie.md",
+    "Vakken/Wetenschapsfilosofie/Aantekeningen cursusboek Wetenschapsfilosofie.md",
+    "Vakken/Taal en communicatie/Opdrachten/Opdracht week 3 - Taal en Communicatie.md",
+    "Vakken/Taal en communicatie/Hoorcolleges/Werkcollege 3 taal en communicatie.md",
+    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 3 Methode en Theorie van Journalism Studies.md",
+    "Onderwerpen/vrije consensus.md",
+    "Onderwerpen/validiteit.md",
+    "Onderwerpen/standaardbeeld.md",
+    "Onderwerpen/open en axiaal coderen.md",
+    "Onderwerpen/onafhankelijke en afhankelijke variabelen.md",
+    "Onderwerpen/inductief.md",
+    "Onderwerpen/doeldomein.md",
+    "Onderwerpen/deductief.md",
+    "Onderwerpen/brondomein.md",
+    "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf",
+    "Vakken/Inleiding in de journalistiek/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf",
+    "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf",
+    "Vakken/Wetenschapsfilosofie/Hoorcolleges",
+    "Overig/Introductie JNM pre-ma 2023.pdf",
+    "Overig/Basisboek_Journalistiek Schrijven.pdf",
+    "Overig/Canvas MASTER.canvas",
+    "Overig/methodenvoorjournalismstudies.png",
+    "Overig/Pasted image 20230918115902.png",
+    "Vakken/Woorden als wapens/Weekopdrachten/Week3_opdracht.pdf",
+    "Vakken/Woorden als wapens/Week2 Opdracht.pdf",
+    "Vakken/Woorden als wapens/Introduction to Discourse Studies_New Edition_Paragraaf8.pdf",
+    "Beelden/Pasted image 20230913133035.png",
+    "Beelden/Pasted image 20230913132738.png"
   ]
 }
