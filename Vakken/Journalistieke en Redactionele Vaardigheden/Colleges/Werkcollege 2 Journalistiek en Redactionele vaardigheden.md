@@ -45,6 +45,27 @@ Publiek: Breed, hoog opgeleid, MAAR niet noodzakelijk experts
 
 **Huiswerk: Werkplan + Vragenlijst**
 
+vraag: Hoe kan ik dat verkopen aan de Mare?
+Willen: Kop, intro, interview (vraagantwoord/mengmodel), uitgelichte streamer, Foto van Vincent Icke
+
+Maken in InDesign
+
+Kijktips:
+marielle tweebeeke tv interview zelenski
+"Beau: eet 20 bananen per dag"
+
+Hoe begin je interview:
+bedankt voor uw tijd.
+Luchtig gesprekje
+over jezelf
+ik ga het opnemen + toestemming, en het doel van interview.
+In het kader van mijn opleiding.
+(schrijf mee)
+laat merken dat je voorbereid bent
+
+
+
+
 
 
 
