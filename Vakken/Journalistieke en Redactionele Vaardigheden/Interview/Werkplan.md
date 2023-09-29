@@ -15,7 +15,7 @@ Vragen over antimaterie
 
 
 -centrale vraag/welke invalshoek?
-
+invalshoek: wetenschappelijk/kunst
 
 
 -wat weet je al over hem? heeft de persoon bijzondere ervaring? Of duidelijke mening?
