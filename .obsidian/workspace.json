@@ -59,12 +59,8 @@
             "id": "4027e4d6be7c2487",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -168,7 +164,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +180,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,9 +201,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -248,11 +240,11 @@
   },
   "active": "4027e4d6be7c2487",
   "lastOpenFiles": [
-    "Vakken/Woorden als wapens/COLLECTIE FILE Woorden als wapens.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/COLLECTIE FILE journalistieke en redactionele vaardigheden.md",
     "conflict-files-obsidian-git.md",
+    "Vakken/Woorden als wapens/COLLECTIE FILE Woorden als wapens.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Leidraad notities Journalistieke en redactionele vaardigheden.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/2-7okt.png",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/COLLECTIE FILE journalistieke en redactionele vaardigheden.md",
     "Vakken/Wetenschapsfilosofie/COLLECTIE FILE Wetenschapsfilosofie.md",
     "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 2 wetenschapsfilosofie.md",
     "Vakken/Wetenschapsfilosofie/Reader notities Wetenschapsfilosofie.md",
