@@ -25,7 +25,7 @@ vanaf nu ben je on the record.
 Jan Haerynck (disneyland ontvoering) verzon verhalen
 
 
-**Werkpan** (1 a4'tje, is eerste stap)
+**[[Werkplan]]** (1 a4'tje, is eerste stap)
 -waarom deze persoon?
 -aanleiding?
 -waarom nu?
@@ -44,7 +44,7 @@ Vragenlijst ()
 Publiek: Breed, hoog opgeleid, MAAR niet noodzakelijk experts
 
 **Huiswerk: 
-Werkplan + Vragenlijst** 4ocktober 9uur
+[[Werkplan]] + Vragenlijst** 4ocktober 9uur
 aantal vragen 1 a4
 UITERLIJK 6 oktober
 
