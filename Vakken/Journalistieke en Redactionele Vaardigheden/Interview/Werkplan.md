@@ -34,3 +34,9 @@ invalshoek: wetenschappelijk/kunst
 
 https://www.youtube.com/watch?v=Bmy5fVQMu5k&ab_channel=ZINZIJN
 https://www.youtube.com/watch?v=fV10lRM7Mkk&ab_channel=ZINZIJN
+
+
+Geinteresseerd in hydrodynamica
+
+grootste probleem: hoe slaagt materie erin om ruimte te krommen?
+
