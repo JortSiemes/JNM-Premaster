@@ -2,6 +2,9 @@
 -waarom deze persoon?
 Waarom Vincent Icke?
 
+Vincent Icke is hoogleraar theoretische sterrenkunde aan de Universiteit Leiden. Hij promoveerde in 1972 aan de Rijksuniversiteit Leiden met het proefschift: Formation of galaxies inside clusters.
+Verder deed Icke onderzoek in Sussex, Cambridge en bij het befaamde CalTech onder Kip Thorne.
+Naast deze wetenschappelijke hoogstandjes is hij ook beeldend kunstenaar.
 
 
 -aanleiding?
@@ -40,3 +43,7 @@ Geinteresseerd in hydrodynamica
 
 grootste probleem: hoe slaagt materie erin om ruimte te krommen?
 
+
+
+
+![[Pasted image 20230930185832.png]]
