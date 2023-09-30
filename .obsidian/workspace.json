@@ -28,14 +28,6 @@
             }
           },
           {
-            "id": "844497b57023c0ae",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "d92071fcfa4b75a6",
             "type": "leaf",
             "state": {
@@ -45,6 +37,14 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "844497b57023c0ae",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -218,8 +218,8 @@
   },
   "active": "4d6a3460d10587cf",
   "lastOpenFiles": [
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Vragenlijst.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Werkplan.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Vragenlijst.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Test_artikelTemplate.pdf",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/~artikel_jnm_wetens~9mfe(_.idlk",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Artikel_JNM_Wetenschapper.indd",
