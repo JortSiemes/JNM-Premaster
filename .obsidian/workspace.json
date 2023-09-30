@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Werkplan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +154,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Werkplan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -177,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Werkplan.md"
-              }
+              "state": {}
             }
           },
           {
@@ -216,7 +212,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4d6a3460d10587cf",
+  "active": "844497b57023c0ae",
   "lastOpenFiles": [
     "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Werkplan.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Vragenlijst.md",
