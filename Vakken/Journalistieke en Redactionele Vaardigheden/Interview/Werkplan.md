@@ -16,9 +16,6 @@ Vragen over antimaterie
 
 
 
-
-
-
 -centrale vraag/welke invalshoek?
 invalshoek: wetenschappelijk/kunst
 
@@ -42,8 +39,3 @@ https://www.youtube.com/watch?v=fV10lRM7Mkk&ab_channel=ZINZIJN
 Geinteresseerd in hydrodynamica
 
 grootste probleem: hoe slaagt materie erin om ruimte te krommen?
-
-
-
-
-![[Pasted image 20230930185832.png]]
