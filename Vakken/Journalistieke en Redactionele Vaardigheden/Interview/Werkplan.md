@@ -85,3 +85,6 @@ Uw boek Gravity Does Not Exist: A Puzzle for the 21st Century by Vincent Icke (2
 Fainman diagram: hoe deeltjes 
 
 Grootste vraag 21ste eeuw
+
+
+Einstein happiest imagining when free falling off building
