@@ -80,3 +80,8 @@ Vragen voor vincent:
 Hoe kan het dat de ruimte uit die 3 constanten bestaat? maar toch niks weegt? (Waarom weegt de ruimte niets?)
 
 Uw boek Gravity Does Not Exist: A Puzzle for the 21st Century by Vincent Icke (2014-08-15)
+
+
+Fainman diagram: hoe deeltjes 
+
+Grootste vraag 21ste eeuw
