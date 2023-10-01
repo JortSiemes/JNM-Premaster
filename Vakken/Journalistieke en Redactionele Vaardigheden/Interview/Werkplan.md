@@ -90,7 +90,7 @@ Grootste vraag 21ste eeuw
 Einstein happiest imagining when free falling off building
 
 
-
+http://www.alien-art.nl/AA-content/Sterrenzaad.html
 
 Doel van interview:
 Leer 
@@ -151,3 +151,10 @@ Archeologie wordt volgens hem nog te veel als een ‘onschuldige’ discipline g
 NOG DRIE VICI’S VOOR LEIDSE WETENSCHAPPERS
 
 Alexander Geurds is niet de enige Leidse onderzoeker met een Vici-beurs. Zo heeft Ellen de Bruijn van de faculteit der Sociale Wetenschappen deze subsidie gewonnen voor haar neurocognitieve onderzoek naar de hormonale veranderingen van vrouwen van de puberteit tot menopauze. Mariska Kriek van de Sterrewacht kreeg de beurs voor haar onderzoek naar het ontstaan van sterrenstelsels. Hermelijn Smits van het Leids Universitair Medisch Centrum gaat onderzoeken hoe virussen met de hulp van darmbacteriën kunnen worden bestreden.
+
+
+
+
+
+
+
