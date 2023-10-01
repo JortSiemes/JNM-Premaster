@@ -7,6 +7,7 @@ Verder deed Icke onderzoek in Sussex, Cambridge en bij het befaamde CalTech onde
 Naast deze wetenschappelijke hoogstandjes is hij ook beeldend kunstenaar.
 
 
+
 -aanleiding?
 
 
