@@ -88,3 +88,9 @@ Grootste vraag 21ste eeuw
 
 
 Einstein happiest imagining when free falling off building
+
+
+
+
+Doel van interview:
+Leer 
