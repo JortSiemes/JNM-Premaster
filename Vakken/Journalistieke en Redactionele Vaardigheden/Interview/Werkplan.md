@@ -13,13 +13,16 @@ Naast deze wetenschappelijke hoogstandjes is hij ook beeldend kunstenaar.
 
 
 -waarom nu?
-Vragen over antimaterie
+**Opkomst van interdisciplinaire samenwerking:** In de afgelopen jaren is de samenwerking tussen wetenschap en kunst toegenomen, waarbij beide disciplines profiteren van elkaars perspectieven en methodologieën. Dit interview kan het actuele belang van deze samenwerking benadrukken.
+
+**Technologische vooruitgang:** Met de voortdurende vooruitgang van technologieën zoals virtual reality, datavisualisatie en digitale kunst, ontstaan er nieuwe mogelijkheden voor zowel wetenschappers als kunstenaars om samen te werken en innovatieve projecten te ontwikkelen.
 
 
 
 -centrale vraag/welke invalshoek?
-invalshoek: wetenschappelijk/kunst
 
+invalshoek: wetenschappelijk/kunst
+**Kunst in de wetenschap:** De rol van kunst in wetenschappelijke communicatie en educatie, zoals de visualisatie van wetenschappelijke concepten in grafische vormen of het gebruik van kunst om wetenschappelijke ontdekkingen te populariseren.
 
 -wat weet je al over hem? heeft de persoon bijzondere ervaring? Of duidelijke mening?
 
