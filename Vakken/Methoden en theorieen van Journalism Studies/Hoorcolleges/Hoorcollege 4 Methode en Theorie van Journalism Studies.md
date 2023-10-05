@@ -41,7 +41,19 @@ Kenmerken van ethnografie:
 	Resultaten: concepten & typologien
 
 [[Thick discriptions]]
-Gecontextualiseerde interpre
+Gecontextualiseerde interpretative:
+- Niet alleen beschrijven, maar uitleggen waarom het geobserveerde belangrijk (significance) is voor de gemeenschap die je bestudeerd - wat betekent het voor hen?
+- Dus niet alleen gebeurtennissen en actie, maar ook gedachten, emoties en motivaties
+- gedetailleerde beschrijven: geef je lezer het gevoel daar te zijn
+
+Participant observation
+- bekijk de scene 
+- doe alsof je er zelf bij bent
+- maak aantekeningen: wie is betrokken en wat gebeurt er?
+(doel: "describing en **interpreting** the observable relationships between social practices and systems of meaning, based upon 'firsthand experience and exploration' of a particular cultural setting")
+
+
+
 
 
 
