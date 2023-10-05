@@ -2,10 +2,10 @@ week 4
 Surveys & Focusgroepen
 
 
-Ethnografie:
+[[Etnografie]]:
 Ethnos (volk, mensen) + grapho (schrijven)
 
-|                 | Ethnografie   | Experiment    |
+|                 | Etnografie   | Experiment    |
 | --------------- | ------------- | ------------- |
 | Onderzoeksvraag | verkennend    | voorspellend  | 
 | Werkelijkheid   | observeerbaar | meetbaar      |
@@ -15,7 +15,7 @@ Ethnos (volk, mensen) + grapho (schrijven)
 | analyse         | indusctief    | deductief     |
 | rapportage      | verhalend     | beschrijvend   |
 
-Ethnografie:
+Etnografie:
 de werkelijkheid is te complex. Menselijk handelen, denken en voelen is geen kwestie van natuurkundige wetten die je in isolatie kunt bestuderen.
 *Hier is de onderzoeker het instrument. en dit vraagt om zelfreflectie*
 
@@ -26,7 +26,7 @@ Je moet van tevoren precies duidelijk maken wat je zoekt en hoe je dat waarneemt
 Media consumeren is meer dan het coderen en decoderen van informatie.
 > Media consumeren is een **ervaring** die plaatsvindt in een bepaalde **context**
 
-Kenmerken van ethnografie: 
+Kenmerken van etnografie: 
 	Veldwerk: natuurlijke omgeving
 	Dagen, maanden, jaren
 	Rol onderzoeker: participant observer (meestal)
@@ -59,8 +59,9 @@ Hoe krijgen actoren de **aandacht**?
 Waar en wanneer hebben actoren interactie
 Welke gebeurtenissen zijn belangrijk?
 
-Tentamenvraag:
-Uit recente studies blijkt dat de digitalisering van het medial
+#### Tentamenvraag:
+Uit recente studies blijkt dat de digitalisering van het medialandschap een merkwaardige paradox heeft veroorzaakt. We hebben toegang tot steeds meer informatie, maar die informatie lijkt steeds meer op elkaar. Het nieuwsaanbod homogeniseerd.
+Hoe kun je die claim onderzoeken met ethnografie als zelfstandig onderzoekinstrument? Geef de onderzoeksvraag en geef aan wie en waar je zou gaan onderzoeken
 
 
 
