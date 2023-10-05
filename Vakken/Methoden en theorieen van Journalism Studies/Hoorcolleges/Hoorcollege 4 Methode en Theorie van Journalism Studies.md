@@ -3,6 +3,7 @@ Surveys & Focusgroepen
 
 
 Ethnografie:
+Ethnos (volk, mensen) + grapho (schrijven)
 
 |                 | Ethnografie   | Experiment    |
 | --------------- | ------------- | ------------- |
@@ -14,6 +15,33 @@ Ethnografie:
 | analyse         | indusctief    | deductief     |
 | rapportage      | verhalend     | beschrijvend   |
 
+Ethnografie:
+de werkelijkheid is te complex. Menselijk handelen, denken en voelen is geen kwestie van natuurkundige wetten die je in isolatie kunt bestuderen.
+*Hier is de onderzoeker het instrument. en dit vraagt om zelfreflectie*
+
+Experiment:
+Je moet van tevoren precies duidelijk maken wat je zoekt en hoe je dat waarneemt, anders krijgen vooroordelen te veel de overhand.
+*Hier wil de onderzoeker hun invloed juist zo veel mogelijk minimaliseren*
+
+Media consumeren is meer dan het coderen en decoderen van informatie.
+> Media consumeren is een **ervaring** die plaatsvindt in een bepaalde **context**
+
+Kenmerken van ethnografie: 
+	Veldwerk: natuurlijke omgeving
+	Dagen, maanden, jaren
+	Rol onderzoeker: participant observer (meestal)
+	Thick discriptions
+	Verzamelt data uit eerste hand
+	Iteratief = meerdere cycli nodig
+	inductief = genereert theorie
+	Verschillende kwalitatieve data
+	bronnen = aantekeningen
+	transcripten, documenten
+	Analyse: coderen (open & axiaal)
+	Resultaten: concepten & typologien
+
+[[Thick discriptions]]
+Gecontextualiseerde interpre
 
 
 
