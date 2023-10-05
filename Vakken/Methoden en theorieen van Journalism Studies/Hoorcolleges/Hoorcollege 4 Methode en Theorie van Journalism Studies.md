@@ -2,6 +2,18 @@ week 4
 Surveys & Focusgroepen
 
 
+Ethnografie:
+
+|                 | Ethnografie   | Experiment    |
+| --------------- | ------------- | ------------- |
+| Onderzoeksvraag | verkennend    | voorspellend  | 
+| Werkelijkheid   | observeerbaar | meetbaar      |
+| focus           | diepte        | breedte       |
+| respondenten    | intensief     | instrumenteel |
+| structuur       | open          | gesloten      |
+| analyse         | indusctief    | deductief     |
+| rapportage      | verhalend     | beschrijvend   |
+
 
 
 
@@ -33,13 +45,6 @@ Belangrijke begrippen
 	[[onafhankelijke en afhankelijke variabelen]]
 
 
-
-|                 | Kwalitatief (=weten) | Kwantitatief (=meten) |
-| --------------- | -------------------- | --------------------- |
-| Onderzoeksvraag |                      |                       |
-| Onderzoeksopzet |                      |                       |
-| Dataverzameling |                      |                       |
-| Voor de analyse |                      |                       | 
 
 |          | Kwalitatief  | kwantitatief |
 | -------- | ------------ | ------------ |
