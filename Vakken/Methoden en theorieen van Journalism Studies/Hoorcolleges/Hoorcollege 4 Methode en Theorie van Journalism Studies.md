@@ -2,20 +2,20 @@ week 4
 Surveys & Focusgroepen
 
 
-[[Etnografie]]:
+### [[Etnografie]]:
 Ethnos (volk, mensen) + grapho (schrijven)
 
-|                 | Etnografie   | Experiment    |
+|                 | [[Etnografie]]   | Experiment    |
 | --------------- | ------------- | ------------- |
 | Onderzoeksvraag | verkennend    | voorspellend  | 
 | Werkelijkheid   | observeerbaar | meetbaar      |
 | focus           | diepte        | breedte       |
 | respondenten    | intensief     | instrumenteel |
 | structuur       | open          | gesloten      |
-| analyse         | indusctief    | deductief     |
+| analyse         | indusctief    | [[deductief]]     |
 | rapportage      | verhalend     | beschrijvend   |
 
-Etnografie:
+[[Etnografie]]:
 de werkelijkheid is te complex. Menselijk handelen, denken en voelen is geen kwestie van natuurkundige wetten die je in isolatie kunt bestuderen.
 *Hier is de onderzoeker het instrument. en dit vraagt om zelfreflectie*
 
@@ -26,14 +26,14 @@ Je moet van tevoren precies duidelijk maken wat je zoekt en hoe je dat waarneemt
 Media consumeren is meer dan het coderen en decoderen van informatie.
 > Media consumeren is een **ervaring** die plaatsvindt in een bepaalde **context**
 
-Kenmerken van etnografie: 
+Kenmerken van [[etnografie]]: 
 	Veldwerk: natuurlijke omgeving
 	Dagen, maanden, jaren
 	Rol onderzoeker: participant observer (meestal)
-	Thick discriptions
+	[[Thick discriptions]]
 	Verzamelt data uit eerste hand
 	Iteratief = meerdere cycli nodig
-	inductief = genereert theorie
+	[[inductief]] = genereert theorie
 	Verschillende kwalitatieve data
 	bronnen = aantekeningen
 	transcripten, documenten
@@ -46,7 +46,7 @@ Gecontextualiseerde interpretative:
 - Dus niet alleen gebeurtennissen en actie, maar ook gedachten, emoties en motivaties
 - gedetailleerde beschrijven: geef je lezer het gevoel daar te zijn
 
-Participant observation
+Participant observation ([[participerende observatie]])
 - bekijk de scene 
 - doe alsof je er zelf bij bent
 - maak aantekeningen: wie is betrokken en wat gebeurt er?
@@ -63,11 +63,17 @@ Welke gebeurtenissen zijn belangrijk?
 Uit recente studies blijkt dat de digitalisering van het medialandschap een merkwaardige paradox heeft veroorzaakt. We hebben toegang tot steeds meer informatie, maar die informatie lijkt steeds meer op elkaar. Het nieuwsaanbod homogeniseerd.
 Hoe kun je die claim onderzoeken met ethnografie als zelfstandig onderzoekinstrument? Geef de onderzoeksvraag en geef aan wie en waar je zou gaan onderzoeken
 
+##### Antwoord
+De homogenisering van het nieuwsaanbod veronderstelt observatie: met je eigen ogen zien wat journalisten doen op een redactie (onderzoeksvraag). Het antwoord moet  minimaal de basisprincipes van nieuwsetnografie volgen: dus veldwerk (waar?) bij een bepaalde groep journalisten (wie?) motiveren.   
+*Als het antwoord bovendien technieken als [[participerende observatie]] en interviews vermeldt (en waarom die moeten ingezet worden), dan het maximum van de punten*
 
+### [[Experimenten]]
+Herleidbaarheid van geïsoleerd causaal effect van X op Y
 
+[[Hypotheses]] = de rol van theorie
+maakt een hypothese en vervolgens kijk je tijdens experiment of deze hypothese falsifieerbaar is.
 
-
-
+Voor hypothese: alle zwanen zijn wit 
 
 
 
