@@ -26,7 +26,7 @@ Je moet van tevoren precies duidelijk maken wat je zoekt en hoe je dat waarneemt
 Media consumeren is meer dan het coderen en decoderen van informatie.
 > Media consumeren is een **ervaring** die plaatsvindt in een bepaalde **context**
 
-Kenmerken van [[etnografie]]: 
+Kenmerken van [[Etnografie]]: 
 	Veldwerk: natuurlijke omgeving
 	Dagen, maanden, jaren
 	Rol onderzoeker: participant observer (meestal)
@@ -73,56 +73,46 @@ Herleidbaarheid van geïsoleerd causaal effect van X op Y
 [[Hypotheses]] = de rol van theorie
 maakt een hypothese en vervolgens kijk je tijdens experiment of deze hypothese falsifieerbaar is.
 
-Voor hypothese: alle zwanen zijn wit 
+Voor hypothese: alle zwanen zijn wit (moet je opzoek naar de zwarte zwaan)
+	je kan een hypothese nooit met waarheid bevestigen
+Doel is om hypothese te weerleggen: Wetenschappelijke kennis = theorie
+
+Karakteristieken van een experiment:
+- Een experiment is een objectieve observatie van fenomenen die men doet plaatsvinden in een strikt gecontroleerde omgeving waarin een factor wordt gevarieerd en alle andere constant worden gehouden.
+Vereisten:
+- gecontroleerde omgeving
+- invloed van onderzoeker zoveel mogelijk beperkt
+- verbanden tussen variabelen vaststellen
+- statische onderzoeksopzet
+- [[deductief]], toestend onderzoek
+- kwantitatief, resultaten zijn in cijfers, tabellen en grafieken uit te drukken
+
+Voorbeelden openlijk observeerbaar gedrag:
+- bewegingen, verbale uitingen, responsen op een [[vragenlijst]], fysiologische metingen,...
+- inwendige gebeurtenissen: worden **afgeleid** uit openlijk observeerbaar gedrag, zoals geheugen, intelligentie, persoonlijkheid,...
+- Onderzoeker manipuleert [[variabele]] en gaat na welke fenomenen daardoor plaatsvinden
+
+Wat is een [[variabele]](n)?
+dit zijn dingen die kunnen variëren
+
+Onafhankelijke variabelen  -> afhankelijke variabelen
+
+Zijn de variablen observeerbaar?
+zo nee, wat zijn dan de afgeleiden variabelen?
+Welke variabelen ga je manipuleren om het effect te meten?
 
 
+Wat is [[Validiteit]]?
+=meten wat je wil weten
 
-College 18 oct vervalt
-
-Kenmerken van de methode
-wanneer ze je de methode in
-voor- en nadelen van de methode
-hoe werkt de methode
-	- onderzoeksopzet
-	- samenstelling corpus/sample
-	- dataverzameling
-	- analyse
-
-Belangrijke begrippen
-	[[Empirische cyclus]]
-	[[Kwalitatief onderzoek]]
-	[[Kwantitatief onderzoek]]
-	[[inductief]]
-	[[deductief]]
-	[[betrouwbaarheid]]
-	[[validiteit]]
-	[[open en axiaal coderen]]
-	[[onafhankelijke en afhankelijke variabelen]]
+**Interne** [[validiteit]]: Draait om het uitsluiten van alternatieve verklaringen
+**externe** [[validiteit]]: De mate waarin we de resultaten uit het onderzoek kunnen generaliseren
+**Experimenter's Dilemma**: hoe meer experimentele controle, hoe hoger de interne [[validiteit]], maar hoe lager de externe [[validiteit]], (en omgekeerd dilemma voor onderzoeker)
 
 
-
-|          | Kwalitatief  | kwantitatief |
-| -------- | ------------ | ------------ |
-| bevragen | focusgroepen | surveys      | 
-
-**Onderzoeksethiek**
-Houdt zich bezig met bescherming van menselijke deelnemers (proefpersonen)
-
-Aangeven waar je data opslaat.
-
----
-
-Hoe ziet ons mediagebruik eruit?
-
-Top 5 meest gebruikte nieuws media?
-1. Instagram
-2. Leidsch dagbland
-3. volkskrant
-4. nos.nl
-5. 20u journaal
-
-Welke vragen stel je elkaar?
+[[Betrouwbaarheid]]
+Als het experiment wordt herhaald, komt de onderzoeker dan tot dezelfde resultaten?
 
 
-[[Survey]] = systematisch grote groepen mensen ondervragen
-
+Tentamenvraag:
+What is the effect on memory when seemingly
