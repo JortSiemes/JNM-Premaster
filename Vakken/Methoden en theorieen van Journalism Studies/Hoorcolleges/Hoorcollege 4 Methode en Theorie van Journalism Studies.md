@@ -52,7 +52,15 @@ Participant observation
 - maak aantekeningen: wie is betrokken en wat gebeurt er?
 (doel: "describing en **interpreting** the observable relationships between social practices and systems of meaning, based upon 'firsthand experience and exploration' of a particular cultural setting")
 
+Actoren (namen, titel, status)
+Setting (ruimte, aankleding, organisatie)
+Hoe ontstaan de **Interacties** (welke sociale normen zijn relevant? hoe praten actoren? Hoe lang duurt de interactie? Wanneer is de interactie klaar?)
+Hoe krijgen actoren de **aandacht**?
+Waar en wanneer hebben actoren interactie
+Welke gebeurtenissen zijn belangrijk?
 
+Tentamenvraag:
+Uit recente studies blijkt dat de digitalisering van het medial
 
 
 
