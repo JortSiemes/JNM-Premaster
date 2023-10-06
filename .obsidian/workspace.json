@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "25400d46a2b73dcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 3 Journalistiek en Redactionele vaardigheden.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4f489cb017cea66d",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 2 Journalistiek en Redactionele vaardigheden.md",
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 3 Journalistiek en Redactionele vaardigheden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 2 Journalistiek en Redactionele vaardigheden.md",
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 3 Journalistiek en Redactionele vaardigheden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,11 +158,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 2 Journalistiek en Redactionele vaardigheden.md"
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 3 Journalistiek en Redactionele vaardigheden.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -166,9 +180,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48869885a863f2a9",
+  "active": "25400d46a2b73dcb",
   "lastOpenFiles": [
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Leidraad notities Journalistieke en redactionele vaardigheden.md",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 2 Journalistiek en Redactionele vaardigheden.md"
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 2 Journalistiek en Redactionele vaardigheden.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 3 Journalistiek en Redactionele vaardigheden.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Leidraad notities Journalistieke en redactionele vaardigheden.md"
   ]
 }
