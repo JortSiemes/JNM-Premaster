@@ -25,7 +25,7 @@ vanaf nu ben je on the record.
 Jan Haerynck (disneyland ontvoering) verzon verhalen
 
 
-**Werkpan** (1 a4'tje, is eerste stap)
+**[[Werkplan]]** (1 a4'tje, is eerste stap)
 -waarom deze persoon?
 -aanleiding?
 -waarom nu?
@@ -34,7 +34,7 @@ Jan Haerynck (disneyland ontvoering) verzon verhalen
 -Wat worden hoofdvragen? hoeveel vragen? Niet te veel vragen!
 -persoon titel
 
-Vragenlijst ()
+[[Vragenlijst]] ()
 - onderscheid algemene vragen, meer inhoudelijke vragen, afsluitende vragen.
 - Breder starten en dan in de details
 - Niet te brede vraag: (Wat zit er allemaal in de rook?: Beter: Zat er aluminium in de rook?)
@@ -44,7 +44,7 @@ Vragenlijst ()
 Publiek: Breed, hoog opgeleid, MAAR niet noodzakelijk experts
 
 **Huiswerk: 
-Werkplan + Vragenlijst** 4ocktober 9uur
+[[Werkplan]] + [[Vragenlijst]]** 4ocktober 9uur
 aantal vragen 1 a4
 UITERLIJK 6 oktober
 
@@ -66,7 +66,7 @@ Hoe begin je interview:
 	(schrijf mee)
 	laat merken dat je voorbereid bent
 	begin niet gelijk met een stevige 'waarom' - vraag.
-	volg je vragenlijst, jij bent de regisseur van het gesprek.
+	volg je [[vragenlijst]], jij bent de regisseur van het gesprek.
 	vraag door! Hoe dan PRECIES? Waarom dan PRECIES? Heeft u een voorbeeld? Maak het **concreet**
 	Herhaal af en toe antwoorden. Vat samen. (Dus u zei: ..... maar hoe zit het met: 'volgende vraag')
 
