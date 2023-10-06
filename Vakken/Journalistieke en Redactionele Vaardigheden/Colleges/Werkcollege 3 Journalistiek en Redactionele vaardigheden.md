@@ -38,9 +38,16 @@ Kort houden
 Niet te veel citaat (krenten uit de pap, en verder parafraseren in eigen woorden)
 
 tips:
-gebruik synoniemen, 
+gebruik synoniemen
+
+gebruik werkwoorden voor begeleidende handelingen: Knikken, schudden schateren etc..
 
 
+
+
+Huiswerk voor volgende week: (zie checklist handboek p.322)
+Deadline v1 interview op Brightspace: woensdag 11 okt, 9:00uur (in discussions en assignments)
+Commentaar geven op 12 oktober 9:00u
 
 
 
