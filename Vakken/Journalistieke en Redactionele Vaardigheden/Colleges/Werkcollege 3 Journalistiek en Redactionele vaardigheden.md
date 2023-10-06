@@ -32,7 +32,13 @@ Dan nadenken over een van de vier modellen
 
 elk heeft voor- en nadelen en past bij verschillend doel/stijl
 
+Citaten:
+Kort houden
 
+Niet te veel citaat (krenten uit de pap, en verder parafraseren in eigen woorden)
+
+tips:
+gebruik synoniemen, 
 
 
 
