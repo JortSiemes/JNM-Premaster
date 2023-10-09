@@ -1,11 +1,6 @@
 1.  ‘de auteurs bedoelen dus kennelijk dat gebeurtenissen en daden worden metaforisch geconceptualiseerd als objecten. Dus omdat een wedstrijd zelf metaforische substantie is zeg je "Zit jij in de wedstrijd van zondag?" Maar omdat een naar een wedstrijd gaan een metaforisch object is zeg je "Ga jij naar de wedstrijd/Was jij bij de wedstrijd"  Zie ik dat goed of niet?’ 
 
-2. a.  Hij gebruikt het metafoor: Planeten voor vak K, 
-- Maar een betere naam is: ‘Planeet Rutte’.
-- In hun eigen zonnestelsel.
-- Een planeet losgezongen...
-- De Zonnekoning
-- de baas van de planeet
+2.  a.  
  
 
 b. Ja, ik vind het een strategisch gekozen metafoor, omdat het doel van Wilders was om het verschil tussen de Kamer en 'vak K' aan te tonen. Ik denk dat iedereen dit begrijpt wanneer je het hebt over de metafoor van een andere planeet.
