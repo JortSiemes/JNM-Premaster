@@ -10,7 +10,7 @@ Some students were absent +> **not** all students were absent
 
 | Q-implicaturen                                                   | R-implicaturen                                                                      |
 | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| The speaker does not mean anything more than he said             | The speaker menas more than he said                                                 |
+| The speaker does not mean anything more than he said             | The speaker means more than he said                                                 |
 | Negative implicature  (+> NOT x)                                            | Enrichment, elaboration                                                             |
 | On the basis of what the speaker could have siad but did not say | On the basis of what is normal, stereotypicalm unmarked, self-evident, common sense | 
 
