@@ -11,21 +11,31 @@
             "id": "d3edf130760d8737",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 4 (Jort Siemes, s4028198).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
             "id": "3e2574842e4d0fe2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Vakken/Woorden als wapens/Week4 opdracht.pdf"
+                "file": "Vakken/Taal en communicatie/Onderwerpen/conversationele implicatuur.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3be4cf65cb3615e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Taal en communicatie/Onderwerpen/conventionele implicatuur.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -41,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 4 (Jort Siemes, s4028198).md",
+                "file": "Vakken/Taal en communicatie/Onderwerpen/conversationele implicatuur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 4 (Jort Siemes, s4028198).md",
+                "file": "Vakken/Taal en communicatie/Onderwerpen/conversationele implicatuur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 4 (Jort Siemes, s4028198).md"
+                "file": "Vakken/Taal en communicatie/Onderwerpen/conversationele implicatuur.md"
               }
             }
           }
@@ -177,11 +188,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3edf130760d8737",
+  "active": "cc6e1233067d8b42",
   "lastOpenFiles": [
-    "Vakken/Woorden als wapens/Onderwerpen/Conceptuele metafoor.md",
-    "Vakken/Woorden als wapens/Week4 opdracht.pdf",
+    "Vakken/Taal en communicatie/Hoorcolleges/Werkcollege 3 taal en communicatie.md",
+    "Vakken/Taal en communicatie/Onderwerpen/conventionele implicatuur.md",
+    "Vakken/Taal en communicatie/Onderwerpen/conversationele implicatuur.md",
+    "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 3 Taal en communicatie.md",
+    "Vakken/Taal en communicatie/Onderwerpen",
+    "Vakken/Taal en communicatie/Hoorcolleges/Werkcollege 2 taal en communicatie.md",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 4 (Jort Siemes, s4028198).md",
+    "Vakken/Woorden als wapens/Week4 opdracht.pdf",
+    "Vakken/Woorden als wapens/Onderwerpen/Conceptuele metafoor.md",
     "Vakken/Woorden als wapens/Onderwerpen/doeldomein.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Leidraad notities Journalistieke en redactionele vaardigheden.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 2 Journalistiek en Redactionele vaardigheden.md",
@@ -203,13 +220,11 @@
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 3 Journalistiek en Redactionele vaardigheden.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/~$nstructieInterview_VincentIcke.docx",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/~WRL1334.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/~WRD1330.tmp",
     "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 4 Methode en Theorie van Journalism Studies.md",
     "conflict-files-obsidian-git.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Werkplan.md",
     "Onderwerpen/variabele.md",
     "Onderwerpen/participerende observatie.md",
-    "Onderwerpen/Thick discriptions.md",
-    "Onderwerpen/Etnografie.md"
+    "Onderwerpen/Thick discriptions.md"
   ]
 }

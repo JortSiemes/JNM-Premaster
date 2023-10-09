@@ -3,7 +3,7 @@
 
 | what is said (Letterlijke betekenis)             | [[Implicatuur]]                |                             |
 | ------------------------- | ------------------------------ | --------------------------- |
-| [[Waarheidsconditioneel]] | Niet [[Waarheidsconditioneel]] | Niet [[Waarheidsconditioneel]]  |
+| [[waarheidsconditioneel]] | Niet [[waarheidsconditioneel]] | Niet [[waarheidsconditioneel]]  |
 | Not Cancellable           | Cancellable                    | Not Cancellable             |
 |                           | Conventionele [[Implicatuur]]      | Conversationele [[Implicatuur]] |
    

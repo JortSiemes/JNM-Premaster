@@ -8,3 +8,8 @@ cancellable ()
 non-detachable
 non-conventional
 indeterminate
+
+
+## [[conversationele implicatuur]]
+
+## [[conventionele implicatuur]]
