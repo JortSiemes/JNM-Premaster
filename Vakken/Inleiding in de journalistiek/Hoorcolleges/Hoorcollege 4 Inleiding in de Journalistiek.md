@@ -17,3 +17,8 @@ Vacatures -> LinkedIn
 Huizenadvertenties -> Funda
 Dating -> Tinder
 
+Nieuwe reclamevormen:
+Native advertising; Advertentie ziet eruit als gewoon bericht
+Sponsored Content
+Branded Journalism
+Content Marketing
