@@ -8,55 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "48869885a863f2a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 2 Journalistiek en Redactionele vaardigheden.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25400d46a2b73dcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 3 (Jort Siemes, s4028198).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d3edf130760d8737",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Woorden als wapens/Onderwerpen/doeldomein.md",
+                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 4 (Jort Siemes, s4028198).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4f489cb017cea66d",
+            "id": "0dc25c83a1bdb76f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Leidraad notities Journalistieke en redactionele vaardigheden.md",
+                "file": "Vakken/Woorden als wapens/Onderwerpen/Conceptuele metafoor.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Woorden als wapens/Onderwerpen/doeldomein.md",
+                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 4 (Jort Siemes, s4028198).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,9 +122,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Woorden als wapens/Onderwerpen/doeldomein.md",
+                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 4 (Jort Siemes, s4028198).md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -170,12 +145,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Woorden als wapens/Onderwerpen/doeldomein.md"
+                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 4 (Jort Siemes, s4028198).md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -192,18 +167,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34f98337b2da7afd",
+  "active": "d3edf130760d8737",
   "lastOpenFiles": [
-    "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md",
-    "Vakken/Woorden als wapens/Onderwerpen/brondomein.md",
-    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 3 (Jort Siemes, s4028198).md",
     "Vakken/Woorden als wapens/Onderwerpen/Conceptuele metafoor.md",
+    "Vakken/Woorden als wapens/Onderwerpen/doeldomein.md",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 4 (Jort Siemes, s4028198).md",
-    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 2 (Jort Siemes, s4028198).md",
-    "Vakken/Woorden als wapens/Weekopdrachten/Week3_opdracht.pdf",
-    "Vakken/Woorden als wapens/Onderwerpen/Metafoor.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Leidraad notities Journalistieke en redactionele vaardigheden.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 2 Journalistiek en Redactionele vaardigheden.md",
+    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 3 (Jort Siemes, s4028198).md",
+    "Vakken/Woorden als wapens/Onderwerpen/Metafoor.md",
+    "Vakken/Woorden als wapens/Onderwerpen/brondomein.md",
+    "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md",
+    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 2 (Jort Siemes, s4028198).md",
+    "Vakken/Woorden als wapens/Weekopdrachten/Week3_opdracht.pdf",
     "Onderwerpen/Implicatuur.md",
     "Vakken/Woorden als wapens/Week2 Opdracht.pdf",
     "Vakken/Woorden als wapens/Onderwerpen",

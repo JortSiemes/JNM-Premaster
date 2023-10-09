@@ -2,9 +2,6 @@ Een metafoor is een vorm van beeldspraak die wordt gebruikt om een indirecte ver
 
 Soorten Metaforen:
 - [[Conceptuele metafoor]]
-- 
-
-
 
 Voorbeelden van metaforen:
 
