@@ -52,6 +52,18 @@
             }
           },
           {
+            "id": "ad992564cae5fbfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Taal en communicatie/Onderwerpen/Q-Implicaturen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b32a386592af9dc4",
             "type": "leaf",
             "state": {
@@ -76,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Taal en communicatie/Onderwerpen/Explicaturen.md",
+                "file": "Vakken/Taal en communicatie/Onderwerpen/R-Implicaturen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Taal en communicatie/Onderwerpen/Explicaturen.md",
+                "file": "Vakken/Taal en communicatie/Onderwerpen/R-Implicaturen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -190,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Taal en communicatie/Onderwerpen/Explicaturen.md"
+                "file": "Vakken/Taal en communicatie/Onderwerpen/R-Implicaturen.md"
               }
             }
           }
@@ -213,13 +225,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07155243820de838",
+  "active": "ffc10d057a684fff",
   "lastOpenFiles": [
+    "Vakken/Taal en communicatie/Onderwerpen/Q-Implicaturen.md",
+    "Vakken/Taal en communicatie/Onderwerpen/R-Implicaturen.md",
+    "Vakken/Taal en communicatie/Onderwerpen/Q-Implicaturen 1.md",
     "Vakken/Taal en communicatie/Onderwerpen/Relevantie Theorie.md",
     "Vakken/Taal en communicatie/Colleges/Hoorcollege 3 Taal en communicatie.md",
-    "Vakken/Taal en communicatie/Onderwerpen/Q-Implicaturen.md",
     "Vakken/Taal en communicatie/Onderwerpen/Explicaturen.md",
-    "Vakken/Taal en communicatie/Onderwerpen/R-Implicaturen.md",
     "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 4 Inleiding in de Journalistiek.md",
     "Films.md",
     "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 3 Inleiding in de Journalistiek.md",
@@ -241,7 +254,6 @@
     "Vakken/Taal en communicatie/Onderwerpen/Semantiek.md",
     "Vakken/Taal en communicatie/Colleges/Werkcollege 2 taal en communicatie.md",
     "Vakken/Taal en communicatie/Onderwerpen/conversationele implicatuur.md",
-    "Vakken/Taal en communicatie/Onderwerpen/Scalaire implicatuur.md",
     "Vakken/Taal en communicatie/Onderwerpen",
     "Vakken/Woorden als wapens/Week4 opdracht.pdf",
     "Vakken/Woorden als wapens/Weekopdrachten/Week3_opdracht.pdf",

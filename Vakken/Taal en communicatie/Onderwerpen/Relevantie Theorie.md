@@ -9,7 +9,7 @@ Relevantie is beschreven in the termen van: cost en benefit
 	Cost: The processing effort needed to 'get' it
 		Less processing effort = more relevant
 
-In praktijk is dit: The first relevant interpretation of an utterance that comes to mind simply has to be the one intended by the speaker.
+### In praktijk is dit: The first relevant interpretation of an utterance that comes to mind simply has to be the one intended by the speaker.
 
 Soms kost de interpretatie meer moeite (voorbeeld: ironie, [[metafoor]]) maar dan is dit gecompenseerd met grotere contextuele effecten.
 
