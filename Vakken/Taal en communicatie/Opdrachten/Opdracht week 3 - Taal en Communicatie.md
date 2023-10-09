@@ -2,7 +2,7 @@
 2.	Conventioneel (niet annuleerbaar)
 3.	geen [[implicatuur]] of conversationeel
 
-2.	Het tegenoverstelde van ‘wat een fijne jongen ben jij”. Volgens het [[maxime]] van kwaliteit, De spreker flout de [[maxime]].
+2.	Het tegenoverstelde van ‘wat een fijne jongen ben jij”. Volgens het [[Maxime]] van kwaliteit, De spreker flout de [[Maxime]].
 b. Conventioneel, als we de context van girlscene niet nodig hebben, omdat we het altijd op dezelfde manier interpreteren is het een conventie. 
 
 3. [[Maxime]] van relatie want waarom zou je dit opschrijven als je niet het resultaat had gewild.

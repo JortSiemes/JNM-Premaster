@@ -21,3 +21,6 @@ Heartless Kanye West:
 "Coldest story ever told"
 Dit is een metafoor want een verhaal kan niet koud zijn, de [[implicatuur]] van koud betekend verdrietig.
 
+[[Metafoor]]: breekt bijna altijd [[Maxime]] van Kwaliteit want is eigenlijk altijd onwaar (Give an arm for you)
+
+

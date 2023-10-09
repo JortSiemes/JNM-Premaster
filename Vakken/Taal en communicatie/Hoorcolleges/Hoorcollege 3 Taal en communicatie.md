@@ -19,9 +19,9 @@ It is raining but the sun in shining
 | would you like coffee **or** tea?                                                  |                               |
 | *Standaard, default [[implicatuur]], Triggered by linguistic element, may be cancelled | Entirely dependent on context |
 
-[[Implicatuur]]: Metafoor (more or less fixed expression, 'dead metaphor')
+[[Implicatuur]]: [[Metafoor]] (more or less fixed expression, 'dead metaphor')
 
-Metafoor: breekt bijna altijd [[Maxime]] van Kwaliteit want is eigenlijk altijd onwaar (Give an arm for you)
+[[Metafoor]]: breekt bijna altijd [[Maxime]] van Kwaliteit want is eigenlijk altijd onwaar (Give an arm for you)
 
 [[Maxime]] van Kwaliteit
 [[Maxime]] van Kwantiteit
