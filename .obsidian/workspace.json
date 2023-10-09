@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 2 taal en communicatie.md",
+                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 4 (Jort Siemes, s4028198).md",
                 "mode": "source",
                 "source": false
               }
@@ -33,31 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Explicaturen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "176ccb31844c055b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Explicaturen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "acca3e763b2bf5d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R-Implicaturen.md",
+                "file": "Vakken/Taal en communicatie/Onderwerpen/R-Implicaturen.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q-Implicaturen.md",
+                "file": "Vakken/Taal en communicatie/Onderwerpen/Q-Implicaturen.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Explicaturen.md",
+                "file": "Vakken/Taal en communicatie/Onderwerpen/R-Implicaturen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Explicaturen.md",
+                "file": "Vakken/Taal en communicatie/Onderwerpen/R-Implicaturen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -202,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Explicaturen.md"
+                "file": "Vakken/Taal en communicatie/Onderwerpen/R-Implicaturen.md"
               }
             }
           }
@@ -226,16 +202,20 @@
   },
   "active": "3be4cf65cb3615e8",
   "lastOpenFiles": [
+    "Vakken/Taal en communicatie/Onderwerpen/Q-Implicaturen.md",
+    "Vakken/Taal en communicatie/Onderwerpen/R-Implicaturen.md",
     "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 4 Taal en communicatie.md",
+    "Vakken/Taal en communicatie/Onderwerpen/Explicaturen.md",
+    "Vakken/Taal en communicatie/Onderwerpen/Pragmatiek.md",
+    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 4 (Jort Siemes, s4028198).md",
+    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 4 (Jort Siemes, s4028198).pdf",
+    "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 2 taal en communicatie.md",
+    "Vakken/Woorden als wapens/Weekopdrachten/~$ekopdracht Week 4 (Jort Siemes, s4028198).md",
     "Maxi.md",
-    "Explicaturen.md",
-    "R-Implicaturen.md",
-    "Q-Implicaturen.md",
     "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 3 Taal en communicatie.md",
     "Notities Dagelijk/September/2023-09-18.md",
-    "Particuliere implicatuur.md",
-    "Gegeneralisserde implicatuur.md",
-    "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 2 taal en communicatie.md",
+    "Vakken/Taal en communicatie/Onderwerpen/Particuliere implicatuur.md",
+    "Vakken/Taal en communicatie/Onderwerpen/Gegeneralisserde implicatuur.md",
     "Vakken/Woorden als wapens/Onderwerpen/Metafoor.md",
     "Vakken/Taal en communicatie/Onderwerpen/conventionele implicatuur.md",
     "Vakken/Taal en communicatie/Onderwerpen/Maxime.md",
@@ -249,18 +229,13 @@
     "Vakken/Taal en communicatie/Opdrachten/Opdracht week 3 - Taal en Communicatie.md",
     "Vakken/Taal en communicatie/Hoorcolleges/Werkcollege 3 taal en communicatie.md",
     "Vakken/Taal en communicatie/Onderwerpen",
-    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 4 (Jort Siemes, s4028198).md",
     "Vakken/Woorden als wapens/Week4 opdracht.pdf",
-    "Vakken/Woorden als wapens/Onderwerpen/Conceptuele metafoor.md",
-    "Vakken/Woorden als wapens/Onderwerpen/doeldomein.md",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Leidraad notities Journalistieke en redactionele vaardigheden.md",
     "Vakken/Woorden als wapens/Weekopdrachten/Week3_opdracht.pdf",
     "Vakken/Woorden als wapens/Week2 Opdracht.pdf",
     "Vakken/Woorden als wapens/Onderwerpen",
     "Vakken/Woorden als wapens/Programma.pdf",
     "Vakken/Woorden als wapens/Introduction to Discourse Studies_New Edition_Paragraaf8.pdf",
     "Vakken/Woorden als wapens/03 Lakoff & Johnson (1999)_H1-7,10.pdf",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/~$nstructieInterview_VincentIcke.docx",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/~WRL1334.tmp"
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/~$nstructieInterview_VincentIcke.docx"
   ]
 }
