@@ -1,5 +1,5 @@
 
-[[Implicatuur]]: Conventioneel, Conversationeel ([[Gegeneralisserde implicatuur]], [[Particuliere implicatuur]])
+[[Implicatuur]]: Conventioneel, Conversationeel ([[Gegeneraliseerde implicatuur]], [[Particuliere implicatuur]])
 
 | what is said (Letterlijke betekenis)             | [[Implicatuur]]                |                             |
 | ------------------------- | ------------------------------ | --------------------------- |
