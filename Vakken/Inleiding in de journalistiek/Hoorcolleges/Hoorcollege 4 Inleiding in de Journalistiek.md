@@ -11,3 +11,6 @@ nu.nl 1999
 Defensieve innovatiecultuur
 oude dingen op een nieuwe manier presenteren.
 
+Verdwenen inkomsten:
+Rubrieksadvertenties -> marktplaats
+
