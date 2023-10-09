@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "3e2574842e4d0fe2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Vakken/Woorden als wapens/Week4 opdracht.pdf"
+              }
+            }
+          },
+          {
             "id": "0dc25c83a1bdb76f",
             "type": "leaf",
             "state": {
@@ -167,11 +177,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc6e1233067d8b42",
+  "active": "d3edf130760d8737",
   "lastOpenFiles": [
     "Vakken/Woorden als wapens/Onderwerpen/Conceptuele metafoor.md",
-    "Vakken/Woorden als wapens/Onderwerpen/doeldomein.md",
+    "Vakken/Woorden als wapens/Week4 opdracht.pdf",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 4 (Jort Siemes, s4028198).md",
+    "Vakken/Woorden als wapens/Onderwerpen/doeldomein.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Leidraad notities Journalistieke en redactionele vaardigheden.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 2 Journalistiek en Redactionele vaardigheden.md",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 3 (Jort Siemes, s4028198).md",
@@ -183,7 +194,6 @@
     "Onderwerpen/Implicatuur.md",
     "Vakken/Woorden als wapens/Week2 Opdracht.pdf",
     "Vakken/Woorden als wapens/Onderwerpen",
-    "Vakken/Woorden als wapens/Week4 opdracht.pdf",
     "Vakken/Woorden als wapens/Programma.pdf",
     "Vakken/Woorden als wapens/Introduction to Discourse Studies_New Edition_Paragraaf8.pdf",
     "Vakken/Woorden als wapens/COLLECTIE FILE Woorden als wapens.md",

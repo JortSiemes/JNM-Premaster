@@ -1,4 +1,4 @@
-1. 
+1.  ‘de auteurs bedoelen dus kennelijk het concept dat je meerdere conceptuele metaforen voor hetzelfde doeldomein kan gebruiken. Bijvoorbeeld bij een kankerpatiënt kan je een gevecht of een reis kiezen. Is het dan zo dat doeldomeinen meerdere brondomeinen kunnen hebben en dat we ze allebij normaal vinden? Want ik snap allebei de zinnen als iemand dat zou vertellen: Ik heb jarenlang gestreden tegen de kanker & toen kanker werd vastgesteld ben ik een hele reis begonnen.
 
 2.  a.  [[Metafoor]] is: het virus dreigt te winnen is een [[conceptuele metafoor]]. Het Aids virus is lastig om te begrijpen omdat dit kleine deeltjes zijn met als enige doel repliceren. Maar om dit te begrijpen gebruiken we de termen van wedstrijd / gevecht. Deze [[conceptuele metafoor]] helpt ons om de situatie beter te begrijpen.
  
@@ -9,4 +9,4 @@ Geheugen als boek, dit is een [[conceptuele metafoor]] omdat het een meer begrij
 
 d. Ja omdat dementie een erg complex begrip is en erg persoonlijk, door middel van dit soort uitleg over hoe zo'n geheugenprobleem werkt legt de vergelijking met een boekenkast als opslag voor je geheugen ook wel boeken. Veel uit over de status van de persoon die deze geheugens niet meer kan aanmaken.
 
-3. 
+3. De cocacola reclame over: "open happiness", waarin de softdrink als [[doeldomein]] en happiness als [[brondomein]] word gebruikt. Dit doet Coca-Cola om hun drankje te framen als een vrolijk moment in je dag. Ook gebruiken ze dit [[metafoor]] regelmatig rondom al hun reclames. Bijvoorbeeld, choose happiness wat een impliceert dat als je Cola van Coca-Cola kiest in plaats van hun concurrenten. 
