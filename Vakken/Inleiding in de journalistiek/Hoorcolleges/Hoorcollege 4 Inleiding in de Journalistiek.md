@@ -22,3 +22,10 @@ Native advertising; Advertentie ziet eruit als gewoon bericht
 Sponsored Content
 Branded Journalism
 Content Marketing
+
+2010 the year of the paywall
+New york times, afgelopen met gratis website nu mensen betalen voor artikelen.
+
+Freemium gedeelte gratis gedeelte premium
+
+Online verdienmodellen
