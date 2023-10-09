@@ -11,6 +11,8 @@ nu.nl 1999
 Defensieve innovatiecultuur
 oude dingen op een nieuwe manier presenteren.
 
-Verdwenen inkomsten:
+Verdwenen inkomsten (uit krant):
 Rubrieksadvertenties -> marktplaats
-
+Vacatures -> LinkedIn
+Huizenadvertenties -> Funda
+Dating -> Tinder
