@@ -21,3 +21,7 @@ Implicature: not both icecream and pudding
 
 Ik heb twee zonen (niet meer)
 
+marked expression implicates marked meaning
+My father's wife (marked expression) +> NOT my mother (unmarked expression)
+
+

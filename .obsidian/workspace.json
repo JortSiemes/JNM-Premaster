@@ -16,18 +16,6 @@
             }
           },
           {
-            "id": "3e2574842e4d0fe2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 4 (Jort Siemes, s4028198).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3be4cf65cb3615e8",
             "type": "leaf",
             "state": {
@@ -45,14 +33,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Taal en communicatie/Onderwerpen/Q-Implicaturen.md",
+                "file": "Vakken/Taal en communicatie/Onderwerpen/Relevantie Theorie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07155243820de838",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Taal en communicatie/Onderwerpen/Explicaturen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Taal en communicatie/Onderwerpen/Q-Implicaturen.md",
+                "file": "Vakken/Taal en communicatie/Onderwerpen/Relevantie Theorie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Taal en communicatie/Onderwerpen/Q-Implicaturen.md",
+                "file": "Vakken/Taal en communicatie/Onderwerpen/Relevantie Theorie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Taal en communicatie/Onderwerpen/Q-Implicaturen.md"
+                "file": "Vakken/Taal en communicatie/Onderwerpen/Relevantie Theorie.md"
               }
             }
           }
@@ -192,10 +192,11 @@
   },
   "active": "d5813144fe806667",
   "lastOpenFiles": [
-    "Vakken/Taal en communicatie/Onderwerpen/R-Implicaturen.md",
     "Vakken/Taal en communicatie/Onderwerpen/Q-Implicaturen.md",
-    "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 4 Taal en communicatie.md",
+    "Vakken/Taal en communicatie/Onderwerpen/Relevantie Theorie.md",
+    "Vakken/Taal en communicatie/Onderwerpen/R-Implicaturen.md",
     "Vakken/Taal en communicatie/Onderwerpen/Explicaturen.md",
+    "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 4 Taal en communicatie.md",
     "Vakken/Taal en communicatie/Onderwerpen/Pragmatiek.md",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 4 (Jort Siemes, s4028198).md",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 4 (Jort Siemes, s4028198).pdf",
