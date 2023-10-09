@@ -1,4 +1,5 @@
 
 Internet journalistiek,
 
-korte historie vna nederlandse internet journalistiek
+korte historie van nederlandse internet journalistiek
+
