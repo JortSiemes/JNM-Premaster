@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Taal en communicatie/Onderwerpen/R-Implicaturen.md",
+                "file": "Vakken/Taal en communicatie/Onderwerpen/Relevantie Theorie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Taal en communicatie/Onderwerpen/R-Implicaturen.md",
+                "file": "Vakken/Taal en communicatie/Onderwerpen/Relevantie Theorie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Taal en communicatie/Onderwerpen/R-Implicaturen.md"
+                "file": "Vakken/Taal en communicatie/Onderwerpen/Relevantie Theorie.md"
               }
             }
           }
@@ -225,10 +225,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ffc10d057a684fff",
+  "active": "b32a386592af9dc4",
   "lastOpenFiles": [
-    "Vakken/Taal en communicatie/Onderwerpen/Q-Implicaturen.md",
     "Vakken/Taal en communicatie/Onderwerpen/R-Implicaturen.md",
+    "Vakken/Taal en communicatie/Onderwerpen/Q-Implicaturen.md",
     "Vakken/Taal en communicatie/Onderwerpen/Q-Implicaturen 1.md",
     "Vakken/Taal en communicatie/Onderwerpen/Relevantie Theorie.md",
     "Vakken/Taal en communicatie/Colleges/Hoorcollege 3 Taal en communicatie.md",
