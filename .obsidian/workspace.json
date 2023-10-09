@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Taal en communicatie/Onderwerpen/conversationele implicatuur.md",
+                "file": "Vakken/Taal en communicatie/Onderwerpen/waarheidsconditioneel.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Taal en communicatie/Onderwerpen/conversationele implicatuur.md",
+                "file": "Vakken/Taal en communicatie/Onderwerpen/waarheidsconditioneel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Taal en communicatie/Onderwerpen/conversationele implicatuur.md",
+                "file": "Vakken/Taal en communicatie/Onderwerpen/waarheidsconditioneel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Taal en communicatie/Onderwerpen/conversationele implicatuur.md"
+                "file": "Vakken/Taal en communicatie/Onderwerpen/waarheidsconditioneel.md"
               }
             }
           }
@@ -188,12 +188,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc6e1233067d8b42",
+  "active": "3e2574842e4d0fe2",
   "lastOpenFiles": [
-    "Vakken/Taal en communicatie/Hoorcolleges/Werkcollege 3 taal en communicatie.md",
-    "Vakken/Taal en communicatie/Onderwerpen/conventionele implicatuur.md",
-    "Vakken/Taal en communicatie/Onderwerpen/conversationele implicatuur.md",
     "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 3 Taal en communicatie.md",
+    "Vakken/Taal en communicatie/Onderwerpen/conventionele implicatuur.md",
+    "Vakken/Taal en communicatie/Onderwerpen/Scalaire implicatuur.md",
+    "Vakken/Taal en communicatie/Onderwerpen/conversationele implicatuur.md",
+    "Vakken/Taal en communicatie/Hoorcolleges/Hoorcollege 2 taal en communicatie.md",
+    "Vakken/Taal en communicatie/Taal en communicatie.md",
+    "Maxi.md",
+    "Vakken/Taal en communicatie/Opdrachten/Opdracht week 3 - Taal en Communicatie.md",
+    "Vakken/Taal en communicatie/Hoorcolleges/Werkcollege 3 taal en communicatie.md",
     "Vakken/Taal en communicatie/Onderwerpen",
     "Vakken/Taal en communicatie/Hoorcolleges/Werkcollege 2 taal en communicatie.md",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 4 (Jort Siemes, s4028198).md",
@@ -220,11 +225,6 @@
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 3 Journalistiek en Redactionele vaardigheden.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/~$nstructieInterview_VincentIcke.docx",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/~WRL1334.tmp",
-    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 4 Methode en Theorie van Journalism Studies.md",
-    "conflict-files-obsidian-git.md",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Werkplan.md",
-    "Onderwerpen/variabele.md",
-    "Onderwerpen/participerende observatie.md",
-    "Onderwerpen/Thick discriptions.md"
+    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 4 Methode en Theorie van Journalism Studies.md"
   ]
 }
