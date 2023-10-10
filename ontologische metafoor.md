@@ -1,1 +1,0 @@
-een niet-fysiek iets (doeldomein) als entiteit of substantie (brondomein) voorst

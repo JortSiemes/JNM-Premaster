@@ -16,72 +16,12 @@
             }
           },
           {
-            "id": "07155243820de838",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Taal en communicatie/Onderwerpen/Explicaturen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8806d94daad58f58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Taal en communicatie/Colleges/Hoorcollege 3 Taal en communicatie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ffc10d057a684fff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Taal en communicatie/Onderwerpen/R-Implicaturen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad992564cae5fbfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Taal en communicatie/Onderwerpen/Q-Implicaturen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b32a386592af9dc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 4 Woorden als Wapens.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3461de008344baaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontologische metafoor.md",
+                "file": "Vakken/Woorden als wapens/Onderwerpen/ontologische metafoor.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "oriëntatiemetafoor.md",
+                "file": "Vakken/Woorden als wapens/Onderwerpen/oriëntatiemetafoor.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,14 +45,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "structuurmetafoor.md",
+                "file": "Vakken/Woorden als wapens/Onderwerpen/structuurmetafoor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "badf986d87befad0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 4 Woorden als Wapens.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -186,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontologische metafoor.md",
+                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 4 Woorden als Wapens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontologische metafoor.md",
+                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 4 Woorden als Wapens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -226,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontologische metafoor.md"
+                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 4 Woorden als Wapens.md"
               }
             }
           }
@@ -235,8 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,12 +201,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3461de008344baaf",
+  "active": "badf986d87befad0",
   "lastOpenFiles": [
-    "oriëntatiemetafoor.md",
-    "ontologische metafoor.md",
+    "Vakken/Woorden als wapens/Onderwerpen/structuurmetafoor.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/Anomaly.md",
+    "Vakken/Woorden als wapens/Onderwerpen/ontologische metafoor.md",
+    "Beelden/Pasted image 20231010124214.png",
+    "Vakken/Woorden als wapens/Onderwerpen/oriëntatiemetafoor.md",
+    "Beelden/Pasted image 20231010124337.png",
     "Vakken/Woorden als wapens/Colleges/Werkcollege 4 Woorden als Wapens.md",
-    "structuurmetafoor.md",
     "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md",
     "Vakken/Taal en communicatie/Onderwerpen/Relevantie Theorie.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Thomas Kuhn.md",
@@ -264,11 +219,8 @@
     "Vakken/Wetenschapsfilosofie/Onderwerpen/normal science.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/crisis.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen",
-    "Pasted image 20231010124337.png",
-    "Pasted image 20231010124214.png",
-    "Karl Popper.md",
-    "Incommensurability.md",
-    "Anomaly.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/Karl Popper.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/Incommensurability.md",
     "Vakken/Taal en communicatie/Onderwerpen/R-Implicaturen.md",
     "Vakken/Taal en communicatie/Onderwerpen/Q-Implicaturen.md",
     "Vakken/Taal en communicatie/Onderwerpen/Q-Implicaturen 1.md",
@@ -279,7 +231,6 @@
     "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 3 Inleiding in de Journalistiek.md",
     "Vakken/Taal en communicatie/Onderwerpen/Gegeneraliseerde implicatuur.md",
     "Vakken/Taal en communicatie/Colleges/Hoorcollege 4 Taal en communicatie.md",
-    "Vakken/Taal en communicatie/Onderwerpen/Pragmatiek.md",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 4 (Jort Siemes, s4028198).pdf",
     "Vakken/Taal en communicatie/Onderwerpen",
     "Vakken/Woorden als wapens/Week4 opdracht.pdf",

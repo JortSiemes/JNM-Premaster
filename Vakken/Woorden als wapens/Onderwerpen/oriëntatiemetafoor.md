@@ -1,0 +1,1 @@
+aan een concept als [[doeldomein]] een plaats of richting in de ruimte
