@@ -1,4 +1,4 @@
-[[Thomas Kuhn]]: "[[Vakken/Wetenschapsfilosofie/Onderwerpen/Paradigma]] Shift"
+[[Thomas Kuhn]]: "[[Paradigma]] Shift"
 
 These are moments that define scientific disiplines.
 

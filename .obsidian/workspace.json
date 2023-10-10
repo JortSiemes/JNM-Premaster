@@ -16,6 +16,18 @@
             }
           },
           {
+            "id": "646c8fbe94d2c6a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 3 wetenschapsfilosofie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8420af55a7d71439",
             "type": "leaf",
             "state": {
@@ -34,18 +46,6 @@
               "type": "markdown",
               "state": {
                 "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/normal science.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec5e84e02a1e42cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Paradigma.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/normal science.md",
+                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 3 wetenschapsfilosofie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/normal science.md",
+                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 3 wetenschapsfilosofie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/normal science.md"
+                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 3 wetenschapsfilosofie.md"
               }
             }
           }
@@ -237,13 +237,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cbebf336e84800b8",
+  "active": "646c8fbe94d2c6a1",
   "lastOpenFiles": [
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/Thomas Kuhn.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/exemplar.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/normal science.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Paradigma.md",
     "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 3 wetenschapsfilosofie.md",
     "Onderwerpen/Paradigma.md",
-    "Vakken/Wetenschapsfilosofie/Onderwerpen/exemplar.md",
-    "Vakken/Wetenschapsfilosofie/Onderwerpen/Thomas Kuhn.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/descriptief.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Prescriptie.md",
     "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 2 wetenschapsfilosofie.md",
@@ -262,7 +263,6 @@
     "Vakken/Taal en communicatie/Onderwerpen/Relevantie Theorie.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/scientific revolution.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/pre-paradigmatic phase.md",
-    "Vakken/Wetenschapsfilosofie/Onderwerpen/normal science.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/crisis.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Karl Popper.md",

@@ -1,4 +1,4 @@
-### Normal science is defined by the existence of a [[Vakken/Wetenschapsfilosofie/Onderwerpen/Paradigma]] that a scientific discipline takes for granted. During normal science scientists take [[Vakken/Wetenschapsfilosofie/Onderwerpen/Paradigma]] for granted. 
+### Normal science is defined by the existence of a [[Paradigma]] that a scientific discipline takes for granted. During normal science scientists take [[Paradigma]] for granted. 
 
 
 Because science is so critical is why science is so successfull.
@@ -24,4 +24,6 @@ By [[Thomas Kuhn]]
 [[Normal science]] = normale wetenschap
 
 geheim van wetenschap, met vrije discussie consensus bereiken.
+
+
 

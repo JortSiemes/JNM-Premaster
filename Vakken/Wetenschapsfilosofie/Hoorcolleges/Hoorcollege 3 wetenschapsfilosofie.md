@@ -8,7 +8,7 @@ Een centrale term van Kuhn is de term: [[exemplar]](ish)
 
 We leren de wetenschappelijke methode door exemplarische voorbeelden.
 
-[[Vakken/Wetenschapsfilosofie/Onderwerpen/Paradigma|paradigma]]
+[[Paradigma|paradigma]]
 
 
 
