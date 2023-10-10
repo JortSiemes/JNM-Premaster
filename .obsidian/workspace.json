@@ -28,6 +28,18 @@
             }
           },
           {
+            "id": "badf986d87befad0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 4 Woorden als Wapens.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "720956adde103485",
             "type": "leaf",
             "state": {
@@ -50,21 +62,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "badf986d87befad0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 4 Woorden als Wapens.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -203,14 +203,14 @@
   },
   "active": "badf986d87befad0",
   "lastOpenFiles": [
-    "Vakken/Woorden als wapens/Onderwerpen/structuurmetafoor.md",
-    "Vakken/Wetenschapsfilosofie/Onderwerpen/Anomaly.md",
-    "Vakken/Woorden als wapens/Onderwerpen/ontologische metafoor.md",
-    "Beelden/Pasted image 20231010124214.png",
-    "Vakken/Woorden als wapens/Onderwerpen/oriëntatiemetafoor.md",
-    "Beelden/Pasted image 20231010124337.png",
-    "Vakken/Woorden als wapens/Colleges/Werkcollege 4 Woorden als Wapens.md",
     "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md",
+    "Vakken/Woorden als wapens/Onderwerpen/ontologische metafoor.md",
+    "Vakken/Woorden als wapens/Onderwerpen/oriëntatiemetafoor.md",
+    "Vakken/Woorden als wapens/Onderwerpen/structuurmetafoor.md",
+    "Vakken/Woorden als wapens/Colleges/Werkcollege 4 Woorden als Wapens.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/Anomaly.md",
+    "Beelden/Pasted image 20231010124214.png",
+    "Beelden/Pasted image 20231010124337.png",
     "Vakken/Taal en communicatie/Onderwerpen/Relevantie Theorie.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Thomas Kuhn.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/scientific revolution.md",
