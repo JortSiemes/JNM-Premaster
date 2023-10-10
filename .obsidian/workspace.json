@@ -21,7 +21,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 3 wetenschapsfilosofie.md",
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Paradigma.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cbebf336e84800b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/normal science.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec5e84e02a1e42cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Paradigma.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exemplar.md",
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/exemplar.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -151,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 3 wetenschapsfilosofie.md",
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/normal science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 3 wetenschapsfilosofie.md",
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/normal science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 3 wetenschapsfilosofie.md"
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/normal science.md"
               }
             }
           }
@@ -213,10 +237,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8420af55a7d71439",
+  "active": "cbebf336e84800b8",
   "lastOpenFiles": [
-    "exemplar.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/Paradigma.md",
     "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 3 wetenschapsfilosofie.md",
+    "Onderwerpen/Paradigma.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/exemplar.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Thomas Kuhn.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/descriptief.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Prescriptie.md",
@@ -236,7 +262,6 @@
     "Vakken/Taal en communicatie/Onderwerpen/Relevantie Theorie.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/scientific revolution.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/pre-paradigmatic phase.md",
-    "Vakken/Wetenschapsfilosofie/Onderwerpen/Paradigm.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/normal science.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/crisis.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen",
@@ -246,7 +271,6 @@
     "Vakken/Taal en communicatie/Onderwerpen/Q-Implicaturen.md",
     "Vakken/Taal en communicatie/Onderwerpen/Q-Implicaturen 1.md",
     "Vakken/Taal en communicatie/Colleges/Hoorcollege 3 Taal en communicatie.md",
-    "Vakken/Taal en communicatie/Onderwerpen/Explicaturen.md",
     "Vakken/Taal en communicatie/Onderwerpen",
     "Vakken/Woorden als wapens/Weekopdrachten/Week3_opdracht.pdf",
     "Vakken/Woorden als wapens/Week2 Opdracht.pdf",

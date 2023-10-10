@@ -64,7 +64,7 @@ Agendasetting gaat over waarover het publiek moet denken frames over hoe - in we
 
 Bewust of onbewust kan allebei bij framing.
 
-[[Paradigma]], grondlegger is de socioloog goffman met zijn artikel 'Frame Analysis', an essay on the organisation of experience.
+[[Onderwerpen/Paradigma]], grondlegger is de socioloog goffman met zijn artikel 'Frame Analysis', an essay on the organisation of experience.
 De analyse van sociale problemen en de manier waarop die in de media komen.
 
 Communicatie is niet statisch het gaat over [[frame-building]] en de ontvangers doen aan [[frame-setting]].
