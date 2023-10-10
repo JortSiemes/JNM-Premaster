@@ -28,6 +28,18 @@
             }
           },
           {
+            "id": "4a387c9969c8b82d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Michel Foucault.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9c69e45f5baf306b",
             "type": "leaf",
             "state": {
@@ -112,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 6,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -187,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Thomas Kuhn.md",
+                "file": "Michel Foucault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Thomas Kuhn.md",
+                "file": "Michel Foucault.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -227,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Thomas Kuhn.md"
+                "file": "Michel Foucault.md"
               }
             }
           }
@@ -249,11 +261,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "badf986d87befad0",
+  "active": "4a387c9969c8b82d",
   "lastOpenFiles": [
-    "Vakken/Wetenschapsfilosofie/Onderwerpen/Incommensurability.md",
     "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 3 wetenschapsfilosofie.md",
+    "Michel Foucault.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Thomas Kuhn.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/Incommensurability.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/exemplar.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/normal science.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Paradigma.md",
@@ -282,7 +295,6 @@
     "Vakken/Taal en communicatie/Onderwerpen/R-Implicaturen.md",
     "Vakken/Taal en communicatie/Onderwerpen/Q-Implicaturen.md",
     "Vakken/Taal en communicatie/Onderwerpen/Q-Implicaturen 1.md",
-    "Vakken/Taal en communicatie/Colleges/Hoorcollege 3 Taal en communicatie.md",
     "Vakken/Taal en communicatie/Onderwerpen",
     "Vakken/Woorden als wapens/Weekopdrachten/Week3_opdracht.pdf",
     "Vakken/Woorden als wapens/Week2 Opdracht.pdf",

@@ -1,4 +1,4 @@
-[[Thomas Kuhn]] en Foucault
+[[Thomas Kuhn]] en [[Michel Foucault]]
 
 #### twee manieren om aan wetenschapsmethodologie te doen:
 [[Prescriptie]]
