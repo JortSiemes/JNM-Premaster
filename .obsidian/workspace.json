@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "8df8013e210805a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/pre-paradigmatic phase.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "437f138bd3d4bde8",
             "type": "leaf",
             "state": {
@@ -44,12 +32,36 @@
             }
           },
           {
+            "id": "8df8013e210805a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Normal science.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1f0cc4ac91ca736",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Crisis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a8d3310df9572fbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/normal science.md",
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Normal science.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/crisis.md",
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Crisis.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/normal science.md",
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Normal science.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -190,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 2 wetenschapsfilosofie.md",
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Crisis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 2 wetenschapsfilosofie.md",
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Crisis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -230,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 2 wetenschapsfilosofie.md"
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Crisis.md"
               }
             }
           }
@@ -252,19 +264,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf5ac6ba7cc7e089",
+  "active": "f1f0cc4ac91ca736",
   "lastOpenFiles": [
-    "Onderwerpen/Deductive argument.md",
-    "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 2 wetenschapsfilosofie.md",
-    "Vakken/Wetenschapsfilosofie/Onderwerpen/normal science.md",
+    "Anomaly.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/Normal science.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/pre-paradigmatic phase.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Thomas Kuhn.md",
+    "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 2 wetenschapsfilosofie.md",
+    "Onderwerpen/Deductive argument.md",
     "Pasted image 20231010124337.png",
     "Karl Popper.md",
     "Pasted image 20231010124214.png",
-    "Vakken/Wetenschapsfilosofie/Onderwerpen/pre-paradigmatic phase.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/scientific revolution.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Paradigm.md",
-    "Vakken/Wetenschapsfilosofie/Onderwerpen/crisis.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/Crisis.md",
     "Films.md",
     "Vakken/Wetenschapsfilosofie/Aantekeningen cursusboek Wetenschapsfilosofie.md",
     "Vakken/Woorden als wapens/Onderwerpen/Conceptuele metafoor.md",
@@ -283,7 +296,6 @@
     "Vakken/Taal en communicatie/Onderwerpen/Maxime.md",
     "Vakken/Taal en communicatie/Onderwerpen/Gegeneraliseerde implicatuur.md",
     "Vakken/Taal en communicatie/Onderwerpen/conversationele implicatuur.md",
-    "Vakken/Taal en communicatie/Onderwerpen/Explicaturen.md",
     "Vakken/Taal en communicatie/Onderwerpen",
     "Vakken/Taal en communicatie/Colleges",
     "Vakken/Woorden als wapens/Weekopdrachten/Week3_opdracht.pdf",

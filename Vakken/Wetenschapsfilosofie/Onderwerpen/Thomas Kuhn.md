@@ -9,15 +9,15 @@ Only at exceptional moments in history science is critical
 The pattern that Thomas discovered in all the sciences
 Thomas Kuhn phases of science:
 - [[pre-paradigmatic phase]]
-- [[normal science]]
-- [[crisis]]
+- [[Normal science]]
+- [[Crisis]]
 - [[scientific revolution]]
 
 Every science starts in a pre- paradigmatic phase
-then to a [[normal science]], and will never return to previous phase
+then to a [[Normal science]], and will never return to previous phase
 
-[[normal science]], can move to [[crisis]]
-[[crisis]] can return to [[scientific revolution]] or normal
+[[Normal science]], can move to [[Crisis]]
+[[Crisis]] can return to [[scientific revolution]] or normal
 [[scientific revolution]] can only go to normal
 
 Kuhns key insights: scientists critical on new ideas and insights
