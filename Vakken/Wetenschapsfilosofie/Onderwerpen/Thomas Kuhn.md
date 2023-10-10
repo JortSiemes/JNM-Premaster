@@ -1,9 +1,12 @@
+1922-1996
+![[Pasted image 20231010124337.png]]
 
-"Science is critical is mostly an illustion"
+"Science is critical is mostly an illusion"
 
 Science isn't very critical
 Only at exceptional moments in history science is critical
 
+The pattern that Thomas discovered in all the sciences
 Thomas Kuhn phases of science:
 - [[pre-paradigmatic phase]]
 - [[normal science]]
@@ -13,7 +16,7 @@ Thomas Kuhn phases of science:
 Every science starts in a pre- paradigmatic phase
 then to a [[normal science]], and will never return to previous phase
 
-[[Normal science]], can move to [[crisis]]
+[[normal science]], can move to [[crisis]]
 [[crisis]] can return to [[scientific revolution]] or normal
 [[scientific revolution]] can only go to normal
 
@@ -24,4 +27,8 @@ Voorbeeld:
 Biologists take cells for granted 
 Take microscope take for granted that it is a good instrument
 
-Paradigm
+### [[Paradigm]] was idea by Thomas
+
+
+
+

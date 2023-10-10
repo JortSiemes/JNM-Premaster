@@ -20,12 +20,60 @@
             }
           },
           {
+            "id": "8df8013e210805a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/pre-paradigmatic phase.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "437f138bd3d4bde8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Thomas Kuhn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8d3310df9572fbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/normal science.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf5ac6ba7cc7e089",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 2 wetenschapsfilosofie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fcaca15277727d53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scientific revolution.md",
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/scientific revolution.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "crisis.md",
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/crisis.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "normal science.md",
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/normal science.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,13 +109,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pre-paradigmatic phase.md",
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/pre-paradigmatic phase.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -141,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Thomas Kuhn.md",
+                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 2 wetenschapsfilosofie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,9 +207,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Thomas Kuhn.md",
+                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 2 wetenschapsfilosofie.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -181,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Thomas Kuhn.md"
+                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 2 wetenschapsfilosofie.md"
               }
             }
           }
@@ -203,17 +252,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0dc25c83a1bdb76f",
+  "active": "cf5ac6ba7cc7e089",
   "lastOpenFiles": [
-    "scientific revolution.md",
+    "Onderwerpen/Deductive argument.md",
+    "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 2 wetenschapsfilosofie.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/normal science.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Thomas Kuhn.md",
-    "crisis.md",
-    "normal science.md",
-    "pre-paradigmatic phase.md",
+    "Pasted image 20231010124337.png",
+    "Karl Popper.md",
+    "Pasted image 20231010124214.png",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/pre-paradigmatic phase.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/scientific revolution.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/Paradigm.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/crisis.md",
+    "Films.md",
     "Vakken/Wetenschapsfilosofie/Aantekeningen cursusboek Wetenschapsfilosofie.md",
     "Vakken/Woorden als wapens/Onderwerpen/Conceptuele metafoor.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen",
-    "Films.md",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 4 (Jort Siemes, s4028198).md",
     "Vakken/Woorden als wapens/Weekopdrachten/~$ekopdracht Week 4 (Jort Siemes, s4028198).md",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 4 (Jort Siemes, s4028198).pdf",
@@ -229,11 +284,7 @@
     "Vakken/Taal en communicatie/Onderwerpen/Gegeneraliseerde implicatuur.md",
     "Vakken/Taal en communicatie/Onderwerpen/conversationele implicatuur.md",
     "Vakken/Taal en communicatie/Onderwerpen/Explicaturen.md",
-    "Vakken/Taal en communicatie/Onderwerpen/conventionele implicatuur.md",
     "Vakken/Taal en communicatie/Onderwerpen",
-    "Vakken/Taal en communicatie/Colleges/Werkcollege 2 taal en communicatie.md",
-    "Vakken/Taal en communicatie/Colleges/Werkcollege 3 taal en communicatie.md",
-    "Vakken/Taal en communicatie/Colleges/Hoorcollege 4 Taal en communicatie.md",
     "Vakken/Taal en communicatie/Colleges",
     "Vakken/Woorden als wapens/Weekopdrachten/Week3_opdracht.pdf",
     "Vakken/Woorden als wapens/Week2 Opdracht.pdf",
