@@ -1,0 +1,1 @@
+algemeen, structuur van brondomein op structuur van doeldomein

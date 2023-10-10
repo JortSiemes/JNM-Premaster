@@ -1,0 +1,7 @@
+
+[[structuurmetafoor]]
+
+[[oriëntatiemetafoor]]
+
+[[ontologische metafoor]]
+
