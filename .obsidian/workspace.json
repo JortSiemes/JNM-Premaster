@@ -16,19 +16,7 @@
             }
           },
           {
-            "id": "3461de008344baaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Woorden als wapens/Onderwerpen/ontologische metafoor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "badf986d87befad0",
+            "id": "8420af55a7d71439",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,31 +28,56 @@
             }
           },
           {
-            "id": "720956adde103485",
+            "id": "d378b57a94b81d51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Woorden als wapens/Onderwerpen/oriëntatiemetafoor.md",
+                "file": "exemplar.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e0ff56f85de01b4d",
+            "id": "badf986d87befad0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Woorden als wapens/Onderwerpen/structuurmetafoor.md",
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Thomas Kuhn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c71679bdfc86a1c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/descriptief.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e07e44037e3a3864",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Prescriptie.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -200,10 +213,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "badf986d87befad0",
+  "active": "8420af55a7d71439",
   "lastOpenFiles": [
-    "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 2 wetenschapsfilosofie.md",
+    "exemplar.md",
     "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 3 wetenschapsfilosofie.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/Thomas Kuhn.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/descriptief.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/Prescriptie.md",
+    "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 2 wetenschapsfilosofie.md",
     "Vakken/Woorden als wapens/Colleges/Werkcollege 4 Woorden als Wapens.md",
     "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 4 (Jort Siemes, s4028198).md",
@@ -217,7 +234,6 @@
     "Beelden/Pasted image 20231010124214.png",
     "Beelden/Pasted image 20231010124337.png",
     "Vakken/Taal en communicatie/Onderwerpen/Relevantie Theorie.md",
-    "Vakken/Wetenschapsfilosofie/Onderwerpen/Thomas Kuhn.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/scientific revolution.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/pre-paradigmatic phase.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Paradigm.md",
@@ -231,9 +247,6 @@
     "Vakken/Taal en communicatie/Onderwerpen/Q-Implicaturen 1.md",
     "Vakken/Taal en communicatie/Colleges/Hoorcollege 3 Taal en communicatie.md",
     "Vakken/Taal en communicatie/Onderwerpen/Explicaturen.md",
-    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 4 Inleiding in de Journalistiek.md",
-    "Films.md",
-    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 3 Inleiding in de Journalistiek.md",
     "Vakken/Taal en communicatie/Onderwerpen",
     "Vakken/Woorden als wapens/Weekopdrachten/Week3_opdracht.pdf",
     "Vakken/Woorden als wapens/Week2 Opdracht.pdf",
