@@ -33,7 +33,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Michel Foucault.md",
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Michel Foucault.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "192399d816a26deb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Episteme.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -199,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Michel Foucault.md",
+                "file": "Episteme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Michel Foucault.md",
+                "file": "Episteme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -239,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Michel Foucault.md"
+                "file": "Episteme.md"
               }
             }
           }
@@ -261,10 +273,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a387c9969c8b82d",
+  "active": "192399d816a26deb",
   "lastOpenFiles": [
-    "gezichtloosheid.md",
-    "Michel Foucault.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/Michel Foucault.md",
+    "Episteme.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/gezichtloosheid.md",
     "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 3 wetenschapsfilosofie.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Thomas Kuhn.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Incommensurability.md",
@@ -294,7 +307,6 @@
     "Vakken/Wetenschapsfilosofie/Onderwerpen",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Karl Popper.md",
     "Vakken/Taal en communicatie/Onderwerpen/R-Implicaturen.md",
-    "Vakken/Taal en communicatie/Onderwerpen/Q-Implicaturen.md",
     "Vakken/Taal en communicatie/Onderwerpen",
     "Vakken/Woorden als wapens/Weekopdrachten/Week3_opdracht.pdf",
     "Vakken/Woorden als wapens/Week2 Opdracht.pdf",
