@@ -62,7 +62,7 @@ Probabilities
 
 1.4
 
-**Karl Popper,** 20th century
+**[[Karl Popper]],** 20th century
 Scientist are always trying to show their theories are false.
 Real scientist keeps trying to falsify his own theory.
 
