@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Incommensurability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c890f13525df67d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Thomas Kuhn.md",
                 "mode": "source",
                 "source": false
@@ -115,7 +127,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -251,26 +264,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "437f138bd3d4bde8",
+  "active": "c890f13525df67d9",
   "lastOpenFiles": [
-    "Vakken/Wetenschapsfilosofie/Onderwerpen/scientific revolution.md",
+    "Scientific progress.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Paradigm.md",
-    "Vakken/Wetenschapsfilosofie/Onderwerpen/pre-paradigmatic phase.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Thomas Kuhn.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/Incommensurability.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/Karl Popper.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/Anomaly.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/scientific revolution.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/pre-paradigmatic phase.md",
     "Vakken/Wetenschapsfilosofie/Aantekeningen Kennisclips wetenschapsfilosofie.md",
     "Vakken/Wetenschapsfilosofie/COLLECTIE FILE Wetenschapsfilosofie.md",
     "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf",
     "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf",
     "Vakken/Wetenschapsfilosofie/Reader notities Wetenschapsfilosofie.md",
     "Vakken/Wetenschapsfilosofie/Aantekeningen cursusboek Wetenschapsfilosofie.md",
-    "Incommensurability.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Normal science.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Crisis.md",
-    "Anomaly.md",
     "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 2 wetenschapsfilosofie.md",
     "Onderwerpen/Deductive argument.md",
     "Pasted image 20231010124337.png",
-    "Karl Popper.md",
     "Pasted image 20231010124214.png",
     "Films.md",
     "Vakken/Woorden als wapens/Onderwerpen/Conceptuele metafoor.md",
