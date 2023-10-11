@@ -19,14 +19,36 @@ Van algemeen naar specifiek naar algemeen (van [[inductief]] naar [[deductief]] 
 
 
 corpus:
-Data
-data            code
-data
-
-data                                       
-data
-data            Code
-data
 
 Data
-Data             Code
+data        >     code 
+data
+                                    >
+data                                       Categorie
+data 
+data      >       Code                                        >           Conclusie & discussie
+data
+                                 >
+Data  \                                     Categorie
+Data      >       Code
+Data  
+
+(categorieën zijn dan je resultaten, je laat zien wat c)
+
+begin: lees de data eerst helemaal door
+maak aantekeningen, let daarbij op:
+	- overeenkomsten; verschillen; frequentie; sequentie; correspondentie)
+- Bepaal coderingseenheid (artikel, foto, zin, woord)
+- Codeer vervolgens *conventioneel*
+
+Conventioneel coderen, breek je de tekst op in highlighted stukjes
+Mensen = geel
+gedragingen = rood
+gebeurd met verweten gedrag = onderstreep
+
+Ronde 3, kijk je naar relatie tussen die codes.
+
+Ronde 1: ([[inductief]], globaal) wat wil je van de tekst weten?
+Ronde 2: ([[inductief]], specifiek) kan ik nu codes hangen aan delen van de tekst
+Ronde 3: ([[deductief]], specifiek) verzamel alle codes en codeer alle teksten nog een keer met dit codeframe. Kan je bijna alle teksten nu coderen?
+
