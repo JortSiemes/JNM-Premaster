@@ -1,4 +1,4 @@
-Inhoudsanalyse
+[[Inhoudsanalyse]]
 
 Kwantitatieve inhoudsanalyse
 Kwalitatieve inhoudsanalyse
