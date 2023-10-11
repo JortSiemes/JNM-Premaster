@@ -1,4 +1,7 @@
 Inhoudsanalyse
 
-Kwantita
+Kwantitatieve inhoudsanalyse
+Kwalitatieve inhoudsanalyse
+
+
 
