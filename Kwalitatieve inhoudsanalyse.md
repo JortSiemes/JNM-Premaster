@@ -33,7 +33,7 @@ Data  \                                     Categorie
 Data      >       Code
 Data  
 
-(categorieën zijn dan je resultaten, je laat zien wat c)
+(categorieën zijn dan je resultaten, je laat zien wat categorie betekend)
 
 begin: lees de data eerst helemaal door
 maak aantekeningen, let daarbij op:
