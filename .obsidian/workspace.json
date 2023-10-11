@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1d4246bf10e18d1d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "cf565242d52a421c",
             "type": "leaf",
             "state": {
@@ -102,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inhoudsanalyse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Inhoudsanalyse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inhoudsanalyse.md"
+              }
             }
           }
         ],
@@ -160,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d4246bf10e18d1d",
+  "active": "cf565242d52a421c",
   "lastOpenFiles": [
     "Inhoudsanalyse.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 5 Methode en Theorie van Journalism Studies.md",
