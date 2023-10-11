@@ -30,7 +30,7 @@ Take microscope take for granted that it is a good instrument
 ### [[Paradigma]] is idea by Thomas
 ### [[Incommensurability]] is idea by Thomas Kuhn
 
-Scientific progress
+### [[Scientific progress]] is idea by Thomas Kuhn
 
 Normal idea of science is that when time goes on science grows and progresses.
 Kuhn says that if you accept ideas of [[Paradigma]] that this picture gets totally shifted.
