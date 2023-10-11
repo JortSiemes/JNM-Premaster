@@ -1,6 +1,6 @@
 [[Inhoudsanalyse]]
 
-Kwantitatieve [[inhoudsanalyse]]
+[[Kwantitatieve inhoudsanalyse]]
 Kwalitatieve [[inhoudsanalyse]]
 
 
