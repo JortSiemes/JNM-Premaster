@@ -11,5 +11,5 @@ Week 4 opdrachten:
 3 a. [[R-Implicaturen]]
 3 b. ja
 
-4 a. [[q-implicaturen]]
+4 a. [[q-implicaturen]] ([[scalaire implicatuur]] is altijd [[q-implicaturen]]) (p.80 birner)
 4 b. 
