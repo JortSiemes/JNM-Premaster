@@ -6,6 +6,8 @@ Spreker bedoeld wat ie zegt.
 
 What is not said is not the case
 
+(denk aan scalaire implicaturen)
+
 Some students were absent +> **not** all students were absent
 
 | Q-implicaturen                                                   | R-implicaturen                                                                      |
