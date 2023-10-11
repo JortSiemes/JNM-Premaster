@@ -1,4 +1,4 @@
-[[Thomas Kuhn]]: "[[Paradigm]] Shift"
+[[Thomas Kuhn]]: "[[Paradigma]] Shift"
 
 These are moments that define scientific disiplines.
 

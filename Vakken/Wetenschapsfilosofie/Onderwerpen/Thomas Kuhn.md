@@ -27,15 +27,22 @@ Voorbeeld:
 Biologists take cells for granted 
 Take microscope take for granted that it is a good instrument
 
-### [[Paradigm]] is idea by Thomas
+### [[Paradigma]] is idea by Thomas
 ### [[Incommensurability]] is idea by Thomas Kuhn
 
 ### [[Scientific progress]] is idea by Thomas Kuhn
 
 Normal idea of science is that when time goes on science grows and progresses.
-Kuhn says that if you accept ideas of [[paradigm]] that this picture gets totally shifted.
+Kuhn says that if you accept ideas of [[Paradigma]] that this picture gets totally shifted.
 
+De wetenschappelijke methode verschilt per vakgebied.
 
+Wetenschappers zijn alleen echt kritisch in periodes van [[crisis]].
+
+Wetenschappelijke vooruitgang is geen lineair proces van 'steeds meer weten.'
+
+Twee aspecten van Kuhns werk worden door veel wetenschapshistorici met argwaan bekeken:
+- Kuhn beschrijft niet alleen specifieke voorbeelden maar ook wat moet.
 
 
 

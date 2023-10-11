@@ -1,8 +1,8 @@
-Flat: Not together measurable
+Het is moeilijk om theorieën uit verschillende [[paradigma]]'s met elkaar te vergelijken
 
-#### Lack of comparability using a neutral standard.
+2 dingen (twee zijden van driehoek) niet
 
-No objective way to say which [[paradigm]] is better.
+Elk [[paradigma]] heeft zijn eigen ideeën over relevante problemen, feiten, methodes enz.
+Ook de betekenis van woorden verschilt per [[paradigma]].
 
-You just can't say if new [[paradigm]] is better than older [[paradigm]].
-
+Elk [[paradigma]] heeft eigen [[Exemplar]]

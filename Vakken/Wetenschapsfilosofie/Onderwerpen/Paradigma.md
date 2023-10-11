@@ -9,3 +9,7 @@ Take large background for granted = so much you dont have to think about that yo
 
 But this makes scientist not critical, kuhn thinks this is good
 
+verzameling concepten, ideeën, theorieën.
+
+
+
