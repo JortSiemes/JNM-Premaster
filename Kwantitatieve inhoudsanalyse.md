@@ -17,4 +17,10 @@ wat zijn verschillen in brongebruik tussen de volkskrant en volkskrant magazine
 	- Een [[variabele]] (bijvoorbeeld [[variabele]] 'bron') kan meerdere indicatoren hebben; indicatoren zijn (bijvoorbeeld): formele bron, informele bron, documentaire bron, anonieme bron
 	- Operationaliseren is het antwoord op de vraag hoe je indicatoren in eeen tekst herkent; Je moet dat zo goed omschrijven dat iedere ander ermee kan werken;
 - Stap 4: Hoe ontwerp ik een codeboek?
+	- Krippendorff's alpha: ideale waarde is >0.8, maar >0.67 is acceptabel
+	- afhankelijke variabelen: indicatoren van de bronnen
+	- Geen taartdiagram, tabellen eerder gebruiken
+	- Onafhankelijke variabelen
+	- Scores
+- Stap 5: Codesheet (admin van je codeboek)
 - 
