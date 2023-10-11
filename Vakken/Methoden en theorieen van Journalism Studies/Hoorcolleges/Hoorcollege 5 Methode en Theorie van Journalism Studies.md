@@ -1,7 +1,7 @@
 [[Inhoudsanalyse]]
 
 [[Kwantitatieve inhoudsanalyse]]
-Kwalitatieve [[inhoudsanalyse]]
+[[Kwalitatieve inhoudsanalyse]]
 
 
 
