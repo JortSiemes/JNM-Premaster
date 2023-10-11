@@ -160,7 +160,7 @@
               "state": {
                 "file": "Vakken/Taal en communicatie/Colleges/Werkcollege 4 taal en communicatie.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -185,12 +185,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,9 +205,10 @@
   },
   "active": "38323d1da648cee5",
   "lastOpenFiles": [
-    "Vakken/Taal en communicatie/Onderwerpen/Q-Implicaturen.md",
-    "Vakken/Taal en communicatie/Onderwerpen/R-Implicaturen.md",
+    "Onderwerpen/Implicatuur.md",
     "Vakken/Taal en communicatie/Colleges/Werkcollege 4 taal en communicatie.md",
+    "Vakken/Taal en communicatie/Onderwerpen/R-Implicaturen.md",
+    "Vakken/Taal en communicatie/Onderwerpen/Q-Implicaturen.md",
     "Vakken/Taal en communicatie/Onderwerpen/Relevantie Theorie.md",
     "Vakken/Taal en communicatie/Onderwerpen/Relevantie Theorie 1.md",
     "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 1.pdf",
