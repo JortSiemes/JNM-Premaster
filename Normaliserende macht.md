@@ -16,4 +16,8 @@ Typisch voorbeeld van normaliserende macht: een universitaire opleiding.
 Je leert het normaal te vinden op een bepaalde manier te handelen, te denken, te schrijven; bepaalde dingen wel en andere niet te zeggen.
 
 ### Niemand dwingt je ergens toe
+bij normaliserende macht ^
+
+
+
 
