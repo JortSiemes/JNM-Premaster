@@ -49,7 +49,7 @@ Q-implicatuur / R - implicature
 Coded meaning / explicature / implicatuur
 
 11,
-Conventional
+Conventional 
 explicature
 
 12,
@@ -57,4 +57,39 @@ conversational (particularized)
 R - implicature
 implicatuur
 
-1
+13,
+conversational (particularized)
+R - implicature
+implicatuur
+
+14,
+conversational (generalized)
+R - implicature
+implicatuur
+
+15,
+Conventional 
+implicatuur
+
+16,
+conversational (geralized)
+Q-implicatuur
+Coded meaning 
+
+17,
+conversational (geralized)
+R - implicature
+implicatuur
+
+18,
+Conventional
+
+19,
+conversational (geralized)
+Q-implicatuur
+Coded meaning
+
+20,
+conversational (geralized )
+Q-implicatuur
+Coded meaning
