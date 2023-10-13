@@ -52,7 +52,7 @@ Coded meaning / explicature / implicatuur
 Conventional 
 explicature
 
-12,
+12, V
 conversational (particularized)
 R - implicature
 implicatuur
