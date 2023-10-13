@@ -8,7 +8,7 @@ De spreker bedoeld meer dat wat er gezegd is.
 
 I broke a fingernail +> I broke one of my own fingernails
 
-| Q-implicaturen                                                   | R-implicaturen                                                                      |
+| [[Q-implicaturen]]                                                   | R-implicaturen                                                                      |
 | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | The speaker does not mean anything more than he said             | The speaker means more than he said                                                 |
 | Negative implicature (+> NOT x)                                            | Enrichment, elaboration                                                             |
