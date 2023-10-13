@@ -36,17 +36,17 @@ Horne: Q-[[implicatuur]] X
 
 
 8,
-Horne: Q-implicatuur V
+Horne: Q-[[implicatuur]] V
 
 9,
-Horne: Q-implicatuur X
+Horne: Q-[[implicatuur]] X
 
 10,
-Horne: R-implicatuur V
+Horne: R-[[implicatuur]] V
 
 Conventional / conversational (geralized or particularized)
-Q-implicatuur / R - implicature
-Coded meaning / explicature / implicatuur
+Q-[[implicatuur]] / R - implicature
+[[Coded meaning]] / explicature / [[implicatuur]]
 
 11,
 Conventional 
@@ -55,41 +55,41 @@ explicature
 12, V
 conversational (particularized)
 R - implicature
-implicatuur
+[[implicatuur]]
 
-13,
+13, V
 conversational (particularized)
 R - implicature
-implicatuur
+[[implicatuur]]
 
-14,
+14, X
 conversational (generalized)
 R - implicature
-implicatuur
+[[implicatuur]]
 
-15,
+15, X
 Conventional 
-implicatuur
+[[implicatuur]]
 
-16,
+16, X
 conversational (geralized)
-Q-implicatuur
-Coded meaning 
+Q-[[implicatuur]] (not applicable for conventional)
+[[Coded meaning]] 
 
-17,
+17, V
 conversational (geralized)
 R - implicature
-implicatuur
+[[implicatuur]]
 
-18,
+18, X (what is said)
 Conventional
 
-19,
+19, V
 conversational (geralized)
-Q-implicatuur
-Coded meaning
+Q-[[implicatuur]]
+[[Coded meaning]] X
 
-20,
+20, X
 conversational (geralized )
-Q-implicatuur
-Coded meaning
+Q-[[implicatuur]]
+[[Coded meaning]]
