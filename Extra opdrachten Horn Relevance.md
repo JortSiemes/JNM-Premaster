@@ -44,6 +44,17 @@ Horne: Q-implicatuur X
 10,
 Horne: R-implicatuur V
 
-
+Conventional / conversational (geralized or particularized)
+Q-implicatuur / R - implicature
+Coded meaning / explicature / implicatuur
 
 11,
+Conventional
+explicature
+
+12,
+conversational (particularized)
+R - implicature
+implicatuur
+
+1
