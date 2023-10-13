@@ -2,34 +2,48 @@
 1,  
 Grice: Particulier/Gegeneraliseerd
 Gricean maximes: Relatie
-Horne: R-[[implicatuur]]
+Horne: R-[[implicatuur]] V
 
 2,
 Grice: 
 Gricean maximes: Relatie
-Horne: Q-implicatuur
+Horne: Q-[[implicatuur]] V
 
 3,
 Grice: Conventioneel
 Gricean maximes: Relatie
-Horne: R-implicatuur
+Horne: R-[[implicatuur]] V
 
 4,
 Grice: Conventioneel
 Gricean maximes: Relatie
-Horne: R-implicatuur
+Horne: Q-[[implicatuur]] X
 
 5, 
 Grice: Conventioneel
 Gricean maximes: Relatie
-Horne: R-implicatuur
+Horne: R-[[implicatuur]] V
 
 6,
 Grice: Conventioneel
 Gricean maximes: Relatie
-Horne: R-implicatuur
+Horne: R-[[implicatuur]] V
 
 7,
 Grice: Conventioneel
 Gricean maximes: Relatie
-Horne: R-implicatuur
+Horne: Q-[[implicatuur]] X
+
+
+8,
+Horne: Q-implicatuur V
+
+9,
+Horne: Q-implicatuur X
+
+10,
+Horne: R-implicatuur V
+
+
+
+11,
