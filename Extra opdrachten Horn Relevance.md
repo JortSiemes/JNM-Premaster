@@ -1,3 +1,4 @@
+11V 9X
 
 1,  
 Grice: Particulier/Gegeneraliseerd
@@ -48,7 +49,7 @@ Conventional / conversational (geralized or particularized)
 Q-[[implicatuur]] / R - implicature
 [[Coded meaning]] / explicature / [[implicatuur]]
 
-11,
+11, X
 Conventional 
 explicature
 
