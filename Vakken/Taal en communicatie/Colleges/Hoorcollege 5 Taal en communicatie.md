@@ -33,12 +33,30 @@ grammatica: als je niet aan regels van spelling houd dan heb je een foute zin
 [[Pragmatiek]]: regels als je niet aan deze regels houd dan kan het onbeleefd of ongepast of [[Geslaagdheidsvoorwaarden]] van de taal past.
 
 #### 4 [[geslaagdheidsvoorwaarden]]:
-[[Propositionele inhoudsvoorwaarde]] - concerns future act of the speaker, inhoud moet voldoen 
-Voorbereidende voorwaarde - Belofte moet gaan over toekomstige handeling van de spreker
-Acts is in the interest of the hearer; Speaker was not supposed to do it anyway; Speaker is able to do it, Als dit niet is voldaan dan is het zinloos/overbodig
-Speaker intends to do it
-Essentiele conditie - counts as speaker taking on obligation to do it
+[[Propositionele inhoudsvoorwaarde]] - belofte: concerns future act of the speaker, inhoud moet voldoen 
+request: concerns future act of the hearer
+Vraag:
 
+[[Voorbereidende voorwaarde]] - Belofte moet gaan over toekomstige handeling van de spreker
+Acts is in the interest of the hearer; Speaker was not supposed to do it anyway; Speaker is able to do it, Als dit niet is voldaan dan is het zinloos/overbodig
+Request: Acts is in the interest of the speaker; hearer was not supposed to do it anyway; hearer is able to do it.
+Vraag: 
+
+[[oprechtheidsvoorwaarde]] - Belofte: Speaker intends to do it
+Request:
+Vraag: 
+
+[[Essentiele conditie]] - counts as speaker taking on obligation to do it
+Request:
+Vraag:
+
+
+Five general groups:
+Assertives
+Directives
+Commisseves
+Expressives
+Declaratives
 
 
 
