@@ -116,3 +116,9 @@ omschrijven wat het maatschappelijke probleem nou eigenlijk is.
 
 Publieke / civiele journalistiek
 
+
+Constructieve journalistiek
+
+Activistische journalistiek
+
+
