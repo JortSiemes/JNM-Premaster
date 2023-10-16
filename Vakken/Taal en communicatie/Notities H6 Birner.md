@@ -41,7 +41,16 @@ b. I hereby promise to never again make snide remarks about sauerkraut on hot do
 Hereby: by means of this/by virtue of this
 
 
+Performative hypothesis: every sentence has a performative verb in its deep structure
+Even if that verb is not expressed in the surface structure
 
+Examples:
 
+a. Did we hear from him?  +> a. I ask you, did we hear from him? 
+b. Sit down! +>  b. I command you to sit down! 
+c. I’m cold.  +> c. I tell you that I’m cold. 
+d. I’ll deliver the Metal. +> d. I promise you that I’ll deliver the Metal
+
+[[Reflexive]] (myself, yourself, herself themselves)
 
 
