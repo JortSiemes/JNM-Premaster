@@ -1,7 +1,7 @@
 Overzicht;
 - [[gezichtloosheid]]
 - [[Episteme]] en serieuze kennis
-- Normaliserende macht
+- [[Normaliserende macht]]
 - vragen
 
 Foucault wijst erop dat wij als leden van een maatschappij altijd in een keurslijf gedrongen worden.

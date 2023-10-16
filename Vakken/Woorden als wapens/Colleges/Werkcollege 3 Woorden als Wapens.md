@@ -1,5 +1,5 @@
 
-Metafoor theorie,
+[[Metafoor]] theorie,
 
 Discussievragen
 
@@ -11,10 +11,10 @@ Discussievragen
 'mapping'
 aspecten van bron domein, gebruiken als doel domein
 
-**Bron- en doeldomein**
+**Bron- en [[doeldomein]]**
 	Kennisinhoud en -structuur van het [[brondomein]] wordt overgedragen naar het [[doeldomein]]
-		De EU (doeldomein) is EEN BODEMLOZE PUT (brondomein)
-		VOETBAL (doeldomein) IS OORLOG (brondomein)
+		De EU ([[doeldomein]]) is EEN BODEMLOZE PUT ([[brondomein]])
+		VOETBAL ([[doeldomein]]) IS OORLOG ([[brondomein]])
 
 | OORLOG (bron) | DISCUSSIE (doel)             |
 | ------------- | ---------------------------- |

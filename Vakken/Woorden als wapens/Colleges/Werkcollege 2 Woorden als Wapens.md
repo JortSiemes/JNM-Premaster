@@ -15,7 +15,7 @@ Frame: een model/kader
 	Heeft een 'interne logica' > stuurt aan op bepaalde interpretatie van een verschijnsel in de werkelijkheid.
 
 
-valence consistent shift, verschijning die in positief frame word verteld lijdt dat tot een positiever verschil.
+[[valence consistent shift]], verschijning die in positief frame word verteld lijdt dat tot een positiever verschil.
 
 AO = [[Argumentatieve Oriëntatie]]
 
@@ -28,13 +28,13 @@ Als spreker ervanuit gaan dat de hoorder de standpunten naar afstemt
 
 Als lezers bij de interpretatie van frames daadwerkelijk gebruik maken van AO, dan zou de framekeuze ook gevolgen moeten hebben voor het verwerkingsproces van het frame.
 
-Hypotheses: congruente standpunt-argumentparen...
+Hypotheses: [[congruente]] standpunt-argumentparen...
 	... zijn sneller te verwerken
 	... worden makkelijker als waar/onwaar beoordeeld
 
-sneller te beoordelen als valentie tussen standpunt en argument niet hetzelfde is.
+sneller te beoordelen als [[valentie]] tussen standpunt en argument niet hetzelfde is.
 
-gaat het niet om een [[priming]]-effect = Priming is een effect dat woorden geassocieerd worden met andere woorden zoals winnen/gewonnen en wedstrijd.
+gaat het niet om een [[priming]]-effect = [[Priming]] is een effect dat woorden geassocieerd worden met andere woorden zoals winnen/gewonnen en wedstrijd.
 
 [[Gemarkeerdheid]]? (het benoemen van personen wat het inder onduidelijk maakt)
 

@@ -11,7 +11,7 @@ What is not said is not the case
 
 Some students were absent +> **not** all students were absent
 
-| Q-implicaturen                                                   | R-implicaturen                                                                      |
+| Q-implicaturen                                                   | [[R-implicaturen]]                                                                      |
 | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | The speaker does not mean anything more than he said             | The speaker means more than he said                                                 |
 | Negative implicature  (+> NOT x)                                            | Enrichment, elaboration                                                             |
