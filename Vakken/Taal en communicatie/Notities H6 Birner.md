@@ -28,6 +28,10 @@ Performatives (are used to perform an act {not express a stat affairs})
 	c. Mike Royke is promising not to make snide remarks about sauerkraut on hot dogs.
 
 (first-person pronoun subject)
+a. Keep trying to get his office. 
+b. Sit down
+- Performative utterance (examples)
+
 
   
 One test for whether an utterance is a performative utterance is the word !Hereby!
