@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Taal en communicatie/Colleges/Hoorcollege 5 Taal en communicatie.md",
+                "file": "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 5 Inleiding in de Journalistiek.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Taal en communicatie/Colleges/Hoorcollege 5 Taal en communicatie.md",
+                "file": "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 5 Inleiding in de Journalistiek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Taal en communicatie/Colleges/Hoorcollege 5 Taal en communicatie.md",
+                "file": "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 5 Inleiding in de Journalistiek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Taal en communicatie/Colleges/Hoorcollege 5 Taal en communicatie.md"
+                "file": "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 5 Inleiding in de Journalistiek.md"
               }
             }
           }
@@ -192,11 +192,20 @@
   },
   "active": "4b19be0236e1c952",
   "lastOpenFiles": [
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 4 Inleiding in de Journalistiek.md",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 5 Inleiding in de Journalistiek.md",
+    "Episteme.md",
     "Voorbereidende voorwaarde.md",
-    "Vakken/Taal en communicatie/Colleges/Hoorcollege 5 Taal en communicatie.md",
-    "Essentiele conditie.md",
-    "geslaagdheidsvoorwaarden.md",
+    "Scientific progress.md",
+    "repressieve macht.md",
+    "Reflexive.md",
     "Propositionele inhoudsvoorwaarde.md",
+    "Normaliserende macht.md",
+    "Inhoudsanalyse.md",
+    "geslaagdheidsvoorwaarden.md",
+    "Essentiele conditie.md",
+    "Vakken/Taal en communicatie/Extra opdrachten Horn Relevance.md",
+    "Vakken/Taal en communicatie/Colleges/Hoorcollege 5 Taal en communicatie.md",
     "Performative.md",
     "Illocutionary act.md",
     "conflict-files-obsidian-git.md",
@@ -216,18 +225,9 @@
     "Vakken/Taal en communicatie/Onderwerpen/Coded Meaning.md",
     "Vakken/Taal en communicatie/Deeltoets 3 NOV.md",
     "Vakken/Taal en communicatie/Birner H6.md",
-    "Extra opdrachten Horn Relevance.md",
     "Beelden/El-Neo-phase-VI.png",
-    "Reflexive.md",
     "Vakken/Taal en communicatie/COLLECTIE FILE Taal en communicatie.md",
-    "Inhoudsanalyse.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 5 Methode en Theorie van Journalism Studies.md",
-    "Kwalitatieve inhoudsanalyse.md",
-    "Kwantitatieve inhoudsanalyse.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 4 Methode en Theorie van Journalism Studies.md",
-    "Vakken/Taal en communicatie/Colleges/Werkcollege 4 taal en communicatie.md",
-    "Onderwerpen/Implicatuur.md",
-    "Vakken/Taal en communicatie/Onderwerpen/R-Implicaturen.md",
-    "Vakken/Taal en communicatie/Onderwerpen/Q-Implicaturen.md"
+    "Kwalitatieve inhoudsanalyse.md"
   ]
 }
