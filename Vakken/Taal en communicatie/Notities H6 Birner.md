@@ -11,3 +11,21 @@ J.L. Austin - theory of speech acts
 
 
 Perfomative Utterances
+	Constatives (are declerative utterances expressing some state of affairs)
+	Example: 
+	a. She walked out.
+	b. Mr. Ward was on his feet, hat in hand.
+	c. Mr. Ward obeyed, staring at him.
+
+
+Performatives (are used to perform an act {not express a stat affairs})
+	Example:
+	a. I apologize to Mrs. manor and all other whose sensitivities were offended by my reference to sauerkraut on hot dogs. Put anything you want on a hot dog. It is your right as an American. And I promise to never again make snide remarks about sauerkraut on hot dogs. Or even ketchup, although Dirty Harry once said that only a (obscenity) would use Ketchup.
+	b. Mike Royke apologized to Mrs. Manor.
+	c. Mike Royke is promising not to make snide remarks about sauerkraut on hot dogs.
+
+  
+
+
+
+
