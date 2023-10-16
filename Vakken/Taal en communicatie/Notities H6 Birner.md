@@ -17,6 +17,9 @@ Perfomative Utterances
 	b. Mr. Ward was on his feet, hat in hand.
 	c. Mr. Ward obeyed, staring at him.
 
+Constative utterances
+- whose utterance does not bring about the act they describe.
+
 
 Performatives (are used to perform an act {not express a stat affairs})
 	Example:
@@ -24,7 +27,16 @@ Performatives (are used to perform an act {not express a stat affairs})
 	b. Mike Royke apologized to Mrs. Manor.
 	c. Mike Royke is promising not to make snide remarks about sauerkraut on hot dogs.
 
+(first-person pronoun subject)
+
   
+One test for whether an utterance is a performative utterance is the word !Hereby!
+a. I hereby apalogize to Mrs. Manor.
+b. I hereby promise to never again make snide remarks about sauerkraut on hot dogs.
+
+Hereby: by means of this/by virtue of this
+
+
 
 
 
