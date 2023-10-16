@@ -30,6 +30,18 @@
             }
           },
           {
+            "id": "0f6d0f98330164e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Performative.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "dc8be0d6f88f011a",
             "type": "leaf",
             "state": {
@@ -42,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Taal en communicatie/Colleges/Hoorcollege 5 Taal en communicatie.md",
+                "file": "Performative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Taal en communicatie/Colleges/Hoorcollege 5 Taal en communicatie.md",
+                "file": "Performative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Taal en communicatie/Colleges/Hoorcollege 5 Taal en communicatie.md"
+                "file": "Performative.md"
               }
             }
           }
@@ -178,8 +190,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b19be0236e1c952",
+  "active": "0f6d0f98330164e7",
   "lastOpenFiles": [
+    "Illocutionary act.md",
     "Performative.md",
     "Vakken/Taal en communicatie/Colleges/Hoorcollege 5 Taal en communicatie.md",
     "conflict-files-obsidian-git.md",
