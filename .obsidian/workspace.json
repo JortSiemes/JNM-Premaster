@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Performative.md",
+                "file": "Vakken/Taal en communicatie/Colleges/Hoorcollege 5 Taal en communicatie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Performative.md",
+                "file": "Vakken/Taal en communicatie/Colleges/Hoorcollege 5 Taal en communicatie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Performative.md"
+                "file": "Vakken/Taal en communicatie/Colleges/Hoorcollege 5 Taal en communicatie.md"
               }
             }
           }
@@ -190,11 +190,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f6d0f98330164e7",
+  "active": "4b19be0236e1c952",
   "lastOpenFiles": [
-    "Illocutionary act.md",
-    "Performative.md",
+    "geslaagdheidsvoorwaarden.md",
     "Vakken/Taal en communicatie/Colleges/Hoorcollege 5 Taal en communicatie.md",
+    "Propositionele inhoudsvoorwaarde.md",
+    "Performative.md",
+    "Illocutionary act.md",
     "conflict-files-obsidian-git.md",
     "Vakken/Taal en communicatie/Notities H6 Birner.md",
     "Vakken/Taal en communicatie/Colleges/Hoorcollege 4 Taal en communicatie.md",
@@ -226,7 +228,6 @@
     "Vakken/Taal en communicatie/Onderwerpen/R-Implicaturen.md",
     "Vakken/Taal en communicatie/Onderwerpen/Q-Implicaturen.md",
     "Vakken/Taal en communicatie/Onderwerpen/Relevantie Theorie.md",
-    "Vakken/Taal en communicatie/Onderwerpen/Relevantie Theorie 1.md",
-    "Vakken/Taal en communicatie/Onderwerpen/Gegeneraliseerde implicatuur.md"
+    "Vakken/Taal en communicatie/Onderwerpen/Relevantie Theorie 1.md"
   ]
 }

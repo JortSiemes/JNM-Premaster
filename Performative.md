@@ -21,8 +21,8 @@ The sun is shining = I assert that the sun is shining
 
 - [[Locutie]] {Locutionary act}: the act of saying (locution), conveying linguistic meaning = Gricean 'what is said'
 - [[illocutie]] {Illocutionary act}: what you *intend* to do by means of saying (illocution) = Gricean, vaak [[implicatuur]]
-- [Perlocutie {Perlocutionary}: effect on the hearer, what you intend to achieve (perlocution)
+- [[Perlocutie]] {Perlocutionary}: effect on the hearer, what you intend to achieve (perlocution)
 
 
-[[Locutie]]/[[illocutie]]/[[perlocutie]]
+
 
