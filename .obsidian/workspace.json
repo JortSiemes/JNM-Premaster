@@ -11,10 +11,8 @@
             "id": "44dc56d47b2574a8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Vakken/Taal en communicatie/book_by_birner_betty_j_introduction_to_pragmatics-.pdf"
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -53,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 5 Inleiding in de Journalistiek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +141,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 5 Inleiding in de Journalistiek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -167,9 +162,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 5 Inleiding in de Journalistiek.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -190,10 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b19be0236e1c952",
+  "active": "44dc56d47b2574a8",
   "lastOpenFiles": [
-    "Trias Politica.md",
+    "Onderwerpen/Implicatuur.md",
+    "Vakken/Taal en communicatie/book_by_birner_betty_j_introduction_to_pragmatics-.pdf",
     "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 5 Inleiding in de Journalistiek.md",
+    "Trias Politica.md",
     "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 4 Inleiding in de Journalistiek.md",
     "Episteme.md",
     "Voorbereidende voorwaarde.md",
@@ -212,7 +207,6 @@
     "conflict-files-obsidian-git.md",
     "Vakken/Taal en communicatie/Notities H6 Birner.md",
     "Vakken/Taal en communicatie/Colleges/Hoorcollege 4 Taal en communicatie.md",
-    "Vakken/Taal en communicatie/book_by_birner_betty_j_introduction_to_pragmatics-.pdf",
     "Vakken/Woorden als wapens/Weekopdrachten/~WRL0076.tmp",
     "Vakken/Woorden als wapens/Weekopdrachten/~$ekopdracht week 5(DOC).docx",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht week 5(DOC).pdf",
@@ -227,7 +221,6 @@
     "Vakken/Taal en communicatie/Deeltoets 3 NOV.md",
     "Vakken/Taal en communicatie/Birner H6.md",
     "Beelden/El-Neo-phase-VI.png",
-    "Vakken/Taal en communicatie/COLLECTIE FILE Taal en communicatie.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 5 Methode en Theorie van Journalism Studies.md"
+    "Vakken/Taal en communicatie/COLLECTIE FILE Taal en communicatie.md"
   ]
 }

@@ -69,6 +69,7 @@ brugfuncties, namelijk:
 4, agendafunctie, 
 	Agenda-setting, onderwerpen belangrijk in media die komen in media naar de burgers
 	Agenda-building, 
+	Media agenda-setting, aktiv en passive hebben pressure op media keuzes
 
 **Passive Öffentlichkeit**
 Niet betrokken bij besluitvorming
@@ -79,10 +80,27 @@ Muckrakers, journalisten die misstanden blootleggen
 causaliteit: wat beinvloed wat? vinden mensen dingen belangrijk die media schrijft, of schrijft media wat mensen belangrijk vinden.
 
 
+### definitiefunctie
+omschrijven wat het maatschappelijke probleem nou eigenlijk is.
 
+---
+## 3 journalistieke modellen:
+#### Marktmodel
+- commercie als drijfveer
+- doel: winst maken
+- publiek als consument
+- nieuws als commercieel product
 
+#### Spreekbuismodel
+- eigen zuil als drijfveer
+- doel: educatie en socialisatie
+- publiek als lid van de zuil
+- Nieuws als spreekbuis
 
-
-
+#### Machtigingsmodel (p)
+- Democratie als drijfveer
+- Doel: publieke meningsvorming
+- Publiek als burger
+- Nieuws als democratisch product
 
 
