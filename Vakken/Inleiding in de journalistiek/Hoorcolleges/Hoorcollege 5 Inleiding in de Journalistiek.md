@@ -66,6 +66,9 @@ brugfuncties, namelijk:
 1, Informatiefunctie (van aktief naar passief), laten weten welke keuzes de machthebbende maken
 2, expressiefunctie (van passief naar aktief), laten weten hoe het leeft in het volk
 3, kritiekfunctie (van media naar aktief), aan de kaak stellen als iets misgaat
+4, agendafunctie, 
+	Agenda-setting, onderwerpen belangrijk in media die komen in media naar de burgers
+	Agenda-building, 
 
 **Passive Öffentlichkeit**
 Niet betrokken bij besluitvorming
@@ -73,6 +76,7 @@ Niet betrokken bij besluitvorming
 Muckrakers, journalisten die misstanden blootleggen
 
 
+causaliteit: wat beinvloed wat? vinden mensen dingen belangrijk die media schrijft, of schrijft media wat mensen belangrijk vinden.
 
 
 
