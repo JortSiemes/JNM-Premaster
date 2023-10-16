@@ -5,7 +5,7 @@ Onderzoeksopzet staat niet vast, cyclus staat niet vast.
 Je kan heen en weer gaan van data naar vragen.
 totdat je bepaalde verzadiging bereikt
 
-Kwalitatieve [[inhoudsanalyse]] gaat over symbolische representatie
+Kwalitatieve [[Inhoudsanalyse]] gaat over symbolische representatie
 
 Systematische analyse van betekenis in context ('hoe' vragen)
 tekst, (transcriptie van) beeld en geluid

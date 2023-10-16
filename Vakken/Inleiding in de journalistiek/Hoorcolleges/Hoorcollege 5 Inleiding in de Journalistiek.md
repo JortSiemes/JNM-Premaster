@@ -97,10 +97,22 @@ omschrijven wat het maatschappelijke probleem nou eigenlijk is.
 - publiek als lid van de zuil
 - Nieuws als spreekbuis
 
-#### Machtigingsmodel (p)
+#### Machtigingsmodel ("Echte journalistiek")
 - Democratie als drijfveer
 - Doel: publieke meningsvorming
 - Publiek als burger
 - Nieuws als democratisch product
 
+
+### Elements of journalism
+1. Journalism's first obligation is to the truth
+2. Its first loyalty is to citizens
+3. its essence is a discipline of verification
+4. its practitioners must maintain an independence from those they cover
+5. it must serve as an independent monitor of power
+6. it must provide a forum for public criticism and compromise
+7. it must strive to keep the significant interesting and relevant
+
+
+Publieke / civiele journalistiek
 
