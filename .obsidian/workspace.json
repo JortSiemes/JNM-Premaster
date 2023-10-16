@@ -40,6 +40,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Week5_opdracht.pdf",
+                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 5 (Jort Siemes, s4028198).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Week5_opdracht.pdf",
+                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 5 (Jort Siemes, s4028198).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Week5_opdracht.pdf"
+                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 5 (Jort Siemes, s4028198).md"
               }
             }
           }
@@ -176,20 +177,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8df962cddd75dabf",
+  "active": "06eb7ae8092a52bf",
   "lastOpenFiles": [
+    "Vakken/Woorden als wapens/Weekopdrachten/~WRD3462.tmp",
+    "Vakken/Woorden als wapens/Weekopdrachten/Week5_opdracht.pdf",
+    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 5 (Jort Siemes, s4028198).md",
+    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 4 (Jort Siemes, s4028198).pdf",
     "Vakken/Woorden als wapens/Weekopdrachten/~WRL0076.tmp",
     "Vakken/Woorden als wapens/Weekopdrachten/~WRD0072.tmp",
     "Vakken/Woorden als wapens/Weekopdrachten/~$ekopdracht week 5(DOC).docx",
     "Vakken/Woorden als wapens/Weekopdrachten/~WRL0003.tmp",
     "Vakken/Woorden als wapens/Weekopdrachten/~WRD0002.tmp",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht week 5(DOC).docx",
-    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 5 (Jort Siemes, s4028198).md",
-    "Vakken/Woorden als wapens/Weekopdrachten/Week5_opdracht.pdf",
     "Vakken/Woorden als wapens/Literatuur/DeStemVanHetVolk_PopulismeEnPerspectief.pdf",
     "Vakken/Woorden als wapens/Literatuur/Niet bevestigd 125302.crdownload",
-    "Vakken/Woorden als wapens/Literatuur/Viewpointrepresentationinjournalisticcrimenarratives_Krieken_Sanders_Hoeken.pdf",
-    "Vakken/Woorden als wapens/Literatuur/Niet bevestigd 576151.crdownload",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 2 (Jort Siemes, s4028198).md",
     "Vakken/Taal en communicatie/Birner H6.md",
     "Vakken/Taal en communicatie/Onderwerpen/conversationele implicatuur.md",
