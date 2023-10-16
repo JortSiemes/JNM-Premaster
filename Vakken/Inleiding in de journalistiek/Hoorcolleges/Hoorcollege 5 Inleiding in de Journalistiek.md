@@ -57,6 +57,25 @@ journalistiek moet het debat faciliteren
 ook journalistieke media moet zorgen voor vermaak
 
 
+Ralf Dahrenforf (1967)
+**Aktive Öffentlichkeit**
+Wel betrokken bij besluitvorming
+
+Massenmedien (Massamedia)
+brugfuncties, namelijk:
+1, Informatiefunctie (van aktief naar passief), laten weten welke keuzes de machthebbende maken
+2, expressiefunctie (van passief naar aktief), laten weten hoe het leeft in het volk
+3, kritiekfunctie (van media naar aktief), aan de kaak stellen als iets misgaat
+
+**Passive Öffentlichkeit**
+Niet betrokken bij besluitvorming
+
+Muckrakers, journalisten die misstanden blootleggen
+
+
+
+
+
 
 
 
