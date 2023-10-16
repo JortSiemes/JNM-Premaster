@@ -34,7 +34,10 @@ Four theories of the press
 - zelfreinigend vermogen van media
 
 ### Theorie van de sociale verantwoordelijkheid van de pers
-- 
+- media dragen verantwoordelijkheid naar de samenleving
+- beroepseisen aan journalisten
+- zelfregulering
+- wettelijke maatregelen kunnen gerechtvaardigd zijn
 
 
 ----
@@ -49,6 +52,11 @@ Montesquieu: [[Trias Politica]] ('Driemachtenleer')
 
 ### debatfunctie
 journalistiek moet het debat faciliteren
+
+### Vermaakfunctie
+ook journalistieke media moet zorgen voor vermaak
+
+
 
 
 
