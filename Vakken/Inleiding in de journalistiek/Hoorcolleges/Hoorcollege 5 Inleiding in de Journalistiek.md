@@ -28,4 +28,30 @@ Four theories of the press
 - Censuur mogelijk
 
 ### Theorie van de vrije pers
+- vrijheid van publicatie is inbeperkt
+- geen enkele vorm van censuur
+- vrije marktplaats van ideeën
+- zelfreinigend vermogen van media
+
+### Theorie van de sociale verantwoordelijkheid van de pers
 - 
+
+
+----
+
+
+Montesquieu: [[Trias Politica]] ('Driemachtenleer')
+1, Wetgevende macht
+2, Uitvoerende macht
+3, Rechtgevende macht
+4?/5?, Journalistiek 
+4?/5?, Ambtenarij
+
+### debatfunctie
+journalistiek moet het debat faciliteren
+
+
+
+
+
+
