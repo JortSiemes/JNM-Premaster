@@ -1,0 +1,1 @@
+nieuw stadium zonder die contradictie
