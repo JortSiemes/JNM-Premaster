@@ -1,7 +1,7 @@
 Overzicht;
 - [[gezichtloosheid]]
-- [[Episteme]] en serieuze kennis
-- [[Normaliserende macht]]
+- [[Episteme 1]] en serieuze kennis
+- [[Normaliserende macht 1]]
 - vragen
 
 Foucault wijst erop dat wij als leden van een maatschappij altijd in een keurslijf gedrongen worden.
@@ -9,7 +9,7 @@ Foucault wijst erop dat wij als leden van een maatschappij altijd in een keursli
 - maar, zegt Foucault, als je je losmaakt van het keurslijf kan je **ook niet jezelf** zijn.
 - Alle mogelijke manieren van expressie zijn gedefinieerd door de maatschappij
 
-[[Episteme]] en serieuze kennis
+[[Episteme 1]] en serieuze kennis
 - Foucault idee is dat begrijpen van het systeem belangrijker is dan het begrijpen van specifieke individuen.
 - Dit systeem is groter dan het individu, maar het ligt ook op een dieper - namelijk ip een onbewust - niveau.
 
@@ -20,9 +20,9 @@ wetenschapsgeschiedenis moet volgens Foucault de nadruk liggen:
 -niet op ideeën, wensen, argumenten van individuen;
 - ook niet op ideeën, wensen argumenten van groepen
 
-[[Episteme]]
+[[Episteme 1]]
 
 Kennis en macht volgens Foucault = zijn nauw verweven.
 Macht:
 - [[repressieve macht]]
-- [[Normaliserende macht]]
+- [[Normaliserende macht 1]]

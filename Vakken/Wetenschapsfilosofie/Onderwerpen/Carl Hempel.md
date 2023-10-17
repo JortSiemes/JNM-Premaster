@@ -29,3 +29,12 @@ Example
 1, All unsupported heavy objects on earth fall down.
 2, When i let go of this apple, it became an usupported heavy objec on earth
 Result, so this apple fell down after i let go of it
+
+Wetmatigheden
+
+telkens wanneer er een luide roep om maatschappelijke verandering is, en zich tevens een ontwrichtende politieke gebeurtenis voordoet, zal die verandering plaatsvinden tijdens of kort na die gebeurtenis
+
+twee argumenten tegen Hempel:
+- Dergelijke wetmatigheden zijn (vrijwel) niet te vinden in de geschiedwetenschap;
+- historici zijn geintereseerd in het specifieke geval, niet in een algemene wetmatigheid
+

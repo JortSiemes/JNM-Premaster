@@ -3,7 +3,7 @@
 
 Feiten geven geen inzicht, wel kennis.
 
-[[hegel]], marx geloven dat er een samenhang moet komen tussen deze feiten.
+[[hegel]], [[Marx]] geloven dat er een samenhang moet komen tussen deze feiten.
 
 
 [[Carl Hempel]]: causale samenhang door middel van wetmatigheden
