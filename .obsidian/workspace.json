@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht week 5(DOC).pdf",
+                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 5 Woorden als Wapens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht week 5(DOC).pdf",
+                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 5 Woorden als Wapens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht week 5(DOC).pdf"
+                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 5 Woorden als Wapens.md"
               }
             }
           }
@@ -198,8 +198,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e960d91037b7f6d",
+  "active": "4b19be0236e1c952",
   "lastOpenFiles": [
+    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht week 5(DOC).pdf",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 5 (Jort Siemes, s4028198).md",
     "Vakken/Woorden als wapens/03 Lakoff & Johnson (1999)_H1-7,10.pdf",
     "Vakken/Woorden als wapens/Colleges/Werkcollege 5 Woorden als Wapens.md",
@@ -233,7 +234,6 @@
     "Vakken/Taal en communicatie/book_by_birner_betty_j_introduction_to_pragmatics-.pdf",
     "Vakken/Woorden als wapens/Weekopdrachten/~WRL0076.tmp",
     "Vakken/Woorden als wapens/Weekopdrachten/~$ekopdracht week 5(DOC).docx",
-    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht week 5(DOC).pdf",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht week 5(DOC).docx",
     "Beelden/El-Neo-phase-VI.png"
   ]
