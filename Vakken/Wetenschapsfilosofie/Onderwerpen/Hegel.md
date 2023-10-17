@@ -18,14 +18,14 @@ In de geschiedenis worden deze contradicties **dialectisch** 'uitgewerkt' en 'op
 Elke [[synthese]] is dan weer een [[these]].
 
 voorbeeld dialectiek:
-- [[These]]: Klein kind, gehoorzaam aan autoriteit van volwassene (probleem: eigen wil)
-- [[Antithese]]: Adolescent: rebellie, afzetten tegen alle bestaande autoriteiten (probleem: je hebt vooral jezelf ermee)
-- [[Synthese]]: volwassene: onafhankelijk individu dat legitieme en niet-legitieme autoriteit kan onderscheiden.
+- [[these]]: Klein kind, gehoorzaam aan autoriteit van volwassene (probleem: eigen wil)
+- [[antithese]]: Adolescent: rebellie, afzetten tegen alle bestaande autoriteiten (probleem: je hebt vooral jezelf ermee)
+- [[synthese]]: volwassene: onafhankelijk individu dat legitieme en niet-legitieme autoriteit kan onderscheiden.
 
 voorbeeld dialectiek 2:
 - [[these]]: oerstoestand: je kan doen wat je wil 'bellum omnium contra omnes'
 - [[antithese]]: Soevereine heerser: legt strenge regels op
-- [[Synthese]]: Democratie: burgers leggen regels op aan zichzelf
+- [[synthese]]: Democratie: burgers leggen regels op aan zichzelf
 
 Alleen achteraf kan je dialectiek zien (tijdens [[synthese]])
 
