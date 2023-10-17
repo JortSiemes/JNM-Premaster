@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Hegel.md",
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Collingwood.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Hegel.md",
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Collingwood.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Hegel.md"
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Collingwood.md"
               }
             }
           }
@@ -217,19 +217,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "afb6f3c5fc3b9826",
+  "active": "4ff2f675efe493e2",
   "lastOpenFiles": [
-    "Vakken/Wetenschapsfilosofie/Onderwerpen/Karl Marx.md",
-    "Pasted image 20231017181528.png",
+    "gebeurtenissen.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/Collingwood.md",
+    "Pasted image 20231017183335.png",
     "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 5 wetenschapsfilosofie.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Hegel.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/Karl Marx.md",
+    "Pasted image 20231017181528.png",
     "synthese.md",
     "antithese.md",
     "these.md",
     "Pasted image 20231017173730.png",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Carl Hempel.md",
     "White.md",
-    "Vakken/Wetenschapsfilosofie/Onderwerpen/Collingwood.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/123445.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Deductief-nomologisch.md",
     "Onderwerpen/deductief.md",
