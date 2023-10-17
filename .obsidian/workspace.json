@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Michel Foucault.md",
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Carl Hempel.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Michel Foucault.md",
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Carl Hempel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Michel Foucault.md",
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Carl Hempel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Michel Foucault.md"
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Carl Hempel.md"
               }
             }
           }
@@ -168,12 +168,14 @@
   },
   "active": "18c0ffc7a9e8368c",
   "lastOpenFiles": [
-    "Normaliserende macht.md",
+    "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 4 wetenschapsfilosofie.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/Carl Hempel.md",
+    "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 3 wetenschapsfilosofie.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Michel Foucault.md",
+    "Normaliserende macht.md",
     "repressieve macht.md",
     "Episteme.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/gezichtloosheid.md",
-    "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 3 wetenschapsfilosofie.md",
     "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf",
     "Vakken/Taal en communicatie/Colleges/Werkcollege 4 taal en communicatie.md",
     "Vakken/Woorden als wapens/Weekopdrachten/Week5_opdracht.pdf",
@@ -202,8 +204,6 @@
     "Vakken/Taal en communicatie/Colleges/Hoorcollege 2 taal en communicatie.md",
     "Vakken/Taal en communicatie/Onderwerpen/R-Implicaturen.md",
     "Vakken/Taal en communicatie/Onderwerpen/Q-Implicaturen.md",
-    "Vakken/Taal en communicatie/Onderwerpen/Particuliere implicatuur.md",
-    "Vakken/Woorden als wapens/Colleges/Werkcollege 2 Woorden als Wapens.md",
     "Beelden/El-Neo-phase-VI.png"
   ]
 }
