@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Carl Hempel.md",
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Hegel.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Carl Hempel.md",
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Hegel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Carl Hempel.md",
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Hegel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Carl Hempel.md"
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Hegel.md"
               }
             }
           }
@@ -168,8 +168,10 @@
   },
   "active": "18c0ffc7a9e8368c",
   "lastOpenFiles": [
-    "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 4 wetenschapsfilosofie.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Carl Hempel.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/Hegel.md",
+    "deductive-nomological model.md",
+    "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 4 wetenschapsfilosofie.md",
     "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 3 wetenschapsfilosofie.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Michel Foucault.md",
     "Normaliserende macht.md",
@@ -202,8 +204,6 @@
     "Vakken/Taal en communicatie/Onderwerpen/conversationele implicatuur.md",
     "Vakken/Taal en communicatie/Onderwerpen/conventionele implicatuur.md",
     "Vakken/Taal en communicatie/Colleges/Hoorcollege 2 taal en communicatie.md",
-    "Vakken/Taal en communicatie/Onderwerpen/R-Implicaturen.md",
-    "Vakken/Taal en communicatie/Onderwerpen/Q-Implicaturen.md",
     "Beelden/El-Neo-phase-VI.png"
   ]
 }
