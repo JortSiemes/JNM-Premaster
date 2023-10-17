@@ -4,65 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b7327d6a43f80e99",
+        "id": "1855ce094004b0f2",
         "type": "tabs",
         "children": [
           {
-            "id": "44dc56d47b2574a8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "4b19be0236e1c952",
+            "id": "9a4de19e7ecacc57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 5 Woorden als Wapens.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e960d91037b7f6d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht week 5(DOC).pdf"
-              }
-            }
-          },
-          {
-            "id": "0f6d0f98330164e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Performative.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc8be0d6f88f011a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Taal en communicatie/Notities H6 Birner.md",
+                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 4 wetenschapsfilosofie.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 5 Woorden als Wapens.md",
+                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 4 wetenschapsfilosofie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 5 Woorden als Wapens.md",
+                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 4 wetenschapsfilosofie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 5 Woorden als Wapens.md"
+                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 4 wetenschapsfilosofie.md"
               }
             }
           }
@@ -198,13 +155,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b19be0236e1c952",
+  "active": "9a4de19e7ecacc57",
   "lastOpenFiles": [
+    "Vakken/Taal en communicatie/Notities H6 Birner.md",
+    "Performative.md",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht week 5(DOC).pdf",
     "Vakken/Woorden als wapens/Colleges/Werkcollege 5 Woorden als Wapens.md",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 5 (Jort Siemes, s4028198).md",
     "Vakken/Woorden als wapens/03 Lakoff & Johnson (1999)_H1-7,10.pdf",
-    "Vakken/Taal en communicatie/Notities H6 Birner.md",
     "Vakken/Woorden als wapens/EenGoedTennisserVerliestGeenWedstrijden.pdf",
     "Vakken/Woorden als wapens/Introduction to Discourse Studies_New Edition_Paragraaf8.pdf",
     "Vakken/Woorden als wapens/COLLECTIE FILE Woorden als wapens.md",
