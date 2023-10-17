@@ -3,7 +3,7 @@ Macht die jou op een bepaalde manier laat handelen door jou te vormen tot iemand
 
 Macht van binnenuit je dingen laat doen
 
-Dit hangt samen met [[episteme]] = grote vorm van normaliserende macht
+Dit hangt samen met [[Episteme]] = grote vorm van normaliserende macht
 
 Normaliserende macht is vele malen belangrijker dan [[repressieve macht]]. Onze hele samenleving drijft erop.
 
