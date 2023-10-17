@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "90f09564f1668809",
+        "id": "a18177dd18a8be5b",
         "type": "tabs",
         "children": [
           {
-            "id": "06eb7ae8092a52bf",
+            "id": "18c0ffc7a9e8368c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 5 (Jort Siemes, s4028198).md",
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Michel Foucault.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6929383c8646cf6d",
+            "id": "75330b08fbbbfd3c",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Vakken/Taal en communicatie/book_by_birner_betty_j_introduction_to_pragmatics-.pdf"
+                "file": "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf"
               }
             }
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Week5_opdracht.pdf",
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Michel Foucault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Week5_opdracht.pdf",
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Michel Foucault.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Week5_opdracht.pdf"
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Michel Foucault.md"
               }
             }
           }
@@ -166,8 +166,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1600001feb785ff",
+  "active": "18c0ffc7a9e8368c",
   "lastOpenFiles": [
+    "Normaliserende macht.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/Michel Foucault.md",
+    "repressieve macht.md",
+    "Episteme.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/gezichtloosheid.md",
+    "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 3 wetenschapsfilosofie.md",
+    "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf",
+    "Vakken/Taal en communicatie/Colleges/Werkcollege 4 taal en communicatie.md",
+    "Vakken/Woorden als wapens/Weekopdrachten/Week5_opdracht.pdf",
     "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwantitatieve inhoudsanalyse.md",
     "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwalitatieve inhoudsanalyse.md",
     "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Inhoudsanalyse.md",
@@ -183,11 +192,9 @@
     "Vakken/Woorden als wapens/Weekopdrachten/msoD200.tmp",
     "Vakken/Woorden als wapens/Weekopdrachten/~WRD2945.tmp",
     "Vakken/Woorden als wapens/Weekopdrachten/~WRD3462.tmp",
-    "Vakken/Woorden als wapens/Weekopdrachten/Week5_opdracht.pdf",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 5 (Jort Siemes, s4028198).md",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 4 (Jort Siemes, s4028198).pdf",
     "Vakken/Woorden als wapens/Weekopdrachten/~WRL0076.tmp",
-    "Vakken/Woorden als wapens/Weekopdrachten/~WRD0072.tmp",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 2 (Jort Siemes, s4028198).md",
     "Vakken/Taal en communicatie/Birner H6.md",
     "Vakken/Taal en communicatie/Onderwerpen/conversationele implicatuur.md",
@@ -197,13 +204,6 @@
     "Vakken/Taal en communicatie/Onderwerpen/Q-Implicaturen.md",
     "Vakken/Taal en communicatie/Onderwerpen/Particuliere implicatuur.md",
     "Vakken/Woorden als wapens/Colleges/Werkcollege 2 Woorden als Wapens.md",
-    "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md",
-    "Vakken/Woorden als wapens/Colleges/Werkcollege 4 Woorden als Wapens.md",
-    "Extra opdrachten Horn Relevance.md",
-    "Vakken/Taal en communicatie/Colleges/Hoorcollege 3 Taal en communicatie.md",
-    "Vakken/Taal en communicatie/Onderwerpen/Coded Meaning.md",
-    "Vakken/Taal en communicatie/Deeltoets 3 NOV.md",
-    "Vakken/Taal en communicatie/COLLECTIE FILE Taal en communicatie.md",
     "Beelden/El-Neo-phase-VI.png"
   ]
 }
