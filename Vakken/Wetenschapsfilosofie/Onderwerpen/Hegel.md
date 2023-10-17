@@ -4,6 +4,7 @@ Georg Wilhelm Friedrich Hegel
 
 Ook Hegel gelooft dat de geschiedenis wetmatig verloopt.
 
+logische samenhang door middel van dialectiek
 ### Volgens Hegel herhaalt de geschiedenis zich niet!
 
 Elk stadium van de geschiedenis is **instabiel**, en die instabiliteit zorgt ervoor dat er een volgende stap noodzakelijk is.
