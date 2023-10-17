@@ -28,6 +28,18 @@
             }
           },
           {
+            "id": "efb16f9b352f0b24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0f6d0f98330164e7",
             "type": "leaf",
             "state": {
@@ -52,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 5 Woorden als Wapens.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 5 Woorden als Wapens.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 5 Woorden als Wapens.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -188,10 +200,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b19be0236e1c952",
+  "active": "efb16f9b352f0b24",
   "lastOpenFiles": [
-    "Vakken/Woorden als wapens/Colleges/Werkcollege 4 Woorden als Wapens.md",
     "Vakken/Woorden als wapens/Colleges/Werkcollege 5 Woorden als Wapens.md",
+    "conflict-files-obsidian-git.md",
+    "repressieve macht.md",
+    "deductive-nomological model.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/Hegel.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/Carl Hempel.md",
+    "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 4 wetenschapsfilosofie.md",
+    "Normaliserende macht.md",
+    "Episteme.md",
+    "Vakken/Woorden als wapens/Colleges/Werkcollege 4 Woorden als Wapens.md",
     "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 5 Inleiding in de Journalistiek.md",
     "Voorbereidende voorwaarde.md",
     "Vakken/Inleiding in de journalistiek/Onderwerpen",
@@ -210,15 +230,7 @@
     "Vakken/Inleiding in de journalistiek/Onderwerpen/Trias Politica.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Scientific progress.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Episteme.md",
-    "Onderwerpen/Implicatuur.md",
     "Vakken/Taal en communicatie/book_by_birner_betty_j_introduction_to_pragmatics-.pdf",
-    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 4 Inleiding in de Journalistiek.md",
-    "Vakken/Taal en communicatie/Extra opdrachten Horn Relevance.md",
-    "Vakken/Taal en communicatie/Colleges/Hoorcollege 5 Taal en communicatie.md",
-    "Illocutionary act.md",
-    "conflict-files-obsidian-git.md",
-    "Vakken/Taal en communicatie/Notities H6 Birner.md",
-    "Vakken/Taal en communicatie/Colleges/Hoorcollege 4 Taal en communicatie.md",
     "Vakken/Woorden als wapens/Weekopdrachten/~WRL0076.tmp",
     "Vakken/Woorden als wapens/Weekopdrachten/~$ekopdracht week 5(DOC).docx",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht week 5(DOC).pdf",
