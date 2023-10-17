@@ -70,9 +70,16 @@ Politicologisch onderzoek: 'people centrality' als maat voor populistisch gehalt
 Speech an thought representation: het toeshcrijven van gezichtspunten aan personages in het discours
 wie is verantwoordelijk voor de inhoud en vorm van de gepresenteerde informatie?
 
-Indirecte rede: parafraseer je met dat zin
+### Perspectiveringsschaal
+{Meest sterke perspectief, meest stem laten horen} 
+**Directe rede:** (zeiden tegen mij: we zijn grote tegenstanders van belastingverhoging)
 
+**VrijeIndirecte rede**: parafraseer je met dat zin (zeiden het zelf: ja, ze waren grote tegenstanders van belastingverhoging)
 
+**Indirecte rede:** (zeiden dat ze: 'grote tegenstanders van belastingverhoging waren')
+
+**impliciet perspectief:** (Henk en Ingrid: willen absoluut geen belastingverhoging)
+{minst sterk perspectief, minst stem laten horen}
 
 
 
