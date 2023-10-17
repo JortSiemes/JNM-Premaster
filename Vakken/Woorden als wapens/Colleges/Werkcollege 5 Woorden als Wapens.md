@@ -44,6 +44,19 @@ Bevindingen:
 ## voor presentatie misschien leuk om zn grafiek te maken zoals in artikel 1/2
 
 
+Stilistische technieken:
+1,
+2,
+3,
+
+Stilistische technieken
+
+Details; bordeaux rode auto
+Voornaamwoorden triggers de lezer
+
+1: Perspectief, ze / hij / we (in deze tekst gebruikt de auteur veel ze en hij om over zowel de slachtoffers als de dader te praten. Waardoor je een stuk beter dit verhaal kan meebeleven.) Stilistische techniek 
+2: Emotie, geschrokken (maakt de tekst een stuk persoonlijker omdat we kunnen inleven in de gevoelens van de aanwezigen) Stilistische techniek 
+3: Cognitie, bibberend (lezer kan beter zich de situatie voor zich zien door dit soort extra stukjes informatie)
 
 
 
