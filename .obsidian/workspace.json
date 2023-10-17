@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8df962cddd75dabf",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Week5_opdracht.pdf"
-              }
-            }
-          },
-          {
             "id": "06eb7ae8092a52bf",
             "type": "leaf",
             "state": {
@@ -40,7 +30,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -115,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 5 (Jort Siemes, s4028198).md",
+                "file": "Vakken/Woorden als wapens/Weekopdrachten/Week5_opdracht.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 5 (Jort Siemes, s4028198).md",
+                "file": "Vakken/Woorden als wapens/Weekopdrachten/Week5_opdracht.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 5 (Jort Siemes, s4028198).md"
+                "file": "Vakken/Woorden als wapens/Weekopdrachten/Week5_opdracht.pdf"
               }
             }
           }
@@ -177,7 +166,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "529bfa46d73bb647",
+  "active": "d1600001feb785ff",
   "lastOpenFiles": [
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht week 5(DOC).pdf",
     "Vakken/Woorden als wapens/Weekopdrachten/msoD200.tmp",
