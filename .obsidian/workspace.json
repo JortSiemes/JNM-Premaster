@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Karl Marx.md",
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Hegel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Karl Marx.md",
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Hegel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Karl Marx.md"
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Hegel.md"
               }
             }
           }
@@ -217,11 +217,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d587cedc1b80d6de",
+  "active": "afb6f3c5fc3b9826",
   "lastOpenFiles": [
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/Karl Marx.md",
     "Pasted image 20231017181528.png",
     "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 5 wetenschapsfilosofie.md",
-    "Vakken/Wetenschapsfilosofie/Onderwerpen/Karl Marx.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Hegel.md",
     "synthese.md",
     "antithese.md",
