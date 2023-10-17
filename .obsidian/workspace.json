@@ -134,7 +134,7 @@
               "state": {
                 "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 5 (Jort Siemes, s4028198).md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -177,7 +177,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06eb7ae8092a52bf",
+  "active": "529bfa46d73bb647",
   "lastOpenFiles": [
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht week 5(DOC).pdf",
     "Vakken/Woorden als wapens/Weekopdrachten/msoD200.tmp",
