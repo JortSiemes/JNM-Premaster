@@ -60,6 +60,24 @@ Voornaamwoorden triggers de lezer (hierdoor word je in het verhaal gezogen)
 3: Cognitie, bibberend (lezer kan beter zich de situatie voor zich zien door dit soort extra stukjes informatie)
 
 
+### Perspectief 2 - Van Leeuwen & Van Vliet
+
+Politicologisch onderzoek: 'people centrality' als maat voor populistisch gehalte van een politicus
+
+**conclusie**: je moet ook naar andere indicatoren kijken, zoals mate waarin kiezer eigen perspectief krijgt toegeschreven.
+- perspectief in termen van: 'speech and thought representation'
+
+Speech an thought representation: het toeshcrijven van gezichtspunten aan personages in het discours
+wie is verantwoordelijk voor de inhoud en vorm van de gepresenteerde informatie?
+
+Indirecte rede: parafraseer je met dat zin
+
+
+
+
+
+
+
 
 
 
