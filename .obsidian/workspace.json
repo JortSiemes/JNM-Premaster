@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Marx.md",
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Karl Marx.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Hegel.md",
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Karl Marx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Hegel.md",
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Karl Marx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Hegel.md"
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Karl Marx.md"
               }
             }
           }
@@ -217,9 +217,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "afb6f3c5fc3b9826",
+  "active": "d587cedc1b80d6de",
   "lastOpenFiles": [
+    "Pasted image 20231017181528.png",
     "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 5 wetenschapsfilosofie.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/Karl Marx.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Hegel.md",
     "synthese.md",
     "antithese.md",
@@ -228,7 +230,6 @@
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Carl Hempel.md",
     "White.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Collingwood.md",
-    "Vakken/Wetenschapsfilosofie/Onderwerpen/Marx.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/123445.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Deductief-nomologisch.md",
     "Onderwerpen/deductief.md",
@@ -250,7 +251,6 @@
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Normaliserende macht 1.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Episteme 1.md",
     "Vakken/Woorden als wapens/Colleges/Werkcollege 4 Woorden als Wapens.md",
-    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 5 Inleiding in de Journalistiek.md",
     "Vakken/Inleiding in de journalistiek/Onderwerpen",
     "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen",
     "Vakken/Taal en communicatie/book_by_birner_betty_j_introduction_to_pragmatics-.pdf",
