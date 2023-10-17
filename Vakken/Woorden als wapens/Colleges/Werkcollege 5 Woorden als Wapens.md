@@ -52,7 +52,8 @@ Stilistische technieken:
 Stilistische technieken
 
 Details; bordeaux rode auto
-Voornaamwoorden triggers de lezer
+Voornaamwoorden triggers de lezer (hierdoor word je in het verhaal gezogen)
+
 
 1: Perspectief, ze / hij / we (in deze tekst gebruikt de auteur veel ze en hij om over zowel de slachtoffers als de dader te praten. Waardoor je een stuk beter dit verhaal kan meebeleven.) Stilistische techniek 
 2: Emotie, geschrokken (maakt de tekst een stuk persoonlijker omdat we kunnen inleven in de gevoelens van de aanwezigen) Stilistische techniek 
