@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "White.md",
+                "file": "Hayden White.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -155,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Collingwood.md",
+                "file": "Hayden White.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Collingwood.md",
+                "file": "Hayden White.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Collingwood.md"
+                "file": "Hayden White.md"
               }
             }
           }
@@ -217,12 +216,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ff2f675efe493e2",
+  "active": "8eb7da33b87cc189",
   "lastOpenFiles": [
-    "gebeurtenissen.md",
-    "Vakken/Wetenschapsfilosofie/Onderwerpen/Collingwood.md",
-    "Pasted image 20231017183335.png",
     "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 5 wetenschapsfilosofie.md",
+    "Hayden White.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/Collingwood.md",
+    "handelingen.md",
+    "gebeurtenissen.md",
+    "Pasted image 20231017183335.png",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Hegel.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Karl Marx.md",
     "Pasted image 20231017181528.png",
@@ -231,7 +232,6 @@
     "these.md",
     "Pasted image 20231017173730.png",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Carl Hempel.md",
-    "White.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/123445.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Deductief-nomologisch.md",
     "Onderwerpen/deductief.md",
@@ -252,7 +252,6 @@
     "Vakken/Wetenschapsfilosofie/Onderwerpen/deductive-nomological model.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Normaliserende macht 1.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Episteme 1.md",
-    "Vakken/Woorden als wapens/Colleges/Werkcollege 4 Woorden als Wapens.md",
     "Vakken/Inleiding in de journalistiek/Onderwerpen",
     "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen",
     "Vakken/Taal en communicatie/book_by_birner_betty_j_introduction_to_pragmatics-.pdf",

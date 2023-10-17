@@ -9,7 +9,7 @@ Feiten geven geen inzicht, wel kennis.
 [[Carl Hempel]]: causale samenhang door middel van wetmatigheden
 [[Hegel]] & [[Karl Marx]]: logische samenhang door middel van dialectiek
 [[Collingwood]]: logische samenhang van handelingen en de redenen voor die handelingen.
-[[White]]: narratieve samenhang door middel van een veelheid aan vertelstructuren.
+[[Hayden White]]: narratieve samenhang door middel van een veelheid aan vertelstructuren.
 
 
 
