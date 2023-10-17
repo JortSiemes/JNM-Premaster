@@ -34,7 +34,13 @@ Journalistieke narratieven:
 Bevindingen:
 - meer 'human interest' in journalistieke narratieven:
 	- a, aantal verwijzingen naar personen is in journalistieke narratieven significant hoger dan in nieuwsberichten
-	- b, waar in de nieuwsber
+	- b, waar in de nieuwsberichten beduidend meer met nomina dan met pronomina wordt verwezen, is die verhouding in journalistieke narratieven ongeveer 50/50
+- Hypothese 1 wordt bevestigd:
+	- a, aantal ooggetuigen in subjectpositie significant hoger
+- Hypothese 2 wordt bevestigd:
+	- a, nieuwsberichten vaker met voornaamwoord naar ooggetuigen verwezen.
+
+
 ## voor presentatie misschien leuk om zn grafiek te maken zoals in artikel 1/2
 
 
