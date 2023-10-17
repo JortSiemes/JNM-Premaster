@@ -81,7 +81,14 @@ wie is verantwoordelijk voor de inhoud en vorm van de gepresenteerde informatie?
 **impliciet perspectief:** (Henk en Ingrid: willen absoluut geen belastingverhoging)
 {minst sterk perspectief, minst stem laten horen}
 
+kan voorbeeld vinden tussen weekopdracht (dat je kan zien expliciet geformuleerde criteria)
 
+moet duiden naar inwoners!
+
+16 uitingen verwijzen naar de kiezer 44% van uitingen 16/36
+in 9 uitingen krijgt de kiezer een eigen perspectief
+in alle gevallen impliciet perspectief behalve uiting 7
+in het geanalyseerde tekstgedeelte krijgen kiezers (veel) meer een stem dan bij Wilders.
 
 
 
