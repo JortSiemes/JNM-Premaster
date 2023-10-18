@@ -13,6 +13,7 @@ Deze performatieve uitingen zijn niet exeptioneel
 
 Ik beloof dat ik dit morgen doe: Expliciete performatief
 Ik doe het morgen: Impliciete performatief
+
 I apologize: expliciete performatief
 I'm sorry: impliciete performatief
 
