@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Taal en communicatie/Colleges/Hoorcollege 5 Taal en communicatie.md",
+                "file": "Vakken/Taal en communicatie/Opdrachten/Opdracht week 3 - Taal en Communicatie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Taal en communicatie/Colleges/Hoorcollege 5 Taal en communicatie.md",
+                "file": "Vakken/Taal en communicatie/Opdrachten/Opdracht week 3 - Taal en Communicatie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Taal en communicatie/Colleges/Hoorcollege 5 Taal en communicatie.md"
+                "file": "Vakken/Taal en communicatie/Opdrachten/Opdracht week 3 - Taal en Communicatie.md"
               }
             }
           }
@@ -179,10 +179,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35cd445711bb1492",
+  "active": "0a0d26b6e6b09a34",
   "lastOpenFiles": [
-    "Vakken/Taal en communicatie/Opdrachten/Opdracht week 3 - Taal en Communicatie.md",
     "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 1.pdf",
+    "Vakken/Taal en communicatie/Opdrachten/Opdracht week 3 - Taal en Communicatie.md",
     "Vakken/Taal en communicatie/Colleges/Hoorcollege 5 Taal en communicatie.md",
     "constatives.md",
     "Performative.md",
