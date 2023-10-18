@@ -3,7 +3,7 @@ I name this ship the Mr. Staling
 
 Ik dank jullie voor jullie aandacht (is niet waar/onwaar, dus niet [[waarheidsconditioneel]])
 
-Geslaagdheidsvoorwaarden
+[[Geslaagdheidsvoorwaarden]]
 
 Ik wil je bedanken voor de show (heb je eigenlijk nog niet bedankt, maar de zin is dus ook in zichzelf een bedankje)
 
@@ -13,6 +13,7 @@ Deze performatieve uitingen zijn niet exeptioneel
 
 Ik beloof dat ik dit morgen doe: Expliciete performatief
 Ik doe het morgen: Impliciete performatief
+
 I apologize: expliciete performatief
 I'm sorry: impliciete performatief
 
