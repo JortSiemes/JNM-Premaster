@@ -16,29 +16,32 @@ Five general groups: (van Searle)
 [[Verklaarders]] (Declaratives) I fire you, I resign, I name this ship Mr Stalin, I open the meeting
 	Speaker makes p true
 
-a. Meedelen X
-b. Dopen X
+
+X = illocutie
+
+a. Meedelen - X, Uitdrukkers
+b. Dopen - X, verklaarders
 c. Wandelen
-d. Gelukwensen 
+d. Gelukwensen - X, Uitdrukkers
 e. Koken
-f. Verzoeken
-g. Stellen
-h. aanvaarden
-i. condoleren
-j. eisen
+f. Verzoeken - X, Directives
+g. Stellen - X, Beweerders
+h. aanvaarden - X, Binders
+i. condoleren - X, Uitdrukkers
+j. eisen -X, stuurders
 k. schreeuwen
 l. ontkennen
-m. adviseren
-n. beloven
-o. toelichten
+m. adviseren - X
+n. beloven - X, Binders
+o. toelichten - X
 p. vragen
-q. waarschuwen
+q. waarschuwen - X
 r. intimideren
-s. toestaan
+s. toestaan - X, Stuurders
 t. weigeren
 u. zeuren
-v. geruststellen
+v. geruststellen - X, 
 w. roddelen
-x. prijzen
-y. protesteren
+x. prijzen - X, Uitdrukkers
+y. protesteren -  X
 z. zwijgen
