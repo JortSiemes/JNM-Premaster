@@ -32,3 +32,8 @@ z. zwijgen
 2. a. constantieve uiting
 
 b. 
+
+
+4. locutie: 
+illocutie:
+perlocutie: 
