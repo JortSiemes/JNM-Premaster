@@ -36,6 +36,7 @@ grammatica: als je niet aan regels van spelling houd dan heb je een foute zin
 [[Propositionele inhoudsvoorwaarde]] - belofte: concerns future act of the speaker, inhoud moet voldoen 
 request: concerns future act of the hearer
 Vraag:
+de feiten in die beschreven worden in de zin.
 
 [[Voorbereidende voorwaarde]] - Belofte moet gaan over toekomstige handeling van de spreker
 Acts is in the interest of the hearer; Speaker was not supposed to do it anyway; Speaker is able to do it, Als dit niet is voldaan dan is het zinloos/overbodig
@@ -70,6 +71,7 @@ Five general groups: (van Searle)
 
 [[Verklaarders]] (Declaratives) I fire you, I resign, I name this ship Mr Stalin, I open the meeting
 	Speaker makes p true
+(Bij deze is de verklaring geopend)
 
 
 

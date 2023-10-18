@@ -3,38 +3,37 @@
 X = [[illocutie]]
 Kijken onder welke dit zal vallen
 
-a. Meedelen - X, [[Uitdrukkers]] > [[[[Verklaarders]]|[[Verklaarde]]rs]]
-b. Dopen - X, [[verklaarders]] > Verklaarders
+a. Meedelen - X, [[Uitdrukkers]] > [[verklaarders]]
+b. Dopen - X, [[verklaarders]] $
 c. Wandelen $
 d. Gelukwensen - X, [[Uitdrukkers]] $
 e. Koken $
 f. Verzoeken - X, [[Stuurders]] $
-g. Stellen - X, [[Beweerders]] > Verklaarders
+g. Stellen - X, [[Beweerders]] > [[verklaarders]]
 h. aanvaarden - X, [[Binders]] $
 i. condoleren - X, [[Uitdrukkers]] $
 j. eisen -X, [[stuurders]] $
 k. schreeuwen $
-l. ontkennen - X,  > Verklaarders/Binders
+l. ontkennen - X,  > [[Verklaarders]]/[[Binders]]
 m. adviseren - X, [[stuurders]] $
 n. beloven - X, [[Binders]] $
-o. toelichten - X, [[stuurders]] > Verklaarders
-p. vragen - ??? > Stuurder
+o. toelichten - X, [[stuurders]] > [[Verklaarders]]
+p. vragen - ??? > [[Stuurders]]
 q. waarschuwen - X, [[stuurders]] $
 r. intimideren $
-s. toestaan - X, [[Stuurders]] / Binders $
-t. weigeren -  > binders
+s. toestaan - X, [[Stuurders]] / [[Binders]] $
+t. weigeren -  > [[binders]]
 u. zeuren $
 v. geruststellen $
 w. roddelen $
 x. prijzen - X, [[Uitdrukkers]] $
-y. protesteren -  X > Stuurders
+y. protesteren -  X > [[Stuurders]]
 z. zwijgen $
 
-18 Goed, 26 totaal 8 fout
+19 Goed, 26 totaal 7 fout
 
-2. a. constantieve uiting
-
-b. 
+2. a. een mededeling dit is een beweerder, want er word iets geconstateerd
+b.  
 
 3.  markeer de expliciet performatieve [[taalhandelingen]]
 1, ‘Ja.’ ‘Wat denk jij over het wapen?’ ‘Hoogstwaarschijnlijk een revolver. Ik heb naar lege hulzen gezocht en niks gevonden.’ ‘Geen idee van het kaliber?’ ‘**Eric, dat zal ik je morgen na de autopsie weten te zeggen, op voorwaarde dat er kogels in het lichaam gevonden worden**,’ antwoordde Verstuyft snel en had meteen door dat hij zich had laten vangen. ‘En ik die dacht dat jij een expert was. Ga jij niet twee keer per week oefenen in practical shooting in die club van door wapens geobsedeerde psychopaten?’ Verstuyft hield zijn mond. ‘**Ik wed voor een rondje Duvel in de Wagon Wheel dat het minstens een negen millimeter parabellum is,**’ ging Vincke met een onschuldig gezicht voort. 
