@@ -11,69 +11,31 @@
             "id": "8eb7da33b87cc189",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 1.pdf"
+              }
+            }
+          },
+          {
+            "id": "0a0d26b6e6b09a34",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 5 Inleiding in de Journalistiek.md",
+                "file": "Vakken/Taal en communicatie/Opdrachten/Opdracht week 3 - Taal en Communicatie.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4ff2f675efe493e2",
+            "id": "35cd445711bb1492",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Collingwood.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d587cedc1b80d6de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Karl Marx.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a4de19e7ecacc57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Carl Hempel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "673d9778c62b1295",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 5 wetenschapsfilosofie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afb6f3c5fc3b9826",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Hegel.md",
+                "file": "Vakken/Taal en communicatie/Colleges/Hoorcollege 5 Taal en communicatie.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 5 Inleiding in de Journalistiek.md",
+                "file": "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 5 Inleiding in de Journalistiek.md",
+                "file": "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -194,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 5 Inleiding in de Journalistiek.md"
+                "file": "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 1.pdf"
               }
             }
           }
@@ -218,10 +180,15 @@
   },
   "active": "8eb7da33b87cc189",
   "lastOpenFiles": [
+    "Vakken/Taal en communicatie/Colleges/Hoorcollege 5 Taal en communicatie.md",
+    "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 1.pdf",
+    "Vakken/Taal en communicatie/Opdrachten/Opdracht week 3 - Taal en Communicatie.md",
+    "Vakken/Taal en communicatie/Birner H6.md",
+    "Vakken/Taal en communicatie/Opdrachten/Opdracht week 2 - Taal en Communicatie.md",
+    "Vakken/Taal en communicatie/Opdrachten/Extra oefening Horn en Relevantietheorie.pdf",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 5 Inleiding in de Journalistiek.md",
     "Vakken/Inleiding in de journalistiek/Leidraad - aanpassing juni 2021.pdf",
     "Vakken/Inleiding in de journalistiek/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf",
-    "Vakken/Taal en communicatie/Birner H6.md",
-    "Vakken/Taal en communicatie/Colleges/Hoorcollege 5 Taal en communicatie.md",
     "geslaagdheidsvoorwaarden.md",
     "Essentiele conditie.md",
     "Beweerders.md",
@@ -246,18 +213,12 @@
     "Pasted image 20231017172418.png",
     "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 4 wetenschapsfilosofie.md",
     "Vakken/Taal en communicatie/Notities H6 Birner.md",
-    "Performative.md",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht week 5(DOC).pdf",
-    "Vakken/Woorden als wapens/Colleges/Werkcollege 5 Woorden als Wapens.md",
-    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 5 (Jort Siemes, s4028198).md",
     "Vakken/Woorden als wapens/03 Lakoff & Johnson (1999)_H1-7,10.pdf",
     "Vakken/Woorden als wapens/EenGoedTennisserVerliestGeenWedstrijden.pdf",
     "Vakken/Woorden als wapens/Introduction to Discourse Studies_New Edition_Paragraaf8.pdf",
     "Vakken/Inleiding in de journalistiek/Onderwerpen",
     "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen",
-    "Vakken/Taal en communicatie/book_by_birner_betty_j_introduction_to_pragmatics-.pdf",
-    "Vakken/Woorden als wapens/Weekopdrachten/~WRL0076.tmp",
-    "Vakken/Woorden als wapens/Weekopdrachten/~$ekopdracht week 5(DOC).docx",
     "Beelden/El-Neo-phase-VI.png"
   ]
 }
