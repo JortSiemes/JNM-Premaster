@@ -1,33 +1,36 @@
 1.	
 
 X = [[illocutie]]
+Kijken onder welke dit zal vallen
 
-a. Meedelen - X, [[Uitdrukkers]]
-b. Dopen - X, [[verklaarders]]
-c. Wandelen
-d. Gelukwensen - X, [[Uitdrukkers]]
-e. Koken
-f. Verzoeken - X, [[Stuurders]]
-g. Stellen - X, [[Beweerders]]
-h. aanvaarden - X, [[Binders]]
-i. condoleren - X, [[Uitdrukkers]]
-j. eisen -X, [[stuurders]]
-k. schreeuwen
-l. ontkennen - X, ???
-m. adviseren - X, [[stuurders]]
-n. beloven - X, [[Binders]]
-o. toelichten - X, [[stuurders]]
-p. vragen
-q. waarschuwen - X, [[stuurders]]
-r. intimideren
-s. toestaan - X, [[Stuurders]]
-t. weigeren
-u. zeuren
-v. geruststellen - X, [[stuurders]]
-w. roddelen
-x. prijzen - X, [[Uitdrukkers]]
-y. protesteren -  X
-z. zwijgen
+a. Meedelen - X, [[Uitdrukkers]] > [[[[Verklaarders]]|[[Verklaarde]]rs]]
+b. Dopen - X, [[verklaarders]] > Verklaarders
+c. Wandelen $
+d. Gelukwensen - X, [[Uitdrukkers]] $
+e. Koken $
+f. Verzoeken - X, [[Stuurders]] $
+g. Stellen - X, [[Beweerders]] > Verklaarders
+h. aanvaarden - X, [[Binders]] $
+i. condoleren - X, [[Uitdrukkers]] $
+j. eisen -X, [[stuurders]] $
+k. schreeuwen $
+l. ontkennen - X,  > Verklaarders/Binders
+m. adviseren - X, [[stuurders]] $
+n. beloven - X, [[Binders]] $
+o. toelichten - X, [[stuurders]] > Verklaarders
+p. vragen - ??? > Stuurder
+q. waarschuwen - X, [[stuurders]] $
+r. intimideren $
+s. toestaan - X, [[Stuurders]] / Binders $
+t. weigeren -  > binders
+u. zeuren $
+v. geruststellen $
+w. roddelen $
+x. prijzen - X, [[Uitdrukkers]] $
+y. protesteren -  X > Stuurders
+z. zwijgen $
+
+18 Goed, 26 totaal 8 fout
 
 2. a. constantieve uiting
 

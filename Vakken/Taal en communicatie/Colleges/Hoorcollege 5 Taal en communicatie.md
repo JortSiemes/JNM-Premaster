@@ -50,6 +50,8 @@ Vraag:
 Request:
 Vraag:
 
+---
+
 [[taalhandelingen]]
 Five general groups: (van Searle)
 {performatieve}

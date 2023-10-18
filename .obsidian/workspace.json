@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Taal en communicatie/Colleges/Hoorcollege 5 Taal en communicatie.md",
+                "file": "Vakken/Taal en communicatie/Opdrachten/Opdracht week 3 - Taal en Communicatie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Taal en communicatie/Colleges/Hoorcollege 5 Taal en communicatie.md",
+                "file": "Vakken/Taal en communicatie/Opdrachten/Opdracht week 3 - Taal en Communicatie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Taal en communicatie/Colleges/Hoorcollege 5 Taal en communicatie.md"
+                "file": "Vakken/Taal en communicatie/Opdrachten/Opdracht week 3 - Taal en Communicatie.md"
               }
             }
           }
@@ -203,19 +203,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec9decdf55e08625",
+  "active": "a63d3aee396aa0a3",
   "lastOpenFiles": [
-    "Vakken/Taal en communicatie/Opdrachten/Opdracht week 3 - Taal en Communicatie.md",
     "Vakken/Taal en communicatie/Colleges/Hoorcollege 5 Taal en communicatie.md",
+    "Vakken/Taal en communicatie/Opdrachten/Opdracht week 3 - Taal en Communicatie.md",
+    "taalhandelingen.md",
+    "illocutie.md",
     "Verklaarders.md",
     "Uitdrukkers.md",
     "Binders.md",
     "Beweerders.md",
     "Stuurders.md",
     "Perlocutie.md",
-    "illocutie.md",
     "Locutie.md",
-    "taalhandelingen.md",
     "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 1.pdf",
     "Vakken/Taal en communicatie/Onderwerpen/R-Implicaturen.md",
     "Vakken/Taal en communicatie/Opdrachten/Extra oefening Horn en Relevantietheorie.pdf",

@@ -1,7 +1,10 @@
 Five general groups: (van Searle)
+
+{performatieve}
 [[Beweerders]] (Assertives) I assert that it is raining, assert claim conclute insist, hypothesize
 	Speaker commits himself to the truth of p (p is true of false)
 
+{conservatieve}
 [[Stuurders]] (Directives) Request, order, command question, beg, pray (Vraag)
 	Speaker attempt to get the hearer to realize p
 
