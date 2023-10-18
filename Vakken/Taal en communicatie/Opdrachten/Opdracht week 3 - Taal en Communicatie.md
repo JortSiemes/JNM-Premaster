@@ -7,7 +7,7 @@ b. Dopen - X, verklaarders
 c. Wandelen
 d. Gelukwensen - X, Uitdrukkers
 e. Koken
-f. Verzoeken - X, Directives
+f. Verzoeken - X, Stuurders
 g. Stellen - X, Beweerders
 h. aanvaarden - X, Binders
 i. condoleren - X, Uitdrukkers
