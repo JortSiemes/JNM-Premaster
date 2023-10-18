@@ -4,76 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1855ce094004b0f2",
+        "id": "79dcc6bdc1bdd152",
         "type": "tabs",
         "children": [
           {
-            "id": "8eb7da33b87cc189",
+            "id": "649233f4dc00c1ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Hayden White.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ff2f675efe493e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Collingwood.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d587cedc1b80d6de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Karl Marx.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a4de19e7ecacc57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Carl Hempel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "673d9778c62b1295",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 5 wetenschapsfilosofie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afb6f3c5fc3b9826",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Hegel.md",
+                "file": "Vakken/Taal en communicatie/Opdrachten/Opdracht week 2 - Taal en Communicatie.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Hayden White.md",
+                "file": "Vakken/Taal en communicatie/Opdrachten/Opdracht week 2 - Taal en Communicatie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Hayden White.md",
+                "file": "Vakken/Taal en communicatie/Opdrachten/Opdracht week 2 - Taal en Communicatie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -194,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Hayden White.md"
+                "file": "Vakken/Taal en communicatie/Opdrachten/Opdracht week 2 - Taal en Communicatie.md"
               }
             }
           }
@@ -216,19 +156,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8eb7da33b87cc189",
+  "active": "649233f4dc00c1ba",
   "lastOpenFiles": [
-    "Voorbereidende voorwaarde.md",
+    "Vakken/Taal en communicatie/Opdrachten/Opdracht week 3 - Taal en Communicatie.md",
+    "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 1.pdf",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/Hegel.md",
+    "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 5 wetenschapsfilosofie.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/Karl Marx.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Hayden White.md",
+    "conflict-files-obsidian-git.md",
+    "Beweerders.md",
+    "Voorbereidende voorwaarde.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/synthese.md",
     "Beelden/Pasted image 20231017172418.png",
-    "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 5 wetenschapsfilosofie.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Collingwood.md",
     "handelingen.md",
     "gebeurtenissen.md",
     "Beelden/Pasted image 20231017183335.png",
-    "Vakken/Wetenschapsfilosofie/Onderwerpen/Hegel.md",
-    "Vakken/Wetenschapsfilosofie/Onderwerpen/Karl Marx.md",
     "Beelden/Pasted image 20231017181528.png",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/antithese.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/these.md",
@@ -248,16 +192,12 @@
     "Vakken/Woorden als wapens/Introduction to Discourse Studies_New Edition_Paragraaf8.pdf",
     "Vakken/Woorden als wapens/COLLECTIE FILE Woorden als wapens.md",
     "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md",
-    "conflict-files-obsidian-git.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/repressieve macht 1.md",
-    "Vakken/Wetenschapsfilosofie/Onderwerpen/deductive-nomological model.md",
-    "Vakken/Wetenschapsfilosofie/Onderwerpen/Normaliserende macht 1.md",
     "Vakken/Inleiding in de journalistiek/Onderwerpen",
     "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen",
     "Vakken/Taal en communicatie/book_by_birner_betty_j_introduction_to_pragmatics-.pdf",
     "Vakken/Woorden als wapens/Weekopdrachten/~WRL0076.tmp",
     "Vakken/Woorden als wapens/Weekopdrachten/~$ekopdracht week 5(DOC).docx",
-    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht week 5(DOC).docx",
     "Beelden/El-Neo-phase-VI.png"
   ]
 }
