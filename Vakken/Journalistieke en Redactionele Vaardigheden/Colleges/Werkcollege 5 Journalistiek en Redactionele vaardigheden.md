@@ -41,5 +41,7 @@ let op herhaling: parafraseer of denk aan synoniemen
 Formulering: 
 zijn de zinnen niet te lang?
 
+je mag herschrijven naar geschreven spreektaal
+
 
 
