@@ -44,4 +44,8 @@ zijn de zinnen niet te lang?
 je mag herschrijven naar geschreven spreektaal
 
 
+Slot
+Uitsmijter: zorg dat het citaat sterk/memorabel is!
+Geen samenvatting, maar mooi concluderend citaat
+
 
