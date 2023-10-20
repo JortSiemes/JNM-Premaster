@@ -11,8 +11,8 @@ Deze performatieve uitingen zijn niet exeptioneel
 -test is hierbij toevoegen
 
 
-Ik beloof dat ik dit morgen doe: Expliciete performatief
-Ik doe het morgen: Impliciete performatief
+Ik beloof dat ik dit morgen doe: [[Expliciet performatief]]
+Ik doe het morgen: [[Impliciet performatief]]
 
 I apologize: expliciete performatief
 I'm sorry: impliciete performatief

@@ -16,6 +16,15 @@ Vier genres:
 **tragedie**: hoge idealen worden vernietigd, maar we leren onze limieten accepteren (berusting; "sadder and wiser");
 **satire**: er is geen diepere betekenis, en alle bovenstaande verhalen zijn slechts illusies.
 
-Deze genres kunnen niet getoest worden op hoe realistisch 
+Deze genres kunnen niet getoetst worden op hoe realistisch of wetenschappelijk ze zijn; het zijn eerder een soort wereldbeelden.
+
+als historicus zo neutraal mogelijk, om objectief te zijn. dit zou betekenen dat alle historici satire schrijven.
+Volgens white zijn deze 4 genres allemaal te gebruiken
+
+
+
+
+
+
 
 

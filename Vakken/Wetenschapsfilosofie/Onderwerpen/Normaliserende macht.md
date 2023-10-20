@@ -5,7 +5,7 @@ Macht van binnenuit je dingen laat doen
 
 Dit hangt samen met [[Episteme 1]] = grote vorm van normaliserende macht
 
-Normaliserende macht is vele malen belangrijker dan [[repressieve macht]]. Onze hele samenleving drijft erop.
+Normaliserende macht is vele malen belangrijker dan [[repressieve macht 1]]. Onze hele samenleving drijft erop.
 
 Je kan er ook moeilijk **tegen** zijn - zonder normaliserende macht heerst er totale chaos.
 

@@ -24,5 +24,5 @@ wetenschapsgeschiedenis moet volgens Foucault de nadruk liggen:
 
 Kennis en macht volgens Foucault = zijn nauw verweven.
 Macht:
-- [[repressieve macht]]
+- [[repressieve macht 1]]
 - [[Normaliserende macht 1]]
