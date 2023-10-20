@@ -12,10 +12,6 @@ zijn de citaten goed gekozen?
 - zijn de gestelde vragen prikkelend of zijn de vragen juist subtiel weggewerkt?
 - zijn alle verbanden duidelijk en expliciet genoeg?
 
-Formulering: 
-zijn de zinnen niet te lang?
-
-
 intro:
 Basisinfo (naam, domein, leeftijd, werkplek)
 aanleiding: waarom deze persoon , waarom nu, waarom zou je lezer lezen?
@@ -38,4 +34,12 @@ omgekeerde piramide (breed beginnen dan smal)
 
 
 nieuwswaarde van interview vinden
+
+#### **formulering**
+wees concreet en maak beeldend: Show, don't tell
+let op herhaling: parafraseer of denk aan synoniemen
+Formulering: 
+zijn de zinnen niet te lang?
+
+
 
