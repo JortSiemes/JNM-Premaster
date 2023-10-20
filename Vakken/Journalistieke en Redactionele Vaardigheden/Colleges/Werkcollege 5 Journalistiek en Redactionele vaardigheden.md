@@ -29,4 +29,11 @@ Vlot, concreet, aantrekkelijk geformuleerd
 niet te lang en pirkkelend
 
 KORTOM: onderwerp, persoon en invalshoek (plus citaat)
+schrijf elke zin met vervolg op volgende zin
+
+omgekeerde pyramide (breed beginnen dan smal)
+
+### citaatkopje "..."
+##### Interview met hoogleraar Sterrenkunde Vincent Icke
+
 
