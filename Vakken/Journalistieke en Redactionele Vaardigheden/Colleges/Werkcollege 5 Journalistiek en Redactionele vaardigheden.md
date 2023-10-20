@@ -26,14 +26,16 @@ Leader:
 - insteek moet aansluiten bij de kop
 
 Vlot, concreet, aantrekkelijk geformuleerd
-niet te lang en pirkkelend
+niet te lang en prikkelend
 
 KORTOM: onderwerp, persoon en invalshoek (plus citaat)
 schrijf elke zin met vervolg op volgende zin
 
-omgekeerde pyramide (breed beginnen dan smal)
+omgekeerde piramide (breed beginnen dan smal)
 
-### citaatkopje "..."
+### citaatkopje "..." (wel ergens in tekst)
 ##### Interview met hoogleraar Sterrenkunde Vincent Icke
 
+
+nieuwswaarde van interview vinden
 
