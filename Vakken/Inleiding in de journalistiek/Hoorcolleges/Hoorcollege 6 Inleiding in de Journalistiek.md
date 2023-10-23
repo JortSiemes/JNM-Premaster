@@ -17,6 +17,12 @@ Kenmerken van een professie
 5. Persoonlijke verantwoordelijkheid
 6. Zelfregulering door beroepsorganisatie
 
+Zelfregulering in de journalistiek
+1. Raad voor de journalistiek
+2. Gedragscode
+	1. Code van Bordeaux
+	2. Leidraad voor Journalistiek Handelen (RvdJ)
+	3. Code voor de Journalistiek (Genootschap van Hoofdredacteuren)
 
 
 
