@@ -32,7 +32,24 @@ nut van zelfregulering
 2. voorkomen van wettelijke maatregelen
 
 
+Boundary work: hoe journalisten zich afscheiden van de plebs
+Wat is volgens journalisten de kenmerken van journalistiek
 
+beroepsidiologie:
+Mark Deuze (2005) What is journalism? Professional identity and ideology of journalists reconsidered
+- public service
+- objectivity
+- autonomy (hoe journalisten zelf kunnen bepalen wat ze doen)
+- immediacy 
+- ethics
+
+journalistiek is beroepsmatig een = Openbaarmaking op ruime schaal
+- volgens van beroepsethische normen
+
+Rechter kan rechten op bronbeschermingen aanwijzen door:
+- voorkomen van strafbare feiten en openbare veiligheid
+- bescherming gezondheid en goede zeden
+- nationale veiligheid
 
 
 
