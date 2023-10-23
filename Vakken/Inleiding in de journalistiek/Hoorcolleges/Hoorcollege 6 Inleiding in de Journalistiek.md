@@ -1,5 +1,5 @@
 
-Wie of wat is een journalist?
+#### Wie of wat is een journalist?
 
 
 1, [[verschoningsrecht]] voor journalisten
@@ -13,6 +13,12 @@ Kenmerken van een professie
 1. Maatschappelijke dienstverlening
 2. Gespecialiseerde opleiding
 3. Autonomie
-4. 
+4. Professionele normen
+5. Persoonlijke verantwoordelijkheid
+6. Zelfregulering door beroepsorganisatie
+
+
+
+
 
 
