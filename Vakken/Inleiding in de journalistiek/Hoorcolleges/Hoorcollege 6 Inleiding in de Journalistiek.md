@@ -23,6 +23,9 @@ Zelfregulering in de journalistiek
 	1. Code van Bordeaux
 	2. Leidraad voor Journalistiek Handelen (RvdJ)
 	3. Code voor de Journalistiek (Genootschap van Hoofdredacteuren)
+3. Redactiecode
+4. Redactiestatuut
+
 
 
 
