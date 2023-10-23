@@ -27,6 +27,13 @@ Zelfregulering in de journalistiek
 4. Redactiestatuut
 
 
+nut van zelfregulering
+1. bevorderen maatschappelijk vertrouwen
+2. voorkomen van wettelijke maatregelen
+
+
+
+
 
 
 
