@@ -12,6 +12,7 @@ EVRM, artikel 10: Journalisten mogen bronnen beschermen
 Kenmerken van een professie
 1. Maatschappelijke dienstverlening
 2. Gespecialiseerde opleiding
-3. 
+3. Autonomie
+4. 
 
 
