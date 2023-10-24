@@ -8,28 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9f12924f9e166fee",
+            "id": "bb9641102f767759",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 6 (Jort Siemes, s4028198).md",
+                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 2 Woorden als Wapens.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e2caf8916a417ed8",
+            "id": "091c50adaa90595c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Week6_opdracht.pdf"
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -104,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 6 (Jort Siemes, s4028198).md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 6 (Jort Siemes, s4028198).md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 6 (Jort Siemes, s4028198).md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -166,23 +169,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "529bfa46d73bb647",
+  "active": "091c50adaa90595c",
   "lastOpenFiles": [
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Feedback folder/v1/~WRL3816.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Feedback folder/v1/~WRD3812.tmp",
-    "Vakken/Woorden als wapens/Weekopdrachten/Week6_opdracht.pdf",
-    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 5 (Jort Siemes, s4028198) 1.md",
-    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 6 (Jort Siemes, s4028198).md",
-    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht week 5(DOC).pdf",
-    "Vakken/Woorden als wapens/Weekopdrachten/Week5_opdracht.pdf",
-    "Vakken/Woorden als wapens/Weekopdrachten/Week3_opdracht.pdf",
-    "Vakken/Woorden als wapens/Colleges/Werkcollege 5 Woorden als Wapens.md",
+    "Vakken/Woorden als wapens/Colleges/Werkcollege 2 Woorden als Wapens.md",
     "conflict-files-obsidian-git.md",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Feedback folder/v1/~WRL1524.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Feedback folder/v1/~WRD1493.tmp",
-    "Vakken/Woorden als wapens/Groepspresentatie/D83E9500",
-    "Vakken/Woorden als wapens/Groepspresentatie/~WRL3266.tmp",
-    "Vakken/Woorden als wapens/Groepspresentatie/~WRD3259.tmp",
+    "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md",
+    "Vakken/Vakken.md",
+    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 3 (Jort Siemes, s4028198).md",
+    "Vakken/Woorden als wapens/Weekopdrachten/Week5_opdracht.pdf",
+    "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md",
+    "Vakken/Woorden als wapens/03 Lakoff & Johnson (1999)_H1-7,10.pdf",
+    "Vakken/Woorden als wapens/COLLECTIE FILE Woorden als wapens.md",
+    "Vakken/Woorden als wapens/EenGoedTennisserVerliestGeenWedstrijden.pdf",
+    "Vakken/Woorden als wapens/Introduction to Discourse Studies_New Edition_Paragraaf8.pdf",
+    "Vakken/Woorden als wapens/Programma.pdf",
+    "Vakken/Woorden als wapens/Literatuur/12_TVT2019.1_LEEU.pdf",
+    "Vakken/Woorden als wapens/Groepspresentatie/Introductie JNM pre-ma 2023.pdf",
+    "Vakken/Woorden als wapens/Groepspresentatie/ViewpointRepresentationInJournalisticCrimeNarratives.pdf",
+    "Vakken/Woorden als wapens/Groepspresentatie/analyse BBC.pdf",
+    "Vakken/Woorden als wapens/Groepspresentatie/image2.png",
+    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 6 (Jort Siemes, s4028198).md",
+    "verschoningsrecht.md",
+    "taalintesivering.md",
+    "secondaire taalhandeling.md",
+    "primaire taalhandeling.md",
+    "Vakken/Woorden als wapens/Weekopdrachten/~WRL3521.tmp",
+    "Vakken/Taal en communicatie/Tentamenstof.jpeg",
+    "Vakken/Taal en communicatie/Colleges/Hoorcollege 6 Taal en communicatie.md",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 6 Inleiding in de Journalistiek.md",
+    "Indirecte.md",
+    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 5 (Jort Siemes, s4028198) 1.md",
+    "Vakken/Woorden als wapens/Colleges/Werkcollege 5 Woorden als Wapens.md",
     "Vakken/Woorden als wapens/Groepspresentatie/Beelden/Rabbit-or-duck-illusion-008.jpg",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 5 Journalistiek en Redactionele vaardigheden.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 3 Journalistiek en Redactionele vaardigheden.md",
@@ -193,18 +210,6 @@
     "Expliciet performatief.md",
     "Performative.md",
     "Impliciet performatief.md",
-    "Vakken/Taal en communicatie/Opdrachten/Opdracht week 3 - Taal en Communicatie.md",
-    "Vakken/Taal en communicatie/Colleges/Hoorcollege 5 Taal en communicatie.md",
-    "geslaagdheidsvoorwaarden.md",
-    "taalhandelingen.md",
-    "illocutie.md",
-    "Verklaarders.md",
-    "Uitdrukkers.md",
-    "Stuurders.md",
-    "Perlocutie.md",
-    "Locutie.md",
-    "Vakken/Taal en communicatie/Onderwerpen/R-Implicaturen.md",
-    "Vakken/Taal en communicatie/Onderwerpen/Q-Implicaturen.md",
     "Beelden/Pasted image 20231017172418.png",
     "Beelden/Pasted image 20231017183335.png",
     "Beelden/Pasted image 20231017181528.png",
