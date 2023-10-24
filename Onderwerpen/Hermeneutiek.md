@@ -1,3 +1,19 @@
+[[Hermeneutiek]]: de studie van betekenis
+Methode is interpretatie
+
+Interpretatie van de symbolen van Roodkapje
+- het bos
+- de grootmoeder
+- de wolf
+- het kapje
+
+Achterhalen van Shakespeares visie op seksualiteit uit zijn Sonnets
+
+Is net als [[Structuralisme]] eens over de waarheid van:
+### [[Holisme]]
+
+
+[[Wilhelm Dilthey]]
 geesteswetenschappen zijn belangrijker dan natuurwetenschappen.
 Hij heeft geesteswetenschappen onderscheiden van natuurwetenschappen.
 
@@ -8,19 +24,3 @@ Hij heeft geesteswetenschappen onderscheiden van natuurwetenschappen.
 causale wetten in het eerste geval, logische samenhang in het tweede geval.
 
 [[Collingwood]] plaatst zich hiermee in de traditie van [[Wilhelm Dilthey]]
-
-
-### "Geesteswetenschappen onderzoeken het bewustzijnsleven van de mens, de beleving (Erlebnis)"
-
-Het doel van de geesteswetenschappen: "das verstehen des Lebens und der Geschichte"
-
-Beleving is altijd een samenhang van heel veel zaken:
-- Denken
-- ervaren
-- voelen
-- willen
-Deze momenten in een leven vormen een eenheid.
-
-Mijn leven en de levens van anderen vormen een eenheid.
-
-

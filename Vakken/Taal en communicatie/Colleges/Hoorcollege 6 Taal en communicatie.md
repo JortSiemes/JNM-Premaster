@@ -18,30 +18,30 @@ Dit ziet er uit als vraag, maar is het een vraag?
 Als publiek antwoord weet dan is het eigenlijk geen vraag
 
 
-[[Indirecte]] taalhandeling: vorm van de handeling word typisch gebruikt voor bepaalde handeling en de [[locutie]] is geassocieerd met andere taalhandeling
+[[Indirecte]] taalhandeling: vorm van de handeling word typisch gebruikt voor bepaalde handeling en de [[Locutie]] is geassocieerd met andere taalhandeling
 
-Mind if I try them: [[stuurders]]
-
-
+Mind if I try them: [[Stuurders]]
 
 
-## [[Taalhandelingen]]
+
+
+## [[taalhandelingen]]
 - ### Direct (herkennen aan vorm van zin: mededelende zin, imperatieve zin, vragende zin, als zin een vraag is en je stelt vraag is het direct)
-	- [[expliciet performatief]] (I promise, I request, thank you)
+	- [[Expliciet performatief]] (I promise, I request, thank you)
 		- "ik beloof dat ik morgen kom"
-	- [[impliciet performatief]] (Canonical form: declaratief > statement, Imperatief > directief, Interrogative > vraag)
+	- [[Impliciet performatief]] (Canonical form: declaratief > statement, Imperatief > directief, Interrogative > vraag)
 		- "Ik kom morgen"
 - ### Indirect (The form of the)
-	- [[expliciet performatief]]
-		- (ik beloof dat ik morgen kom! (als dreigement) dit is indirect en [[expliciet performatief]])
+	- [[Expliciet performatief]]
+		- (ik beloof dat ik morgen kom! (als dreigement) dit is indirect en [[Expliciet performatief]])
 		- I tell you, i'd really like a cold drink ()
 		- I promise i will kill you (is geen belofte)
-	- [[impliciet performatief]]
+	- [[Impliciet performatief]]
 		- Declaratieve zinnen die geen assertions zijn, imperatieve clauses that are not directives, interrogative clauses that are not questions.
 
 
 
-[[Geslaagdheidsvoorwaarden]] (felicity conditions)
+[[geslaagdheidsvoorwaarden]] (felicity conditions)
 - propositionele content rule
 - Preparatory rules
 - Sincerity rule
@@ -58,23 +58,23 @@ Searles uitvinding: je kan een taalhandeling uitvoeren door asserting of afvrage
 
 
 I can help you register to vote:
-[[Secondaire taalhandeling]] (secondary speech act); assertive
+[[secondaire taalhandeling]] (secondary speech act); assertive
 Primary speech act: offer
 
 the secondary speech act is asserting a preparatory condition of the primary speech act.
 
 
 Can i help you?
-[[Secondaire taalhandeling]]: Question
-[[Primaire taalhandeling]]: offer (commissive)
+[[secondaire taalhandeling]]: Question
+[[primaire taalhandeling]]: offer (commissive)
 
 
 
 # komt op tentamen!
 Vraag: Wat is secondaire en [[primaire taalhandeling]]: Maybe you will shut up?
-[[Primaire taalhandeling]] = bedoelde taalhandeling: directief
-[[Secondaire taalhandeling]] = vraag (question)
-extra: [[propositionele inhoudsvoorwaarde]], request
+[[primaire taalhandeling]] = bedoelde taalhandeling: directief
+[[secondaire taalhandeling]] = vraag (question)
+extra: [[Propositionele inhoudsvoorwaarde]], request
 
 How can you perform an indirect directive by assering the propositional content condition:
 You will shut up now!
@@ -88,12 +88,12 @@ I want you to shut up. / I would really like you to get me some coffee!
 
 | ...                                                                   | Propositional content condition                 | preparatory conditions | Sincerity condition      | Essential condition |
 | --------------------------------------------------------------------- | ----------------------------------------------- | ---------------------- | ------------------------ | ------------------- |
-| asserting a felicity condition, [[Secondaire taalhandeling]] = assertion  | I will.. You Will..., Ik ga/zal... jij gaat/zal | Ik kan... Je kunt...   | Ik wil.. Ik zou graag... | x                   |
-| Questioning a felicity condition, [[Secondaire taalhandeling]] = question | Zal ik...? ga/zal je... ?                       | Kan ik...? Kun je..?   | Wil ik...?               | x                    |
+| asserting a felicity condition, [[secondaire taalhandeling]] = assertion  | I will.. You Will..., Ik ga/zal... jij gaat/zal | Ik kan... Je kunt...   | Ik wil.. Ik zou graag... | x                   |
+| Questioning a felicity condition, [[secondaire taalhandeling]] = question | Zal ik...? ga/zal je... ?                       | Kan ik...? Kun je..?   | Wil ik...?               | x                    |
 
 
 
-Non-conventional [[indirecte]] taalhandeling
+Non-conventional [[Indirecte]] taalhandeling
 
 Mag ik je succes wensen op het tentamen?
 ziet eruit als (= [[secondaire taalhandeling]], vaak vraag)

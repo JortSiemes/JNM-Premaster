@@ -1,4 +1,4 @@
-### [[Hermeneutiek]] en [[structuralisme]]
+### [[Hermeneutiek]] en [[Structuralisme]]
 
 Twee methodes, een kerngedachte 
 [[Hermeneutiek]]
@@ -10,10 +10,8 @@ Twee methodes, een kerngedachte
 - Wil de algemene structuur tonen waar de individuele elementen hun plaats in hebben.
 
 
-
-
 ### De hermeneutische cirkel
-- [[hermeneutiek]] is de studie van interpretatie
+- [[Hermeneutiek]] is de studie van interpretatie
 - hermeneutische denkers benadrukken het holistische en circulaire denken.
 Interpreteren is een holistisch proces: de betekenis van een woord wordt pas helder binnen een zin, die van de zin binnen de paragraaf, de paragraaf binnen het boek, het boek binnen het oeuvre....
 - maar kan ook andersom!
@@ -23,11 +21,18 @@ In theorie kan het proces altijd doorgaan, dus niet eindig.
 
 
 
-Dilthey en Verstehen
+[[Wilhelm Dilthey]] en [[Verstehen]]
 
-[[structuralisme]] en identiteit
+[[Structuralisme]] en identiteit
 
 Taal en wereld
+
+
+**natuurwetenschappen** leren ons wetten waarmee we de wereld kunnen manipuleren.
+
+**Geesteswetenschappen** geven ons toegang tot belevingen die ons eigen leven kunnen verrijken.
+
+Deze wetenschappen hebben dus een totaal ander doel
 
 
 

@@ -9,7 +9,7 @@ hermeneutiek
 Gebeurtennissen hebben alleen oorzaken, maar [[handelingen]] hebben ook redenen en zijn door logische connecties met elkaar verbonden.
 
 Collingwood maakte een scherp onderscheid tussen:
-**[[Gebeurtenissen]]** en **[[Handelingen]]**
+**[[gebeurtenissen]]** en **[[handelingen]]**
 
 - natuurwetenschap gaat over [[gebeurtenissen]] die zijn verboden door causale wetten.
 - Geschiedenis gaat over [[handelingen]] die zijn verbonden door een logische samenhang van redenen, motieven enz

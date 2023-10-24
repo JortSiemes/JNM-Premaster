@@ -3,7 +3,7 @@ I name this ship the Mr. Staling
 
 Ik dank jullie voor jullie aandacht (is niet waar/onwaar, dus niet [[waarheidsconditioneel]])
 
-[[Geslaagdheidsvoorwaarden]]
+[[geslaagdheidsvoorwaarden]]
 
 Ik wil je bedanken voor de show (heb je eigenlijk nog niet bedankt, maar de zin is dus ook in zichzelf een bedankje)
 
