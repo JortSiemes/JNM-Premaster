@@ -36,6 +36,7 @@ Deze wetenschappen hebben dus een totaal ander doel
 
 
 
+[[Structuralisme]]: De Saussure
 
-
+[[Structuralisme]] in de taalkunde; Ferdinand de Sasussure
 
