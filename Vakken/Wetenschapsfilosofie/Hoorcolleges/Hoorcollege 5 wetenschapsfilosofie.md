@@ -12,8 +12,16 @@ Twee methodes, een kerngedachte
 
 
 
-De hermeneutische cirkel
+### De hermeneutische cirkel
 - [[hermeneutiek]] is de studie van interpretatie
+- hermeneutische denkers benadrukken het holistische en circulaire denken.
+Interpreteren is een holistisch proces: de betekenis van een woord wordt pas helder binnen een zin, die van de zin binnen de paragraaf, de paragraaf binnen het boek, het boek binnen het oeuvre....
+- maar kan ook andersom!
+
+Interpreteren is een circulair proces
+In theorie kan het proces altijd doorgaan, dus niet eindig.
+
+
 
 Dilthey en Verstehen
 
