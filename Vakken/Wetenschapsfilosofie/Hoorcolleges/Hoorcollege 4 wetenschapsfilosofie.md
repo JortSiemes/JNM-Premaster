@@ -1,14 +1,16 @@
-[[Thomas Kuhn]] en [[Michel Foucault]]
+### Denken over geschiedenis
 
-#### twee manieren om aan wetenschapsmethodologie te doen:
-[[Prescriptie]]
-[[descriptief]]
 
-Een centrale term van Kuhn is de term: [[exemplar]](ish)
+Feiten geven geen inzicht, wel kennis.
 
-We leren de wetenschappelijke methode door exemplarische voorbeelden.
+[[hegel]], [[Karl Marx]] geloven dat er een samenhang moet komen tussen deze feiten.
 
-[[Paradigma|paradigma]]
+
+[[Carl Hempel]]: causale samenhang door middel van wetmatigheden
+[[Hegel]] & [[Karl Marx]]: logische samenhang door middel van dialectiek
+[[Collingwood]]: logische samenhang van handelingen en de redenen voor die handelingen.
+[[Hayden White]]: narratieve samenhang door middel van een veelheid aan vertelstructuren.
+
 
 
 

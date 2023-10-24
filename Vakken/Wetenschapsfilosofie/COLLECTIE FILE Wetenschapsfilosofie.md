@@ -1,5 +1,5 @@
 Alle colleges:
-[[Hoorcollege 2 wetenschapsfilosofie]]
+[[Hoorcollege 1 wetenschapsfilosofie]]
 
 Opdrachten:
 [[Aantekeningen Kennisclips wetenschapsfilosofie]]
