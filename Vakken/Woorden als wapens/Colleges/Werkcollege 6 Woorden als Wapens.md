@@ -16,5 +16,6 @@ b, nogsteeds deel van taalintensiviteit
 c, nee, want alle intensiveringen zijn een subjectivering, maar niet alle subjectiveringen zijn een intensivering.
 
 
-
+Vraag 2:
+a, 
 

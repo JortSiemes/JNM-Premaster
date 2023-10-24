@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "74140995e7ee8812",
+    "type": "split",
+    "children": [
+      {
+        "id": "5faa975eeb520a55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb9641102f767759",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 6 Woorden als Wapens.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "15669e7e105c7be8",
+    "type": "split",
+    "children": [
+      {
+        "id": "563e23d44199766b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1600001feb785ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "04ea66dd4c102027",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93fc385e08f86483",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7859014a86b170ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "99db599b1727e4e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0814e8448907efcd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7b464230e7192d40",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 6 Woorden als Wapens.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "529bfa46d73bb647",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 6 Woorden als Wapens.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ec6f786f046e3111",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "82793ef6cf4a5db3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 6 Woorden als Wapens.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bb9641102f767759",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Vakken/Woorden als wapens/Colleges/Werkcollege 6 Woorden als Wapens.md",
+    "Vakken/Woorden als wapens/Literatuur/OverLoodzwareBassenEnWapperendeBroekspijpen.pdf",
+    "Vakken/Woorden als wapens/Colleges/Werkcollege 6 Woorden als Wapens 1.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/Thomas Kuhn.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/Paradigma.md",
+    "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 4 wetenschapsfilosofie.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/Prescriptie.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Feedback folder/v1/~$dioInterview.docx",
+    "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf",
+    "Vakken/Woorden als wapens/Colleges/Werkcollege 5 Woorden als Wapens.md",
+    "Vakken/Woorden als wapens/Colleges/Werkcollege 2 Woorden als Wapens.md",
+    "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md",
+    "Vakken/Vakken.md",
+    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 3 (Jort Siemes, s4028198).md",
+    "Vakken/Woorden als wapens/Weekopdrachten/Week5_opdracht.pdf",
+    "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md",
+    "Vakken/Woorden als wapens/03 Lakoff & Johnson (1999)_H1-7,10.pdf",
+    "Vakken/Woorden als wapens/COLLECTIE FILE Woorden als wapens.md",
+    "Vakken/Woorden als wapens/EenGoedTennisserVerliestGeenWedstrijden.pdf",
+    "Vakken/Woorden als wapens/Introduction to Discourse Studies_New Edition_Paragraaf8.pdf",
+    "Vakken/Woorden als wapens/Programma.pdf",
+    "Vakken/Woorden als wapens/Literatuur/12_TVT2019.1_LEEU.pdf",
+    "Vakken/Woorden als wapens/Groepspresentatie/Introductie JNM pre-ma 2023.pdf",
+    "Vakken/Woorden als wapens/Groepspresentatie/image2.png",
+    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 6 (Jort Siemes, s4028198).md",
+    "verschoningsrecht.md",
+    "taalintesivering.md",
+    "secondaire taalhandeling.md",
+    "primaire taalhandeling.md",
+    "Vakken/Taal en communicatie/Tentamenstof.jpeg",
+    "Vakken/Taal en communicatie/Colleges/Hoorcollege 6 Taal en communicatie.md",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 6 Inleiding in de Journalistiek.md",
+    "Indirecte.md",
+    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 5 (Jort Siemes, s4028198) 1.md",
+    "Vakken/Woorden als wapens/Groepspresentatie/Beelden/Rabbit-or-duck-illusion-008.jpg",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 5 Journalistiek en Redactionele vaardigheden.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 3 Journalistiek en Redactionele vaardigheden.md",
+    "Beelden/Pasted image 20231017172418.png",
+    "Beelden/Pasted image 20231017183335.png",
+    "Beelden/Pasted image 20231017181528.png",
+    "Beelden/Pasted image 20231017173730.png",
+    "Beelden/El-Neo-phase-VI.png"
+  ]
+}
