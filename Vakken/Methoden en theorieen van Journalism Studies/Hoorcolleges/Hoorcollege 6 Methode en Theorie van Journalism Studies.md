@@ -49,3 +49,24 @@ kwantitatieve onderzoeksvraag
 
 - [[open en axiaal coderen]] 
 - [[onafhankelijke en afhankelijke variabelen]] 
+
+# Tentamen info
+### toegestaan materiaal tentamen:
+- boek+verplichten artikelen
+- aantekeningen
+- slides van de colleges
+
+
+4 tentamen vragen, waar je 3 kiest
+Per vraag half uur bezig
+Geen max woorden. maar zoveel woorden aangegeven
+
+proeftentamen
+
+Het zou kunnen, waar je terug moet naar artikelen (bijvoorbeeld methoden van Reeves)
+
+KAN JE METHODE GOED TOEPASSEN, KAN JE VERBINDEN AAN COLLEGES.
+
+op brightspace checken of je tentamen site kan.
+
+
