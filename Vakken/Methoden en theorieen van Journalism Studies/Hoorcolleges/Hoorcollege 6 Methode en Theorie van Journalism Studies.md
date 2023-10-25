@@ -70,3 +70,9 @@ KAN JE METHODE GOED TOEPASSEN, KAN JE VERBINDEN AAN COLLEGES.
 op brightspace checken of je tentamen site kan.
 
 
+
+
+Ecologische = externe validiteit
+Dit is een fenomeen in de werkelijkheid
+
+
