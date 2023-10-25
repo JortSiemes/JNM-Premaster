@@ -20,4 +20,17 @@ Afhankelijk van je methode ga je data verzamelen
 - vraagstelling + methode = onderzoeksvoorstel
 
 22 nov: coaching kwantitatieve methode (indeling volgt)
-29 nov: coaching kwalistatieve method
+
+13 & 20 dec: Eindpresentaties
+(misschien donderdag 14 dec)
+
+
+Bedenk op welk analyse niveau je zit
+
+- individueel
+- routines
+- organizatie
+- institutioneel
+- sociaal systeem
+- assemblage
+
