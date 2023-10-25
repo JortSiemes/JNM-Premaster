@@ -12,7 +12,7 @@ Secundaire [[taalhandelingen]]
 Letterlijke naar bedoelde
 
 
-[[Indirecte]] [[taalhandelingen]]:
+[[Indirecte]] taalhandelingen]]:
 #### Willen jullie meer of minder Marokkanen?
 Dit ziet er uit als vraag, maar is het een vraag?
 Als publiek antwoord weet dan is het eigenlijk geen vraag

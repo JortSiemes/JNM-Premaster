@@ -1,5 +1,4 @@
-1. a. Ja het is expliciet performatief, omdat het een I recommend eigenlijk in de zin verwerkt. De primaire taalhandeling is een stuurder (dirctive)
-de sec
+1. a. Nee het is impliciet performatief
 
 b. Direct
 c. voorbeeld: laat jij de hond even uit?
