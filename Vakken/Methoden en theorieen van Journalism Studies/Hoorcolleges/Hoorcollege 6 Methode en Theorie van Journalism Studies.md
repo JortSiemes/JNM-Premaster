@@ -37,4 +37,15 @@ kwantitatieve onderzoeksvraag
 
 
 belangrijke begrippen:
-- empirische cyclus (eigenlijk, het cyclus dat je op elk onderzoek kan plakken. basis onderzoeks circel, ik verbaas me, ik stel een vraag, methode kiezen, data )
+- [[empirische cyclus]] (eigenlijk, het cyclus dat je op elk onderzoek kan plakken. basis onderzoeks circel, ik verbaas me, ik stel een vraag, methode kiezen, data verzamelen, data rapporteren)
+- [[kwalitatief onderzoek]] (Draait het om "WAAROM vraag" hoe werkt iets, tot in detail hoe iets in [[empirische werkelijkheid]])
+- [[Kwantitatief onderzoek]] (proberen we onderzoeks opzet te maken om variabelen te meten, benieuwd naar variabelen die je vervolgens gaat meten.)
+
+- [[inductief]] (kwalitatief meestal, je vormt op basis van empiri een theorie)
+- [[deductief]] (kwantitatief meestal, op basis van theorie kijken naar iets in werkelijkheid)
+
+- [[betrouwbaarheid]] (levert de methode die ik heb gekozen, data op die reproduceerbaar is, kwalitatieve context gaat het over de mate waarin gekozen )
+- [[validiteit]] (meet ik wat ik wil weten)
+
+- [[open en axiaal coderen]]
+- [[onafhankelijke en afhankelijke variabelen]]

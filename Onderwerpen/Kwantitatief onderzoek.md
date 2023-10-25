@@ -1,0 +1,1 @@
+proberen we onderzoeks opzet te maken om variabelen te meten, benieuwd naar variabelen die je vervolgens gaat meten

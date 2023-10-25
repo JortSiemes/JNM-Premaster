@@ -1,0 +1,1 @@
+Draait het om "WAAROM vraag" hoe werkt iets, tot in detail hoe iets in empirische werkelijkheid
