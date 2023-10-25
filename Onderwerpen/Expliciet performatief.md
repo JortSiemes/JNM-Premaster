@@ -11,7 +11,7 @@ Verschil [[impliciet performatief]] en expliciet performatief
 alle gevallen waar iemand zegt: Ik beloof dat 
 
 
-Bij expliciet performatieve taalhandelingen kan je de formule: Hierbij [performatief werkwoord] ik [X]
+Bij expliciet performatieve [[taalhandelingen]] kan je de formule: Hierbij [performatief werkwoord] ik [X]
 
 
 1, Kun je even koffie zetten? 
