@@ -35,13 +35,16 @@
             "id": "28f19451f5f9e918",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 1.pdf"
+                "file": "Vakken/Taal en communicatie/Colleges/Werkcollege 6 taal en communicatie.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -116,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Taal en communicatie/Opdrachten/Opdracht week 6 - Taal en Communicatie.md",
+                "file": "Vakken/Taal en communicatie/Colleges/Werkcollege 6 taal en communicatie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Taal en communicatie/Opdrachten/Opdracht week 6 - Taal en Communicatie.md",
+                "file": "Vakken/Taal en communicatie/Colleges/Werkcollege 6 taal en communicatie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Taal en communicatie/Opdrachten/Opdracht week 6 - Taal en Communicatie.md"
+                "file": "Vakken/Taal en communicatie/Colleges/Werkcollege 6 taal en communicatie.md"
               }
             }
           }
@@ -178,12 +181,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2db2affad00850cb",
+  "active": "28f19451f5f9e918",
   "lastOpenFiles": [
+    "Vakken/Taal en communicatie/Colleges/Werkcollege 4 taal en communicatie.md",
+    "Vakken/Taal en communicatie/Colleges/Werkcollege 6 taal en communicatie.md",
+    "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 1.pdf",
+    "Vakken/Taal en communicatie/Opdrachten/Opdracht week 6 - Taal en Communicatie.md",
     "Vakken/Taal en communicatie/Colleges/Hoorcollege 6 Taal en communicatie.md",
     "Onderwerpen/geslaagdheidsvoorwaarden.md",
-    "Vakken/Taal en communicatie/Opdrachten/Opdracht week 6 - Taal en Communicatie.md",
-    "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 1.pdf",
     "Onderwerpen/primaire taalhandeling.md",
     "Onderwerpen/taalhandelingen.md",
     "Onderwerpen/secondaire taalhandeling.md",
@@ -209,7 +214,6 @@
     "Vakken/Wetenschapsfilosofie/Reader notities Wetenschapsfilosofie.md",
     "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf",
     "Vakken/Wetenschapsfilosofie/COLLECTIE FILE Wetenschapsfilosofie.md",
-    "Vakken/Wetenschapsfilosofie/Aantekeningen Kennisclips wetenschapsfilosofie.md",
     "Vakken/Woorden als wapens/Weekopdrachten/~$ekopdracht6_JortSiemes.docx",
     "Vakken/Woorden als wapens/Literatuur/OverLoodzwareBassenEnWapperendeBroekspijpen.pdf",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Feedback folder/v1/~$dioInterview.docx",
