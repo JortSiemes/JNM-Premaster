@@ -44,7 +44,7 @@ belangrijke begrippen:
 - [[inductief]] (kwalitatief meestal, je vormt op basis van empiri een theorie)
 - [[deductief]] (kwantitatief meestal, op basis van theorie kijken naar iets in werkelijkheid)
 
-- [[betrouwbaarheid]] (levert de methode die ik heb gekozen, data op die reproduceerbaar is, kwalitatieve context gaat het over de mate waarin gekozen )
+- [[betrouwbaarheid]] (levert de methode die ik heb gekozen, data op die reproduceerbaar is, kwalitatieve context gaat het over de mate waarin gekozen methode een overtuigende observatie opleverd, lastiger in [[kwalitatief onderzoek]], omdat dit gaat over "wie is de onderzoeker", de onderzoeker moet betrouwbaar zijn, krijg ik de zelfde data als ik dit nog een keer uitvoer)
 - [[validiteit]] (meet ik wat ik wil weten)
 
 - [[open en axiaal coderen]]
