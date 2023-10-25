@@ -11,7 +11,7 @@ causale wetten in het eerste geval, logische samenhang in het tweede geval.
 
 ### "Geesteswetenschappen onderzoeken het bewustzijnsleven van de mens, de beleving (Erlebnis)"
 
-Het doel van de geesteswetenschappen: "das [[verstehen]] des Lebens und der Geschichte"
+Het doel van de geesteswetenschappen: "das [[Verstehen]] des Lebens und der Geschichte"
 
 Beleving is altijd een samenhang van heel veel zaken:
 - Denken
@@ -37,5 +37,5 @@ belevingen leiden altijd tot uitdrukkingen:
 	- kunstwerk
 	- handeling
 
-Het doel van dit onderzoek is [[verstehen]] 'begrijpen'
+Het doel van dit onderzoek is [[Verstehen]] 'begrijpen'
 

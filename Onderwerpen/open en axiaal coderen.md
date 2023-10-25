@@ -1,5 +1,5 @@
-hoort bij kwalitatief onderzoek, je werkt met complexe begrippen
-taak als onderzoeker is data reduceren tot een typologie of set aan concepten.
+hoort bij [[kwalitatief onderzoek]], je werkt met complexe begrippen
+taak als onderzoeker is data reduceren tot een [[typologie]] of set aan concepten.
 
 Als transcript, wil je weten wat mensen als emoties ervaren over Nieuws Gazastrook:
 Onderzoek: Lezen - interview (wat voel je tijdens het lezen)
@@ -14,4 +14,26 @@ Dingen labelen/highlighten en kleurtje geven
 
 
 **Axiaal coderen**:
-Kijk naar de codes die 
+Kijk naar de codes die je hebt gemaakt.
+Ga deze codes indelen in categorieën 
+Hierin kan je clusters aan bijv. emoties zien
+
+dan kom je tot een [[typologie]]
+
+concept is één ding. concept = emotie, boos
+concept = emotie, bang
+concept = emotie, blij
+
+vervolgens in analyse
+
+hoe hangen emoties samen, [[typologie]] vertelt hoe dit samenhangt
+
+bekende [[typologie]] = indeling van lineus in het dierenrijk
+Hele systeem is [[typologie]], met daarin categorieën. 
+
+
+categorieën worden concepten tot je bij het eind concept komt
+
+
+
+

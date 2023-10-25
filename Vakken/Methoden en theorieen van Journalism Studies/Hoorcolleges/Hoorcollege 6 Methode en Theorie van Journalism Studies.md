@@ -36,7 +36,7 @@ Kwalitatieve onderzoeksvraag
 kwantitatieve onderzoeksvraag
 
 
-belangrijke begrippen:
+## belangrijke begrippen:
 - [[empirische cyclus]] (eigenlijk, het cyclus dat je op elk onderzoek kan plakken. basis onderzoeks circel, ik verbaas me, ik stel een vraag, methode kiezen, data verzamelen, data rapporteren)
 - [[kwalitatief onderzoek]] (Draait het om "WAAROM vraag" hoe werkt iets, tot in detail hoe iets in [[empirische werkelijkheid]])
 - [[Kwantitatief onderzoek]] (proberen we onderzoeks opzet te maken om variabelen te meten, benieuwd naar variabelen die je vervolgens gaat meten.)
@@ -47,5 +47,5 @@ belangrijke begrippen:
 - [[betrouwbaarheid]] (levert de methode die ik heb gekozen, data op die reproduceerbaar is, kwalitatieve context gaat het over de mate waarin gekozen methode een overtuigende observatie opleverd, lastiger in [[kwalitatief onderzoek]], omdat dit gaat over "wie is de onderzoeker", de onderzoeker moet betrouwbaar zijn, krijg ik de zelfde data als ik dit nog een keer uitvoer)
 - [[validiteit]] (meet ik wat ik wil weten)
 
-- [[open en axiaal coderen]]
-- [[onafhankelijke en afhankelijke variabelen]]
+- [[open en axiaal coderen]] 
+- [[onafhankelijke en afhankelijke variabelen]] 

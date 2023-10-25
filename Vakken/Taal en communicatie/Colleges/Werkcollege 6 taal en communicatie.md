@@ -29,7 +29,7 @@ Troosten
 [[Expliciet performatief]]
 
 
-## ken [[indirecte]]- en [[directe]] [[taalhandelingen]]
+## ken [[indirecte]]- en [[Directe]] [[taalhandelingen]]
 
 ik verzoek je om koffie te zetten (direct)
 ik vraag je om koffie te zetten (indirect)
