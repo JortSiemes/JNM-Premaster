@@ -76,7 +76,7 @@ Vraag: Wat is secondaire en [[primaire taalhandeling]]: Maybe you will shut up?
 [[secondaire taalhandeling]] = vraag (question)
 extra: [[Propositionele inhoudsvoorwaarde]], request
 
-How can you perform an indirect directive by assering the propositional content condition:
+How can you perform an indirect directive by asserting the propositional content condition:
 You will shut up now!
 
 How can you perform an indirect directive by asserting the sincerity condition:
