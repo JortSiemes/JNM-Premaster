@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Onderwerpen/Propositionele inhoudsvoorwaarde.md",
+                "file": "Vakken/Taal en communicatie/Colleges/Werkcollege 6 taal en communicatie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "050b5491a13d3e61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Onderwerpen/geslaagdheidsvoorwaarden.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -143,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Onderwerpen/Propositionele inhoudsvoorwaarde.md",
+                "file": "Onderwerpen/geslaagdheidsvoorwaarden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Onderwerpen/Propositionele inhoudsvoorwaarde.md",
+                "file": "Onderwerpen/geslaagdheidsvoorwaarden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Onderwerpen/Propositionele inhoudsvoorwaarde.md"
+                "file": "Onderwerpen/geslaagdheidsvoorwaarden.md"
               }
             }
           }
@@ -205,14 +217,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28f19451f5f9e918",
+  "active": "050b5491a13d3e61",
   "lastOpenFiles": [
     "Vakken/Taal en communicatie/Colleges/Werkcollege 6 taal en communicatie.md",
-    "Vakken/Taal en communicatie/Colleges/Hoorcollege 6 Taal en communicatie.md",
     "Onderwerpen/Indirecte.md",
+    "Vakken/Taal en communicatie/Opdrachten/Opdracht week 6 - Taal en Communicatie.md",
+    "Onderwerpen/Propositionele inhoudsvoorwaarde.md",
+    "Vakken/Taal en communicatie/Colleges/Hoorcollege 6 Taal en communicatie.md",
     "Directe.md",
     "Vakken/Taal en communicatie/Colleges/Hoorcollege 5 Taal en communicatie.md",
-    "Vakken/Taal en communicatie/Opdrachten/Opdracht week 6 - Taal en Communicatie.md",
     "Indirecte taalhandelingen.md",
     "Onderwerpen/Expliciet performatief.md",
     "Onderwerpen/Impliciet performatief.md",
@@ -236,7 +249,6 @@
     "Onderwerpen/betrouwbaarheid.md",
     "Onderwerpen/Holisme.md",
     "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 1 wetenschapsfilosofie.md",
-    "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 2 wetenschapsfilosofie.md",
     "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf",
     "Vakken/Woorden als wapens/Weekopdrachten/~$ekopdracht6_JortSiemes.docx",
     "Vakken/Woorden als wapens/Literatuur/OverLoodzwareBassenEnWapperendeBroekspijpen.pdf",

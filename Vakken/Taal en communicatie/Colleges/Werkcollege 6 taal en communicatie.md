@@ -17,3 +17,4 @@ Troosten
 
 [[Propositionele inhoudsvoorwaarde]]
 
+[[geslaagdheidsvoorwaarden]]
