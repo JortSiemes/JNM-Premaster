@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Taal en communicatie/Colleges/Werkcollege 6 taal en communicatie.md",
+                "file": "Onderwerpen/Propositionele inhoudsvoorwaarde.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Taal en communicatie/Colleges/Hoorcollege 6 Taal en communicatie.md",
+                "file": "Onderwerpen/Propositionele inhoudsvoorwaarde.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Taal en communicatie/Colleges/Hoorcollege 6 Taal en communicatie.md",
+                "file": "Onderwerpen/Propositionele inhoudsvoorwaarde.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Taal en communicatie/Colleges/Hoorcollege 6 Taal en communicatie.md"
+                "file": "Onderwerpen/Propositionele inhoudsvoorwaarde.md"
               }
             }
           }
@@ -205,13 +205,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb145e4a1b5bc7e9",
+  "active": "28f19451f5f9e918",
   "lastOpenFiles": [
-    "Onderwerpen/Expliciet performatief.md",
-    "Vakken/Taal en communicatie/Opdrachten/Opdracht week 6 - Taal en Communicatie.md",
-    "Onderwerpen/Impliciet performatief.md",
-    "Vakken/Taal en communicatie/Colleges/Hoorcollege 6 Taal en communicatie.md",
     "Vakken/Taal en communicatie/Colleges/Werkcollege 6 taal en communicatie.md",
+    "Vakken/Taal en communicatie/Colleges/Hoorcollege 6 Taal en communicatie.md",
+    "Onderwerpen/Indirecte.md",
+    "Directe.md",
+    "Vakken/Taal en communicatie/Colleges/Hoorcollege 5 Taal en communicatie.md",
+    "Vakken/Taal en communicatie/Opdrachten/Opdracht week 6 - Taal en Communicatie.md",
+    "Indirecte taalhandelingen.md",
+    "Onderwerpen/Expliciet performatief.md",
+    "Onderwerpen/Impliciet performatief.md",
     "Vakken/Taal en communicatie/Colleges/Werkcollege 4 taal en communicatie.md",
     "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 1.pdf",
     "Onderwerpen/geslaagdheidsvoorwaarden.md",
@@ -233,11 +237,7 @@
     "Onderwerpen/Holisme.md",
     "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 1 wetenschapsfilosofie.md",
     "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 2 wetenschapsfilosofie.md",
-    "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 3 wetenschapsfilosofie.md",
-    "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 4 wetenschapsfilosofie.md",
-    "Vakken/Wetenschapsfilosofie/Reader notities Wetenschapsfilosofie.md",
     "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf",
-    "Vakken/Wetenschapsfilosofie/COLLECTIE FILE Wetenschapsfilosofie.md",
     "Vakken/Woorden als wapens/Weekopdrachten/~$ekopdracht6_JortSiemes.docx",
     "Vakken/Woorden als wapens/Literatuur/OverLoodzwareBassenEnWapperendeBroekspijpen.pdf",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Feedback folder/v1/~$dioInterview.docx",

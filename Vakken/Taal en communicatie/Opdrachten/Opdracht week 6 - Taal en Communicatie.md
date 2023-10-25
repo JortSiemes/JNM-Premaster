@@ -1,6 +1,9 @@
 1. a. Nee het is impliciet performatief
 
-b. Direct
+b. Ja, want...
+.. de secundaire taalhandeling en de primaire taalhandeling verschillen van elkaar.
+De secundaire taalhandeling 'ik kan iedereen [x] aanraden' is een mededeling (assertief/beweerder), maar de primaire taalhandeling 'ik raad iedereen [x] aan'  is een advies (directief/stuurder)
+
 c. voorbeeld: laat jij de hond even uit?
 
 2. 
