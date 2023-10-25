@@ -1,0 +1,13 @@
+De morfologie van het toversprookje
+- narratologie, narratieve analyse.
+- 31 onveranderlijke structuurelementen ('functies')
+	- Verbod
+	- overtreding
+	- vertrek
+	- magisch 
+	- geschenk
+- 7 Onvonderandelijke actanten
+	- Held
+	- Prinses
+	- Schurk
+	- Helper

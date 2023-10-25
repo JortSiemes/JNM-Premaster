@@ -30,7 +30,7 @@ John R. Searle
 
 [[geslaagdheidsvoorwaarden]] (felicity conditions)
 grammatica: als je niet aan regels van spelling houd dan heb je een foute zin
-[[Pragmatiek]]: regels als je niet aan deze regels houd dan kan het onbeleefd of ongepast of [[Geslaagdheidsvoorwaarden]] van de taal past.
+[[Pragmatiek]]: regels als je niet aan deze regels houd dan kan het onbeleefd of ongepast of [[geslaagdheidsvoorwaarden]] van de taal past.
 
 #### 4 [[geslaagdheidsvoorwaarden]]:
 [[Propositionele inhoudsvoorwaarde]] - belofte: concerns future act of the speaker, inhoud moet voldoen 

@@ -1,0 +1,1 @@
+Gebeurtennissen hebben alleen oorzaken, maar handelingen hebben ook redenen en zijn door logische connecties met elkaar verbonden.

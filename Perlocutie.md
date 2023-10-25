@@ -1,1 +1,0 @@
-wat het effect van deze woorden zijn

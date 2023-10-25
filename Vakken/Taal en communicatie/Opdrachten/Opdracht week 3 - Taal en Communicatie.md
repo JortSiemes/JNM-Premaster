@@ -3,26 +3,26 @@
 X = [[illocutie]]
 Kijken onder welke dit zal vallen
 
-a. Meedelen - X, [[Uitdrukkers]] > [[verklaarders]]
-b. Dopen - X, [[verklaarders]] $
+a. Meedelen - X, [[Uitdrukkers]] > [[Verklaarders]]
+b. Dopen - X, [[Verklaarders]] $
 c. Wandelen $
 d. Gelukwensen - X, [[Uitdrukkers]] $
 e. Koken $
 f. Verzoeken - X, [[Stuurders]] $
-g. Stellen - X, [[Beweerders]] > [[verklaarders]]
+g. Stellen - X, [[Beweerders]] > [[Verklaarders]]
 h. aanvaarden - X, [[Binders]] $
 i. condoleren - X, [[Uitdrukkers]] $
-j. eisen -X, [[stuurders]] $
+j. eisen -X, [[Stuurders]] $
 k. schreeuwen $
 l. ontkennen - X,  > [[Verklaarders]]/[[Binders]]
-m. adviseren - X, [[stuurders]] $
+m. adviseren - X, [[Stuurders]] $
 n. beloven - X, [[Binders]] $
-o. toelichten - X, [[stuurders]] > [[Verklaarders]]
+o. toelichten - X, [[Stuurders]] > [[Verklaarders]]
 p. vragen - ??? > [[Stuurders]]
-q. waarschuwen - X, [[stuurders]] $
+q. waarschuwen - X, [[Stuurders]] $
 r. intimideren $
 s. toestaan - X, [[Stuurders]] / [[Binders]] $
-t. weigeren -  > [[binders]]
+t. weigeren -  > [[Binders]]
 u. zeuren $
 v. geruststellen $
 w. roddelen $
@@ -33,10 +33,10 @@ z. zwijgen $
 19 Goed, 26 totaal 7 fout
 
 2. a. een mededeling dit is een beweerder, want er word iets geconstateerd
-b.  zijn er weer pepernoten te koop? (vraag, [[stuurders]])
-hoera, er zijn weer pepernoten te koop!! (uiting van blijdschap, [[uitdrukkers]])
+b.  zijn er weer pepernoten te koop? (vraag, [[Stuurders]])
+hoera, er zijn weer pepernoten te koop!! (uiting van blijdschap, [[Uitdrukkers]])
 Ik beloof dat er weer pepernoten te koop zijn (verzekeren)
-Hierbij verklaar ik dat er weer pepernoten te koop zijn (verklaring, [[verklaarders]])
+Hierbij verklaar ik dat er weer pepernoten te koop zijn (verklaring, [[Verklaarders]])
 
 3.  markeer de expliciet performatieve [[taalhandelingen]]
 
@@ -46,8 +46,8 @@ Impliciet is alles met hierbij
 3, ‘Kijk, meneer Santens, ik ben niet van plan nog veel woorden hieraan te spenderen, **maar ik kan u hierbij verzekeren dat de benoeming die u ambieert**, niet zal doorgaan. Ik heb nog altijd enige invloed op hoog niveau, vergeet dat niet!’ Het antwoord dat onmiddellijk daarop kwam, was totaal onverwacht. ‘Meneer de minister, **ik kan u met permissie garanderen**, dat de steun die mijn kandidatuur geniet voor het ambt dat u bedoelt, op het allerhoogste niveau ligt.’ 
 4, ‘Conclusie: de heer Arts en consorte genieten politieke steun op het allerhoogste niveau die desgevallend de normale rechtsbedeling in de weg kan staan.’ ‘Ons werd altijd geleerd dat de Peegee meestal ‘positief’ is waar het de rechtsvervolging betreft, maar soit. Een simpele vraag: kwam die in de affaire van de Mechelse bakker dan niet in het gedrang?’ ‘Inspecteur Verstuyft, **ik bied je uit pure compassie nog een bolleke aan**. Je hebt niet geluisterd, toen ik het zopas had over negatief injunctierecht...
 
-4. [[locutie]]: sloom rijden
+4. [[Locutie]]: sloom rijden
 [[illocutie]]: waarschuwen voor snelheidslimiet
-[[perlocutie]]: mensen langzaam gaan rijden om geen straf te krijgen
+[[Perlocutie]]: mensen langzaam gaan rijden om geen straf te krijgen
 
 
