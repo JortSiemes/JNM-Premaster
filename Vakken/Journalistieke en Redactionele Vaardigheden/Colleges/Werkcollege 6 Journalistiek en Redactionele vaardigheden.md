@@ -35,6 +35,9 @@ Hoe doe je dat?
 - checken: op welk onderzoek gebaseerd? Wie zit erachter? Waar komen cijfers vandaan?
 - Hoor en wederhoor: verschillende bronnen raadplegen voor duiding?
 	- CBS, universiteit
-- 
+
+
+Vertaalslag maken
+
 
 
