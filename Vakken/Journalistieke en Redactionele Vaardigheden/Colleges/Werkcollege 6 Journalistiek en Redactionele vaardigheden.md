@@ -77,8 +77,13 @@ Quotes fotos en videos die het verhaal ondersteunen/aanvullen
 **de staart:** Extra informatie
 interessante feiten, gerelateerde informatie. mag extra content zijn, blogs of colums
 
-## als fouten in staan in info/taal dan moet je die eruit halen.
+## als fouten in staan in info/taal dan moet je die eruit halen. + Factcheck
 
 
 Checklist in boek (5.3)
+
+
+Belangrijk: check feiten/taal - JIJ ben factchecker
+
+Deadline: woensdag 8 nov 9;00
 
