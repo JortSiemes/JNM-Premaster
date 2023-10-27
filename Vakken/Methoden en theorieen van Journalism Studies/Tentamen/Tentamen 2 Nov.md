@@ -7,6 +7,14 @@ Het wetenschappelijk tijdschrift _Journalism Practice_ publiceerde in 2019 een
 
 Hoe kun je met een inhoudsanalyse van journalistieke vacatureberichten uitspraken doen over typen expertise? Werk een methodologische opzet uit die verantwoordt hoe je empirische gegevens verzamelt, bewerkt en analyseert. Geef ook aan waarom je kwantitatieve, kwalitatieve of een gemengde benadering verkiest. (30 ptn - max 450 woorden).
 
+Antwoord: 
+
+
+
+
+
+
+
 [**normantwoord**: Van belang is dat studenten aangeven waarom (argumentatie) en hoe (procedure, verloop) ze een bepaalde methode zouden inzetten. Een antwoord krijgt het maximum van de punten als de student het **proces** van data verzamelen (corpus van vacatures aanleggen via zoektermen), bewerken (corpus ontdubbelen, opschonen, in een analyseprogramma opladen) en analyseren (coderen - hetzij bottom up of top down) beschrijft en het **type inhoudsanalyse** motiveert (bv. eerst kwali pilootstudie, codeboek opstellen, kwanti inhoudsanalyse OF codeboek opstellen op basis van categorieën uit de literatuur, codeboek testen, intercodeursbetrouwbaarheid berekenen, analyse uitvoeren)
 
 **Vraag 2:**
