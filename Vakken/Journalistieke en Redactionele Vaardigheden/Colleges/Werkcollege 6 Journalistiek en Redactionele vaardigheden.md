@@ -16,6 +16,7 @@ Wat is nieuws:
 Nieuwsbericht:
 - 150-200w de kortst mogelijke melding van de nieuwsfeiten
 - Alle uitweidingen en details achterwege laten
+- Doe er iets mee! kijk kritisch naar dit persbericht, wat is hun agenda en hoe kan je als nodig hier tegenin gaan?
 
 
 Persbericht:
@@ -24,7 +25,15 @@ Persbericht:
 	- Creëren van interesse
 	- Aandacht voor werk of resultaten
 	- inhoud gepubliceerd laten worden door de media; "free publicity"
+	- eenzijdig verhaal
 
+afweging maken of persbericht **nieuwswaarde** heeft voor **je publiek**
 
+Hoe doe je dat?
+- Selecteren: wat is het nieuws echt? Vijs W's en H
+- checken: op welk onderzoek gebaseerd? Wie zit erachter? Waar komen cijfers vandaan?
+- Hoor en wederhoor: verschillende bronnen raadplegen voor duiding?
+	- CBS, universiteit
+- 
 
 
