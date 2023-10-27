@@ -38,6 +38,25 @@ Hoe doe je dat?
 
 
 Vertaalslag maken
+(werkwoord in kop!, moet aktief zijn)
 
 
+#### Schrijf voor NOS.nl
+
+ZSM de vijf W's en H
+
+belangrijkste vraag direct **in de lead** beantwoorden: twee zinnen
+Begin nooit met tijds- of plaatsaanduiding
+
+- Wie
+- Wat
+- waar
+- wanneer
+- hoe
+
+
+Vaak de wie en wat, eventueel aangevuld met waar en wanneer
+begin nooit met tijds- en plaatsaanduiding
+schrijft actief
+Tijd: voltooid tegenwoordige tijd (is afgetreden, heeft gewonnen) daarna onvoltooid verleden tijd (hij z)
 
