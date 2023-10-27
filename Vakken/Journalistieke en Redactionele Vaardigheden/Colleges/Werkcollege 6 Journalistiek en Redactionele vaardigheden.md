@@ -26,6 +26,7 @@ Persbericht:
 	- Aandacht voor werk of resultaten
 	- inhoud gepubliceerd laten worden door de media; "free publicity"
 	- eenzijdig verhaal
+	- 'follow the money'
 
 afweging maken of persbericht **nieuwswaarde** heeft voor **je publiek**
 
