@@ -58,5 +58,27 @@ Begin nooit met tijds- of plaatsaanduiding
 Vaak de wie en wat, eventueel aangevuld met waar en wanneer
 begin nooit met tijds- en plaatsaanduiding
 schrijft actief
-Tijd: voltooid tegenwoordige tijd (is afgetreden, heeft gewonnen) daarna onvoltooid verleden tijd (hij z)
+Tijd: voltooid tegenwoordige tijd (is afgetreden, heeft gewonnen) daarna onvoltooid verleden tijd (hij zei, hij gaf als verklaring)
+
+Oprolbaar: dat wil zeggen op volgorden van belangrijkheid en afgeronde alinea's ontstaan uit de krantenpraktijk: eindredacteur moet ongezien de laatste alinea's weg kunnen laten.
+-200-300 woorden
+actieve, korte kop die het nieuws bevat
+
+
+## Structuur
+**de intro:** belangrijkste info
+5 W/h (30 woorden) mag een quote of provocatieve vraag bevatten
+
+De body: cruciale informatie
+Argumenten, controverse, verhaal, bewijs
+achtergrond, detail, logica, etc
+Quotes fotos en videos die het verhaal ondersteunen/aanvullen
+
+**de staart:** Extra informatie
+interessante feiten, gerelateerde informatie. mag extra content zijn, blogs of colums
+
+
+
+
+Checklist in boek (5.3)
 
