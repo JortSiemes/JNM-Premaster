@@ -73,7 +73,10 @@ Welke methode je moet kiezen hangt af van de middelen die je ter beschikking heb
 
 ##### Onderzoeksvraag:
 **Kwalitatieve onderzoeksvragen**: zijn ontworpen om complexe fenomenen, begrippen en sociale processen zoals migratie, armoede en onderwijs te beschrijven, verkennen of verklaren. 
-Als er weinig bekend is over bepaald fenomeen
-hoe sociaal vers
+- Als er weinig bekend is over bepaald fenomeen
+- hoe sociaal verschijnsel eruitziet
+- of hoe een proces verloopt
+Kwalitatieve onderzoeksvragen zijn interpretatief, werkelijkheidsbeleving van onderzochten staat centraal in vraag
+	voorbeeld: Wat kunnen redenen zijn waardoor journalisten meer kans lopen op een burn-out dan bibliothecarissen?
 
 Kwantitatieve onderzoeksvragen: 
