@@ -16,7 +16,7 @@ Ontwikkeling in journalism studies:
 | ------------ | ------------------------------------------------------------------------- |
 | Kwalitatief  | beschrijft, verkent, verklaart, complexe fenomenen concepten en processen | 
 
-#### Mat moet je per methode weten: (kunnen opzoeken in het boek)
+#### Wat moet je per methode weten: (kunnen opzoeken in het boek)
 - kenmerken van de methode
 - wanneer zet je de methode in
 - voor- en nadelen van de methode
