@@ -64,4 +64,16 @@ inhoudsanalyse: richt zich op de inhoud van onderwerp, bij inhoudsanalyse laat d
 
 Welke methode je moet kiezen hangt af van de middelen die je ter beschikking hebt (tijd, geld, toegang, kennis, mensen) de aard van het onderzoeksproject en het soort informatie dat je nodig hebt. Idealiter combineer je vormen van onderzoek in een zogeheten **mixed methods-** opzet, maar in de praktijk is *mixed methods-* onderzoek voor scriptiestudenten te hoog gegrepen.
 
+| ...             | Kwalitatief onderzoek                                                                                                       | Kwantitatief onderzoek                                                                                                     |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Onderzoeksvraag | -Beschrijft, verkent en/of verklaart complexe fenomenen concepten en processen -gaat over hoe- en waaromvragen              | -beschrijft, voorspelt en/of verklaart een relatie tussen variabelen - gaat over hoeveel, hoe vaak, wanneer                |
+| Onderzoeksopzet | -is flexibel en kan bijgesteld worden tijdens het onderzoek -is gericht op natuurlijke observatie -is beredeneerd selectief | -is vooraf bepaald en wordt strikt gevolgd -is gericht op gecontroleerde observatie - is theoretisch selectief           |
+| Dataverzameling | -gebruikt meerdere methoden -impliceert toegang tot en/of langdurig contact met en kennis van het onderzoeksveld            | -gebruikt een vaste procedure -veronderstelt deelname respondenten en/of medewerking van proefpersonen                     |
+| Analyse         | -interpreteert betekenis in woorden en beelden -streeft naar unieke, veelzeggende uitkomsten -genereert theorie             | -stelt verbanden tussen variabelen cijfermatig vast -streeft naar voorstelbare, algemeen geldende resultaten -test theorie | 
 
+##### Onderzoeksvraag:
+**Kwalitatieve onderzoeksvragen**: zijn ontworpen om complexe fenomenen, begrippen en sociale processen zoals migratie, armoede en onderwijs te beschrijven, verkennen of verklaren. 
+Als er weinig bekend is over bepaald fenomeen
+hoe sociaal vers
+
+Kwantitatieve onderzoeksvragen: 
