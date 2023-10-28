@@ -59,4 +59,9 @@ etnografie: de leefwereld van de onderzochten staat centraal
 
 [[experiment]]: onderzoekers bedenken een gecontroleerde setting om specifieke factoren te testen. 
 
+Doorlichten:
+inhoudsanalyse: richt zich op de inhoud van onderwerp, bij inhoudsanalyse laat de onderzoeker de inhoud spreken.
+
+Welke methode je moet kiezen hangt af van de middelen die je ter beschikking hebt (tijd, geld, toegang, kennis, mensen) de aard van het onderzoeksproject en het soort informatie dat je nodig hebt. Idealiter combineer je vormen van onderzoek in een zogeheten **mixed methods-** opzet, maar in de praktijk is *mixed methods-* onderzoek voor scriptiestudenten te hoog gegrepen.
+
 
