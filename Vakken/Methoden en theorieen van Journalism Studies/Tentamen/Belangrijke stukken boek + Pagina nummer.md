@@ -79,4 +79,5 @@ Welke methode je moet kiezen hangt af van de middelen die je ter beschikking heb
 Kwalitatieve onderzoeksvragen zijn interpretatief, werkelijkheidsbeleving van onderzochten staat centraal in vraag
 	voorbeeld: Wat kunnen redenen zijn waardoor journalisten meer kans lopen op een burn-out dan bibliothecarissen?
 
-Kwantitatieve onderzoeksvragen: 
+**Kwantitatieve onderzoeksvragen:** gaan over de relatie tussen variabelen. 
+Variabelen zijn meetbare onderzoekseenheden zoals minuten iemand 
