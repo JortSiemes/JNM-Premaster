@@ -21,14 +21,14 @@ Ontwikkeling in journalism studies:
 - Wel duidelijk: het is een heterogeen veld (steensen & Ahva 2015)
 
 ### Drie belangrijke theoriën
-- nieuwswaarden: wie en wat bepaalt wat nieuws is
-- framing: hoe worden verhalen verteld?
-- rolperceptie en publieksverwachtingen: wie of wat is journalist
+- [[nieuwswaarden]]: wie en wat bepaalt wat nieuws is
+- [[framing]]: hoe worden verhalen verteld?
+- [[rolperceptie]] en publieksverwachtingen: wie of wat is journalist
 #### belangrijkste is welke methodes voor onderzoek naar journalistiek doen
 
-| kwantitatief | beschrijft, verklaart, voorspelt, variabelen: hoeveel, hoe vaak wanneer?  |
+| [[kwantitatief]] | beschrijft, verklaart, voorspelt, variabelen: hoeveel, hoe vaak wanneer?  |
 | ------------ | ------------------------------------------------------------------------- |
-| Kwalitatief  | beschrijft, verkent, verklaart, complexe fenomenen concepten en processen | 
+| [[Kwalitatief]]  | beschrijft, verkent, verklaart, complexe fenomenen concepten en processen | 
 
 #### Wat moet je per methode weten: (kunnen opzoeken in het boek)
 - kenmerken van de methode
@@ -80,7 +80,7 @@ Proeftentamen:
 
 **Vraag 1:**
 
-Het wetenschappelijk tijdschrift _Journalism Practice_ publiceerde in 2019 een artikel over journalistieke expertise met als titel “(Re)defining Journalistic Expertise in the Digital Transformation: A Content Analysis of Job Announcements.” (Vertaling: “(Her)definiëren van journalistieke expertise in de digitale transformatie: een inhoudsanalyse van vacatures.”)  Meer bepaald ging het over de vaardigheden, kennis en attitudes die Amerikaanse nieuwsorganisaties van instromende journalisten verwachten. Om die verwachtingen in kaart te brengen, analyseerden de auteurs 669 vacatureberichten voor uiteenlopende banen zoals beeldredacteur, buitenlandcorrespondent of radiojournalist. Uit de resultaten blijkt dat nieuwsorganisaties multimediale productievaardigheden en schrijfvaardigheid op prijs stellen, maar daarnaast ook marketingvaardigheden eisen, bijvoorbeeld op het gebied van publieksgroep, branding en marktaandeel verwerving.
+Het wetenschappelijk tijdschrift _Journalism Practice_ publiceerde in 2019 een artikel over journalistieke expertise met als titel “(Re)defining Journalistic Expertise in the Digital Transformation: A Content Analysis of Job Announcements.” (Vertaling: “(Her)definiëren van journalistieke expertise in de digitale transformatie: een [[inhoudsanalyse]] van vacatures.”)  Meer bepaald ging het over de vaardigheden, kennis en attitudes die Amerikaanse nieuwsorganisaties van instromende journalisten verwachten. Om die verwachtingen in kaart te brengen, analyseerden de auteurs 669 vacatureberichten voor uiteenlopende banen zoals beeldredacteur, buitenlandcorrespondent of radiojournalist. Uit de resultaten blijkt dat nieuwsorganisaties multimediale productievaardigheden en schrijfvaardigheid op prijs stellen, maar daarnaast ook marketingvaardigheden eisen, bijvoorbeeld op het gebied van publieksgroep, branding en marktaandeel verwerving.
 
 Hoe kun je met een inhoudsanalyse van journalistieke vacatureberichten uitspraken doen over typen expertise? Werk een methodologische opzet uit die verantwoordt hoe je empirische gegevens verzamelt, bewerkt en analyseert. Geef ook aan waarom je kwantitatieve, kwalitatieve of een gemengde benadering verkiest. (30 ptn - max 450 woorden).
 
