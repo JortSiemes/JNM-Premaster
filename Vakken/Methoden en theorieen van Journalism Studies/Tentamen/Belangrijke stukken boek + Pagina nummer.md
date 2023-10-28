@@ -48,9 +48,15 @@ tabel 3
 | Observeren  | etnografie    | experiment     | effecten, praktijk |
 | Doorlichten | inhoudsanalyse | inhoudsanalyse | effecten, inhoud  |
 
+Bevragen:
 als je kleine groepen of individuele actoren wilt bevragen: **interview**
 grotere groepen bevraag je: **survey**
 Bij Interview & Survey, vraag je expliciete vragen aan de onderzochten -> antwoorden = data, waarop je je analyse stoelt.
 
+Observeren:
+observationeel onderzoek levert inzicht op over hoe nieuws wordt geproduceerd en hoe consumenten ermee omgaan.
+etnografie: de leefwereld van de onderzochten staat centraal
+
+[[experiment]]: onderzoekers bedenken een gecontroleerde setting om specifieke factoren te testen. 
 
 
