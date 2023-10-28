@@ -80,4 +80,13 @@ Kwalitatieve onderzoeksvragen zijn interpretatief, werkelijkheidsbeleving van on
 	voorbeeld: Wat kunnen redenen zijn waardoor journalisten meer kans lopen op een burn-out dan bibliothecarissen?
 
 **Kwantitatieve onderzoeksvragen:** gaan over de relatie tussen variabelen. 
-Variabelen zijn meetbare onderzoekseenheden zoals minuten iemand 
+Variabelen zijn meetbare onderzoekseenheden zoals minuten iemand te spreken krijgt in Nieuwsuur. Of welke metaforen het meest voorkomen.
+Beschrijven, voorspellen of verklaren reacties tussen twee of meerderen variabelen. 
+
+Bij kwantitatieve onderzoeksvragen staan de hypothese en het kennisdoel van de onderzoeker centraal.
+
+
+##### Onderzoeksopzet:
+Kwalitatief onderzoek vertrekt vanuit de leefwereld - de context - van de onderzochten.
+Kwalitatief onderzoek heeft een flexibele & open onderzoeksopzet die tijdens het onderzoek aangepast kan worden
+
