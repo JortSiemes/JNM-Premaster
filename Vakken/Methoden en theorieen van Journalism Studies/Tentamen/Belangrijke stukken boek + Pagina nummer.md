@@ -101,4 +101,5 @@ BIJV: enquête, steekproef (moet wel statistisch representatief zijn)
 
 ##### Dataverzameling:
 Kwalitatieve data zijn divers.
-Dataverzameling in kwalitatief onderzoek is procesgestuurd en contextafhankelijk
+Dataverzameling in kwalitatief onderzoek is procesgestuurd en contextafhankelijk.
+Kwalitatief onderzoek toegang toe en/of 
