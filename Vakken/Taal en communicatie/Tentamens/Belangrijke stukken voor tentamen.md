@@ -1,5 +1,17 @@
 2 uur tentamen 3 NOV - sporthal
 
+Hoorcolleges:
+[[Hoorcollege 2 taal en communicatie]]
+[[Hoorcollege 3 Taal en communicatie]]
+[[Hoorcollege 4 Taal en communicatie]]
+[[Hoorcollege 5 Taal en communicatie]]
+[[Hoorcollege 6 Taal en communicatie]]
+
+Werkcolleges:
+[[Werkcollege 2 taal en communicatie]]
+[[Werkcollege 3 taal en communicatie]]
+[[Werkcollege 4 taal en communicatie]]
+[[Werkcollege 6 taal en communicatie]]
 # onderdelen
 
 # Grice:
@@ -8,6 +20,8 @@
 ### [[Waarheidsconditioneel]]
 ### Cooperatieprincipe, samenwerkingsbeginsel
 ### 4 Maximes
+
+
 ### in acht nemen, heimelijk schenden/overtreden, openlijk overtreden, terugtrekken
 ### Hoe kun je implicaturen afleiden met behulp van maximes?
 ### 3 Soorten implicaturen
