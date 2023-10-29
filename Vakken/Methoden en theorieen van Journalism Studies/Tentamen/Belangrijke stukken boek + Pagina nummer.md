@@ -119,3 +119,10 @@ Analyse wordt weergegeven in woorden en beelden.
 Kwalitatieve onderzoeksvragen gaan meestal over complexe, meerduidige processen.
 Streven in analyse = unieke, veelzeggende uitkomsten die inhoudelijk representatief zijn voor het onderzoeksprobleem.
 
+Kwantitatief onderzoek streeft naar voorspelbare, algemeen geldende resultaten. 
+Statistiek is het middel om verbanden cijfermatig vast te stellen.
+Kwantitatief onderzoek test hypothesen cijfermatig. 
+Daarmee kan het erg precies zeggen of een bepaalde relatie tussen onderzoekseenheden van belang is
+##### Inductie 
+
+#
