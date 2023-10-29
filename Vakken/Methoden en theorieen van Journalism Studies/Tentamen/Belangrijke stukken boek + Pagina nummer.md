@@ -136,12 +136,21 @@ Surveys kunnon ook verkennend zijn, maar zullen daarnaast vaker toetsend zijn da
 Het soort resultaten: Surveys leveren kwantitatieve data op in de vorm van aantallen en verhoudingen over verschijnselen.
 Focusgroepen leveren concepten en typologieen op. Focusgroeponderzoek zal veel vaker open en/of verkennende vragen als startpunt hebben.
 
-Survey wordt vantevoren ontwikkeld en als deze klaar is, wordt de vragenlijst uitgezet. Vanaf dat moment staat het onderzoek vast en in feite is er ook niets meer aan de uitkomst te sturen.
+[[Survey]] wordt vantevoren ontwikkeld en als deze klaar is, wordt de [[vragenlijst]] uitgezet. Vanaf dat moment staat het onderzoek vast en in feite is er ook niets meer aan de uitkomst te sturen.
 
 Focus groep, daar kunnen nieuwe inzichten tijdens het onderzoek de gesprekken langs andere bergen en dalen leiden
 
-| ...                  | Survey                | Focusgroep                      |
-| -------------------- | --------------------- | ------------------------------- |
-| Setting              | individueel           | in groep                        |
-| Type onderzoeksvraag | toetsend, bevestigend | verkennend, conceptontwikkelend |
-| Type data            | direct schriftelijk   | Behoeft annotatie/tr                                |
+| ...                  | [[Survey]]                    | [[Focusgroep]]                      |
+| -------------------- | ------------------------- | ------------------------------- |
+| Setting              | individueel               | in groep                        |
+| Type onderzoeksvraag | toetsend, bevestigend     | verkennend, conceptontwikkelend |
+| Type data            | direct schriftelijk       | Behoeft annotatie/transcriptie  |
+| Type resultaat       | aantallen, vergelijkingen | concepten, typologieen          |
+| Bewerking data       | directer resulstaat       | behoeft interpretatie           |
+| [[Onderwerpen]]          | meerdere [[onderwerpen]]      | focust op een onderwerp         |
+| type kennis          | [[kwantitatief]]              | [[kwalitatief]]                     |
+| groepsdynamiek       | nvt                       | cruciaal                        |
+| vraagproces          | statisch                  | dynamisch                       |
+| Aantal bevraagden    | veel (vaak 100en-1000en)  | Beperkt (vaak enkele tientallen)                                |
+
+## 2 [[Focusgroep]]
