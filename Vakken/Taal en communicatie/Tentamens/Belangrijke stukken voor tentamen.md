@@ -12,6 +12,8 @@ Werkcolleges:
 [[Werkcollege 3 taal en communicatie]]
 [[Werkcollege 4 taal en communicatie]]
 [[Werkcollege 6 taal en communicatie]]
+
+---
 # onderdelen
 
 # Grice:
