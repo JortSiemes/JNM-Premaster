@@ -85,8 +85,16 @@ Beschrijven, voorspellen of verklaren reacties tussen twee of meerderen variabel
 
 Bij kwantitatieve onderzoeksvragen staan de hypothese en het kennisdoel van de onderzoeker centraal.
 
-
 ##### Onderzoeksopzet:
-Kwalitatief onderzoek vertrekt vanuit de leefwereld - de context - van de onderzochten.
-Kwalitatief onderzoek heeft een flexibele & open onderzoeksopzet die tijdens het onderzoek aangepast kan worden
+Kwalitatief onderzoek, vertrekt vanuit de leefwereld - de context - van de onderzochten.
+Kwalitatief onderzoek, heeft een flexibele & open onderzoeksopzet die tijdens het onderzoek aangepast kan worden
+Kwalitatief onderzoek, prijs op natuurlijke observatie (je bestudeert een sociaal proces of een bepaalde groep mensen in hun natuurlijke omgeving)
+	Dus geen laboratoriumexperimenten
 
+Kwantitatief onderzoek, veronderstelt een stabiele, controleerbare onderzoeksomgeving. Hier krijgt onderzoeksopzet een nauwkeurig en strikt karakter,
+Kwantitatieve wetenschappers werken met protocollen:
+- procedures die voorschrijven hoe je te werk moet gaan
+- vragenlijsten met een vaste structuur
+- experimenten met een vooraf bepaald verloop
+Kwantitatieve onderzoeksopzet manipuleert (controleert) bepaalde variabelen om er uitspraken over te doen die gelden voor de hele populatie.
+BIJV: enquête, steekproef (moet wel statisctisch representatief zijn) 
