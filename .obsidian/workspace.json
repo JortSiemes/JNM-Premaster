@@ -20,18 +20,19 @@
             }
           },
           {
-            "id": "208e25f25cdfdf35",
+            "id": "461a44b4fb8617dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inductie.md",
+                "file": "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Tentamen 2 Nov.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md",
+                "file": "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Tentamen 2 Nov.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md",
+                "file": "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Tentamen 2 Nov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md"
+                "file": "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Tentamen 2 Nov.md"
               }
             }
           }
@@ -168,14 +169,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb9641102f767759",
+  "active": "461a44b4fb8617dc",
   "lastOpenFiles": [
+    "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Inhoudsanalyse.md",
+    "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Tentamen 2 Nov.md",
     "Inductie.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md",
     "experiment.md",
     "Onderwerpen/Etnografie.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 1 Methoden en theorieen van journalism studies.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Tentamen 2 Nov.md",
     "Kwalitatief.md",
     "kwantitatief.md",
     "rolperceptie.md",
@@ -199,7 +201,6 @@
     "Onderwerpen/Wilhelm Dilthey.md",
     "Verstehen.md",
     "Onderwerpen/Hermeneutiek.md",
-    "Onderwerpen/betrouwbaarheid.md",
     "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf",
     "Vakken/Woorden als wapens/Weekopdrachten/~$ekopdracht6_JortSiemes.docx",
     "Vakken/Woorden als wapens/Literatuur/OverLoodzwareBassenEnWapperendeBroekspijpen.pdf",

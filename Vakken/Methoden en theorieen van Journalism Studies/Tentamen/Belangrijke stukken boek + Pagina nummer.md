@@ -131,3 +131,7 @@ Daarmee kan het erg precies zeggen of een bepaalde relatie tussen onderzoekseenh
 belangrijkste verschil: focusgroep bevraagt in groepen en survey individueel.
 De dynamiek van de groep / de privacy van individuele beantwoording is belangrijk voor de keuze wat je kiest.
 
+2de verschil is het type onderzoeksvraag. De focusgroep is een kwalitatieve methode die verkennende en conceptontwikkelende onderzoeksvragen als uitgangspunt heeft.
+Surveys kunnon ook verkennend zijn, maar zullen daarnaast vaker toetsend zijn dan focusgroepen. 
+Het soort resultaten: Surveys leveren kwantitatieve data op in de vorm van aantallen en verhoudingen over verschijnselen.
+Focusgroepen leveren concepten en typologieen op. Focusgroeponderzoek zal veel vaker open en/of verkennende vragen als startpunt hebben.
