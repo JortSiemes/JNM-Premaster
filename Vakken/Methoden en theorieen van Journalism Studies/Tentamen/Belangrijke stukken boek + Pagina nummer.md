@@ -125,4 +125,9 @@ Kwantitatief onderzoek test hypothesen cijfermatig.
 Daarmee kan het erg precies zeggen of een bepaalde relatie tussen onderzoekseenheden van belang is
 ##### Inductie 
 
-#
+### DEEL 1 BEVRAGEN: focusgroep en survey
+
+##### Verschillen tussen focusgroep en survey:
+belangrijkste verschil: focusgroep bevraagt in groepen en survey individueel.
+De dynamiek van de groep / de privacy van individuele beantwoording is belangrijk voor de keuze wat je kiest.
+
