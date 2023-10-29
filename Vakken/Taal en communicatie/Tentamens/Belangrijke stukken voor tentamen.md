@@ -19,8 +19,12 @@ Werkcolleges:
 ### Betekenis/bedoeling
 ### [[Waarheidsconditioneel]]
 ### Cooperatieprincipe, samenwerkingsbeginsel
-### 4 Maximes
-
+### 4 [[Maxime]]s
+##### [[Maxime]]
+- [[Maxime]] van Kwantiteit: zeg genoeg maar niet te veel
+- [[Maxime]] of Kwaliteit: Zeg alleen waar je zelf in geloofd
+- [[Maxime]] of Relatie/Relevantie: Zeg alleen wat relevant is op dat moment
+- [[Maxime]] of Wijze: Wees kort, duidelijk, en ordelijk
 
 ### in acht nemen, heimelijk schenden/overtreden, openlijk overtreden, terugtrekken
 ### Hoe kun je implicaturen afleiden met behulp van maximes?
