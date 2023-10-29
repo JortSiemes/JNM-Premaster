@@ -102,4 +102,9 @@ BIJV: enquête, steekproef (moet wel statistisch representatief zijn)
 ##### Dataverzameling:
 Kwalitatieve data zijn divers.
 Dataverzameling in kwalitatief onderzoek is procesgestuurd en contextafhankelijk.
-Kwalitatief onderzoek toegang toe en/of 
+Kwalitatief onderzoek toegang toe en/of langdurig contact met het onderzoeksveld.
+Cyclisch te werk gaan: observeren, bouwt een voorzichtige interpretatie op, die stel je bij in een volgende observatieronde, vervolgens let je die bijgestelde interpretatie voor aan je informanten
+
+Kwantitatief onderzoek kent een rechtlijnig verloop.
+De onderzoeksopzet ligt van tevoren vast.
+Je weet welke data je precies wilt verzamelen en test de onderzoeksprotocol.
