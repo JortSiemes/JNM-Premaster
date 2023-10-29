@@ -108,3 +108,14 @@ Cyclisch te werk gaan: observeren, bouwt een voorzichtige interpretatie op, die 
 Kwantitatief onderzoek kent een rechtlijnig verloop.
 De onderzoeksopzet ligt van tevoren vast.
 Je weet welke data je precies wilt verzamelen en test de onderzoeksprotocol.
+Een incentive = hulpmiddel om mensen te motiveren voor enquete (bioscooptickets, kortingsbon, reisje verloten onder deelnemers aan onderzoek)
+
+
+
+##### Data-analyse:
+Kwalitatief onderzoek is interpretatief
+Centraal hier staat het ontdekken, beschrijven, begrijpen van betekenis in bepaalde context.
+Analyse wordt weergegeven in woorden en beelden.
+Kwalitatieve onderzoeksvragen gaan meestal over complexe, meerduidige processen.
+Streven in analyse = unieke, veelzeggende uitkomsten die inhoudelijk representatief zijn voor het onderzoeksprobleem.
+
