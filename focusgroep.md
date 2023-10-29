@@ -1,5 +1,8 @@
 De [[focusgroep]] is een kwalitatieve methode die verkennende en conceptontwikkelende onderzoeksvragen als uitgangspunt heeft.
 
+FOCUSgroepen gaan slechts over een thema (als leider moet je sturen)
+
+
 over afgebakend onderwerp, met een gespreksleider 
 Levert gesproken data op
 
@@ -38,3 +41,14 @@ Focus groep, daar kunnen nieuwe inzichten tijdens het onderzoek de gesprekken la
 | Aantal bevraagden    | veel (vaak 100en-1000en)  | Beperkt (vaak enkele tientallen)                                |
 
 onderzoeker analyseert wat deelnemers onder elkaar zeggen, om vervolgens kwalitatieve uitspraken te doen als: "Deelnemers vinden lokaal nieuws betrouwbaarder dan buitenlandnieuws omdat lokaal nieuws makkelijker te verifiëren is".
+
+
+randvoorwaarde: deelnemers aan een focusgroepsinterview moeten de gespreksleider in hun leefwereld toelaten.
+
+
+#### Voorbeeld onderzoeksvraag focusgroep: *'hoe beleven krantenlezers sensationele fotos bij terreuraanslagen?'*
+
+
+Focusgroep inzetten:
+zelfstandig of ondersteunend onderzoek instrument worden ingezet.
+
