@@ -97,4 +97,4 @@ Kwantitatieve wetenschappers werken met protocollen:
 - vragenlijsten met een vaste structuur
 - experimenten met een vooraf bepaald verloop
 Kwantitatieve onderzoeksopzet manipuleert (controleert) bepaalde variabelen om er uitspraken over te doen die gelden voor de hele populatie.
-BIJV: enquête, steekproef (moet wel statisctisch representatief zijn) 
+BIJV: enquête, steekproef (moet wel statistisch representatief zijn) 
