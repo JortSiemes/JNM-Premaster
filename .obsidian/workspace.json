@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5faa975eeb520a55",
+        "id": "a55f71554c5c344b",
         "type": "tabs",
         "children": [
           {
-            "id": "bb9641102f767759",
+            "id": "68f86c541cbcb36f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ccb573019bf46d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Tentamen 2 Nov.md",
+                "file": "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md",
+                "file": "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md",
+                "file": "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md"
+                "file": "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen.md"
               }
             }
           }
@@ -168,10 +156,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb9641102f767759",
+  "active": "68f86c541cbcb36f",
   "lastOpenFiles": [
-    "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Tentamen 2 Nov.md",
+    "Onderwerpen/taalhandelingen.md",
+    "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen.md",
+    "Vakken/Taal en communicatie/Colleges/Hoorcollege 2 taal en communicatie.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md",
+    "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Tentamen 2 Nov.md",
     "Onderwerpen/Stijl.md",
     "focusgroep.md",
     "Onderwerpen/Survey.md",
@@ -195,9 +186,6 @@
     "Onderwerpen/Structuralisme.md",
     "Onderwerpen/Vladimir Propp.md",
     "Onderwerpen/Verstehen.md",
-    "Onderwerpen/Indirecte taalhandelingen.md",
-    "Onderwerpen/Directe.md",
-    "Vladimir Propp.md",
     "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/~artikel_jnm_wetens~9mfe(_.idlk",
     "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf",
