@@ -155,8 +155,10 @@ Focus groep, daar kunnen nieuwe inzichten tijdens het onderzoek de gesprekken la
 
 ## 2 [[Focusgroep]]
 
-
-
+## 3
+## 4
+## 5
+## 6
 
 
 ### [[Inhoudsanalyse]]
@@ -169,8 +171,17 @@ Focus groep, daar kunnen nieuwe inzichten tijdens het onderzoek de gesprekken la
 
 Zes dimensies van journalistiek:
 
-| Journalistieke vorm  | Journalistieke inhoud | Journalistieke [[stijl]] | functie    | producenten  | consumenten |
+| [[Journalistieke vorm]]  | [[Journalistieke inhoud]] | [[Journalistieke stijl]] | [[Journalistieke functie]]    | [[Journalistieke producenten]]  | [[Journalistieke consumenten]] |
 | ----- | ------ | --------- | ---------- | ------------ | ----------- |
 | Media | nieuws | feitelijk | informeren | journalisten | publiek     |
+
+
+### Afhankelijke en de onafhankelijke variabele
+
+### Validiteit
+
+### Representatieve steekproef
+
+### Grounded theory benadering
 
 
