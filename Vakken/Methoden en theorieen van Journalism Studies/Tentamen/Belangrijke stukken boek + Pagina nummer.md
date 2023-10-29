@@ -154,3 +154,23 @@ Focus groep, daar kunnen nieuwe inzichten tijdens het onderzoek de gesprekken la
 | Aantal bevraagden    | veel (vaak 100en-1000en)  | Beperkt (vaak enkele tientallen)                                |
 
 ## 2 [[Focusgroep]]
+
+
+
+
+
+### [[Inhoudsanalyse]]
+
+### Methodologische opzet
+
+### Empirische gegevens verzamelen, bewerken, analyseren
+
+### Onderzoeksmethode
+
+Zes dimensies van journalistiek:
+
+| Journalistieke vorm  | Journalistieke inhoud | Journalistieke [[stijl]] | functie    | producenten  | consumenten |
+| ----- | ------ | --------- | ---------- | ------------ | ----------- |
+| Media | nieuws | feitelijk | informeren | journalisten | publiek     |
+
+
