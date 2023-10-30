@@ -1,4 +1,8 @@
+### Annuleerbaar
+
 Wanneer is een [[implicatuur]] conversationeel?
+
+
 
 **Is het conversationeel?**
 Belangrijkste test is annuleerbaarheid!

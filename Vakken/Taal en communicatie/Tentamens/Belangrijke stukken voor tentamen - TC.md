@@ -16,7 +16,7 @@ Werkcolleges:
 ---
 # onderdelen
 
-# Grice:
+# Grice: (maximes)
 
 ### Betekenis/bedoeling
 [[Pragmatiek]]:
@@ -36,6 +36,7 @@ Werkcolleges:
 	truth-conditional
 
 ### [[Waarheidsconditioneel]]
+
 ### [[Coöperatieprincipe]], samenwerkingsbeginsel
 *"Sprekers doen hun best begrepen te worden luisteraars doen hun best de spreker te begrijpen."*
 ENG: make you conversational contributions such as is required, at the stage at which it occurs, by the accepted purpose or direction of the talk exchange in which you are engaged.
@@ -115,3 +116,4 @@ Neo Griceaans:
 ### [[Directe]]-[[indirecte]] [[taalhandelingen]]
 ### Hoe kun je de [[primaire taalhandeling]] afleiden met behulp van de [[geslaagdheidsvoorwaarden]]
 
+(hoe verbind je de primaire en secondaire taalhandelingen? vraag op tentamen)
