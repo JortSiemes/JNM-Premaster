@@ -1,3 +1,9 @@
+Kunnen geannulleerd worden
+Annuleerbaar door context:
+implicature: I have two sons +> no more than two
+can be cancelled by saying, "I have 7"
+
+
 
 | what is said (Letterlijke betekenis)             | [[Implicatuur]]                |                             |
 | ------------------------- | ------------------------------ | --------------------------- |

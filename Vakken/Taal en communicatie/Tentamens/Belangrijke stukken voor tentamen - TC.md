@@ -98,10 +98,21 @@ Dingen met een schaal
 
 Neo Griceaans:
 ### [[Q-implicaturen]]
+
 ### [[R-implicaturen]]
+
 ### Relevantie-theorie:
+coded = 'what is said'
+explicature = 
+implicature = 'particularized implicatures (grice)'
+
+Order to dissect:
+Coded -> Explicature -> implicature
+He was there yesterday
+
+
 ### Relevantie-principe
-### Explicatuur-[[implicatuur]]
+### [[Explicatuur]]-[[implicatuur]]
 
 ### Relevantietheorie versus Grice/neo-Griceanen
 
@@ -116,4 +127,4 @@ Neo Griceaans:
 ### [[Directe]]-[[indirecte]] [[taalhandelingen]]
 ### Hoe kun je de [[primaire taalhandeling]] afleiden met behulp van de [[geslaagdheidsvoorwaarden]]
 
-(hoe verbind je de primaire en secondaire taalhandelingen? vraag op tentamen)
+(hoe verbind je de primaire en secondaire [[taalhandelingen]]? vraag op tentamen)

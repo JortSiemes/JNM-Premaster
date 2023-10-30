@@ -1,4 +1,8 @@
-Dit is een vorm van conversationele implicatuur
+Dit is een vorm van [[conversationele implicatuur]]
+
+Context afhankelijk, is dit echt afhankelijk van de context, als er andere context is werkt deze [[implicatuur]] niet meer.
+
+
 
 
 | what is said (Letterlijke betekenis)             | [[Implicatuur]]                |                             |

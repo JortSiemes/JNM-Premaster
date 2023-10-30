@@ -1,10 +1,14 @@
 ### Annuleerbaar
 Annuleerbaar door context:
-I have two sons +> no more than two
-
+implicature: I have two sons +> no more than two
+can be cancelled by saying, "I have 7"
 
 
 Wanneer is een [[implicatuur]] conversationeel?
+
+Gegenarliseerde impliciatuur
+Particuliere implicatuur
+
 
 
 
