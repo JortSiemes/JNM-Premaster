@@ -19,6 +19,7 @@ Werkcolleges:
 # Grice:
 
 ### Betekenis/bedoeling
+
 ### [[Waarheidsconditioneel]]
 ### Cooperatieprincipe, samenwerkingsbeginsel
 *"Sprekers doen hun best begrepen te worden luisteraars doen hun best de spreker te begrijpen."*
@@ -32,6 +33,8 @@ ENG: make you conversational contributions such as is required, at the stage at 
 - [[Maxime]] of Wijze: Wees kort, duidelijk, en ordelijk
 
 ### in acht nemen, heimelijk schenden/overtreden, openlijk overtreden, terugtrekken
+
+
 ### Hoe kun je implicaturen afleiden met behulp van maximes?
 ### 3 Soorten implicaturen
 
