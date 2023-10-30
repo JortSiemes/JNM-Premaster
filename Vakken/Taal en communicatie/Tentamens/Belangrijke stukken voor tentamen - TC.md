@@ -99,9 +99,11 @@ Dingen met een schaal
 Neo Griceaans:
 ### [[Q-implicaturen]]
 
+Zegt niet meer dan nodig
 
 ### [[R-implicaturen]]
 
+bedoeld meer dan wat er gezegd is
 
 ### Relevantie-theorie:
 [[coded meaning]] = 'what is said' (conventional implicatures (Grice))
