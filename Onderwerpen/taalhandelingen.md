@@ -16,3 +16,71 @@ Five general groups: (van Searle)
 
 [[Verklaarders]] (Declaratives) I fire you, I resign, I name this ship Mr Stalin, I open the meeting
 	Speaker makes p true
+
+
+### Sincerity condition
+[[Beweerders]] (Assertives) speaker believes that p
+
+{conservatieve}
+[[Stuurders]] (Directives) speaker wishes that p
+
+[[Binders]] (Commisseves) speaker has the intention to do p
+
+[[Uitdrukkers]] (Expressives) speaker is in a certain psychological state
+
+[[Verklaarders]] (Declaratives)  -
+
+### Essential condition
+[[Beweerders]] (Assertives) speaker commits himself to the truth of p
+
+{conservatieve}
+[[Stuurders]] (Directives) speaker attempt to get the hearer to realize p
+
+[[Binders]] (Commisseves) speaker commits himself to realize p
+
+[[Uitdrukkers]] (Expressives) speaker expresses his/her psychological state
+
+[[Verklaarders]] (Declaratives)  speaker makes p true (by saying p)
+
+### Examples
+[[Beweerders]] (Assertives) I assert
+
+{conservatieve}
+[[Stuurders]] (Directives) request, order, command, question,beg, pray
+
+[[Binders]] (Commisseves) promise, swear, guarantee
+
+[[Uitdrukkers]] (Expressives) thank, congratulate, apologize, welkcome, comdole, deplore
+
+[[Verklaarders]] (Declaratives)  speaker makes p true (by saying p)
+
+
+
+a. Meedelen - X, [[Uitdrukkers]] > [[Verklaarders]]
+b. Dopen - X, [[Verklaarders]] $
+c. Wandelen $ 
+d. Gelukwensen - X, [[Uitdrukkers]] $
+e. Koken $
+f. Verzoeken - X, [[Stuurders]] $
+g. Stellen - X, [[Beweerders]] > [[Verklaarders]]
+h. aanvaarden - X, [[Binders]] $
+i. condoleren - X, [[Uitdrukkers]] $
+j. eisen -X, [[Stuurders]] $
+k. schreeuwen $
+l. ontkennen - X,  > [[Verklaarders]]/[[Binders]]
+m. adviseren - X, [[Stuurders]] $
+n. beloven - X, [[Binders]] $
+o. toelichten - X, [[Stuurders]] > [[Verklaarders]]
+p. vragen - ??? > [[Stuurders]]
+q. waarschuwen - X, [[Stuurders]] $
+r. intimideren $ (alleen perlocutie)
+s. toestaan - X, [[Stuurders]] / [[Binders]] $
+t. weigeren -  > [[Binders]]
+u. zeuren $
+v. geruststellen $ (alleen perlocutie)
+w. roddelen $
+x. prijzen - X, [[Uitdrukkers]] $
+y. protesteren -  X > [[Stuurders]]
+z. zwijgen $ 
+
+

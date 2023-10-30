@@ -1,7 +1,7 @@
-- Maxime van Kwantiteit: zeg genoeg maar niet te veel
-- Maxime of Kwaliteit: Zeg alleen waar je zelf in geloofd
+- Maxime van Kwantiteit: zeg genoeg maar niet te veel: geef zo veel en niet meer dan nodig is.
+- Maxime of Kwaliteit: Zeg alleen waar je zelf in geloofd, spreek de waarheid: zeg niets waarvan je weet dat het niet waar is of waarvoor je geen bewijs hebt.
 - Maxime of Relatie/Relevantie: Zeg alleen wat relevant is op dat moment
-- Maxime of Wijze: Wees kort, duidelijk, en orderlijk
+- Maxime of Wijze: Wees kort, duidelijk, en orderlijk: vermijd vage uitdrukkingen en ambiguiteit.
 
 Door Grice
 
@@ -15,5 +15,9 @@ Als je dit openlijk doet (overt): het is de bedoeling dat de hoorder dit doorhee
 
 Flouting voorbeeld: Lekker weertje hé (wanneer het regent)
 
+Observe een maxime
+Violate een maxime
 
+
+[[Flout]]
 

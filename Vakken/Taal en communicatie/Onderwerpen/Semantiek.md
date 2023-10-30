@@ -1,3 +1,5 @@
+De letterlijke betekenis van een uitspraak, onafhankelijk van de context altijd [[waarheidsconditioneel]]
+
 [[Taal en communicatie 1]]
 
 Gaat over letterbetekenis

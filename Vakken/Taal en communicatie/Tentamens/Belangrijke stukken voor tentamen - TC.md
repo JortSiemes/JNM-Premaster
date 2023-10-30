@@ -16,10 +16,10 @@ Werkcolleges:
 ---
 # onderdelen
 
-# Grice:
+# Grice: (maximes)
 
 ### Betekenis/bedoeling
-Pragmatics:
+[[Pragmatiek]]:
 	Non-literal
 	utterance
 	speaker meaning
@@ -27,7 +27,7 @@ Pragmatics:
 	context dependent
 	non truth-conditional
 
-Semantics:
+[[Semantiek]]:
 	Literal meaning
 	Sentence
 	Sentence Meaning
@@ -36,7 +36,8 @@ Semantics:
 	truth-conditional
 
 ### [[Waarheidsconditioneel]]
-### Cooperatieprincipe, samenwerkingsbeginsel
+
+### [[Coöperatieprincipe]], samenwerkingsbeginsel
 *"Sprekers doen hun best begrepen te worden luisteraars doen hun best de spreker te begrijpen."*
 ENG: make you conversational contributions such as is required, at the stage at which it occurs, by the accepted purpose or direction of the talk exchange in which you are engaged.
 
@@ -48,13 +49,15 @@ ENG: make you conversational contributions such as is required, at the stage at 
 - [[Maxime]] of Wijze: Wees kort, duidelijk, en ordelijk
 
 ### in acht nemen, heimelijk schenden/overtreden, openlijk overtreden, terugtrekken
+
+[[Flout]] een [[maxime]] = openbaar schenden
 Ik heb twee zonen
 **= not more than two**
 **(and no daughters)**
 
 Je kan ook een [[Maxime]] Schenden of overtreden (dit is niet cooperatief)
 
-Je kan ook een [[Maxime]] uitbuiten of exploiteren (flout).
+Je kan ook een [[Maxime]] uitbuiten of exploiteren ([[flout]]).
 Als je dit openlijk doet (overt): het is de bedoeling dat de hoorder dit doorheeft. Ook wel **openlijke schending/overtreding** De spreker is dan nogsteeds coöperatief
 
 
@@ -67,12 +70,14 @@ Flouting voorbeeld: Lekker weertje hé (wanneer het regent)
 
 ### 3 Soorten implicaturen
 
-[[Conventionele implicatuur]]
+[[Conventionele implicatuur]] (niet annuleerbaar)
 
 
-[[Conversationele implicatuur]]
+[[Conversationele implicatuur]] (annuleerbaar)
 - [[Gegeneraliseerde implicatuur]]
+	- algemeen geldig (niet gebonden aan een specifieke context)
 - [[Particuliere implicatuur]]
+	- Geldt alleen in die specifieke context
 
 | Gegeneralizeerd                                                                    | Particularized                |
 | ---------------------------------------------------------------------------------- | ----------------------------- |
@@ -81,6 +86,11 @@ Flouting voorbeeld: Lekker weertje hé (wanneer het regent)
 | would you like coffee **or** tea?                                                  |                               |
 | *Standaard, default [[implicatuur]], Triggered by linguistic element, may be cancelled | Entirely dependent on context |
 
+[[Scalaire implicatuur]] = ik heb twee +> niet meer dan twee
+Het is warm +> niet bloedheet
+Dingen met een schaal
+
+
 ---
 
 
@@ -88,24 +98,66 @@ Flouting voorbeeld: Lekker weertje hé (wanneer het regent)
 
 Neo Griceaans:
 ### [[Q-implicaturen]]
+
+
 ### [[R-implicaturen]]
+
+
 ### Relevantie-theorie:
+[[coded meaning]] = 'what is said' (conventional implicatures (Grice))
+explicature =typically= (generalized implicatures (grice))
+implicature =always= 'particularized implicatures (grice)'
+
+Order to dissect:
+Coded -> Explicature -> implicature
+Coded; He was there yesterday
+Explicature; John was at the party the day before today 28 september
+Implicature: "the meaning behind this sentence: he is there often"
+
+
+
 ### Relevantie-principe
-### Explicatuur-[[implicatuur]]
+### [[Explicatuur]]-[[implicatuur]]
 
 ### Relevantietheorie versus Grice/neo-Griceanen
 
 ---
 
 # [[Taalhandelingen]]:
+
 ### Performatief/constantief
-### Expliciet/[[impliciet performatief]]
+### [[Expliciet performatief]]/[[impliciet performatief]]
 ### [[Locutie]]/[[illocutie]]/[[perlocutie]]
+[[Locutie]]: de letterlijke woorden die in een zin staan
+[[Illocutie]]: de handeling achter de woorden
+[[Perlocutie]]: wat het effect van deze woorden zijn
+
 ### 4 soorten [[geslaagdheidsvoorwaarden]]
 ### 5 groepen [[taalhandelingen]]
+Assertive
+Directive
+Commissive
+Expressive
+Declarative
+
 ### [[Directe]]-[[indirecte]] [[taalhandelingen]]
+
+
+
+the connection is always
+indirect = felicty conditions of primary speech act is stated in secondary speech act
+
+Sincerity = i want you to, i need you to (about the speaker)
+preperatory condition = can you, i can, could you, may i, do you want to
+
+
 ### Hoe kun je de [[primaire taalhandeling]] afleiden met behulp van de [[geslaagdheidsvoorwaarden]]
 
 
----
+[[Primaire taalhandeling]]:
+Promise
+Request
+Question
+Thanks
 
+(hoe verbind je de primaire en secondaire [[taalhandelingen]]? vraag op tentamen)

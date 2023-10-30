@@ -8,6 +8,6 @@ Alle werkcolleges:
 
 Opdrachten:
 [[Opdracht week 2 - Taal en Communicatie]]
-[[Opdracht week 3 - Taal en Communicatie]]
+[[Opdracht week 5 - Taal en Communicatie]]
 
 

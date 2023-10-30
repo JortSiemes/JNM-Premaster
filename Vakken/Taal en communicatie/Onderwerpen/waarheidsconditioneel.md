@@ -1,3 +1,5 @@
+'wat is gezegd' = 'what is said'
+Implicature zijn **niet** 
 
 De betekenis van een zin = de voorwaarden waaronder die zin waar is in 'de wereld'
 
