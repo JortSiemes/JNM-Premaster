@@ -23,3 +23,17 @@ b, geen leugen
 
 5,
 
+----
+
+Opdrachten week 3
+
+1, Conversationeel = annuleerbaar / Conventionele = niet annuleerbaar
+a, Conversationeel want is annuleerbaar, je kan namelijk annuleren door te zeggen: Sally viel en schaafde haar knie +> Sally schaafde haar knie en is daarna ook nog gevallen.
+b, Conventioneel want is niet annuleerbaar, doordat je zegt daarom is, valt deze zin niet te annuleren want de relatie tussen lang zijn en atletisch zijn heb je aangegeven.
+c, Conversationeel want is annuleerbaar, je kan namelijk weinig op verschillende manieren een implicatuur geven. Een voorbeeld kan zijn:
+Jason heeft weinig vrienden +> Jason heeft geen vrienden.
+
+2, 
+a, Hele fijne jongen ben jij +> helemaal geen fijne jongen ben jij. Je kan dit afleiden door het maxime van kwaliteit, ze zegt namelijk iets wat ze zelf niet geloofd als je de context van de text begrijpt.
+
+b, 
