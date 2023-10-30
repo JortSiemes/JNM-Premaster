@@ -1,3 +1,3 @@
-Coöperatieprincipe en maxime
+[[Coöperatieprincipe]] en [[maxime]]
 
 

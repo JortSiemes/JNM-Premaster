@@ -48,13 +48,15 @@ ENG: make you conversational contributions such as is required, at the stage at 
 - [[Maxime]] of Wijze: Wees kort, duidelijk, en ordelijk
 
 ### in acht nemen, heimelijk schenden/overtreden, openlijk overtreden, terugtrekken
+
+[[Flout]] een [[maxime]] = openbaar schenden
 Ik heb twee zonen
 **= not more than two**
 **(and no daughters)**
 
 Je kan ook een [[Maxime]] Schenden of overtreden (dit is niet cooperatief)
 
-Je kan ook een [[Maxime]] uitbuiten of exploiteren (flout).
+Je kan ook een [[Maxime]] uitbuiten of exploiteren ([[flout]]).
 Als je dit openlijk doet (overt): het is de bedoeling dat de hoorder dit doorheeft. Ook wel **openlijke schending/overtreding** De spreker is dan nogsteeds coöperatief
 
 
@@ -67,12 +69,14 @@ Flouting voorbeeld: Lekker weertje hé (wanneer het regent)
 
 ### 3 Soorten implicaturen
 
-[[Conventionele implicatuur]]
+[[Conventionele implicatuur]] (niet annuleerbaar)
 
 
-[[Conversationele implicatuur]]
+[[Conversationele implicatuur]] (annuleerbaar)
 - [[Gegeneraliseerde implicatuur]]
+	- algemeen geldig (niet gebonden aan een specifieke context)
 - [[Particuliere implicatuur]]
+	- Geldt alleen in die specifieke context
 
 | Gegeneralizeerd                                                                    | Particularized                |
 | ---------------------------------------------------------------------------------- | ----------------------------- |
@@ -80,6 +84,11 @@ Flouting voorbeeld: Lekker weertje hé (wanneer het regent)
 | She married **and** got pregnant = She married **and then** got pregnant           | Such a lovely day (regent)    |
 | would you like coffee **or** tea?                                                  |                               |
 | *Standaard, default [[implicatuur]], Triggered by linguistic element, may be cancelled | Entirely dependent on context |
+
+[[Scalaire implicatuur]] = ik heb twee +> niet meer dan twee
+Het is warm +> niet bloedheet
+Dingen met een schaal
+
 
 ---
 

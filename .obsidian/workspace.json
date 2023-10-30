@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "3ad445f92d2e1bb3",
+            "id": "a705f48e7df92d06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coöperatieprincipe.md",
+                "file": "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coöperatieprincipe.md",
+                "file": "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,9 +116,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coöperatieprincipe.md",
+                "file": "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coöperatieprincipe.md"
+                "file": "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md"
               }
             }
           }
@@ -161,15 +161,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ad445f92d2e1bb3",
+  "active": "a705f48e7df92d06",
   "lastOpenFiles": [
-    "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen.md",
+    "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
+    "Vakken/Taal en communicatie/Colleges/Werkcollege 2 taal en communicatie.md",
+    "Vakken/Taal en communicatie/Onderwerpen/conventionele implicatuur.md",
+    "Vakken/Taal en communicatie/Onderwerpen/Scalaire implicatuur.md",
+    "Vakken/Taal en communicatie/Tentamens/Opnieuw opdrachten.md",
+    "Vakken/Taal en communicatie/Onderwerpen/Maxime.md",
+    "Flout.md",
     "Coöperatieprincipe.md",
     "Vakken/Taal en communicatie/Onderwerpen/Semantiek.md",
     "Vakken/Taal en communicatie/Onderwerpen/waarheidsconditioneel.md",
     "Vakken/Taal en communicatie/Onderwerpen/Pragmatiek.md",
     "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 1.pdf",
-    "Vakken/Taal en communicatie/Tentamens/Opnieuw opdrachten.md",
     "Vakken/Taal en communicatie/Colleges/Hoorcollege 2 taal en communicatie.md",
     "Vakken/Taal en communicatie/book_by_birner_betty_j_introduction_to_pragmatics-.pdf",
     "Vakken/Taal en communicatie/Birner H6.md",
