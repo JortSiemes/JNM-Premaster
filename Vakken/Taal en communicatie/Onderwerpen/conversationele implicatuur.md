@@ -21,3 +21,7 @@ cancellable ()
 non-detachable
 non-conventional
 indeterminate
+
+
+
+Voorbeelden
