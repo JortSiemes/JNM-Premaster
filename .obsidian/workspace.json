@@ -4,27 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a55f71554c5c344b",
+        "id": "df828ed7f245f082",
         "type": "tabs",
         "children": [
           {
-            "id": "68f86c541cbcb36f",
+            "id": "b7b4373acf882bd6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Wat extra hulp om Grice te begrijpen - Copy.pdf"
-              }
-            }
-          },
-          {
-            "id": "01618bccc02b7b9c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Wat extra hulp om Grice te begrijpen - Copy.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -102,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Wat extra hulp om Grice te begrijpen - Copy.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Wat extra hulp om Grice te begrijpen - Copy.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Wat extra hulp om Grice te begrijpen - Copy.pdf"
-              }
+              "state": {}
             }
           }
         ],
@@ -164,9 +148,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68f86c541cbcb36f",
+  "active": "b7b4373acf882bd6",
   "lastOpenFiles": [
+    "Vakken/Taal en communicatie/Tentamenstof.jpeg",
+    "Vakken/Taal en communicatie/Notities H6 Birner.md",
+    "Vakken/Taal en communicatie/Extra opdrachten Horn Relevance.md",
+    "Vakken/Taal en communicatie/book_by_birner_betty_j_introduction_to_pragmatics-.pdf",
+    "Vakken/Taal en communicatie/Deeltoets 3 NOV.md",
+    "Vakken/Taal en communicatie/Birner H6.md",
+    "Vakken/Taal en communicatie/COLLECTIE FILE Taal en communicatie.md",
     "Vakken/Taal en communicatie/Tentamens/Vragen voor 30-10.md",
+    "Vakken/Taal en communicatie/Tentamens/Wat extra hulp om Grice te begrijpen - Copy.pdf",
     "Vakken/Taal en communicatie/Tentamens/Tentamen 4 nov.md",
     "Vakken/Taal en communicatie/Tentamens/Oefententamen midterm 2 (met antwoorden).pdf",
     "Vakken/Taal en communicatie/Tentamens/Oefententamen midterm 1 (met antwoorden).pdf",
@@ -174,7 +166,6 @@
     "Vakken/Taal en communicatie/Tentamens/Student BS Instructions - USC.pdf",
     "Vakken/Taal en communicatie/Onderwerpen/Maxime.md",
     "Pasted image 20231030195610.png",
-    "Vakken/Taal en communicatie/Tentamens/Wat extra hulp om Grice te begrijpen - Copy.pdf",
     "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 1.pdf",
     "Vakken/Taal en communicatie/Onderwerpen/waarheidsconditioneel.md",
     "conflict-files-obsidian-git.md",
@@ -194,16 +185,9 @@
     "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen.md",
     "Vakken/Taal en communicatie/Tentamens/Niet bevestigd 409985.crdownload",
     "Vakken/Taal en communicatie/Tentamens/Niet bevestigd 69388.crdownload",
-    "Vakken/Taal en communicatie/Tentamens/Niet bevestigd 109444.crdownload",
     "Vakken/Taal en communicatie/Opdrachten/Opdracht week 2 - Taal en Communicatie.md",
     "Vakken/Taal en communicatie/Colleges/Hoorcollege 4 Taal en communicatie.md",
-    "Vakken/Taal en communicatie/Onderwerpen/conventionele implicatuur.md",
-    "Vakken/Taal en communicatie/Colleges/Werkcollege 2 taal en communicatie.md",
-    "Vakken/Taal en communicatie/Colleges/Hoorcollege 3 Taal en communicatie.md",
-    "Vakken/Taal en communicatie/Onderwerpen/Particuliere implicatuur.md",
-    "Notities Dagelijk/September/2023-09-11.md",
     "Vakken/Woorden als wapens/Groepspresentatie/image2.png",
-    "Vakken/Taal en communicatie/Tentamenstof.jpeg",
     "Vakken/Woorden als wapens/Groepspresentatie/Beelden/Rabbit-or-duck-illusion-008.jpg",
     "Beelden/Pasted image 20231017172418.png",
     "Beelden/Pasted image 20231017183335.png",
