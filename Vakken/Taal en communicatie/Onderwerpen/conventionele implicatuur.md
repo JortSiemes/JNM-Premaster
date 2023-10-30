@@ -4,3 +4,18 @@ a. Generalized conversatie-[[implicatuur]]:
 
 - Uitdrukking: "Ze heeft een paar kinderen."
 - [[Implicatuur]]: Het aantal kinderen is niet groot; anders zou de spreker waarschijnlijk zeggen "Ze heeft veel kinderen."
+
+Soorten implicaturen
+
+test om conversationeel/conventioneel [[implicatuur]] te testen:
+
+**Is het conversationeel?**
+calculable (kan uitgerekend worden door maximes)
+cancellable ()
+non-detachable
+non-conventional
+indeterminate
+
+
+
+Voorbeelden:
