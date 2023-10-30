@@ -142,6 +142,8 @@ Declarative
 
 ### [[Directe]]-[[indirecte]] [[taalhandelingen]]
 
+
+
 the connection is always
 indirect = felicty conditions of primary speech act is stated in secondary speech act
 
@@ -152,7 +154,7 @@ preperatory condition = can you, i can, could you, may i, do you want to
 ### Hoe kun je de [[primaire taalhandeling]] afleiden met behulp van de [[geslaagdheidsvoorwaarden]]
 
 
-Primaire taalhandeling:
+[[Primaire taalhandeling]]:
 Promise
 Request
 Question

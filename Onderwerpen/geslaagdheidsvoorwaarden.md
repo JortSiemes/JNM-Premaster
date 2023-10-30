@@ -4,11 +4,13 @@
 - [[Sincerity rule]] (oprechtheidsvoorwaarde, **bijna nooit tentamen**, want gaat over of iemand het meent, ik wil graag koffie (gene moet het echt willen))
 - [[Essential rule]] (essentiele, **bijna nooit tentamen**) (kan nooit verbinden)
 
-Geslaagdheidsvoorwaarde van [[primaire taalhandeling]] (verzoek)
+Geslaagdheidsvoorwaarde van [[primaire taalhandeling]] (verzoek/request)
 wordt in de [[secondaire taalhandeling]] (vraag) Gesteld/bevraagd
 
 1, Kun je even koffie zetten?  (preparatory/voorbereidende)
 2, Wil je even koffie zetten?  (preparatory/voorbereidende)
 3, Zet je even koffie? ([[propositionele inhoudsvoorwaarde]])
 
+
+preperatory = als het al gedaan is maakt het geen sense
 
