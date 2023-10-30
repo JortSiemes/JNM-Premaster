@@ -14,4 +14,17 @@ Ongeschikt voor: Analytisch niveau theoretisch geladen concepten te bevragen. Zo
 1, formuleer onderzoeksvraag
 2, Bepaal onderzoeksdomeinen en steekproef
 3, steekproefkader
-4, 
+Methode
+4, Bepaal hoe je je respondenten benadert
+5, Bepaal welk medium
+6, Bepaal onderzoeksdesign
+7, Verzamel respondenten
+8, Respons verhogen
+9, Vertaal je onderzoeksvraag naar surveyvragen
+Data
+10, verzamel je data
+11, maak datasheet
+12, bekritiseer analyse
+Rapportage
+13, verslag van bevindingen
+14, 

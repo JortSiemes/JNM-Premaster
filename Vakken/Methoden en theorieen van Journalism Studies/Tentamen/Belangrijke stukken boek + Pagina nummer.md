@@ -156,7 +156,8 @@ Focus groep, daar kunnen nieuwe inzichten tijdens het onderzoek de gesprekken la
 ## 2 [[Focusgroep]]
 
 ## 3 [[Survey]]
-## 4
+## 4 [[Nieuwsetnografie]]
+
 ## 5
 ## 6
 
