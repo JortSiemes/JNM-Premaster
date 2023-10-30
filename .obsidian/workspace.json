@@ -1,38 +1,26 @@
 {
   "main": {
-    "id": "37616d2afe420850",
+    "id": "74140995e7ee8812",
     "type": "split",
     "children": [
       {
-        "id": "32ac8c622717d0db",
+        "id": "a55f71554c5c344b",
         "type": "tabs",
         "children": [
           {
-            "id": "5040e30cbb9abe20",
+            "id": "68f86c541cbcb36f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Tentamen 4 nov.md",
+                "file": "Vakken/Taal en communicatie/Onderwerpen/waarheidsconditioneel.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4a979c83d615892c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Preparatory rule.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c8fb76145f865b1",
+            "id": "01618bccc02b7b9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,19 +32,17 @@
             }
           },
           {
-            "id": "3252439e0410373c",
+            "id": "8778dc8ef8cd62ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "file": "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 1.pdf"
               }
             }
           },
           {
-            "id": "2e385ee07487c323",
+            "id": "e2772c9b87a0edd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,21 +54,22 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "fbc9c274c7fdd98b",
+    "id": "15669e7e105c7be8",
     "type": "split",
     "children": [
       {
-        "id": "01488f84ce347ac9",
+        "id": "563e23d44199766b",
         "type": "tabs",
         "children": [
           {
-            "id": "b8067b39260f9308",
+            "id": "d1600001feb785ff",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -92,7 +79,7 @@
             }
           },
           {
-            "id": "e8c39f4518abacc6",
+            "id": "04ea66dd4c102027",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -107,7 +94,7 @@
             }
           },
           {
-            "id": "050c79d18333e5a9",
+            "id": "93fc385e08f86483",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -121,20 +108,28 @@
     "width": 300
   },
   "right": {
-    "id": "bf199d86e4b0335f",
+    "id": "7859014a86b170ac",
     "type": "split",
     "children": [
       {
-        "id": "25a963662344de6d",
+        "id": "99db599b1727e4e3",
         "type": "tabs",
         "children": [
           {
-            "id": "cbac513efad8e8a0",
+            "id": "0814e8448907efcd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7b464230e7192d40",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,19 +141,19 @@
             }
           },
           {
-            "id": "ede0540e43c9ba3a",
+            "id": "529bfa46d73bb647",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "4d6da92345391f3c",
+            "id": "ec6f786f046e3111",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -169,17 +164,17 @@
             }
           },
           {
-            "id": "94bda7ad26a7b8c5",
+            "id": "82793ef6cf4a5db3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -196,39 +191,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3252439e0410373c",
+  "active": "01618bccc02b7b9c",
   "lastOpenFiles": [
-    "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
     "conflict-files-obsidian-git.md",
-    "Vakken/Taal en communicatie/Tentamens/Student BS Instructions - USC.pdf",
-    "Vakken/Taal en communicatie/Tentamens/Oefententamen midterm 2 (met antwoorden).pdf",
-    "Vakken/Taal en communicatie/Tentamens/Oefententamen midterm 1 (met antwoorden).pdf",
+    "Vakken/Taal en communicatie/Onderwerpen/waarheidsconditioneel.md",
+    "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
+    "Vakken/Taal en communicatie/Colleges/Werkcollege 3 taal en communicatie.md",
+    "Vakken/Taal en communicatie/Onderwerpen/conversationele implicatuur.md",
+    "Vakken/Taal en communicatie/Tentamens/Wat extra hulp om Grice te begrijpen - Copy.pdf",
+    "Vakken/Taal en communicatie/Tentamens/Niet bevestigd 542519.crdownload",
+    "Vakken/Taal en communicatie/Onderwerpen/R-Implicaturen.md",
+    "Vakken/Taal en communicatie/Onderwerpen/Q-Implicaturen.md",
     "Vakken/Taal en communicatie/Tentamens/Extra oefening Horn en Relevantietheorie.pdf",
-    "Onderwerpen/geslaagdheidsvoorwaarden.md",
-    "Onderwerpen/taalhandelingen.md",
-    "Vakken/Taal en communicatie/Opdrachten/Opdracht week 6 - Taal en Communicatie.md",
-    "Onderwerpen/primaire taalhandeling.md",
-    "Vakken/Taal en communicatie/Opdrachten/Opdracht week 5 - Taal en Communicatie.md",
-    "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 1.pdf",
-    "Vakken/Taal en communicatie/Colleges/Werkcollege 6 taal en communicatie.md",
-    "Onderwerpen/Impliciet performatief.md",
-    "Onderwerpen/Directe.md",
-    "Onderwerpen/illocutie.md",
-    "Onderwerpen/Perlocutie.md",
-    "Onderwerpen/Locutie.md",
-    "Preparatory rule.md",
+    "Vakken/Taal en communicatie/Tentamens/Oefententamen midterm 1 (met antwoorden).pdf",
+    "Vakken/Taal en communicatie/Tentamens/Oefententamen midterm 2 (met antwoorden).pdf",
+    "Vakken/Taal en communicatie/Tentamens/Student BS Instructions - USC.pdf",
     "propositionele-content rule.md",
     "Sincerity rule.md",
-    "Essential rule.md",
-    "Explicatuur.md",
-    "Vakken/Taal en communicatie/Onderwerpen/Particuliere implicatuur.md",
-    "Vakken/Taal en communicatie/Onderwerpen/Gegeneraliseerde implicatuur.md",
-    "Vakken/Taal en communicatie/Onderwerpen/conversationele implicatuur.md",
-    "Vakken/Taal en communicatie/Tentamens/Vragen voor 30-10.md",
+    "Preparatory rule.md",
     "Flout.md",
-    "Vakken/Taal en communicatie/Onderwerpen/Maxime.md",
-    "Vakken/Taal en communicatie/Onderwerpen/waarheidsconditioneel.md",
+    "Explicatuur.md",
+    "Essential rule.md",
+    "Coöperatieprincipe.md",
+    "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen.md",
+    "Vakken/Taal en communicatie/Tentamens/Niet bevestigd 409985.crdownload",
+    "Vakken/Taal en communicatie/Tentamens/Niet bevestigd 69388.crdownload",
+    "Vakken/Taal en communicatie/Tentamens/Niet bevestigd 109444.crdownload",
+    "Vakken/Taal en communicatie/Tentamens/Niet bevestigd 970036.crdownload",
+    "Vakken/Taal en communicatie/Opdrachten/Opdracht week 2 - Taal en Communicatie.md",
+    "Vakken/Taal en communicatie/Colleges/Hoorcollege 4 Taal en communicatie.md",
+    "Vakken/Taal en communicatie/Tentamens/Vragen voor 30-10.md",
     "Vakken/Taal en communicatie/Onderwerpen/conventionele implicatuur.md",
-    "Vakken/Taal en communicatie/book_by_birner_betty_j_introduction_to_pragmatics-.pdf"
+    "Vakken/Taal en communicatie/Colleges/Werkcollege 2 taal en communicatie.md",
+    "Vakken/Taal en communicatie/Colleges/Hoorcollege 3 Taal en communicatie.md",
+    "Vakken/Taal en communicatie/Onderwerpen/Particuliere implicatuur.md",
+    "Notities Dagelijk/September/2023-09-11.md",
+    "Vakken/Taal en communicatie/Onderwerpen/Pragmatiek.md",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 1 Inleiding in de Journalistiek.md",
+    "Vakken/Woorden als wapens/Groepspresentatie/image2.png",
+    "Vakken/Taal en communicatie/Tentamenstof.jpeg",
+    "Vakken/Woorden als wapens/Groepspresentatie/Beelden/Rabbit-or-duck-illusion-008.jpg",
+    "Beelden/Pasted image 20231017172418.png",
+    "Beelden/Pasted image 20231017183335.png",
+    "Beelden/Pasted image 20231017181528.png",
+    "Beelden/Pasted image 20231017173730.png",
+    "Beelden/El-Neo-phase-VI.png"
   ]
 }
