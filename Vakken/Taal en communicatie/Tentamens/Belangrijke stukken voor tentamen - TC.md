@@ -96,7 +96,7 @@ Dingen met een schaal
 
 # Recentere benaderingen:
 
-Neo Griceaans:
+Neo Griceaans: (Horn)
 ### [[Q-implicaturen]]
 
 Zegt niet meer dan nodig
