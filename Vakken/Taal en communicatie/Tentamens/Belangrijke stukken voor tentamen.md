@@ -21,6 +21,9 @@ Werkcolleges:
 ### Betekenis/bedoeling
 ### [[Waarheidsconditioneel]]
 ### Cooperatieprincipe, samenwerkingsbeginsel
+*"Sprekers doen hun best begrepen te worden luisteraars doen hun best de spreker te begrijpen."*
+ENG: make you conversational contributions such as is required, at the stage at which it occurs, by the accepted purpose or direction of the talk exchange in which you are engaged.
+
 ### 4 [[Maxime]]s
 ##### [[Maxime]]
 - [[Maxime]] van Kwantiteit: zeg genoeg maar niet te veel
