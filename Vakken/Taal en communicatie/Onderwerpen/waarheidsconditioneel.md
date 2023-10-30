@@ -3,8 +3,12 @@ Implicature zijn **niet**
 
 De betekenis van een zin = de voorwaarden waaronder die zin waar is in 'de wereld'
 
-### Stappenplan
+### Stappenplan:
+Is de bedoelde betekenis waarheidsconditioneel?
+(verwijst het naar iets in de werkelijkheid)
 
+Ja: Het is deel van What is said (semantiek)
+Nee: Het is een imp
 
 
 
