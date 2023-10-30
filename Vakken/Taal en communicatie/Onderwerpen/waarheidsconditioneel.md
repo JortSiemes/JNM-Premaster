@@ -3,6 +3,11 @@ Implicature zijn **niet**
 
 De betekenis van een zin = de voorwaarden waaronder die zin waar is in 'de wereld'
 
+### Stappenplan
+
+
+
+
 Zin 1: It is raining and the sun is shining
 Zin 2: It is raining but the sun in shining
 
