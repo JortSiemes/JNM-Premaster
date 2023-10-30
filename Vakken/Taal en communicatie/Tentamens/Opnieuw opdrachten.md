@@ -67,6 +67,48 @@ a. Q-implicatuur
 b. R-implicatuur: A: Maarten heeft geen vriendin? B: Hij is wel vaak in Amsterdam.
 Hij is wel vaak in Amsterdam +> Hij bezoekt misschien een vriendin in Amsterdam.
 
-c
+c. Geen leugen, want ze hebben dit niet letterlijk gezegd
+
+3,
+a.  4: R-implicatuur, want hij zou meer bedoelen met wat hij zegt dan wat er gezegd word.
+b, ja een implicatuur, wordt meer met de zin bedoeld.
+
+a. 5: Q-implicatuur, want de vrouw is zo precies mogelijk als ze kan.
+b, explicatuur want no +> no and not more
+
+---
+
+Opdrachten week 5
+
+1, taalhandelingen
+a. Meedelen - Stuurder
+b. Dopen - Verklaarder
+c. Wandelen - 
+d. Gelukwensen - expressives
+e. Koken -
+f. Verzoeken - directive 
+g. Stellen - 
+h. Aanvaarden 
+i. Condoleren 
+j. Eisen 
+k. Schreeuwen 
+l. Ontkennen 
+m. Adviseren 
+n. Beloven 
+o. Toelichten 
+p. Vragen 
+q. Waarschuwen 
+r. Intimideren 
+s. Toestaan 
+t. Weigeren 
+u. Zeuren 
+v. Geruststellen 
+w. Roddelen 
+x. Prijzen 
+y. Protesteren 
+z. Zwijgen
 
 
+Taalhandelingen
+beweerders
+stuurders

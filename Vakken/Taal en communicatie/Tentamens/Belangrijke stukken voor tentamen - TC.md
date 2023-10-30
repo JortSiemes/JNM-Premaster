@@ -99,11 +99,12 @@ Dingen met een schaal
 Neo Griceaans: (Horn)
 ### [[Q-implicaturen]]
 
-Zegt niet meer dan nodig
+Zeg zo veel als je kan
+Wat niet gezegd is is niet waar.
 
 ### [[R-implicaturen]]
 
-bedoeld meer dan wat er gezegd is
+Zegt niet meer dan nodig, bedoeld meer dan wat er gezegd is
 
 ### Relevantie-theorie:
 [[coded meaning]] = 'what is said' (conventional implicatures (Grice))
