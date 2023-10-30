@@ -84,21 +84,21 @@ Opdrachten week 5
 a. Meedelen - Stuurder
 b. Dopen - Verklaarder
 c. Wandelen - 
-d. Gelukwensen - expressives
+d. Gelukwensen - uitdrukker
 e. Koken -
-f. Verzoeken - directive 
+f. Verzoeken - stuurder 
 g. Stellen - 
 h. Aanvaarden 
-i. Condoleren 
-j. Eisen 
-k. Schreeuwen 
-l. Ontkennen 
+i. Condoleren - uitdrukker
+j. Eisen -
+k. Schreeuwen -
+l. Ontkennen - 
 m. Adviseren 
-n. Beloven 
+n. Beloven - binder
 o. Toelichten 
 p. Vragen 
-q. Waarschuwen 
-r. Intimideren 
+q. Waarschuwen - stuurders
+r. Intimideren -
 s. Toestaan 
 t. Weigeren 
 u. Zeuren 
@@ -109,6 +109,5 @@ y. Protesteren
 z. Zwijgen
 
 
-Taalhandelingen
-beweerders
-stuurders
+
+
