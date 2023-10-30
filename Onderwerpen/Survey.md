@@ -7,4 +7,11 @@ Survey wordt vantevoren ontwikkeld en als deze klaar is, wordt de [[vragenlijst]
 
 ##### Veel statischer methode dan [[focusgroep]]
 
+### Wanneer zet je survey niet in?
+Ongeschikt voor: Analytisch niveau theoretisch geladen concepten te bevragen. Zoals framing, agenda setting of intertekstualiteit.
 
+### Stappenplan survey:
+1, formuleer onderzoeksvraag
+2, Bepaal onderzoeksdomeinen en steekproef
+3, steekproefkader
+4, 

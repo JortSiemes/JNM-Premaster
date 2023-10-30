@@ -155,7 +155,7 @@ Focus groep, daar kunnen nieuwe inzichten tijdens het onderzoek de gesprekken la
 
 ## 2 [[Focusgroep]]
 
-## 3
+## 3 [[Survey]]
 ## 4
 ## 5
 ## 6
@@ -176,9 +176,9 @@ Zes dimensies van journalistiek:
 | Media | nieuws | feitelijk | informeren | journalisten | publiek     |
 
 
-### Afhankelijke en de onafhankelijke variabele
+### Afhankelijke en de onafhankelijke [[variabele]]
 
-### Validiteit
+### [[Validiteit]]
 
 ### Representatieve steekproef
 
