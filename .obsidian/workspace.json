@@ -11,11 +11,26 @@
             "id": "8f06bea38399edaf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Taal en communicatie/Tentamens/Opnieuw opdrachten.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ad445f92d2e1bb3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 1.pdf"
+              }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -81,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vakken/Taal en communicatie/Tentamens/Opnieuw opdrachten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vakken/Taal en communicatie/Tentamens/Opnieuw opdrachten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Vakken/Taal en communicatie/Tentamens/Opnieuw opdrachten.md"
+              }
             }
           }
         ]
@@ -140,5 +159,14 @@
     }
   },
   "active": "8f06bea38399edaf",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Vakken/Taal en communicatie/Colleges/Hoorcollege 2 taal en communicatie.md",
+    "Vakken/Taal en communicatie/Tentamens/Opnieuw opdrachten.md",
+    "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 1.pdf",
+    "Vakken/Taal en communicatie/book_by_birner_betty_j_introduction_to_pragmatics-.pdf",
+    "Vakken/Taal en communicatie/Birner H6.md",
+    "Vakken/Taal en communicatie/Deeltoets 3 NOV.md",
+    "Vakken/Taal en communicatie/COLLECTIE FILE Taal en communicatie.md",
+    "Vakken/Taal en communicatie/Extra opdrachten Horn Relevance.md"
+  ]
 }
