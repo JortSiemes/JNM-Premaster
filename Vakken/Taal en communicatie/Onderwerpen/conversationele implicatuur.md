@@ -1,4 +1,8 @@
 ### Annuleerbaar
+Annuleerbaar door context:
+I have two sons +> no more than two
+
+
 
 Wanneer is een [[implicatuur]] conversationeel?
 
