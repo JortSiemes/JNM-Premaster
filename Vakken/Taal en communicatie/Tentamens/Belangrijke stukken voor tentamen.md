@@ -19,7 +19,7 @@ Werkcolleges:
 # Grice:
 
 ### Betekenis/bedoeling
-Pragmatics:
+[[Pragmatiek]]:
 	Non-literal
 	utterance
 	speaker meaning
@@ -27,7 +27,7 @@ Pragmatics:
 	context dependent
 	non truth-conditional
 
-Semantics:
+[[Semantiek]]:
 	Literal meaning
 	Sentence
 	Sentence Meaning
@@ -36,7 +36,7 @@ Semantics:
 	truth-conditional
 
 ### [[Waarheidsconditioneel]]
-### Cooperatieprincipe, samenwerkingsbeginsel
+### [[Coöperatieprincipe]], samenwerkingsbeginsel
 *"Sprekers doen hun best begrepen te worden luisteraars doen hun best de spreker te begrijpen."*
 ENG: make you conversational contributions such as is required, at the stage at which it occurs, by the accepted purpose or direction of the talk exchange in which you are engaged.
 

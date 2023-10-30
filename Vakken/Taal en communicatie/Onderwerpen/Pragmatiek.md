@@ -1,3 +1,6 @@
+De studie van wat wordt bedoeld, afhankelijk van de context, niet [[waarheidsconditioneel]].
+
+
 [[Taal en communicatie 1]]
 Speaker meaning
 
