@@ -70,10 +70,10 @@ Flouting voorbeeld: Lekker weertje hé (wanneer het regent)
 
 ### 3 Soorten implicaturen
 
-[[Conventionele implicatuur]] (niet annuleerbaar)
+[[Conventionele implicatuur]](nietannuleerbaar)
 
 
-[[Conversationele implicatuur]] (annuleerbaar)
+[[Conversationele implicatuur]](annuleerbaar)
 - [[Gegeneraliseerde implicatuur]]
 	- algemeen geldig (niet gebonden aan een specifieke context)
 - [[Particuliere implicatuur]]
@@ -99,9 +99,11 @@ Dingen met een schaal
 Neo Griceaans:
 ### [[Q-implicaturen]]
 
+Zegt niet meer dan nodig
 
 ### [[R-implicaturen]]
 
+bedoeld meer dan wat er gezegd is
 
 ### Relevantie-theorie:
 [[coded meaning]] = 'what is said' (conventional implicatures (Grice))

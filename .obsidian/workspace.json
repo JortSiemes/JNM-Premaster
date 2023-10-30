@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "3252439e0410373c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2e385ee07487c323",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -184,10 +196,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c8fb76145f865b1",
+  "active": "3252439e0410373c",
   "lastOpenFiles": [
-    "Onderwerpen/geslaagdheidsvoorwaarden.md",
     "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
+    "conflict-files-obsidian-git.md",
+    "Vakken/Taal en communicatie/Tentamens/Student BS Instructions - USC.pdf",
+    "Vakken/Taal en communicatie/Tentamens/Oefententamen midterm 2 (met antwoorden).pdf",
+    "Vakken/Taal en communicatie/Tentamens/Oefententamen midterm 1 (met antwoorden).pdf",
+    "Vakken/Taal en communicatie/Tentamens/Extra oefening Horn en Relevantietheorie.pdf",
+    "Onderwerpen/geslaagdheidsvoorwaarden.md",
     "Onderwerpen/taalhandelingen.md",
     "Vakken/Taal en communicatie/Opdrachten/Opdracht week 6 - Taal en Communicatie.md",
     "Onderwerpen/primaire taalhandeling.md",
@@ -212,7 +229,6 @@
     "Vakken/Taal en communicatie/Onderwerpen/Maxime.md",
     "Vakken/Taal en communicatie/Onderwerpen/waarheidsconditioneel.md",
     "Vakken/Taal en communicatie/Onderwerpen/conventionele implicatuur.md",
-    "Vakken/Taal en communicatie/Tentamens/Tentamen 4 nov.md",
     "Vakken/Taal en communicatie/book_by_birner_betty_j_introduction_to_pragmatics-.pdf"
   ]
 }
