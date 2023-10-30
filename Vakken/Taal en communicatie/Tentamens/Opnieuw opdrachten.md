@@ -36,4 +36,8 @@ Jason heeft weinig vrienden +> Jason heeft geen vrienden.
 2, 
 a, Hele fijne jongen ben jij +> helemaal geen fijne jongen ben jij. Je kan dit afleiden door het maxime van kwaliteit, ze zegt namelijk iets wat ze zelf niet geloofd als je de context van de text begrijpt.
 
+b, Conversationele want je zou het dan weer kunnen annuleren. Als iedereen denkt dat hele fijne jongen ben jij +> helemaal geen fijne jongen ben jij betekend. Dan kan je het annuleren door te zeggen nee ik bedoelde het letterlijk: hele fijne jongen ben jij +> Erg vriendelijke jongen ben jij.
+
+3,
+a, Door te kijken naar de 
 b, 
