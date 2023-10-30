@@ -141,6 +141,21 @@ Expressive
 Declarative
 
 ### [[Directe]]-[[indirecte]] [[taalhandelingen]]
+
+the connection is always
+indirect = felicty conditions of primary speech act is stated in secondary speech act
+
+Sincerity = i want you to, i need you to (about the speaker)
+preperatory condition = can you, i can, could you, may i, do you want to
+
+
 ### Hoe kun je de [[primaire taalhandeling]] afleiden met behulp van de [[geslaagdheidsvoorwaarden]]
+
+
+Primaire taalhandeling:
+Promise
+Request
+Question
+Thanks
 
 (hoe verbind je de primaire en secondaire [[taalhandelingen]]? vraag op tentamen)

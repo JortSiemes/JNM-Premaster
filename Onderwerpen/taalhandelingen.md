@@ -18,20 +18,41 @@ Five general groups: (van Searle)
 	Speaker makes p true
 
 
-Sincerity condition
+### Sincerity condition
 [[Beweerders]] (Assertives) speaker believes that p
 
 {conservatieve}
 [[Stuurders]] (Directives) speaker wishes that p
 
-[[Binders]] (Commisseves) speaker has the intention to
+[[Binders]] (Commisseves) speaker has the intention to do p
 
-[[Uitdrukkers]] (Expressives) Thank, congratulate, apologize, welcome, condole, deplore
-	Speaker expresses his/her psychological state
+[[Uitdrukkers]] (Expressives) speaker is in a certain psychological state
 
-[[Verklaarders]] (Declaratives) I fire you, I resign, I name this ship Mr Stalin, I open the meeting
-	Speaker makes p true
+[[Verklaarders]] (Declaratives)  -
 
+### Essential condition
+[[Beweerders]] (Assertives) speaker commits himself to the truth of p
+
+{conservatieve}
+[[Stuurders]] (Directives) speaker attempt to get the hearer to realize p
+
+[[Binders]] (Commisseves) speaker commits himself to realize p
+
+[[Uitdrukkers]] (Expressives) speaker expresses his/her psychological state
+
+[[Verklaarders]] (Declaratives)  speaker makes p true (by saying p)
+
+### Examples
+[[Beweerders]] (Assertives) I assert
+
+{conservatieve}
+[[Stuurders]] (Directives) request, order, command, question,beg, pray
+
+[[Binders]] (Commisseves) promise, swear, guarantee
+
+[[Uitdrukkers]] (Expressives) thank, congratulate, apologize, welkcome, comdole, deplore
+
+[[Verklaarders]] (Declaratives)  speaker makes p true (by saying p)
 
 
 
