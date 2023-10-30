@@ -25,6 +25,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Preparatory rule.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c8fb76145f865b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
                 "mode": "source",
                 "source": false
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -172,10 +184,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a979c83d615892c",
+  "active": "5c8fb76145f865b1",
   "lastOpenFiles": [
-    "Explicatuur.md",
+    "Onderwerpen/Perlocutie.md",
     "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
+    "Onderwerpen/illocutie.md",
+    "Onderwerpen/Locutie.md",
+    "Preparatory rule.md",
+    "Onderwerpen/geslaagdheidsvoorwaarden.md",
+    "propositionele-content rule.md",
+    "Sincerity rule.md",
+    "Essential rule.md",
+    "Onderwerpen/Impliciet performatief.md",
+    "Onderwerpen/taalhandelingen.md",
+    "Explicatuur.md",
     "Vakken/Taal en communicatie/Onderwerpen/Particuliere implicatuur.md",
     "Vakken/Taal en communicatie/Onderwerpen/Gegeneraliseerde implicatuur.md",
     "Vakken/Taal en communicatie/Onderwerpen/conversationele implicatuur.md",
@@ -191,12 +213,6 @@
     "Vakken/Taal en communicatie/Onderwerpen/Scalaire implicatuur.md",
     "Coöperatieprincipe.md",
     "Vakken/Taal en communicatie/Onderwerpen/Semantiek.md",
-    "Vakken/Taal en communicatie/Onderwerpen/Pragmatiek.md",
-    "Vakken/Taal en communicatie/Colleges/Hoorcollege 2 taal en communicatie.md",
-    "Vakken/Taal en communicatie/book_by_birner_betty_j_introduction_to_pragmatics-.pdf",
-    "Vakken/Taal en communicatie/Birner H6.md",
-    "Vakken/Taal en communicatie/Deeltoets 3 NOV.md",
-    "Vakken/Taal en communicatie/COLLECTIE FILE Taal en communicatie.md",
-    "Vakken/Taal en communicatie/Extra opdrachten Horn Relevance.md"
+    "Vakken/Taal en communicatie/book_by_birner_betty_j_introduction_to_pragmatics-.pdf"
   ]
 }

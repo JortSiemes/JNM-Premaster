@@ -99,16 +99,21 @@ Dingen met een schaal
 Neo Griceaans:
 ### [[Q-implicaturen]]
 
+
 ### [[R-implicaturen]]
 
+
 ### Relevantie-theorie:
-coded = 'what is said'
-explicature = 
-implicature = 'particularized implicatures (grice)'
+coded meaning = 'what is said' (conventional implicatures (Grice))
+explicature =typically= (generalized implicatures (grice))
+implicature =always= 'particularized implicatures (grice)'
 
 Order to dissect:
 Coded -> Explicature -> implicature
-He was there yesterday
+Coded; He was there yesterday
+Explicature; John was at the party the day before today 28 september
+Implicature: "the meaning behind this sentence: he is there often"
+
 
 
 ### Relevantie-principe
@@ -119,9 +124,13 @@ He was there yesterday
 ---
 
 # [[Taalhandelingen]]:
+
 ### Performatief/constantief
 ### Expliciet/[[impliciet performatief]]
 ### [[Locutie]]/[[illocutie]]/[[perlocutie]]
+
+
+
 ### 4 soorten [[geslaagdheidsvoorwaarden]]
 ### 5 groepen [[taalhandelingen]]
 ### [[Directe]]-[[indirecte]] [[taalhandelingen]]
