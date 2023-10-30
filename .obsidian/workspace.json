@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a55f71554c5c344b",
+        "id": "21561adef0f51f02",
         "type": "tabs",
         "children": [
           {
-            "id": "68f86c541cbcb36f",
+            "id": "882307c4ed7528f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Taal en communicatie/Colleges/Hoorcollege 2 taal en communicatie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2772c9b87a0edd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen.md",
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 6 Journalistiek en Redactionele vaardigheden.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen.md",
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 6 Journalistiek en Redactionele vaardigheden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen.md",
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 6 Journalistiek en Redactionele vaardigheden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen.md"
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 6 Journalistiek en Redactionele vaardigheden.md"
               }
             }
           }
@@ -169,44 +156,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2772c9b87a0edd7",
+  "active": "882307c4ed7528f7",
   "lastOpenFiles": [
-    "Vakken/Taal en communicatie/Onderwerpen/Maxime.md",
-    "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen.md",
-    "Vakken/Taal en communicatie/Colleges/Hoorcollege 2 taal en communicatie.md",
-    "Onderwerpen/taalhandelingen.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Tentamen 2 Nov.md",
-    "Onderwerpen/Stijl.md",
-    "focusgroep.md",
-    "Onderwerpen/Survey.md",
-    "Onderzoeksopzet.md",
-    "Kwalitatief.md",
-    "kwantitatief.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Inhoudsanalyse.md",
-    "Inductie.md",
-    "experiment.md",
-    "Onderwerpen/Etnografie.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 1 Methoden en theorieen van journalism studies.md",
     "rolperceptie.md",
-    "framing.md",
     "nieuwswaarden.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 6 Methode en Theorie van Journalism Studies.md",
+    "kwantitatief.md",
+    "framing.md",
+    "focusgroep.md",
     "Vakken/Taal en communicatie/Tentamens/Tentamen 4 nov.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/Tentamen",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 6 Journalistiek en Redactionele vaardigheden.md",
+    "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen.md",
     "Vakken/Taal en communicatie/Tentamens",
+    "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Tentamen 2 Nov.md",
+    "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md",
+    "Vakken/Methoden en theorieen van Journalism Studies/Tentamen",
+    "Kwalitatief.md",
+    "Inductie.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 6 Journalistiek en Redactionele vaardigheden.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 5 Journalistiek en Redactionele vaardigheden.md",
-    "Onderwerpen/Structuralisme.md",
+    "Vakken/Methoden en theorieen van Journalism Studies/JNM groepsopdracht.md",
+    "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwantitatieve inhoudsanalyse.md",
+    "Onderwerpen/Empirische cyclus.md",
+    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 6 Methode en Theorie van Journalism Studies.md",
+    "Onderwerpen/open en axiaal coderen.md",
+    "Onderwerpen/validiteit.md",
+    "Onderwerpen/onafhankelijke en afhankelijke variabelen.md",
+    "experiment.md",
+    "Onderwerpen/variabele.md",
     "Onderwerpen/Vladimir Propp.md",
+    "Onderwerpen/Directe.md",
+    "Onderwerpen/typologie.md",
+    "Onderwerpen/betrouwbaarheid.md",
+    "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 1.pdf",
+    "Vakken/Taal en communicatie/Opdrachten/Extra oefening Horn en Relevantietheorie.pdf",
     "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/~artikel_jnm_wetens~9mfe(_.idlk",
     "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf",
     "Vakken/Woorden als wapens/Weekopdrachten/~$ekopdracht6_JortSiemes.docx",
     "Vakken/Woorden als wapens/Literatuur/OverLoodzwareBassenEnWapperendeBroekspijpen.pdf",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Feedback folder/v1/~$dioInterview.docx",
-    "Vakken/Woorden als wapens/Weekopdrachten/Week5_opdracht.pdf",
-    "Vakken/Woorden als wapens/03 Lakoff & Johnson (1999)_H1-7,10.pdf",
     "Vakken/Woorden als wapens/Groepspresentatie/image2.png",
     "Vakken/Taal en communicatie/Tentamenstof.jpeg",
     "Vakken/Woorden als wapens/Groepspresentatie/Beelden/Rabbit-or-duck-illusion-008.jpg",
