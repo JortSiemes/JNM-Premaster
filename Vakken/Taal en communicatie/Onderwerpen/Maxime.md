@@ -3,6 +3,8 @@
 - Maxime of Relatie/Relevantie: Zeg alleen wat relevant is op dat moment
 - Maxime of Wijze: Wees kort, duidelijk, en orderlijk: vermijd vage uitdrukkingen en ambiguiteit.
 
+![[Pasted image 20231030195610.png]]
+
 Door Grice
 
 Maxime brengt je van: **What is said** naar [[Implicatuur]]
