@@ -90,9 +90,15 @@ Antwoord:
 
 
 
+**normantwoord**: Van belang is dat studenten aangeven waarom (argumentatie) en hoe (procedure, verloop) ze een bepaalde methode zouden inzetten.
+
+Antwoord met: waarom (argumentatie) en hoe procedure, verloop) ze een bepaalde methode zouden inzetten.
+
+Een antwoord krijgt het maximum van de punten als de student het **proces** van data verzamelen (corpus van vacatures aanleggen via zoektermen), bewerken (corpus ontdubbelen, opschonen, in een analyseprogramma opladen) en analyseren (coderen - hetzij bottom up of top down) beschrijft en het **type inhoudsanalyse** motiveert (bv. eerst kwali pilootstudie, codeboek opstellen, kwanti inhoudsanalyse OF codeboek opstellen op basis van categorieën uit de literatuur, codeboek testen, intercodeursbetrouwbaarheid berekenen, analyse uitvoeren)
 
 
-[**normantwoord**: Van belang is dat studenten aangeven waarom (argumentatie) en hoe (procedure, verloop) ze een bepaalde methode zouden inzetten. Een antwoord krijgt het maximum van de punten als de student het **proces** van data verzamelen (corpus van vacatures aanleggen via zoektermen), bewerken (corpus ontdubbelen, opschonen, in een analyseprogramma opladen) en analyseren (coderen - hetzij bottom up of top down) beschrijft en het **type inhoudsanalyse** motiveert (bv. eerst kwali pilootstudie, codeboek opstellen, kwanti inhoudsanalyse OF codeboek opstellen op basis van categorieën uit de literatuur, codeboek testen, intercodeursbetrouwbaarheid berekenen, analyse uitvoeren)
+
+
 
 **Vraag 2:**
 
