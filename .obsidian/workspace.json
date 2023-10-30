@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
+                "file": "Onderwerpen/taalhandelingen.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
+                "file": "Onderwerpen/taalhandelingen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
+                "file": "Onderwerpen/taalhandelingen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md"
+                "file": "Onderwerpen/taalhandelingen.md"
               }
             }
           }
@@ -186,17 +186,23 @@
   },
   "active": "5c8fb76145f865b1",
   "lastOpenFiles": [
-    "Onderwerpen/Perlocutie.md",
+    "Vakken/Taal en communicatie/Opdrachten/Opdracht week 6 - Taal en Communicatie.md",
+    "Vakken/Taal en communicatie/Opdrachten/Opdracht week 5 - Taal en Communicatie.md",
+    "Onderwerpen/taalhandelingen.md",
     "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
+    "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 1.pdf",
+    "Onderwerpen/primaire taalhandeling.md",
+    "Vakken/Taal en communicatie/Colleges/Werkcollege 6 taal en communicatie.md",
+    "Onderwerpen/geslaagdheidsvoorwaarden.md",
+    "Onderwerpen/Impliciet performatief.md",
+    "Onderwerpen/Directe.md",
     "Onderwerpen/illocutie.md",
+    "Onderwerpen/Perlocutie.md",
     "Onderwerpen/Locutie.md",
     "Preparatory rule.md",
-    "Onderwerpen/geslaagdheidsvoorwaarden.md",
     "propositionele-content rule.md",
     "Sincerity rule.md",
     "Essential rule.md",
-    "Onderwerpen/Impliciet performatief.md",
-    "Onderwerpen/taalhandelingen.md",
     "Explicatuur.md",
     "Vakken/Taal en communicatie/Onderwerpen/Particuliere implicatuur.md",
     "Vakken/Taal en communicatie/Onderwerpen/Gegeneraliseerde implicatuur.md",
@@ -207,12 +213,6 @@
     "Vakken/Taal en communicatie/Onderwerpen/waarheidsconditioneel.md",
     "Vakken/Taal en communicatie/Onderwerpen/conventionele implicatuur.md",
     "Vakken/Taal en communicatie/Tentamens/Tentamen 4 nov.md",
-    "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 1.pdf",
-    "Vakken/Taal en communicatie/Tentamens/Opnieuw opdrachten.md",
-    "Vakken/Taal en communicatie/Colleges/Werkcollege 2 taal en communicatie.md",
-    "Vakken/Taal en communicatie/Onderwerpen/Scalaire implicatuur.md",
-    "Coöperatieprincipe.md",
-    "Vakken/Taal en communicatie/Onderwerpen/Semantiek.md",
     "Vakken/Taal en communicatie/book_by_birner_betty_j_introduction_to_pragmatics-.pdf"
   ]
 }

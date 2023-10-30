@@ -104,7 +104,7 @@ Neo Griceaans:
 
 
 ### Relevantie-theorie:
-coded meaning = 'what is said' (conventional implicatures (Grice))
+[[coded meaning]] = 'what is said' (conventional implicatures (Grice))
 explicature =typically= (generalized implicatures (grice))
 implicature =always= 'particularized implicatures (grice)'
 
@@ -126,13 +126,20 @@ Implicature: "the meaning behind this sentence: he is there often"
 # [[Taalhandelingen]]:
 
 ### Performatief/constantief
-### Expliciet/[[impliciet performatief]]
+### [[Expliciet performatief]]/[[impliciet performatief]]
 ### [[Locutie]]/[[illocutie]]/[[perlocutie]]
-
-
+[[Locutie]]: de letterlijke woorden die in een zin staan
+[[Illocutie]]: de handeling achter de woorden
+[[Perlocutie]]: wat het effect van deze woorden zijn
 
 ### 4 soorten [[geslaagdheidsvoorwaarden]]
 ### 5 groepen [[taalhandelingen]]
+Assertive
+Directive
+Commissive
+Expressive
+Declarative
+
 ### [[Directe]]-[[indirecte]] [[taalhandelingen]]
 ### Hoe kun je de [[primaire taalhandeling]] afleiden met behulp van de [[geslaagdheidsvoorwaarden]]
 
