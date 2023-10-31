@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwalitatieve inhoudsanalyse.md",
+                "file": "steekproef.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "steekp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwalitatieve inhoudsanalyse.md",
+                "file": "steekproef.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwalitatieve inhoudsanalyse.md",
+                "file": "steekproef.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwalitatieve inhoudsanalyse.md"
+                "file": "steekproef.md"
               }
             }
           }
@@ -170,7 +171,11 @@
   },
   "active": "65b84fc445b9eb61",
   "lastOpenFiles": [
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Vragenlijst/Vragenlijst.md",
+    "steekproef.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md",
+    "Onderwerpen/Survey.md",
+    "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwalitatieve inhoudsanalyse.md",
     "Onderwerpen/Kwantitatief onderzoek.md",
     "Onderwerpen/Kwalitatief onderzoek.md",
     "Onderwerpen/validiteit.md",
@@ -180,8 +185,6 @@
     "Onderwerpen/Etnografie.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Tentamen 2 Nov.md",
     "Onderwerpen/experiment.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwalitatieve inhoudsanalyse.md",
-    "Onderwerpen/Survey.md",
     "Onderwerpen/focusgroep.md",
     "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwantitatieve inhoudsanalyse.md",
     "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Inhoudsanalyse.md",
@@ -197,8 +200,6 @@
     "Onderwerpen/Coöperatieprincipe.md",
     "Onderwerpen/Kwalitatief.md",
     "Onderwerpen/nieuwswaarden.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 6 Methode en Theorie van Journalism Studies.md",
-    "Onderwerpen/taalhandelingen.md",
     "Vakken/Taal en communicatie/Tentamens/Wat extra hulp om Grice te begrijpen - Copy.pdf",
     "Vakken/Taal en communicatie/Tentamens/Student BS Instructions - USC.pdf",
     "Vakken/Taal en communicatie/Tentamens/Oefententamen midterm 1 (met antwoorden).pdf",
