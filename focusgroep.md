@@ -1,5 +1,16 @@
 De [[focusgroep]] is een kwalitatieve methode die verkennende en conceptontwikkelende onderzoeksvragen als uitgangspunt heeft.
 
+
+### Kenmerken:
+- in groepsetting
+- Verkennend en conceptontwikkelend
+- een thema
+- Data is transcriptie voor nodig
+- resultaten zijn concepten en typologieen
+- [[kwalitatief]]
+- met een dynamisch vraagproces
+- Beperkt aantal respondenten (rond de 10)
+
 FOCUSgroepen gaan slechts over een thema (als leider moet je sturen)
 
 

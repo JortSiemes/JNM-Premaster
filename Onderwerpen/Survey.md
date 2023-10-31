@@ -1,5 +1,9 @@
 systematisch grote groepen mensen ondervragen
 
+### Kenmerken:
+
+
+
 ## Survey dient vaak ter onderbouwing van kennis.
 Surveys kunnen ook verkennend zijn, maar zullen daarnaast vaker toetsend zijn dan focusgroepen. 
 
@@ -28,3 +32,5 @@ Data
 Rapportage
 13, verslag van bevindingen
 14, 
+
+
