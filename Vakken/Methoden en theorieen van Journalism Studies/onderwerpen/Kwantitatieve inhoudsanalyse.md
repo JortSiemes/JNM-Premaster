@@ -14,6 +14,10 @@ Hiermee kijk je dan bijvoorbeeld hoeveel NOS iets gebruikt in een maand
 Voorbeeld vraag;
 wat zijn verschillen in brongebruik tussen de volkskrant en volkskrant magazine
 
+**Typische uitspraken die kwanitatieve [[inhoudsanalyse]] oplevert:**
+- In de periode 2000-2010 is er een toename van 50% te zien van het aantal artikelen waar eerwraak in voorkomt.
+- In nieuwsberichten over het Israelisch palestijnse conflict komen palestijnen vaker aan het woord, maar worden ze vaker dan Israeli met geweld geassocieerd.
+
 - stap 1: bepalen welke corpus je analyseert: Verzamelen van Volkskranten en magazines (belangrijke vraag: kan ik bij het materiaal, heb ik toegang tot het archief, NEXUS uni)
 - Stap 2: bepalen van analyse-eenheid (niet heel strakke regels, keuze als onderzoeker, sluit aan bij ander onderzoek, voor bronnen is een hele Volkskrant te groot, en een woord te klein)
 - Stap 3: herkennen van indicator, operationaliseren: Hoe maak ik 'koorts' meetbaar (graden) Hoe maak ik 'snel' meetbaar (km/h)

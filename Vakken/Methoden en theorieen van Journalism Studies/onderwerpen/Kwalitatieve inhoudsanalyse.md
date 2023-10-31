@@ -2,6 +2,8 @@ interpretatie, eigenschappen en kwaliteiten
 
 Kenmerken:
 - Bestuderen van inhoud
+- legt patronen bloot
+- brengt mogelijke oorzaken in kaart
 - 
 
 
@@ -21,8 +23,10 @@ Cyclisch of iteratief (van data naar codes naar categorieën en vice versa);
 Reduceert data (data>codes> categorieën)
 Van algemeen naar specifiek naar algemeen (van [[inductief]] naar [[deductief]] naar [[inductief]])
 
-Typische uitspraken kwalitatieve inhoudsanalyse:
+**Typische uitspraken die kwalitatieve [[inhoudsanalyse]] oplevert:**
 - er lijken twee oorzaken in de media te worden gegeven voor de toename van nieuws over eerwraak. Ofwel er wordt gerefereerd aan een toename van daders met afkomst uit Afrikaanse moslimlanden, ofwel er wordt gerefereerd aan een veranderend opsporingsbeleid bij de politie in de grote steden die het verschijnsel zijn gaan labelen.
+- journlisten verwijzen op dire manieren naar bronnen. Of ze noemen de bron expliciet bij naam, of ze noemen een categorie bronnen, of ze verwijzen naar welingelichte kringen of wandelgangen.
+
 
 
 corpus:
