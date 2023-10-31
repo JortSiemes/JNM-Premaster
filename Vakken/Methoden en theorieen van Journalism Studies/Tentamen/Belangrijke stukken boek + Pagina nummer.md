@@ -158,8 +158,11 @@ Focus groep, daar kunnen nieuwe inzichten tijdens het onderzoek de gesprekken la
 ## 3 [[Survey]]
 ## 4 [[Nieuwsetnografie]]
 
-## 5
-## 6
+## 5 [[Experiment]]
+## 6 [[Kwalitatieve inhoudsanalyse]]
+
+## 7 [[Kwantitatieve inhoudsanalyse]]
+
 
 
 ### [[Inhoudsanalyse]]
