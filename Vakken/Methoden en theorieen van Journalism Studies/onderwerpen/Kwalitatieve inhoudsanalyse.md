@@ -25,7 +25,7 @@ Verschillen:
 | validiteit           | minder belangrijk   | zeer belangrijk    |
 | structuur van proces | lineair             | cyclisch/iteratief | 
 
-Onderzoeksopzet staat niet vast, cyclus staat niet vast.
+Onder zoeksopzet staat niet vast, cyclus staat niet vast.
 Je kan heen en weer gaan van data naar vragen.
 totdat je bepaalde verzadiging bereikt
 
