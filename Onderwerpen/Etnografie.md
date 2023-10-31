@@ -4,6 +4,7 @@ etnografie: Wat er gebeurt als je drie weken op een nieuwsredactie rondloopt.
 
 Kenmerken:
 - je weet niet precies waar je op moet letten
+- Rol onderzoeker: groot
 - heel globaal kijken
 - Wel voorbereid maar onwennig begint dit onderzoek.
 - intensief veldwerk
@@ -99,18 +100,38 @@ Voorbeeld: Hoe gebruiken webredacteuren van NOS op 3 bestaande on en offline med
  12. Representatie
  13. Context
 
-
-
-
-
 [[betrouwbaarheid]]
 
-
 ### wanneer zet je de methode in
-
+Bij onderwerpen waar weinig wetenschappelijke kennis is, en waarbij je een voordeel verwacht van natuurlijke observatie
+- Zelfstandig: verkenning van nieuwe ontwikkelingen in het veld (AI)
+- Ondersteunend: om hypothesen te genereren die met kwantitatieve methoden getoetst kunnen worden
 ### voor- en nadelen van de methode
-
+Valkuilen zijn vooral gericht op de rol van de onderzoeker, omdat deze zelf het meetinstrument is.
+- Welke bias heeft onderzoeker?
+-  Hoe krijg je als onderzoeker toegang tot het object (stage)
+- Hoe is de relatie tussen onderzoeker en participanten
+- Welke verschillende data-bronnen heb je, en hoe ga je die op een betrouwbare manier analyseren (triangulatie)
+- 
 ### hoe werkt de methode
+1.      Onderzoeksopzet
+- Identificeer relevante begrippen uit de literatuur: sensitizing concepts -> richting en toonaangevende begrippen.
+- Bepaal wat je gaat observeren:
+
+|   |   |
+|---|---|
+|1.      Plaats                                                    <br><br>2.      Persoon                                                <br><br>3.      Activiteit                                             <br><br>4.      Technologie<br><br>5.      Actie<br><br>6.      Interactie|7.      Taalgebruik<br><br>8.      Tekst<br><br>9.      Ritueel<br><br>10.  Tijd<br><br>11.  Doel<br><br>12.  Representatie<br><br>13.  Context|
+-  Bepaal hoe je gaat observeren
+
+2.      Corpus/Samenstelling: zie wat je gaat observeren
+
+3.      Dataverzameling
+
+4 type data
+-  Veralgemeningen van informanten: meningen, hoe kijken ze aan tegen etc
+-  Neutrale waarnemingen: beeld/geluidsopnames
+- Individuele ervaringen en inzichten: van actoren in het veld
+- Interactie met onderzochte personen
 
 ### Onderzoeksopzet
 
@@ -119,3 +140,4 @@ Voorbeeld: Hoe gebruiken webredacteuren van NOS op 3 bestaande on en offline med
 ### dataverzameling
 
 ### analyse
+Thick discription

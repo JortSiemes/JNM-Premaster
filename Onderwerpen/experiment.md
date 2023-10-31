@@ -13,10 +13,15 @@ Kenmerken:
 - [[Validiteit]] is minder groot
 - [[Betrouwbaarheid]] is groot (kan vaak herhaald worden)
 - Controlemogelijkheden zijn groot
-- Data is [[kwantitatief]]
+- Data is [[kwantitatief]]: resultaten in cijfers, tabellen en grafieken
 - Veel [[variabelen]]
 - Hypothese vanaf het begin
 - Kort: max 10 minuten voor geconcentreerd experiment
+- Invloed van de onderzoeker zoveel mogelijk beperkt
+- openlijk observeerbare variabelen
+	- Variabelen die niet openlijk observeerbaar zijn (geheugen), moeten worden afgeleid uit wel observeerbare variabelen -> afgeleide variabelen
+- Deductief: toetsend onderzoek
+- Statisch onderzoeksopzet
 
 | ...                         | [[Etnografie]]         | [[experiment]]          |
 | --------------------------- | ------------------ | ------------------- |
