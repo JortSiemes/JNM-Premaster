@@ -57,3 +57,19 @@ Rapportage
 14, 
 
 
+### wanneer zet je de methode in
+Als je kwantitatieve uitspraken wilt doen over grote groepen mensen
+Mediagebruik, mediaproductie, waardering van media
+
+### voor- en nadelen van de methode
+
+### hoe werkt de methode
+
+### Onderzoeksopzet
+
+### samenstelling: corpus/sample
+
+### dataverzameling
+
+### analyse
+
