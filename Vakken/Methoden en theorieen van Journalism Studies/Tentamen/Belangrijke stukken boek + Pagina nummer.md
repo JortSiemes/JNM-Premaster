@@ -119,6 +119,7 @@ OBSERVEREN
 
 
 ### dataverzameling
+
 BEVRAGEN
 - [[focusgroep]]
 - [[survey]]
@@ -128,12 +129,12 @@ OBSERVEREN
 - [[experiment]]
 - [[kwalitatieve inhoudsanalyse]]
 - [[kwantitatieve inhoudsanalyse]]
-
 
 
 
 
 ### analyse
+
 BEVRAGEN
 - [[focusgroep]]
 - [[survey]]
@@ -143,9 +144,6 @@ OBSERVEREN
 - [[experiment]]
 - [[kwalitatieve inhoudsanalyse]]
 - [[kwantitatieve inhoudsanalyse]]
-
-
-
 
 
 

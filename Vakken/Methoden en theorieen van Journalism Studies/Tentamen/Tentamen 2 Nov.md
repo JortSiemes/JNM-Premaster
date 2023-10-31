@@ -84,6 +84,14 @@ Het wetenschappelijk tijdschrift _Journalism Practice_ publiceerde in 2019 een
 
 Hoe kun je met een inhoudsanalyse van journalistieke vacatureberichten uitspraken doen over typen expertise? Werk een methodologische opzet uit die verantwoordt hoe je empirische gegevens verzamelt, bewerkt en analyseert. Geef ook aan waarom je kwantitatieve, kwalitatieve of een gemengde benadering verkiest. (30 ptn - max 450 woorden).
 
+Breakdown:
+1, Hoe kun je met een inhoudsanalyse van journalistieke vacatureberichten uitspraken doen over typen expertise? 
+
+2, Werk een methodologische opzet uit die verantwoordt hoe je empirische gegevens verzamelt, bewerkt en analyseert.
+
+3, geef ook aan waarom je kwantitatieve, kwalitatieve of een gemengde benadering verkiest.
+
+
 Antwoord: 
 
 
