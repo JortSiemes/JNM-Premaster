@@ -1,5 +1,8 @@
 interpretatie, eigenschappen en kwaliteiten
 
+Kenmerken:
+
+
 
 Onderzoeksopzet staat niet vast, cyclus staat niet vast.
 Je kan heen en weer gaan van data naar vragen.

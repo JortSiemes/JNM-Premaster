@@ -42,7 +42,38 @@ BEVRAGEN
 
 OBSERVEREN
 - [[Etnografie]]
+	- je weet niet precies waar je op moet letten
+	- heel globaal kijken
+	- Wel voorbereid maar onwennig begint dit onderzoek.
+	- intensief veldwerk
+	- systematisch aantekeningen
+	- transcriberen voor data analyse
+	- Ronde 1
+		- dingen bijhouden (aantekeningen, meeluisteren, praten)
+	- Ronde 2 (na maand)
+		- alles op rij gezet
+		- onderzoeksvraag verfijnd
+		- aangepaste onderzoeksopzet
+	- GAAT NIET OVER CIJFERS GRAFIEKEN > MAAR HOLISTISCHE KENNIS VAN SITUATIES
+	- [[Kwalitatief]]
+	- perspectief van onderzochten staat centraal
+	- cyclisch onderzoeksproces
+	- Doelen: verkennen, beschrijven, verklaren
+	- Etnografie werkt constrastief
 - [[experiment]]
+	- Kustmatige setting (labsetting)
+		- omgeving is volledig gecontroleerd
+	- observatie is erg gestructureerd
+	- Manipulatie van [[variabelen]] is zeer goed mogelijk
+	- Persoonlijkheid van onderzoeker speelt een kleine rol
+	- Aantal [[variabelen]] is beperkt
+	- [[Validiteit]] is minder groot
+	- [[Betrouwbaarheid]] is groot (kan vaak herhaald worden)
+	- Controlemogelijkheden zijn groot
+	- Data is [[kwantitatief]]
+	- Veel [[variabelen]]
+	- Hypothese vanaf het begin
+	- Kort: max 10 minuten voor geconcentreerd experiment
 
 DOORLICHTEN
 - [[kwalitatieve inhoudsanalyse]]
