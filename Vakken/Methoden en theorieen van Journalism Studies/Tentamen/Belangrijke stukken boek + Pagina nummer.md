@@ -19,8 +19,27 @@ Ontwikkeling in journalism studies:
 #### Wat moet je per methode weten: (kunnen opzoeken in het boek)
 ### kenmerken van de methode
 Kenmerken van elke methode:
+BEVRAGEN
 - [[focusgroep]]
+	- in groepsetting
+	- Verkennend en conceptontwikkelend
+	- een thema
+	- Data is transcriptie voor nodig
+	- resultaten zijn concepten en typologieen
+	- [[kwalitatief]]
+	- met een dynamisch vraagproces
+	- Beperkt aantal respondenten (rond de 10)
 - [[survey]]
+	- individuele setting
+	- vragen zijn meer toetsend en bevestigend
+	- data is direct schriftelijk
+	- resultaten zijn in aantallen, variabelen en vergelijkingen
+	- kan meerdere [[onderwerpen]] hebben
+	- [[kwantitatief]]
+	- statisch vraagproces, kan niet op interessante vindingen tijdens [[survey]] ingaan, dan heb je een vervolg [[survey]] nodig.
+	- Veel bevraagden vaak 100en tot 1000en.
+	- Vragenlijsten
+OBSERVEREN
 - [[nieuwsetnografie]]
 - [[experiment]]
 - [[kwalitatieve inhoudsanalyse]]
