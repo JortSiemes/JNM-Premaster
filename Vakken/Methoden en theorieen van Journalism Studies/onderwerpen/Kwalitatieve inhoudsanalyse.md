@@ -87,6 +87,9 @@ Bij inventariserende vagen waarbij het gaat om het ontdekken van patronen en cat
 ### hoe werkt de methode
 
 ### Onderzoeksopzet
+-  Inlezen in de literatuur
+- Corpus aanleggen: welke teksten ga je onderzoeken -> hangt af van je onderzoeksvraag
+-  Bepaal coderingseenheid: artikel, nieuwsuitzending, radioprogramma
 
 ### samenstelling: corpus/sample
 

@@ -1,8 +1,14 @@
 relatie tussen [[variabelen]]
 
+Doel: kan in plaats van onderbuikgevoelens concrete transparante data generen waarmee zaken cijfermatig zijn hard te maken.
+
 Kenmerken:
 - Bestuderen van inhoud
-- 
+-  Gaat over de inhoud
+- Cijfermatige vragen
+- Vaste procedure
+- Liniair proces
+- Test theorie
 
 - vooraf een onderzoeksopzet waar je niet van afwijkt
 
@@ -39,12 +45,22 @@ Significant (is de variatie wij vinden significant) Valt dit buiten de natuurlij
 
 
 ### wanneer zet je de methode in
+- Omdat je iets wilt weten over de manier waarop journalisten hun werk doen
+- Omdat je wilt weten hoe de samenleving aankijkt tegen bepaalde sociale problemen of verschijnselen
 
 ### voor- en nadelen van de methode
 
 ### hoe werkt de methode
 
 ### Onderzoeksopzet
+Bestudeer literatuur over het onderwerp, ontdek concepten
+1.  Aanleggen van een corpus; heb je toegang tot het materiaal
+2. Bepalen van analyse eenheid;
+-   Kies een eenheid (artikel, item, foto etc)
+- Sluit aan bij ander onderzoek
+3. Operationaliseren: hoe maak je concepten meetbaar in tekst -> neem over uit de literatuur
+4. Codeboek ontwerpen -> welke stappen doorloop je
+
 
 ### samenstelling: corpus/sample
 
