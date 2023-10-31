@@ -40,7 +40,7 @@ BEVRAGEN
 	- Veel bevraagden vaak 100en tot 1000en.
 	- Vragenlijsten
 OBSERVEREN
-- [[nieuwsetnografie]]
+- [[Etnografie]]
 - [[experiment]]
 - [[kwalitatieve inhoudsanalyse]]
 - [[kwantitatieve inhoudsanalyse]]
@@ -143,7 +143,7 @@ tabel 3
 |         | [[Kwalitatief]]    | [[Kwantitatief]]   | Kennisobject       |
 | ----------- | -------------- | -------------- | ------------------ |
 | Bevragen    | [[focusgroep]]     | [[survey]]         | praktijk, inhoud   |
-| Observeren  | [[etnografie]]    | [[experiment]]     | effecten, praktijk |
+| Observeren  | [[Onderwerpen/Etnografie]]    | [[experiment]]     | effecten, praktijk |
 | Doorlichten | [[inhoudsanalyse]] | [[inhoudsanalyse]] | effecten, inhoud  |
 
 Bevragen:
@@ -153,7 +153,7 @@ Bij Interview & [[Survey]], vraag je expliciete vragen aan de onderzochten -> an
 
 Observeren:
 observationeel onderzoek levert inzicht op over hoe nieuws wordt geproduceerd en hoe consumenten ermee omgaan.
-[[etnografie]]: de leefwereld van de onderzochten staat centraal
+[[Onderwerpen/Etnografie]]: de leefwereld van de onderzochten staat centraal
 
 [[experiment]]: onderzoekers bedenken een gecontroleerde setting om specifieke factoren te testen. 
 
@@ -254,7 +254,7 @@ Focus groep, daar kunnen nieuwe inzichten tijdens het onderzoek de gesprekken la
 ## 2 [[Focusgroep]]
 
 ## 3 [[Survey]]
-## 4 [[Nieuwsetnografie]]
+## 4 [[Etnografie]]
 
 ## 5 [[Experiment]]
 ## 6 [[Kwalitatieve inhoudsanalyse]]

@@ -2,10 +2,10 @@ week 4
 Surveys & Focusgroepen
 
 
-### [[Etnografie]]:
+### [[Onderwerpen/Etnografie]]:
 Ethnos (volk, mensen) + grapho (schrijven)
 
-|                 | [[Etnografie]]   | Experiment    |
+|                 | [[Onderwerpen/Etnografie]]   | Experiment    |
 | --------------- | ------------- | ------------- |
 | Onderzoeksvraag | verkennend    | voorspellend  | 
 | Werkelijkheid   | observeerbaar | meetbaar      |
@@ -15,7 +15,7 @@ Ethnos (volk, mensen) + grapho (schrijven)
 | analyse         | indusctief    | [[deductief]]     |
 | rapportage      | verhalend     | beschrijvend   |
 
-[[Etnografie]]:
+[[Onderwerpen/Etnografie]]:
 de werkelijkheid is te complex. Menselijk handelen, denken en voelen is geen kwestie van natuurkundige wetten die je in isolatie kunt bestuderen.
 *Hier is de onderzoeker het instrument. en dit vraagt om zelfreflectie*
 
@@ -26,7 +26,7 @@ Je moet van tevoren precies duidelijk maken wat je zoekt en hoe je dat waarneemt
 Media consumeren is meer dan het coderen en decoderen van informatie.
 > Media consumeren is een **ervaring** die plaatsvindt in een bepaalde **context**
 
-Kenmerken van [[Etnografie]]: 
+Kenmerken van [[Onderwerpen/Etnografie]]: 
 	Veldwerk: natuurlijke omgeving
 	Dagen, maanden, jaren
 	Rol onderzoeker: participant observer (meestal)
