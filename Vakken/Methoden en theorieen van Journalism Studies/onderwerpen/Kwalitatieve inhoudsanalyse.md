@@ -93,7 +93,10 @@ Bij inventariserende vagen waarbij het gaat om het ontdekken van patronen en cat
 
 ### samenstelling: corpus/sample
 
+
 ### dataverzameling
+
+
 
 ### analyse
 - Teksten globaal doorlezen

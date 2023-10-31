@@ -113,8 +113,15 @@ Conclusie
 
 ### Onderzoeksopzet
 
+
+
 ### samenstelling: corpus/sample
+
+
 
 ### dataverzameling
 
+
+
 ### analyse
+
