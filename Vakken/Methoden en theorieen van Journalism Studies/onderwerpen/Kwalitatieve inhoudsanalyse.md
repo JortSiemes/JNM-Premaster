@@ -1,7 +1,8 @@
 interpretatie, eigenschappen en kwaliteiten
 
 Kenmerken:
-
+- Bestuderen van inhoud
+- 
 
 
 Onderzoeksopzet staat niet vast, cyclus staat niet vast.
