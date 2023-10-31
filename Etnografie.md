@@ -14,7 +14,9 @@ Kenmerken:
 	- alles op rij gezet
 	- onderzoeksvraag verfijnd
 	- aangepaste onderzoeksopzet
-- 
+- GAAT NIET OVER CIJFERS GRAFIEKEN > MAAR HOLISTISCHE KENNIS VAN SITUATIES
+- kwalitatief
+- perspectief van onderzochten staat centraal
 
 Etnografische vragen:
 Hoe gaat dat precies in zijn werk visuele journalistiek?
@@ -23,6 +25,7 @@ Hoe bepaal je de nieuwswaarde van immense databanken?
 Welke hulpmiddelen en vaardigheden doen er toe?
 Hoe kijken datajournalisten tegen hun specialisme aan?
 
+Wanneer zet je etnografie in?
 
 
 
@@ -54,7 +57,7 @@ Je kan hierdoor ook belangrijke dingen over het hoofd zien.
 **Kan gebruiken voor bestuderen:**
 Menselijk handelen, denken en voelen (kan niet in geisoleerde setting bestudeerd worden)
 
-**Vergaarde Data:**
+**Vergaarde Data:** (p.80)
 Veel verschillende typen data:
 - gespreksverslagen
 - veldnotities
@@ -66,7 +69,12 @@ Veel verschillende typen data:
 	- twitterberichten
 Deze data is compleet anders dan dat bij een experiment.
 
-Ve
+**Verwerken Data:**
+Deze laad je in een softwarepakket om te filteren.
+Ontwikkelen van codes waarmee je verschillende databronnen kan filteren, organiseren en classificeren.
+
+**Etnografie presenteren:**
+presenteren van inzichten in taal van onderzochten en eerlijk reflecteren over eigen rol in onderzoeksproces.
 
 
 
