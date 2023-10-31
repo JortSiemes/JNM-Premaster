@@ -1,3 +1,5 @@
+Vorm van [[inhoudsanalyse]]
+
 interpretatie, eigenschappen en kwaliteiten
 
 Patronen blootleggen, mogelijke oorzaken in kaart brengen en categorieën in berichtgeving benoemen -> typologieën
@@ -11,8 +13,7 @@ Kenmerken:
 - Betrouwbaarheid laag
 - Validiteit hoog
 - Cyclisch onderzoeken (steeds van data naar theorie en terug)
-
-Inductief naar deductief naar inductief etc
+- Inductief naar deductief naar inductief etc
 
 
 Onderzoeksopzet staat niet vast, cyclus staat niet vast.
@@ -75,7 +76,13 @@ Ronde 3: ([[deductief]], specifiek) verzamel alle codes en codeer alle teksten n
 
 ### wanneer zet je de methode in
 
+Bij inventariserende vagen waarbij het gaat om het ontdekken van patronen en categorieën. Of het willen blootleggen van bepaalde frames
+
+- Omdat je iets wilt weten over de manier waarop journalisten hun werk doen
+- Omdat je wilt weten hoe de samenleving aankijkt tegen bepaalde sociale problemen of verschijnselen
+
 ### voor- en nadelen van de methode
+
 
 ### hoe werkt de methode
 
@@ -86,3 +93,7 @@ Ronde 3: ([[deductief]], specifiek) verzamel alle codes en codeer alle teksten n
 ### dataverzameling
 
 ### analyse
+- Teksten globaal doorlezen
+- Maak een codingframe: ontwikkelt zich tijdens de analyse
+- Open coderen: wat valt op, wat zijn overeenkomsten, verschillen etc
+- Axiaal: codes in categorieën opdelen
