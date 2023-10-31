@@ -52,3 +52,18 @@ Ronde 1: ([[inductief]], globaal) wat wil je van de tekst weten?
 Ronde 2: ([[inductief]], specifiek) kan ik nu codes hangen aan delen van de tekst
 Ronde 3: ([[deductief]], specifiek) verzamel alle codes en codeer alle teksten nog een keer met dit codeframe. Kan je bijna alle teksten nu coderen?
 
+
+
+### wanneer zet je de methode in
+
+### voor- en nadelen van de methode
+
+### hoe werkt de methode
+
+### Onderzoeksopzet
+
+### samenstelling: corpus/sample
+
+### dataverzameling
+
+### analyse

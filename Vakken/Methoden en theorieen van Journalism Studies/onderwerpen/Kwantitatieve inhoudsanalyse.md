@@ -27,3 +27,19 @@ wat zijn verschillen in brongebruik tussen de volkskrant en volkskrant magazine
 
 Significant (is de variatie wij vinden significant) Valt dit buiten de natuurlijke variatie
 	Je kan dit doen met T-test
+
+
+
+### wanneer zet je de methode in
+
+### voor- en nadelen van de methode
+
+### hoe werkt de methode
+
+### Onderzoeksopzet
+
+### samenstelling: corpus/sample
+
+### dataverzameling
+
+### analyse

@@ -35,9 +35,9 @@ Hier heb je directer toegang tot wat je wilt weten.
 | --------------------------- | ------------------ | ------------------- |
 | Setting                     | Natuurlijk         | Kunstmatig          |
 | Observatie                  | Ongestructureerd   | Zeer Gestructureerd |
-| Manipulatie variabelen      | Niet goed mogelijk | Zeer goed mogelijk  |
+| Manipulatie [[variabelen]]      | Niet goed mogelijk | Zeer goed mogelijk  |
 | Persoonlijkheid onderzoeker | Rol groot          | Rol klein           |
-| Aantal variabelen           | Groot              | Beperkt             |
+| Aantal [[variabelen]]           | Groot              | Beperkt             |
 | [[Validiteit]]                  | Groot              | Minder groot        |
 | [[Betrouwbaarheid]]             | Minder groot       | groot               |
 | Controlemogelijkheden       | Minder groot       | groot               |
@@ -104,3 +104,18 @@ Voorbeeld: Hoe gebruiken webredacteuren van NOS op 3 bestaande on en offline med
 
 
 [[betrouwbaarheid]]
+
+
+### wanneer zet je de methode in
+
+### voor- en nadelen van de methode
+
+### hoe werkt de methode
+
+### Onderzoeksopzet
+
+### samenstelling: corpus/sample
+
+### dataverzameling
+
+### analyse

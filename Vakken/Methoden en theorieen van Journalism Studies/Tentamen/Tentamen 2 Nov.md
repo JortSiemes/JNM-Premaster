@@ -115,7 +115,12 @@ In het wetenschappelijk tijdschrift _Journalism_ schrijven de onderzoekers Ale
 Ze gebruiken hiervoor (dus) interviews als onderzoeksmethode.
 
 1. In hoofdstuk 1 van het boek _Methoden voor Journalism Studies_ introduceren we (p. 9 - 11) zes dimensies van journalistiek. Kun je met drie korte voorbeelden aangeven hoe het hier geopperde verschijnsel (het wegvallen van het onderscheid tussen redactionele en commerciële inhoud) inwerkt op ten minste drie van die zes dimensies? (200 woorden - 15 ptn)
-2. De gekozen onderzoeksmethode brengt een aantal nadelen met zich mee. Benoem twee nadelen en leg uit waarom beide _juist bij dit specifieke onderwerp_ nadelig zijn. (200 woorden - 15 ptn)
+
+1. De gekozen onderzoeksmethode brengt een aantal nadelen met zich mee. Benoem twee nadelen en leg uit waarom beide _juist bij dit specifieke onderwerp_ nadelig zijn. (200 woorden - 15 ptn)
+
+
+
+
 
 **[Normantwoord]** a) Maximum aantal punten als van **drie** van de zes dimensies (vorm, inhoud, stijl, functie, producenten en consumenten) met een voorbeeld kan worden uitgelegd hoe het inwerkt. Bijvoorbeeld journalistieke stijl die gebruikt wordt in advertorials; nieuwsonderwerpen die gebruikt worden in advertorials of gerenommeerde kranten die in bijlagen advertenties verspreiden alsof het een magazine is. b) Nadelen van het interview zijn dat respondenten **wenselijke antwoorden** geven of niet genoeg inzicht in hun eigen functioneren hebben (**weinig  zelfreflectie**). Bij dit specifieke onderwerp weegt dat extra zwaar omdat het de **eigen beroepsethiek** betreft.
 

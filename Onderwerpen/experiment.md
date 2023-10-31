@@ -126,10 +126,22 @@ Experiment presenteren in een:
 
 ### Onderzoeksopzet
 
+1, onderzoeksvraag en onderzoeksobject
+een onderzoeksvraag heeft verschillende lagen
+Voor experiment typisch:
+- vragen naar effecten of verbanden
+
+2, orienteer je op literatuur en theorie
+Zoek naar gerelateerd onderzoek
+niet elk onderzoeker moet elk onderzoek wiel opnieuw uitvinden
+
+3, Formuleren van hypothese
+Zinvol omdat:
+- gaat na denken over de vraag wat theorie nu eigenlijk doet voor onderzoek
+- wat kan je verwachten op grond van je theorie
+Hypothese maakt duidelijk wat de [[afhankelijke variabelen]] en [[onafhankelijke variabelen]] zijn.
+
 'fillers toevoegen'
-
-
-
 
 ### samenstelling: corpus/sample
 
