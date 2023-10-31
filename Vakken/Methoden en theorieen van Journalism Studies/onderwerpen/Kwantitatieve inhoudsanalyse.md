@@ -1,5 +1,9 @@
 relatie tussen variabelen
 
+Kenmerken:
+
+
+
 - vooraf een onderzoeksopzet waar je niet van afwijkt
 
 2 doelen
