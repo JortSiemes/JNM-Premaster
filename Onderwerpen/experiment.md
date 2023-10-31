@@ -5,6 +5,7 @@ Andere factoren kan je hiermee afsluiten.
 
 Kenmerken:
 - Kustmatige setting (labsetting)
+	- omgeving is volledig gecontroleerd
 - observatie is erg gestructureerd
 - Manipulatie van variabelen is zeer goed mogelijk
 - Persoonlijkheid van onderzoeker speelt een kleine rol
@@ -13,6 +14,7 @@ Kenmerken:
 - [[Betrouwbaarheid]] is groot (kan vaak herhaald worden)
 - Controlemogelijkheden zijn groot
 - Data is [[kwantitatief]]
+- Veel variabelen
 
 | ...                         | [[Etnografie]]         | [[experiment]]          |
 | --------------------------- | ------------------ | ------------------- |
@@ -25,6 +27,9 @@ Kenmerken:
 | [[Betrouwbaarheid]]             | Minder groot       | groot               |
 | Controlemogelijkheden       | Minder groot       | groot               |
 | Data                        | [[Kwalitatief]]        | [[kwantitatief]]                    |
+
+Voorbeelden experiment:
+- Eye tracking onderzoek
 
 
 Als je al variabelen hebt geformuleerd en weet waar je op moet letten kan je het best voor een OBSERVATIE methode een experiment kiezen.
@@ -40,3 +45,48 @@ Kenmerken:
 
 
 Observatie: je kijkt door een "microscoop" naar de werkelijkheid: dat waarop je je zicht neem heel precies waarnemen. Wat er omheen zit wil je niet zien.
+
+
+### wanneer zet je de experiment methode in
+
+
+ je kijkt door een "microscoop" naar de werkelijkheid: dat waarop je je zicht neem heel precies waarnemen. Wat er omheen zit wil je niet zien.
+
+
+
+### voor- en nadelen van de methode
+
+Voordelen:
+
+Nadelen:
+
+
+
+### hoe werkt de methode
+
+
+
+
+
+
+
+### Onderzoeksopzet
+
+
+
+
+
+
+### samenstelling: corpus/sample
+
+
+
+
+
+
+### dataverzameling
+
+
+
+
+### analyse
