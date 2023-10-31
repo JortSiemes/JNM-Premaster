@@ -1,3 +1,5 @@
+
+
 Interne validiteit:
 De vraag of de variabelen wel een causale relatie met elkaar hebben / of er niet allerlei andere verstorende factoren een rol spelen.
 Meet je wat je te weten wilt komen

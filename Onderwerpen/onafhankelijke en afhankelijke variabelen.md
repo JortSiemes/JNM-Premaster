@@ -1,4 +1,4 @@
-[[variabele]] = iets wat je kan meten
+[[variabelen]] = iets wat je kan meten
 [[experiment]] = kan je echt iets meten, want je sluit andere factoren uit.
 
 Hoe snel rijden mensen met alcohol op,

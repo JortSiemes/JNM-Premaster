@@ -15,6 +15,15 @@ Kenmerken:
 - Cyclisch onderzoeken (steeds van data naar theorie en terug)
 - Inductief naar deductief naar inductief etc
 
+Verschillen:
+
+| Onderwerp            | Kwantitatief        | Kwalitatief        |
+| -------------------- | ------------------- | ------------------ |
+| Focus type betekenis | manifeste betekenis | Latente betekenis  |
+| rol van context      | niet belangrijk     | belangrijk         |
+| betrouwbaarheid      | belangrijk          | minder belangrijk  |
+| validiteit           | minder belangrijk   | zeer belangrijk    |
+| structuur van proces | lineair             | cyclisch/iteratief | 
 
 Onderzoeksopzet staat niet vast, cyclus staat niet vast.
 Je kan heen en weer gaan van data naar vragen.
