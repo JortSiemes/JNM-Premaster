@@ -39,14 +39,14 @@ Je kan gemiddelde berekenen en er is een absoluut nulpunt.
 
 ---
 
-Onafhankelijke variabele -----------> Afha
+Onafhankelijke variabele -----------> Afhankelijke variabele
 
 
-Afhankelijke variabelen
+
+[[Afhankelijke variabelen]]
 De variabelen die veranderen onder invloed van de onafhankelijke variabelen. 
 
 
-
-
-Onafhankelijke variabelen
-
+[[Onafhankelijke variabelen]]
+Begin punt, effect van dit wil je weten op afhankelijke (wat je kan instellen als onderzoeker)
+Hoeveel drank op (promilage)
