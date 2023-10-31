@@ -1,4 +1,4 @@
-
+Validiteit verwijst naar de mate waarmee een onderzoek meet wat het doel is om te meten en de nauwkeurigheid van de conclusies die worden getrokken op basis van de verzamelde gegevens.
 
 Interne validiteit:
 De vraag of de variabelen wel een causale relatie met elkaar hebben / of er niet allerlei andere verstorende factoren een rol spelen.
