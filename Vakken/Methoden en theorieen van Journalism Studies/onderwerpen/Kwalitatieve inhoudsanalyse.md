@@ -46,7 +46,7 @@ Van algemeen naar specifiek naar algemeen (van [[inductief]] naar [[deductief]] 
 - journlisten verwijzen op dire manieren naar bronnen. Of ze noemen de bron expliciet bij naam, of ze noemen een categorie bronnen, of ze verwijzen naar welingelichte kringen of wandelgangen.
 
 
-
+Codeerproces:
 corpus:
 
 Data
