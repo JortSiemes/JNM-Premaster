@@ -39,9 +39,12 @@ BEVRAGEN
 	- statisch vraagproces, kan niet op interessante vindingen tijdens [[survey]] ingaan, dan heb je een vervolg [[survey]] nodig.
 	- Veel bevraagden vaak 100en tot 1000en.
 	- Vragenlijsten
+
 OBSERVEREN
 - [[Etnografie]]
 - [[experiment]]
+
+DOORLICHTEN
 - [[kwalitatieve inhoudsanalyse]]
 - [[kwantitatieve inhoudsanalyse]]
 
@@ -142,6 +145,8 @@ BEVRAGEN
 OBSERVEREN
 - [[Etnografie]]
 - [[experiment]]
+
+DOORLICHTEN
 - [[kwalitatieve inhoudsanalyse]]
 - [[kwantitatieve inhoudsanalyse]]
 

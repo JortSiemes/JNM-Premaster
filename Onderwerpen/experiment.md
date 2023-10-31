@@ -70,8 +70,9 @@ Voordelen:
 
 Nadelen:
 Niet geschikt voor verkennend onderzoek.
+Vaak maar een kans om echt data binnen te halen
 Her-testen is lastiger, de respondenten kennen de test.
-
+Gevaar dat proefpersonen niet komen opdagen 
 
 ### hoe werkt de methode
 
@@ -96,6 +97,32 @@ Hypothese maakt duidelijk wat de [[afhankelijke variabelen]] en [[onafhankelijke
 Ontwerp je experiment.
 Eerst onderzoeksdesign. 
 	kijk naar welke getallen afhankelijke en [[onafhankelijke variabelen]] kunnen hebben
+	1, test experiment bij doelgroep
+	2, vind proefpersonen
+	3, evalueer experimenten
+	4, Voer experiment uit
+
+5, Data 
+In SPSS
+Ga terug naar aanvankelijke onderzoeksvraag: doet de variabele wat je ervan verwachtte?
+
+6, Analyse
+Voordat je de data gaat analyseren maak je een analyseplan
+Dit analyseplan is verbinding tussen onderzoeksvraag en data.
+- voorbeelden:
+	- Frequentietabellen (gemiddelde leeftijd berekenen)
+	- Kruistabellen
+	- Chikwadraattoest significantie vaststellen van het verschil op conditie 1 en 2
+	- Verschillen berekenen op totaalscores
+
+7, Rapportage
+Experiment presenteren in een:
+- paper
+- presentatie
+- scriptie
+- poster
+
+
 
 
 
