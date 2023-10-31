@@ -2,9 +2,31 @@ Zowel bij nieuwsetnografie als bij experimenten kijk je wat er gebeurt:
 etnografie: Wat er gebeurt als je drie weken op een nieuwsredactie rondloopt.
 [[Experiment]]: wat er gebeurt als je proefpersonen foto's laat interpreteren.
 
-Hier heb je directer toegang tot wat je wilt weten.
+Kenmerken:
+- je weet niet precies waar je op moet letten
+- heel globaal kijken
+- Wel voorbereid maar onwennig begint dit onderzoek.
+- intensief veldwerk
+- systematisch aantekeningen
+- Ronde 1
+	- dingen bijhouden (aantekeningen, meeluisteren, praten)
+- Ronde 2 (na maand)
+	- alles op rij gezet
+	- onderzoeksvraag verfijnd
+	- aangepaste onderzoeksopzet
+- 
 
-Nadelen: Observaties zijn natuurlijk gekleurd door allerlei zaken in en rondom de onderzoeker.
+Etnografische vragen:
+Hoe gaat dat precies in zijn werk visuele journalistiek?
+Waar komt al die informatie uberhaupt vandaan?
+Hoe bepaal je de nieuwswaarde van immense databanken?
+Welke hulpmiddelen en vaardigheden doen er toe?
+Hoe kijken datajournalisten tegen hun specialisme aan?
+
+
+
+
+Hier heb je directer toegang tot wat je wilt weten.
 
 | ...                         | Etnografie         | [[Experiment]]          |
 | --------------------------- | ------------------ | ------------------- |
@@ -23,16 +45,29 @@ Nadelen: Observaties zijn natuurlijk gekleurd door allerlei zaken in en rondom d
 
 **Voordeel etnografie**: is dat bij een [[experiment]] je je niet precies zo gedraagt als thuis, daardoor kan je door de kunstmatige setting niet het dagelijks leven precies simuleren.
 
-Nadeel etnografie: niemand kan de werkelijkheid onbevooroordeeld waarnemen, dus een etnografisch onderzoek is altijd onder invloed van de onderzoeker zijn/haar eigen waarneming, met daarmee ook de vooroordelen.
+**Nadeel etnografie:** niemand kan de werkelijkheid onbevooroordeeld waarnemen, dus een etnografisch onderzoek is altijd onder invloed van de onderzoeker zijn/haar eigen waarneming, met daarmee ook de vooroordelen. 
+ Observaties zijn natuurlijk gekleurd door allerlei zaken in en rondom de onderzoeker.
 
-Kenmerken:
-- je weet niet precies waar je op moet letten
-- heel globaal kijken
-
-
-Observatie: je kan onverwachte verbanden ontdekken en dingen op het spoor komen waar je zelfs nog niet van had gedroomd.
+**Observatie:** je kan onverwachte verbanden ontdekken en dingen op het spoor komen waar je zelfs nog niet van had gedroomd.
 Je kan hierdoor ook belangrijke dingen over het hoofd zien.
 
-Kan gebruiken voor bestuderen:
+**Kan gebruiken voor bestuderen:**
 Menselijk handelen, denken en voelen (kan niet in geisoleerde setting bestudeerd worden)
 
+**Vergaarde Data:**
+Veel verschillende typen data:
+- gespreksverslagen
+- veldnotities
+- interviews
+- bestanden
+	- toetsenbordaanslagen (van journalisten)
+	- lijsten van nieuwsberichten
+	- e-mailverkeer
+	- twitterberichten
+Deze data is compleet anders dan dat bij een experiment.
+
+Ve
+
+
+
+[[betrouwbaarheid]]
