@@ -5,9 +5,9 @@ Week 2
 
 1, Omschrijf wat de bedoeling van Spreker B is leg uit met behulp van welk [[maxime]] je tot die bedoeling komt:
 
-1, [[Maxime]] van relatie, dit komt omdat hij eigenlijk reageert met het antwoord: Nee ik heb geen boeken gelezen. Zijn antwoord nu is niet relevant aan de gestelde vraag. Dit is openlijke schending ([[flout]]) van [[maxime]] relatie.
-2, [[Maxime]] van relatie, want antwoord is niet relevant op het antwoord hoe laat is het. Hij schendt openlijk ([[flout]]) de [[maxime]] van relatie
-3, [[Maxime]] van kwantiteit, B heeft geen zin om over lunch te praten, openlijke schending ([[flout]]) van [[maxime]] van Kwantiteit
+1, [[Maxime]] van relatie, dit komt omdat hij eigenlijk reageert met het antwoord: Nee ik heb geen boeken gelezen. Zijn antwoord nu is niet relevant aan de gestelde vraag. Dit is openlijke schending ([[Flout]]) van [[maxime]] relatie.
+2, [[Maxime]] van relatie, want antwoord is niet relevant op het antwoord hoe laat is het. Hij schendt openlijk ([[Flout]]) de [[maxime]] van relatie
+3, [[Maxime]] van kwantiteit, B heeft geen zin om over lunch te praten, openlijke schending ([[Flout]]) van [[maxime]] van Kwantiteit
 4, [[Maxime]] van kwantiteit, de dochter geeft een veel te uitgebreid antwoord, 
 	
 2, 

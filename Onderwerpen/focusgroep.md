@@ -7,7 +7,7 @@ De [[focusgroep]] is een kwalitatieve methode die verkennende en conceptontwikke
 - een thema
 - Data is transcriptie voor nodig
 - resultaten zijn concepten en typologieen
-- [[kwalitatief]]
+- [[Kwalitatief]]
 - met een dynamisch vraagproces
 - Beperkt aantal respondenten (rond de 10)
 
@@ -38,7 +38,7 @@ Complexe, veelzijdige en lastig meetbare zaken zoals:
 
 Focus groep, daar kunnen nieuwe inzichten tijdens het onderzoek de gesprekken langs andere bergen en dalen leiden
 
-| ...                  | [[Survey]]                    | [[Focusgroep]]                      |
+| ...                  | [[Survey]]                    | [[focusgroep]]                      |
 | -------------------- | ------------------------- | ------------------------------- |
 | Setting              | individueel               | in groep                        |
 | Type onderzoeksvraag | toetsend, bevestigend     | verkennend, conceptontwikkelend |
@@ -46,7 +46,7 @@ Focus groep, daar kunnen nieuwe inzichten tijdens het onderzoek de gesprekken la
 | Type resultaat       | aantallen, vergelijkingen | concepten, typologieen          |
 | Bewerking data       | directer resulstaat       | behoeft interpretatie           |
 | [[Onderwerpen]]          | meerdere [[onderwerpen]]      | focust op een onderwerp         |
-| type kennis          | [[kwantitatief]]              | [[kwalitatief]]                     |
+| type kennis          | [[kwantitatief]]              | [[Kwalitatief]]                     |
 | groepsdynamiek       | nvt                       | cruciaal                        |
 | vraagproces          | statisch                  | dynamisch                       |
 | Aantal bevraagden    | veel (vaak 100en-1000en)  | Beperkt (vaak enkele tientallen)                                |

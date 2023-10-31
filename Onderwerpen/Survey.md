@@ -20,7 +20,7 @@ Survey wordt vantevoren ontwikkeld en als deze klaar is, wordt de [[vragenlijst]
 ##### Veel statischer methode dan [[focusgroep]]
 
 
-| ...                  | [[Survey]]                    | [[Focusgroep]]                      |
+| ...                  | [[Survey]]                    | [[focusgroep]]                      |
 | -------------------- | ------------------------- | ------------------------------- |
 | Setting              | individueel               | in groep                        |
 | Type onderzoeksvraag | toetsend, bevestigend     | verkennend, conceptontwikkelend |
@@ -28,7 +28,7 @@ Survey wordt vantevoren ontwikkeld en als deze klaar is, wordt de [[vragenlijst]
 | Type resultaat       | aantallen, vergelijkingen | concepten, typologieen          |
 | Bewerking data       | directer resulstaat       | behoeft interpretatie           |
 | [[Onderwerpen]]          | meerdere [[onderwerpen]]      | focust op een onderwerp         |
-| type kennis          | [[kwantitatief]]              | [[kwalitatief]]                     |
+| type kennis          | [[kwantitatief]]              | [[Kwalitatief]]                     |
 | groepsdynamiek       | nvt                       | cruciaal                        |
 | vraagproces          | statisch                  | dynamisch                       |
 | Aantal bevraagden    | veel (vaak 100en-1000en)  | Beperkt (vaak enkele tientallen)                                |

@@ -26,7 +26,7 @@ BEVRAGEN
 	- een thema
 	- Data is transcriptie voor nodig
 	- resultaten zijn concepten en typologieen
-	- [[kwalitatief]]
+	- [[Kwalitatief]]
 	- met een dynamisch vraagproces
 	- Beperkt aantal respondenten (rond de 10)
 - [[survey]]
@@ -47,13 +47,109 @@ OBSERVEREN
 
 
 ### wanneer zet je de methode in
+BEVRAGEN
+- [[focusgroep]]
+- [[survey]]
+
+OBSERVEREN
+- [[Etnografie]]
+- [[experiment]]
+- [[kwalitatieve inhoudsanalyse]]
+- [[kwantitatieve inhoudsanalyse]]
+
+
+
+
 ### voor- en nadelen van de methode
+
+BEVRAGEN
+- [[focusgroep]]
+- [[survey]]
+
+OBSERVEREN
+- [[Etnografie]]
+- [[experiment]]
+- [[kwalitatieve inhoudsanalyse]]
+- [[kwantitatieve inhoudsanalyse]]
+
+
+
 ### hoe werkt de methode
+BEVRAGEN
+- [[focusgroep]]
+- [[survey]]
+
+OBSERVEREN
+- [[Etnografie]]
+- [[experiment]]
+- [[kwalitatieve inhoudsanalyse]]
+- [[kwantitatieve inhoudsanalyse]]
+
+
+
+
 
 ### Onderzoeksopzet
+BEVRAGEN
+- [[focusgroep]]
+- [[survey]]
+
+OBSERVEREN
+- [[Etnografie]]
+- [[experiment]]
+- [[kwalitatieve inhoudsanalyse]]
+- [[kwantitatieve inhoudsanalyse]]
+
+
+
+
+
 ### samenstelling: corpus/sample
+BEVRAGEN
+- [[focusgroep]]
+- [[survey]]
+
+OBSERVEREN
+- [[Etnografie]]
+- [[experiment]]
+- [[kwalitatieve inhoudsanalyse]]
+- [[kwantitatieve inhoudsanalyse]]
+
+
+
+
 ### dataverzameling
+BEVRAGEN
+- [[focusgroep]]
+- [[survey]]
+
+OBSERVEREN
+- [[Etnografie]]
+- [[experiment]]
+- [[kwalitatieve inhoudsanalyse]]
+- [[kwantitatieve inhoudsanalyse]]
+
+
+
+
+
 ### analyse
+BEVRAGEN
+- [[focusgroep]]
+- [[survey]]
+
+OBSERVEREN
+- [[Etnografie]]
+- [[experiment]]
+- [[kwalitatieve inhoudsanalyse]]
+- [[kwantitatieve inhoudsanalyse]]
+
+
+
+
+
+
+
 
 definitie van [[focusgroep]] kunnen opzoeken bijvoorbeeld.
 
@@ -69,7 +165,7 @@ kwantitatieve onderzoeksvraag
 - [[kwalitatief onderzoek]] (Draait het om "WAAROM vraag" hoe werkt iets, tot in detail hoe iets in [[empirische werkelijkheid]])
 - [[Kwantitatief onderzoek]] (proberen we onderzoeks opzet te maken om variabelen te meten, benieuwd naar variabelen die je vervolgens gaat meten.)
 
-- [[inductief]] ([[kwalitatief]] meestal, je vormt op basis van empiri een theorie)
+- [[inductief]] ([[Kwalitatief]] meestal, je vormt op basis van empiri een theorie)
 - [[deductief]] ([[kwantitatief]] meestal, op basis van theorie kijken naar iets in werkelijkheid)
 
 - [[betrouwbaarheid]] (levert de methode die ik heb gekozen, data op die reproduceerbaar is, kwalitatieve context gaat het over de mate waarin gekozen methode een overtuigende observatie opleverd, lastiger in [[kwalitatief onderzoek]], omdat dit gaat over "wie is de onderzoeker", de onderzoeker moet betrouwbaar zijn, krijg ik de zelfde data als ik dit nog een keer uitvoer)
@@ -77,6 +173,9 @@ kwantitatieve onderzoeksvraag
 
 - [[open en axiaal coderen]] 
 - [[onafhankelijke en afhankelijke variabelen]] 
+
+
+---
 
 # Tentamen info
 ### toegestaan materiaal tentamen:
@@ -95,6 +194,8 @@ op brightspace checken of je tentamen site kan.
 
 Ecologische = externe [[validiteit]]
 Dit is een fenomeen in de werkelijkheid
+
+---
 
 
 ## Hoofdstuk 1
@@ -140,7 +241,7 @@ tabel 2
 
 tabel 3
 
-|         | [[Kwalitatief]]    | [[Kwantitatief]]   | Kennisobject       |
+|         | [[Kwalitatief]]    | [[kwantitatief]]   | Kennisobject       |
 | ----------- | -------------- | -------------- | ------------------ |
 | Bevragen    | [[focusgroep]]     | [[survey]]         | praktijk, inhoud   |
 | Observeren  | [[Onderwerpen/Etnografie]]    | [[experiment]]     | effecten, praktijk |
@@ -162,7 +263,7 @@ Doorlichten:
 
 Welke methode je moet kiezen hangt af van de middelen die je ter beschikking hebt (tijd, geld, toegang, kennis, mensen) de aard van het onderzoeksproject en het soort informatie dat je nodig hebt. Idealiter combineer je vormen van onderzoek in een zogeheten **mixed methods-** opzet, maar in de praktijk is *mixed methods-* onderzoek voor scriptiestudenten te hoog gegrepen.
 
-| ...             | [[Kwalitatief]] onderzoek                                                                                                       | [[Kwantitatief]] onderzoek                                                                                                     |
+| ...             | [[Kwalitatief]] onderzoek                                                                                                       | [[kwantitatief]] onderzoek                                                                                                     |
 | --------------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | Onderzoeksvraag | -Beschrijft, verkent en/of verklaart complexe fenomenen concepten en processen -gaat over hoe- en waaromvragen              | -beschrijft, voorspelt en/of verklaart een relatie tussen variabelen - gaat over hoeveel, hoe vaak, wanneer                |
 | Onderzoeksopzet | -is flexibel en kan bijgesteld worden tijdens het onderzoek -is gericht op natuurlijke observatie -is beredeneerd selectief | -is vooraf bepaald en wordt strikt gevolgd -is gericht op gecontroleerde observatie - is theoretisch selectief           |
@@ -189,7 +290,7 @@ Bij kwantitatieve onderzoeksvragen staan de hypothese en het kennisdoel van de o
 [[Kwalitatief]] onderzoek, prijs op natuurlijke observatie (je bestudeert een sociaal proces of een bepaalde groep mensen in hun natuurlijke omgeving)
 	Dus geen laboratoriumexperimenten
 
-[[Kwantitatief]] onderzoek, veronderstelt een stabiele, controleerbare onderzoeksomgeving. Hier krijgt onderzoeksopzet een nauwkeurig en strikt karakter,
+[[kwantitatief]] onderzoek, veronderstelt een stabiele, controleerbare onderzoeksomgeving. Hier krijgt onderzoeksopzet een nauwkeurig en strikt karakter,
 Kwantitatieve wetenschappers werken met protocollen:
 - procedures die voorschrijven hoe je te werk moet gaan
 - vragenlijsten met een vaste structuur
@@ -199,11 +300,11 @@ BIJV: enquête, steekproef (moet wel statistisch representatief zijn)
 
 ##### Dataverzameling:
 Kwalitatieve data zijn divers.
-Dataverzameling in [[kwalitatief]] onderzoek is procesgestuurd en contextafhankelijk.
+Dataverzameling in [[Kwalitatief]] onderzoek is procesgestuurd en contextafhankelijk.
 [[Kwalitatief]] onderzoek toegang toe en/of langdurig contact met het onderzoeksveld.
 Cyclisch te werk gaan: observeren, bouwt een voorzichtige interpretatie op, die stel je bij in een volgende observatieronde, vervolgens let je die bijgestelde interpretatie voor aan je informanten
 
-[[Kwantitatief]] onderzoek kent een rechtlijnig verloop.
+[[kwantitatief]] onderzoek kent een rechtlijnig verloop.
 De onderzoeksopzet ligt van tevoren vast.
 Je weet welke data je precies wilt verzamelen en test de onderzoeksprotocol.
 Een incentive = hulpmiddel om mensen te motiveren voor enquete (bioscooptickets, kortingsbon, reisje verloten onder deelnemers aan onderzoek)
@@ -217,9 +318,9 @@ Analyse wordt weergegeven in woorden en beelden.
 Kwalitatieve onderzoeksvragen gaan meestal over complexe, meerduidige processen.
 Streven in analyse = unieke, veelzeggende uitkomsten die inhoudelijk representatief zijn voor het onderzoeksprobleem.
 
-[[Kwantitatief]] onderzoek streeft naar voorspelbare, algemeen geldende resultaten. 
+[[kwantitatief]] onderzoek streeft naar voorspelbare, algemeen geldende resultaten. 
 Statistiek is het middel om verbanden cijfermatig vast te stellen.
-[[Kwantitatief]] onderzoek test hypothesen cijfermatig. 
+[[kwantitatief]] onderzoek test hypothesen cijfermatig. 
 Daarmee kan het erg precies zeggen of een bepaalde relatie tussen onderzoekseenheden van belang is
 ##### [[Inductie]] 
 
@@ -238,7 +339,7 @@ Focusgroepen leveren concepten en typologieen op. Focusgroeponderzoek zal veel v
 
 Focus groep, daar kunnen nieuwe inzichten tijdens het onderzoek de gesprekken langs andere bergen en dalen leiden
 
-| ...                  | [[Survey]]                    | [[Focusgroep]]                      |
+| ...                  | [[Survey]]                    | [[focusgroep]]                      |
 | -------------------- | ------------------------- | ------------------------------- |
 | Setting              | individueel               | in groep                        |
 | Type onderzoeksvraag | toetsend, bevestigend     | verkennend, conceptontwikkelend |
@@ -246,17 +347,17 @@ Focus groep, daar kunnen nieuwe inzichten tijdens het onderzoek de gesprekken la
 | Type resultaat       | aantallen, vergelijkingen | concepten, typologieen          |
 | Bewerking data       | directer resulstaat       | behoeft interpretatie           |
 | [[Onderwerpen]]          | meerdere [[onderwerpen]]      | focust op een onderwerp         |
-| type kennis          | [[kwantitatief]]              | [[kwalitatief]]                     |
+| type kennis          | [[kwantitatief]]              | [[Kwalitatief]]                     |
 | groepsdynamiek       | nvt                       | cruciaal                        |
 | vraagproces          | statisch                  | dynamisch                       |
 | Aantal bevraagden    | veel (vaak 100en-1000en)  | Beperkt (vaak enkele tientallen)                                |
 
-## 2 [[Focusgroep]]
+## 2 [[focusgroep]]
 
 ## 3 [[Survey]]
 ## 4 [[Etnografie]]
 
-## 5 [[Experiment]]
+## 5 [[experiment]]
 ## 6 [[Kwalitatieve inhoudsanalyse]]
 
 ## 7 [[Kwantitatieve inhoudsanalyse]]

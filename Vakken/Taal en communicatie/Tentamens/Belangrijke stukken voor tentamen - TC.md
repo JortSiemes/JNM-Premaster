@@ -57,7 +57,7 @@ Ik heb twee zonen
 
 Je kan ook een [[Maxime]] Schenden of overtreden (dit is niet cooperatief)
 
-Je kan ook een [[Maxime]] uitbuiten of exploiteren ([[flout]]).
+Je kan ook een [[Maxime]] uitbuiten of exploiteren ([[Flout]]).
 Als je dit openlijk doet (overt): het is de bedoeling dat de hoorder dit doorheeft. Ook wel **openlijke schending/overtreding** De spreker is dan nogsteeds coöperatief
 
 

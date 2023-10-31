@@ -1,6 +1,6 @@
 Zowel bij nieuwsetnografie als bij experimenten kijk je wat er gebeurt:
 etnografie: Wat er gebeurt als je drie weken op een nieuwsredactie rondloopt.
-[[Experiment]]: wat er gebeurt als je proefpersonen foto's laat interpreteren.
+[[experiment]]: wat er gebeurt als je proefpersonen foto's laat interpreteren.
 
 Kenmerken:
 - je weet niet precies waar je op moet letten
@@ -8,6 +8,7 @@ Kenmerken:
 - Wel voorbereid maar onwennig begint dit onderzoek.
 - intensief veldwerk
 - systematisch aantekeningen
+- transcriberen voor data analyse
 - Ronde 1
 	- dingen bijhouden (aantekeningen, meeluisteren, praten)
 - Ronde 2 (na maand)
@@ -15,9 +16,11 @@ Kenmerken:
 	- onderzoeksvraag verfijnd
 	- aangepaste onderzoeksopzet
 - GAAT NIET OVER CIJFERS GRAFIEKEN > MAAR HOLISTISCHE KENNIS VAN SITUATIES
-- [[kwalitatief]]
+- [[Kwalitatief]]
 - perspectief van onderzochten staat centraal
 - cyclisch onderzoeksproces
+- Doelen: verkennen, beschrijven, verklaren
+- Etnografie werkt constrastief
 
 Etnografische vragen:
 Hoe gaat dat precies in zijn werk visuele journalistiek?
@@ -28,7 +31,7 @@ Hoe kijken datajournalisten tegen hun specialisme aan?
 
 Hier heb je directer toegang tot wat je wilt weten.
 
-| ...                         | Etnografie         | [[Experiment]]          |
+| ...                         | Etnografie         | [[experiment]]          |
 | --------------------------- | ------------------ | ------------------- |
 | Setting                     | Natuurlijk         | Kunstmatig          |
 | Observatie                  | Ongestructureerd   | Zeer Gestructureerd |
@@ -38,7 +41,7 @@ Hier heb je directer toegang tot wat je wilt weten.
 | [[Validiteit]]                  | Groot              | Minder groot        |
 | [[Betrouwbaarheid]]             | Minder groot       | groot               |
 | Controlemogelijkheden       | Minder groot       | groot               |
-| Data                        | [[Kwalitatief]]        | [[Kwantitatief]]                    |
+| Data                        | [[Kwalitatief]]        | [[kwantitatief]]                    |
 
 
 **Setting:** Etnografie speelt zich per definitie af in een natuurlijke setting: de onderzoeker staat als participerend onderzoeker of als buitenstaander midden in de omgeving die hij onderzoekt. 
@@ -81,7 +84,20 @@ Onderzoeksvraag
 formuleren van een algemene onderzoeksvraag
 Voorbeeld: Hoe gebruiken webredacteuren van NOS op 3 bestaande on en offline media bij de productie van hun eigen artikelen?
 
-
+ aandachtspunten bij observeren: (P.93)
+ 1. Plaats
+ 2. Persoon
+ 3. Activiteit
+ 4. Technologie
+ 5. Actie
+ 6. Interactie
+ 7. Taalgebruik
+ 8. Tekst
+ 9. Ritueel
+ 10. Tijd
+ 11. Doel
+ 12. Representatie
+ 13. Context
 
 
 
