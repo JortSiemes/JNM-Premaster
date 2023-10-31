@@ -62,14 +62,41 @@ Als je kwantitatieve uitspraken wilt doen over grote groepen mensen
 Mediagebruik, mediaproductie, waardering van media
 
 ### voor- en nadelen van de methode
+- Validiteit en betrouwbaarheid van de vraagstelling
+- Respondenten bereiken
+- Selectieve non-respons
+-  Object van studie verandert door onderzoek: waarom
+- Wenselijke antwoorden
 
 ### hoe werkt de methode
 
+1.      Onderzoeksopzet
+	- Vragenlijst opstellen
+		-   Hoe stel je de vragen
+		-  Hoe maak je variabelen meetbaar?
+		-  Van onderzoeksvraag naar survey vragen
+		- Test je vragenlijst
+2.      Samenstelling steekproef 
+
+Steekproef trekken
+Wanneer is een steekproef representatief (sample size calculator)
+- Respondenten bereiken -> lastig want veel reageren niet
+
+3.      Data verzamelen
+ Antwoorden vertalen in getallen
+
+4.      Analyse
+Statistiek
+
 ### Onderzoeksopzet
+
 
 ### samenstelling: corpus/sample
 
+
 ### dataverzameling
 
+
 ### analyse
+
 
