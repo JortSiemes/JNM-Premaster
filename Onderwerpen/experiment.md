@@ -124,14 +124,9 @@ Experiment presenteren in een:
 
 
 
-
-
-
-
-
 ### Onderzoeksopzet
 
-
+'fillers toevoegen'
 
 
 
@@ -146,6 +141,18 @@ Experiment presenteren in een:
 ### dataverzameling
 
 
+In SPSS
+Ga terug naar aanvankelijke onderzoeksvraag: doet de variabele wat je ervan verwachtte?
+
+
 
 
 ### analyse
+
+Voordat je de data gaat analyseren maak je een analyseplan
+Dit analyseplan is verbinding tussen onderzoeksvraag en data.
+- voorbeelden:
+	- Frequentietabellen (gemiddelde leeftijd berekenen)
+	- Kruistabellen
+	- Chikwadraattoest significantie vaststellen van het verschil op conditie 1 en 2
+	- Verschillen berekenen op totaalscores

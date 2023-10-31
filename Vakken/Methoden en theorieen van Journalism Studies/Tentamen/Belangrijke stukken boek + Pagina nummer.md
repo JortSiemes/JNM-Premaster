@@ -50,105 +50,19 @@ DOORLICHTEN
 
 
 ### wanneer zet je de methode in
-BEVRAGEN
-- [[focusgroep]]
-- [[survey]]
-
-OBSERVEREN
-- [[Etnografie]]
-- [[experiment]]
-- [[kwalitatieve inhoudsanalyse]]
-- [[kwantitatieve inhoudsanalyse]]
-
-
-
 
 ### voor- en nadelen van de methode
 
-BEVRAGEN
-- [[focusgroep]]
-- [[survey]]
-
-OBSERVEREN
-- [[Etnografie]]
-- [[experiment]]
-- [[kwalitatieve inhoudsanalyse]]
-- [[kwantitatieve inhoudsanalyse]]
-
-
-
 ### hoe werkt de methode
-BEVRAGEN
-- [[focusgroep]]
-- [[survey]]
-
-OBSERVEREN
-- [[Etnografie]]
-- [[experiment]]
-- [[kwalitatieve inhoudsanalyse]]
-- [[kwantitatieve inhoudsanalyse]]
-
-
-
-
 
 ### Onderzoeksopzet
-BEVRAGEN
-- [[focusgroep]]
-- [[survey]]
-
-OBSERVEREN
-- [[Etnografie]]
-- [[experiment]]
-- [[kwalitatieve inhoudsanalyse]]
-- [[kwantitatieve inhoudsanalyse]]
-
-
-
-
 
 ### samenstelling: corpus/sample
-BEVRAGEN
-- [[focusgroep]]
-- [[survey]]
-
-OBSERVEREN
-- [[Etnografie]]
-- [[experiment]]
-- [[kwalitatieve inhoudsanalyse]]
-- [[kwantitatieve inhoudsanalyse]]
-
-
-
 
 ### dataverzameling
 
-BEVRAGEN
-- [[focusgroep]]
-- [[survey]]
-
-OBSERVEREN
-- [[Etnografie]]
-- [[experiment]]
-- [[kwalitatieve inhoudsanalyse]]
-- [[kwantitatieve inhoudsanalyse]]
-
-
-
-
 ### analyse
 
-BEVRAGEN
-- [[focusgroep]]
-- [[survey]]
-
-OBSERVEREN
-- [[Etnografie]]
-- [[experiment]]
-
-DOORLICHTEN
-- [[kwalitatieve inhoudsanalyse]]
-- [[kwantitatieve inhoudsanalyse]]
 
 
 
