@@ -1,10 +1,18 @@
 interpretatie, eigenschappen en kwaliteiten
 
+Patronen blootleggen, mogelijke oorzaken in kaart brengen en categorieën in berichtgeving benoemen -> typologieën
+
 Kenmerken:
 - Bestuderen van inhoud
 - legt patronen bloot
 - brengt mogelijke oorzaken in kaart
-- 
+- Interpretatieve vragen aan teksten
+- Rol van de context belangrijk
+- Betrouwbaarheid laag
+- Validiteit hoog
+- Cyclisch onderzoeken (steeds van data naar theorie en terug)
+
+Inductief naar deductief naar inductief etc
 
 
 Onderzoeksopzet staat niet vast, cyclus staat niet vast.
