@@ -15,8 +15,9 @@ Kenmerken:
 	- onderzoeksvraag verfijnd
 	- aangepaste onderzoeksopzet
 - GAAT NIET OVER CIJFERS GRAFIEKEN > MAAR HOLISTISCHE KENNIS VAN SITUATIES
-- kwalitatief
+- [[kwalitatief]]
 - perspectief van onderzochten staat centraal
+- cyclisch onderzoeksproces
 
 Etnografische vragen:
 Hoe gaat dat precies in zijn werk visuele journalistiek?
@@ -24,10 +25,6 @@ Waar komt al die informatie uberhaupt vandaan?
 Hoe bepaal je de nieuwswaarde van immense databanken?
 Welke hulpmiddelen en vaardigheden doen er toe?
 Hoe kijken datajournalisten tegen hun specialisme aan?
-
-Wanneer zet je etnografie in?
-
-
 
 Hier heb je directer toegang tot wat je wilt weten.
 
@@ -67,7 +64,7 @@ Veel verschillende typen data:
 	- lijsten van nieuwsberichten
 	- e-mailverkeer
 	- twitterberichten
-Deze data is compleet anders dan dat bij een experiment.
+Deze data is compleet anders dan dat bij een [[experiment]].
 
 **Verwerken Data:**
 Deze laad je in een softwarepakket om te filteren.
@@ -75,6 +72,17 @@ Ontwikkelen van codes waarmee je verschillende databronnen kan filteren, organis
 
 **Etnografie presenteren:**
 presenteren van inzichten in taal van onderzochten en eerlijk reflecteren over eigen rol in onderzoeksproces.
+
+### Stappenplan:
+ongestructureerd, vergeleken met bijv [[focusgroep]]
+In een cyclisch onderzoeksproces, De onderzoeker herhaalt bepaalde fasen van data verzamelen en analyseren en stelt zijn interpretaties bij tot je 'verzadiging' hebt bereikt.
+
+Onderzoeksvraag
+formuleren van een algemene onderzoeksvraag
+Voorbeeld: Hoe gebruiken webredacteuren van NOS op 3 bestaande on en offline media bij de productie van hun eigen artikelen?
+
+
+
 
 
 
