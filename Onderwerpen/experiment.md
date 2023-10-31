@@ -14,7 +14,7 @@ Kenmerken:
 - [[Betrouwbaarheid]] is groot (kan vaak herhaald worden)
 - Controlemogelijkheden zijn groot
 - Data is [[kwantitatief]]
-- Veel variabelen
+- Veel [[variabelen]]
 
 | ...                         | [[Etnografie]]         | [[experiment]]          |
 | --------------------------- | ------------------ | ------------------- |
