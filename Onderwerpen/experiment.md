@@ -15,6 +15,7 @@ Kenmerken:
 - Controlemogelijkheden zijn groot
 - Data is [[kwantitatief]]
 - Veel [[variabelen]]
+- Hypothese vanaf het begin
 
 | ...                         | [[Etnografie]]         | [[experiment]]          |
 | --------------------------- | ------------------ | ------------------- |
@@ -49,8 +50,16 @@ Observatie: je kijkt door een "microscoop" naar de werkelijkheid: dat waarop je 
 
 ### wanneer zet je de experiment methode in
 
+Het experiment als onderzoeksmethode is met name geschikt voor onderzoeksvragen die effecten van specifieke variabelen meten. Typische vragen voor experimenten zijn vragen naar het WAAROM en HOE. vragen naar wat het BESTE WERKT.
+
+Experimenten zet je vooral in als we een toetsende onderzoeksvraag hebben.
++
+Een idee hebt wat er ongeveer uit zou moeten komen
+
+Baseren van hypothese doe je altijd op bestaande theorie.
 
  je kijkt door een "microscoop" naar de werkelijkheid: dat waarop je je zicht neem heel precies waarnemen. Wat er omheen zit wil je niet zien.
+
 
 
 
@@ -59,11 +68,13 @@ Observatie: je kijkt door een "microscoop" naar de werkelijkheid: dat waarop je 
 Voordelen:
 
 Nadelen:
+Niet geschikt voor verkennend onderzoek.
 
 
 
 ### hoe werkt de methode
 
+Stappenplan:
 
 
 
