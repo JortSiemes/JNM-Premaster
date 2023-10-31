@@ -23,6 +23,8 @@ Nadelen: Observaties zijn natuurlijk gekleurd door allerlei zaken in en rondom d
 
 **Voordeel etnografie**: is dat bij een [[experiment]] je je niet precies zo gedraagt als thuis, daardoor kan je door de kunstmatige setting niet het dagelijks leven precies simuleren.
 
+Nadeel etnografie: niemand kan de werkelijkheid onbevooroordeeld waarnemen, dus een etnografisch onderzoek is altijd onder invloed van de onderzoeker zijn/haar eigen waarneming, met daarmee ook de vooroordelen.
+
 Kenmerken:
 - je weet niet precies waar je op moet letten
 - heel globaal kijken
@@ -30,3 +32,7 @@ Kenmerken:
 
 Observatie: je kan onverwachte verbanden ontdekken en dingen op het spoor komen waar je zelfs nog niet van had gedroomd.
 Je kan hierdoor ook belangrijke dingen over het hoofd zien.
+
+Kan gebruiken voor bestuderen:
+Menselijk handelen, denken en voelen (kan niet in geisoleerde setting bestudeerd worden)
+

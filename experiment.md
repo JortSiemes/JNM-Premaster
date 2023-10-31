@@ -15,4 +15,4 @@ Kenmerken:
 - heel globaal kijken
 
 
-Observatie: je kijkt door een "microscoop" naar de werkelijkheid: dat waarop je je zicht neem heel precies waarnemen.
+Observatie: je kijkt door een "microscoop" naar de werkelijkheid: dat waarop je je zicht neem heel precies waarnemen. Wat er omheen zit wil je niet zien.
