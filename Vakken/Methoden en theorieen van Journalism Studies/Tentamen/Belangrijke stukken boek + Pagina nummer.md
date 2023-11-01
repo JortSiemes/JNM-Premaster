@@ -314,7 +314,7 @@ Focus groep, daar kunnen nieuwe inzichten tijdens het onderzoek de gesprekken la
 
 ### [[Inhoudsanalyse]]
 
-### Methodologische opzet
+### [[Methodologische opzet]]
 
 ### Empirische gegevens verzamelen, bewerken, analyseren
 
