@@ -139,7 +139,13 @@ In het artikel “Citizen journalism and credibility of authoritarian government
 In het artikel “News Values on Instagram: A Comparative Study of International News” (Vertaling: “Nieuwswaarden op Instagram: een vergelijkende studie van internationaal nieuws”) zoeken onderzoekers Al-Rawi, Al-Musalli & Fakida (2021) uit wat de nieuwsvoorkeuren zijn van het Instagram-publiek. Ze doen dat door middel van onder andere een inhoudsanalyse. (max 400 woorden; 30 pnt; 10 per deelvraag.)
 
 1. Deze inhoudsanalyse zou zowel een kwalitatieve als een kwantitatieve kunnen zijn. Leg uit hoe een theoretisch vertrekpunt als Nieuwswaardentheorie zowel het ontwerp als de analyse van 1) een kwalitatieve en 2) een kwantitatieve opzet van een dergelijke inhoudsanalyse bepaalt.
-2. Hoe zouden ze tewerk zijn gegaan als ze gebruik hadden gemaakt van de zogenoemde “grounded theory benadering”?
-3. Geef een voorbeeld van een kwantitatief resultaat en een voorbeeld van een kwalitatief resultaat van deze studie.
+
+wat invloed heeft op, hoe nieuws belangrijk word gemaakt, je moet ze allebei noemen.
+- hoe vaak word willem alexander genoemd? (kwantitatief)
+- wat maakt nieuws betekenisvol om in volkskrant te komen (kwalitatief)
+
+
+1. Hoe zouden ze tewerk zijn gegaan als ze gebruik hadden gemaakt van de zogenoemde “grounded theory benadering”?
+2. Geef een voorbeeld van een kwantitatief resultaat en een voorbeeld van een kwalitatief resultaat van deze studie.
 
 **[Normantwoord:**] a. Genoemd moet worden de invloed van theorie op codeerproces in 1) kwal. opzet: **cyclisch/iteratief** proces, heen en weer tussen theorie en labels/codes, thema’s/categorieën. Deze wisselwerking informeert het op te stellen  **coding frame** en 2) kwan. opzet: **lineair** proces, o.b.v. theorie **codeboek** opstellen, theorie  informeert beschrijving/operationalisering codes; b. Duidelijk moet worden dat het hier om een **inductieve** analyse gaat, dwz. theoriegenererend (_codes/categorieën komen voort uit data_) ipv theoretisch vertrekpunt. c. kwal. resultaat: **patronen** nieuwsvoorkeuren, o.a. typologie, kwaliteiten etc.; kwan. resultaat: **frequentie** nieuwsvoorkeuren, o.a. meer/minder, percentages, waarden, gemiddelden etc..
