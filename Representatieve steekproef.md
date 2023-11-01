@@ -1,3 +1,8 @@
+[[steekproef]] doen omdat je nooit alles kan onderzoeken
+
+Hoe kan je nagaan of je een representatieve steekproef hebt in je resultaten?
+Door **controlevariabelen** in je vragenlijst op te nemen en die te vergelijken met bestaande cijfers over je populatie.
+
 Een representatieve steekproef is een steekproef waarmee statistische conclusies kunnen worden getrokken op het niveau van een hele populatie. Met andere woorden, een representatieve steekproef heeft dezelfde kenmerken als de doelpopulatie en voldoet aan de statistische vereisten voor extrapolatie. Het is een subset met gegevens, meestal van een grotere groep, die vergelijkbare eigenschappen hebben. Met een representatieve steekproef kunt u grotere populaties analyseren, omdat de gegenereerde gegevens kleinere versies van de grotere groep bevatten die beter kunnen worden verwerkt.
 
 Bijvoorbeeld, stel u hebt een groep van 150 mannen en 150 vrouwen die een cursus hebben gedaan. U bent benieuwd naar hun feedback over het programma om problemen te vinden en na te gaan wat de deelnemers het waardevolst vonden. Door een representatieve steekproef te gebruiken bij uw enquête, hebt u geen reacties nodig van de meeste mensen die mee doen aan de cursus. In plaats daarvan kunt u betrouwbaar onderzoek doen bij bijvoorbeeld 60 personen: 30 mannen en 30 vrouwen. Hun reacties zouden representatief moeten zijn voor de groep als geheel2.
