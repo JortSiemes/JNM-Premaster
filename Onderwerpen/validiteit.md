@@ -33,3 +33,9 @@ Bijvoorbeeld: in hoeverre de situatie van mensen in een zaaltje die terwijl ze w
 
 
 interne validiteit en [[betrouwbaarheid]] heel hoog, 
+
+
+**Interne** [[validiteit]]: Draait om het uitsluiten van alternatieve verklaringen
+**externe** [[validiteit]]: De mate waarin we de resultaten uit het onderzoek kunnen generaliseren
+
+### **Experimenter's Dilemma**: hoe meer experimentele controle, hoe hoger de interne [[validiteit]], maar hoe lager de externe [[validiteit]], (en omgekeerd dilemma voor etnograaf)

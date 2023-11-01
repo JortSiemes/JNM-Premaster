@@ -25,14 +25,14 @@ Belangrijke begrippen
 
 
 
-|                 | Kwalitatief (=weten) | Kwantitatief (=meten) |
+|                 | [[Kwalitatief]] (=weten) | [[Kwantitatief]] (=meten) |
 | --------------- | -------------------- | --------------------- |
 | Onderzoeksvraag |                      |                       |
 | Onderzoeksopzet |                      |                       |
 | Dataverzameling |                      |                       |
 | Voor de analyse |                      |                       | 
 
-|          | Kwalitatief  | kwantitatief |
+|          | [[Kwalitatief]]  | [[kwantitatief]] |
 | -------- | ------------ | ------------ |
 | bevragen | focusgroepen | surveys      | 
 

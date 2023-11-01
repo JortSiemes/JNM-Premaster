@@ -5,7 +5,7 @@ Surveys & Focusgroepen
 ### [[Onderwerpen/Etnografie]]:
 Ethnos (volk, mensen) + grapho (schrijven)
 
-|                 | [[Onderwerpen/Etnografie]]   | Experiment    |
+|                 | [[Onderwerpen/Etnografie]]   | [[Experiment]]    |
 | --------------- | ------------- | ------------- |
 | Onderzoeksvraag | verkennend    | voorspellend  | 
 | Werkelijkheid   | observeerbaar | meetbaar      |
@@ -19,7 +19,7 @@ Ethnos (volk, mensen) + grapho (schrijven)
 de werkelijkheid is te complex. Menselijk handelen, denken en voelen is geen kwestie van natuurkundige wetten die je in isolatie kunt bestuderen.
 *Hier is de onderzoeker het instrument. en dit vraagt om zelfreflectie*
 
-Experiment:
+[[Experiment]]:
 Je moet van tevoren precies duidelijk maken wat je zoekt en hoe je dat waarneemt, anders krijgen vooroordelen te veel de overhand.
 *Hier wil de onderzoeker hun invloed juist zo veel mogelijk minimaliseren*
 
@@ -57,7 +57,7 @@ Setting (ruimte, aankleding, organisatie)
 Hoe ontstaan de **Interacties** (welke sociale normen zijn relevant? hoe praten actoren? Hoe lang duurt de interactie? Wanneer is de interactie klaar?)
 Hoe krijgen actoren de **aandacht**?
 Waar en wanneer hebben actoren interactie
-Welke gebeurtenissen zijn belangrijk?
+Welke [[gebeurtenissen]] zijn belangrijk?
 
 #### Tentamenvraag:
 Uit recente studies blijkt dat de digitalisering van het medialandschap een merkwaardige paradox heeft veroorzaakt. We hebben toegang tot steeds meer informatie, maar die informatie lijkt steeds meer op elkaar. Het nieuwsaanbod homogeniseerd.
@@ -71,35 +71,35 @@ De homogenisering van het nieuwsaanbod veronderstelt observatie: met je eigen og
 Herleidbaarheid van geïsoleerd causaal effect van X op Y
 
 [[Hypotheses]] = de rol van theorie
-maakt een hypothese en vervolgens kijk je tijdens experiment of deze hypothese falsifieerbaar is.
+maakt een hypothese en vervolgens kijk je tijdens [[experiment]] of deze hypothese falsifieerbaar is.
 
 Voor hypothese: alle zwanen zijn wit (moet je opzoek naar de zwarte zwaan)
 	je kan een hypothese nooit met waarheid bevestigen
 Doel is om hypothese te weerleggen: Wetenschappelijke kennis = theorie
 
-Karakteristieken van een experiment:
-- Een experiment is een objectieve observatie van fenomenen die men doet plaatsvinden in een strikt gecontroleerde omgeving waarin een factor wordt gevarieerd en alle andere constant worden gehouden.
+Karakteristieken van een [[experiment]]:
+- Een [[experiment]] is een objectieve observatie van fenomenen die men doet plaatsvinden in een strikt gecontroleerde omgeving waarin een factor wordt gevarieerd en alle andere constant worden gehouden.
 Vereisten:
 - gecontroleerde omgeving
 - invloed van onderzoeker zoveel mogelijk beperkt
-- verbanden tussen variabelen vaststellen
+- verbanden tussen [[variabelen]] vaststellen
 - statische onderzoeksopzet
 - [[deductief]], toestend onderzoek
-- kwantitatief, resultaten zijn in cijfers, tabellen en grafieken uit te drukken
+- [[kwantitatief]], resultaten zijn in cijfers, tabellen en grafieken uit te drukken
 
 Voorbeelden openlijk observeerbaar gedrag:
 - bewegingen, verbale uitingen, responsen op een [[vragenlijst]], fysiologische metingen,...
-- inwendige gebeurtenissen: worden **afgeleid** uit openlijk observeerbaar gedrag, zoals geheugen, intelligentie, persoonlijkheid,...
-- Onderzoeker manipuleert [[variabele]] en gaat na welke fenomenen daardoor plaatsvinden
+- inwendige [[gebeurtenissen]]: worden **afgeleid** uit openlijk observeerbaar gedrag, zoals geheugen, intelligentie, persoonlijkheid,...
+- Onderzoeker manipuleert [[variabelen]] en gaat na welke fenomenen daardoor plaatsvinden
 
-Wat is een [[variabele]](n)?
+Wat is een [[variabelen]]?
 dit zijn dingen die kunnen variëren
 
-Onafhankelijke variabelen  -> afhankelijke variabelen
+[[Onafhankelijke variabelen]]  -> [[afhankelijke variabelen]]
 
 Zijn de variablen observeerbaar?
-zo nee, wat zijn dan de afgeleiden variabelen?
-Welke variabelen ga je manipuleren om het effect te meten?
+zo nee, wat zijn dan de afgeleiden [[variabelen]]?
+Welke [[variabelen]] ga je manipuleren om het effect te meten?
 
 
 Wat is [[Validiteit]]?
@@ -111,14 +111,14 @@ Wat is [[Validiteit]]?
 
 
 [[Betrouwbaarheid]]
-Als het experiment wordt herhaald, komt de onderzoeker dan tot dezelfde resultaten?
+Als het [[experiment]] wordt herhaald, komt de onderzoeker dan tot dezelfde resultaten?
 
 
 Tentamenvraag:
 What is the effect on memory when seemingly innocuous photos accompany false reports of the news? We asked people to read news headlines of world events, some of which were false. Half the headlines appeared with photographs that were tangentially related to the event; others were presented without photographs. People saw each headline only once, and indicated whether they remembered the event, knew about it, or neither. Photos led people to immediately and confidently remember false news events. Drawing on the Source Monitoring Framework (Johnson, Hashtroudi, & Lindsay, 1993), we suggest that people often relied on familiarity and other heuristic processes when making their judgments and thus experienced effects of the photos as evidence of memory for the headlines.
 ****
-Strange, Garry, Bernstein & Lindsay (2010) beschrijven een experiment naar het effect van foto’s op het onthouden van nieuws. 
-• wat zijn hun afhankelijke en onafhankelijke variabelen? 
+Strange, Garry, Bernstein & Lindsay (2010) beschrijven een [[experiment]] naar het effect van foto’s op het onthouden van nieuws. 
+• wat zijn hun afhankelijke en [[onafhankelijke variabelen]]? 
 • wat is de functie van hun theoretisch kader? 
 • waarom hebben ze niet voor een enquête als methode gekozen? 
 • vat hun onderzoeksdesign in een schema samen.
@@ -127,5 +127,5 @@ Strange, Garry, Bernstein & Lindsay (2010) beschrijven een experiment naar het e
 
 Voorbereiden lezing volgende week:
 
-Preface: inhoudsanalyse + hoofdstuk 6&7 pp.129-172
+Preface: [[inhoudsanalyse]] + hoofdstuk 6&7 pp.129-172
 

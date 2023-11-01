@@ -21,7 +21,19 @@ Kenmerken:
 - perspectief van onderzochten staat centraal
 - cyclisch onderzoeksproces
 - Doelen: verkennen, beschrijven, verklaren
-- Etnografie werkt constrastief
+Etnografie werkt constrastief
+	Veldwerk: natuurlijke omgeving
+	Dagen, maanden, jaren
+	Rol onderzoeker: participant observer (meestal)
+	[[Thick discriptions]]
+	Verzamelt data uit eerste hand
+	Iteratief = meerdere cycli nodig
+	[[inductief]] = genereert theorie
+	Verschillende kwalitatieve data
+	bronnen = aantekeningen
+	transcripten, documenten
+	Analyse: coderen (open & axiaal)
+	Resultaten: concepten & typologien
 
 Etnografische vragen:
 Hoe gaat dat precies in zijn werk visuele journalistiek?
@@ -103,7 +115,7 @@ Voorbeeld: Hoe gebruiken webredacteuren van NOS op 3 bestaande on en offline med
 [[betrouwbaarheid]]
 
 ### wanneer zet je de methode in
-Bij onderwerpen waar weinig wetenschappelijke kennis is, en waarbij je een voordeel verwacht van natuurlijke observatie
+Bij [[onderwerpen]] waar weinig wetenschappelijke kennis is, en waarbij je een voordeel verwacht van natuurlijke observatie
 - Zelfstandig: verkenning van nieuwe ontwikkelingen in het veld (AI)
 - Ondersteunend: om hypothesen te genereren die met kwantitatieve methoden getoetst kunnen worden
 ### voor- en nadelen van de methode

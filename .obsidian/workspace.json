@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md",
+                "file": "Onderwerpen/kwantitatief.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,8 +23,12 @@
             "id": "468546ee81df7344",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Onderwerpen/Etnografie.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -103,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Onderwerpen/Etnografie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Onderwerpen/Etnografie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Onderwerpen/Etnografie.md"
+              }
             }
           }
         ],
@@ -163,32 +171,32 @@
   },
   "active": "468546ee81df7344",
   "lastOpenFiles": [
-    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 2 methoden en theorieen van journalism studies.md",
-    "Vakken/Woorden als wapens/Onderwerpen/Metafoor.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 1 Methoden en theorieen van journalism studies.md",
+    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 4 Methode en Theorie van Journalism Studies.md",
+    "Onderwerpen/validiteit.md",
+    "variabelen.md",
+    "Onderwerpen/Etnografie.md",
+    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 3 Methode en Theorie van Journalism Studies.md",
+    "Onderwerpen/onafhankelijke en afhankelijke variabelen.md",
+    "Afhankelijke variabelen.md",
+    "Onafhankelijke variabelen.md",
+    "Onderwerpen/open en axiaal coderen.md",
+    "Onderwerpen/betrouwbaarheid.md",
+    "Onderwerpen/inductief.md",
+    "Onderwerpen/Kwalitatief onderzoek.md",
+    "Onderwerpen/kwantitatief.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md",
+    "Onderwerpen/empirische werkelijkheid.md",
+    "Onderwerpen/Empirische cyclus.md",
+    "Empirisch onderzoek.md",
+    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 2 methoden en theorieen van journalism studies.md",
+    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 1 Methoden en theorieen van journalism studies.md",
+    "Vakken/Woorden als wapens/Onderwerpen/Metafoor.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Tentamen 2 Nov.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 5 Methode en Theorie van Journalism Studies.md",
     "Grounded theory benadering.md",
-    "Onderwerpen/inductief.md",
     "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwalitatieve inhoudsanalyse.md",
     "Representatieve steekproef.md",
-    "Onderwerpen/validiteit.md",
     "steekproef.md",
-    "Analyse niveaus.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwantitatieve inhoudsanalyse.md",
-    "Onderwerpen/rolperceptie.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 6 Methode en Theorie van Journalism Studies.md",
-    "variabelen.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 4 Methode en Theorie van Journalism Studies.md",
-    "Audience expectations.md",
-    "Role performance.md",
-    "Role concepts.md",
-    "Onderwerpen/framingtheorie.md",
-    "Onderwerpen/frame-setting.md",
-    "Onderwerpen/frame-building.md",
-    "Vakken/Wetenschapsfilosofie/Onderwerpen/Paradigma.md",
-    "Onderwerpen/Nieuwswaardentheorie.md",
     "Pasted image 20231101105015.png",
     "Pasted image 20231101095630.png",
     "Pasted image 20231101094612.png",
