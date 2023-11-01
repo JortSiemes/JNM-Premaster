@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Onderwerpen/validiteit.md",
+                "file": "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwalitatieve inhoudsanalyse.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lab",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Onderwerpen/validiteit.md",
+                "file": "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwalitatieve inhoudsanalyse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Onderwerpen/validiteit.md",
+                "file": "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwalitatieve inhoudsanalyse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Onderwerpen/validiteit.md"
+                "file": "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwalitatieve inhoudsanalyse.md"
               }
             }
           }
@@ -159,11 +158,11 @@
   },
   "active": "51ca99685d48e2db",
   "lastOpenFiles": [
-    "Onderwerpen/experiment.md",
+    "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md",
     "Onderwerpen/validiteit.md",
+    "Onderwerpen/experiment.md",
     "Onafhankelijke variabelen.md",
     "variabelen.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md",
     "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwantitatieve inhoudsanalyse.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Tentamen 2 Nov.md",
     "Hypotheses.md",
