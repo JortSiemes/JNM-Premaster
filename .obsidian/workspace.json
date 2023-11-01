@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cyclisc",
+                "query": "corpus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51ca99685d48e2db",
+  "active": "04ea66dd4c102027",
   "lastOpenFiles": [
     "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md",
     "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwalitatieve inhoudsanalyse.md",
