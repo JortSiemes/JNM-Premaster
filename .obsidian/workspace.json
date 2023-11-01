@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Onderwerpen/deductief.md",
+                "file": "Hypotheses.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hypothe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Onderwerpen/deductief.md",
+                "file": "Hypotheses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Onderwerpen/deductief.md",
+                "file": "Hypotheses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Onderwerpen/deductief.md"
+                "file": "Hypotheses.md"
               }
             }
           }
@@ -171,14 +172,21 @@
   },
   "active": "468546ee81df7344",
   "lastOpenFiles": [
+    "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Tentamen 2 Nov.md",
+    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 1 Methoden en theorieen van journalism studies.md",
+    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 2 methoden en theorieen van journalism studies.md",
+    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 3 Methode en Theorie van Journalism Studies.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 4 Methode en Theorie van Journalism Studies.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Inhoudsanalyse.md",
+    "Onderwerpen/Argumentatieve Oriëntatie.md",
+    "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md",
+    "Hypotheses.md",
     "Onderwerpen/deductief.md",
+    "Onderzoeksmethode.md",
+    "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Inhoudsanalyse.md",
     "Onderwerpen/inductief.md",
     "Pasted image 20231101124302.png",
     "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 5 Methode en Theorie van Journalism Studies.md",
     "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwantitatieve inhoudsanalyse.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 3 Methode en Theorie van Journalism Studies.md",
     "Onderwerpen/experiment.md",
     "Experimenten.md",
     "Onderwerpen/Etnografie.md",
@@ -191,12 +199,6 @@
     "Afhankelijke variabelen.md",
     "Onafhankelijke variabelen.md",
     "Onderwerpen/open en axiaal coderen.md",
-    "Onderwerpen/betrouwbaarheid.md",
-    "Onderwerpen/Kwalitatief onderzoek.md",
-    "Onderwerpen/kwantitatief.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md",
-    "Onderwerpen/empirische werkelijkheid.md",
-    "Onderwerpen/Empirische cyclus.md",
     "Pasted image 20231101105015.png",
     "Pasted image 20231101095630.png",
     "Pasted image 20231101094612.png",
