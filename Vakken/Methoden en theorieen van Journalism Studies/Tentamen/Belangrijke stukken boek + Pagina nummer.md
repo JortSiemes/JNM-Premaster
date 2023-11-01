@@ -316,7 +316,27 @@ Focus groep, daar kunnen nieuwe inzichten tijdens het onderzoek de gesprekken la
 
 ### [[Methodologische opzet]]
 
+### Empirisch onderzoek
+
 ### Empirische gegevens verzamelen, bewerken, analyseren
+
+Het verzamelen, bewerken en analyseren van empirische gegevens is een belangrijk onderdeel van het empirisch onderzoek. Hier zijn de stappen die je kunt volgen:
+
+Bepaal het doel van je onderzoek: Voordat je begint met de dataverzameling is het van belang om te bepalen wat je wilt bereiken. Je kunt beginnen met een probleemstelling: welk praktisch of wetenschappelijk probleem wil je uitlichten en waarom? Vervolgens formuleer je een of meerdere goed afgebakende onderzoeksvragen.
+
+Kies je dataverzamelingsmethode: Op basis van het type data dat je wilt verzamelen, kies je de dataverzamelingsmethode die het best bij je onderzoek past. Je kunt kiezen uit kwantitatieve en kwalitatieve empirische onderzoeksmethoden.
+
+Verzamelen van gegevens: Dit kan gebeuren door middel van verschillende methoden zoals experimenten, quasi-experimenten, interviews, observaties of enquêtes. Het is van belang dat je de data op een gestructureerde, valide en betrouwbare manier verzamelt.
+
+Verwerking van gegevens: Nadat de gegevens zijn verzameld, moeten ze worden verwerkt en geordend4. Dit kan inhouden dat dubbele inhoud wordt verwijderd, onvolledige gegevens worden aangevuld, en de gegevens worden geordend op een manier die analyse mogelijk maakt.
+
+Analyseren van de gegevens: Nadat de gegevens zijn verzameld en verwerkt, kunnen ze worden geanalyseerd. Dit kan kwantitatief zijn (bijvoorbeeld door statistische toetsen) of kwalitatief (bijvoorbeeld door categoriseren en interpreteren).
+
+Trek conclusies: Op basis van de analyse trek je conclusies over je onderzoeksvraag.
+
+Presenteer je resultaten: De laatste stap is het presenteren van jouw onderzoek en uitkomsten.
+
+Dit proces kan iteratief zijn, wat betekent dat je mogelijk terug moet gaan naar eerdere stappen op basis van wat je in latere stappen ontdekt.
 
 ### [[Onderzoeksmethode]]
 
