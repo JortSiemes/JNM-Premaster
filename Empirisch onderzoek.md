@@ -8,3 +8,5 @@ Bij empirisch onderzoek beantwoord je je onderzoeksvraag door systematisch data 
 Bijvoorbeeld, als je een onderzoek uitvoert over het onderwerp “technologiegebruik” en je verwacht dat de smartphone het meest gebruikte apparaat is, dan kun je je hypothesen empirisch bevestigen op basis van je enquêteresultaten1.
 
 Een empirisch onderzoek is niet alleen gebaseerd op wetenschappelijk literatuur, maar je voert wel eerst een klein literatuuronderzoek uit om een theoretisch kader op te stellen en je keuzes voor de methodologie te verantwoorden. Vervolgens ga je aan de slag met een empirische [[onderzoeksmethode]] om je eigen data te verzamelen, bijvoorbeeld met een [[kwalitatieve inhoudsanalyse]], enquête of [[focusgroep]]. Daarna analyseer je de verkregen data en schrijf je je bachelor- of masterscriptie.
+
+![[Pasted image 20231101105015.png]]

@@ -1,3 +1,5 @@
+Kwalitatief want onderzoek is Inductief
+
 Grounded theory (GT) is een sociaal-wetenschappelijke onderzoeksmethode voor de ontwikkeling van theorieën door het systematisch verzamelen en analyseren van kwalitatieve gegevens, zoals interviewtranscripten en observatieprotocollen.
 Het doel is om werkelijkheidsgetrouwe theorieën te ontwikkelen en deze voor de praktijk bruikbaar te maken, waardoor de kloof tussen theorie en praktijk vermindert1.
 

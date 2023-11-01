@@ -257,8 +257,6 @@ De onderzoeksopzet ligt van tevoren vast.
 Je weet welke data je precies wilt verzamelen en test de onderzoeksprotocol.
 Een incentive = hulpmiddel om mensen te motiveren voor enquete (bioscooptickets, kortingsbon, reisje verloten onder deelnemers aan onderzoek)
 
-
-
 ##### Data-analyse:
 [[Kwalitatief]] onderzoek is interpretatief
 Centraal hier staat het ontdekken, beschrijven, begrijpen van betekenis in bepaalde context.
@@ -303,9 +301,11 @@ Focus groep, daar kunnen nieuwe inzichten tijdens het onderzoek de gesprekken la
 ## 2 [[focusgroep]]
 
 ## 3 [[Survey]]
+
 ## 4 [[Etnografie]]
 
 ## 5 [[experiment]]
+
 ## 6 [[Kwalitatieve inhoudsanalyse]]
 
 ## 7 [[Kwantitatieve inhoudsanalyse]]
@@ -355,7 +355,23 @@ Zes dimensies van journalistiek:
 
 ### [[Grounded theory benadering]]
 
+### Framingtheorie
+bied een model waarop nieuws word gebracht
+
+
+agenda setting: oorlog in palestina
+framing: 
+
 bottom up
 vanuit data
 
 top down
+vanuit onderzoek data onderzoeken
+
+
+
+kwalitatief onderzoek = inductief, vertrek punt observatie, vanuit daar genereer je nieuwe theorie
+
+kwantitatief onderzoek = deductief onderzoek, theorie .... en dan ga je model maken om te toetsen
+
+

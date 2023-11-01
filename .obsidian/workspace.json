@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md",
+                "file": "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 2 methoden en theorieen van journalism studies.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "onderzoeksm",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md",
+                "file": "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 2 methoden en theorieen van journalism studies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md",
+                "file": "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 2 methoden en theorieen van journalism studies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md"
+                "file": "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 2 methoden en theorieen van journalism studies.md"
               }
             }
           }
@@ -171,10 +170,20 @@
   },
   "active": "65b84fc445b9eb61",
   "lastOpenFiles": [
-    "Grounded theory benadering.md",
+    "Onderwerpen/framingtheorie.md",
+    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 2 methoden en theorieen van journalism studies.md",
+    "Onderwerpen/frame-setting.md",
+    "Onderwerpen/frame-building.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/Paradigma.md",
+    "Onderwerpen/Nieuwswaardentheorie.md",
+    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 1 Methoden en theorieen van journalism studies.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwalitatieve inhoudsanalyse.md",
+    "Onderwerpen/framing.md",
+    "Grounded theory benadering.md",
     "Empirisch onderzoek.md",
+    "Pasted image 20231101105015.png",
+    "Onderwerpen/focusgroep.md",
+    "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwalitatieve inhoudsanalyse.md",
     "Onderzoeksmethode.md",
     "Pasted image 20231101095630.png",
     "Representatieve steekproef.md",
@@ -190,18 +199,9 @@
     "steekproef.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Vragenlijst/Vragenlijst.md",
     "Onderwerpen/Survey.md",
-    "Onderwerpen/Kwantitatief onderzoek.md",
-    "Onderwerpen/Kwalitatief onderzoek.md",
-    "Onderwerpen/onafhankelijke en afhankelijke variabelen.md",
-    "Onafhankelijke variabelen.md",
-    "Onderwerpen/Etnografie.md",
-    "Onderwerpen/focusgroep.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Inhoudsanalyse.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/~$derzoekmethoden.docx",
     "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Onderzoekmethoden.docx",
     "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Niet bevestigd 103945.crdownload",
-    "Afhankelijke variabelen.md",
-    "variabele.md",
     "Vakken/Taal en communicatie/Tentamens/Wat extra hulp om Grice te begrijpen - Copy.pdf",
     "Vakken/Taal en communicatie/Tentamens/Student BS Instructions - USC.pdf",
     "Vakken/Taal en communicatie/Tentamens/Oefententamen midterm 1 (met antwoorden).pdf",
@@ -215,7 +215,6 @@
     "Vakken/Woorden als wapens/Groepspresentatie/Beelden/Rabbit-or-duck-illusion-008.jpg",
     "Beelden/Pasted image 20231017172418.png",
     "Beelden/Pasted image 20231017183335.png",
-    "Beelden/Pasted image 20231017181528.png",
-    "Beelden/Pasted image 20231017173730.png"
+    "Beelden/Pasted image 20231017181528.png"
   ]
 }
