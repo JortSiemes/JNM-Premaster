@@ -1,0 +1,1 @@
+wat het publiek verwacht wat journalisten doen

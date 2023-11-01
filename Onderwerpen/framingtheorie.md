@@ -6,6 +6,19 @@ Agendasetting gaat over waarover het publiek moet denken frames over hoe - in we
 
 Bewust of onbewust kan allebei bij framing.
 
+waar bevinden die frames zich?
+Frames hebben meerdere locaties: 
+	Journalisten / zender
+	Mediainhoud / boodschap
+	Publiek / ontvanger
+
+Nieuwsframes identificeren
+- kwantitatieve & kwalitatieve inhoudsanalyse.
+- Deductief: investigates frames that are defined and operationalized prior to the investigations
+- Inductief: frames emerge from the material during the course of analysis
+
+---
+
 
 Framingtheorie is een overtuigingstechniek in communicatie waarbij woorden en beelden zo gekozen worden, dat daarbij impliciet een aantal aspecten van het beschrevene wordt uitgelicht1. Deze uitgelichte aspecten helpen om een bepaalde lezing van het beschrevene of een mening daarover te propageren1.
 

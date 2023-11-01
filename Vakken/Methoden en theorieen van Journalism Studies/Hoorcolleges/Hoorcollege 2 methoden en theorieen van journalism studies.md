@@ -15,7 +15,7 @@ Nieuws als ecosysteem (Cottle, 2007)
 Boundary work (Carlson, 2016)
 	Er word steeds minder duidelijk wat precies journalistiek is, in boundary work komt er een duidelijker definitie
 
-Analyse niveaus (reese, 2016)
+[[Analyse niveaus]] (reese, 2016)
 - Individueel: creatieve, professionele makers 
 - Routines: patronen en gedrag van 'newswork' (broersma, 2015/2019)
 - Organizatie: Hoe nieuws wordt geproduceerd in de context van een nieuwsbedrijf
@@ -80,9 +80,9 @@ Nieuwsframes identificeren
 - Deductief: investigates frames that are defined and operationalized prior to the investigations
 - Inductief: frames emerge from the material during the course of analysis
 
-Role concepts: wat journalisten zeggen te doen
-Role performance: wat journalisten daadwerkelijk doen
-Audience expectations: wat het publiek verwacht wat journalisten doen
+[[Role concepts]]: wat journalisten zeggen te doen
+[[Role performance]]: wat journalisten daadwerkelijk doen
+[[Audience expectations]]: wat het publiek verwacht wat journalisten doen
 
 
 What is journalism?
