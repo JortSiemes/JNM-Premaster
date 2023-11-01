@@ -316,7 +316,7 @@ Focus groep, daar kunnen nieuwe inzichten tijdens het onderzoek de gesprekken la
 
 ### [[Methodologische opzet]]
 
-### Empirisch onderzoek
+### [[Empirisch onderzoek]]
 
 ### Empirische gegevens verzamelen, bewerken, analyseren
 
