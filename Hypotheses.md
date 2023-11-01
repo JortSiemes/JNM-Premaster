@@ -1,0 +1,5 @@
+Een hypothese is een voorlopige stelling waarin je aangeeft wat je verwacht te vinden in je onderzoek. Je stelt de hypothese altijd op voordat je het onderzoek uitvoert. Vervolgens test je deze hypothese met behulp van je wetenschappelijke onderzoek, zoals een experiment of correlationeel onderzoek.
+
+Bijvoorbeeld, als je een onderzoek uitvoert naar de invloed van vitamine D-supplementen op de alertheid van studenten, dan zou je een hypothese kunnen formuleren zoals “Studenten die vitamine D-supplementen innemen, zijn alerter dan studenten die geen vitamine D-supplementen innemen”. Vervolgens zou je deze hypothese testen door een experiment uit te voeren waarbij sommige studenten vitamine D-supplementen krijgen en anderen niet, en vervolgens hun alertheid meten.
+
+Het is belangrijk om te onthouden dat een hypothese een veronderstelling is die nog niet bewezen is3. Het maakt vaak deel uit van een onderzoek, waarbij de hypothese het verwachte antwoord is op de onderzoeksvraag. Het doel is om de hypothese met behulp van onderzoeken en/of experimenten te bewijzen.
