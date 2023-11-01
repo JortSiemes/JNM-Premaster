@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Onafhankelijke variabelen.md",
+                "file": "Onderwerpen/validiteit.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hypothe",
+                "query": "lab",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Onafhankelijke variabelen.md",
+                "file": "Onderwerpen/validiteit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Onafhankelijke variabelen.md",
+                "file": "Onderwerpen/validiteit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Onafhankelijke variabelen.md"
+                "file": "Onderwerpen/validiteit.md"
               }
             }
           }
@@ -158,8 +159,10 @@
   },
   "active": "51ca99685d48e2db",
   "lastOpenFiles": [
-    "variabelen.md",
     "Onderwerpen/experiment.md",
+    "Onderwerpen/validiteit.md",
+    "Onafhankelijke variabelen.md",
+    "variabelen.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md",
     "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwantitatieve inhoudsanalyse.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Tentamen 2 Nov.md",
@@ -180,10 +183,8 @@
     "Onderwerpen/participerende observatie.md",
     "Onderwerpen/Directe.md",
     "Onderwerpen/Thick discriptions.md",
-    "Onderwerpen/validiteit.md",
     "Onderwerpen/onafhankelijke en afhankelijke variabelen.md",
     "Afhankelijke variabelen.md",
-    "Onafhankelijke variabelen.md",
     "Onderwerpen/open en axiaal coderen.md",
     "Pasted image 20231101105015.png",
     "Pasted image 20231101095630.png",
