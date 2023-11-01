@@ -112,3 +112,5 @@ Bij inventariserende vagen waarbij het gaat om het ontdekken van patronen en cat
 - Maak een codingframe: ontwikkelt zich tijdens de analyse
 - Open coderen: wat valt op, wat zijn overeenkomsten, verschillen etc
 - Axiaal: codes in categorieën opdelen
+
+

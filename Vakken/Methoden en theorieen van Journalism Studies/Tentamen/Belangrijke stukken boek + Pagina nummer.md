@@ -354,3 +354,8 @@ Zes dimensies van journalistiek:
 ### [[Representatieve steekproef]]
 
 ### [[Grounded theory benadering]]
+
+bottom up
+vanuit data
+
+top down
