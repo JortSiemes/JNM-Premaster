@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Onderwerpen/Etnografie.md",
+                "file": "Onderwerpen/deductief.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Onderwerpen/Etnografie.md",
+                "file": "Onderwerpen/deductief.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Onderwerpen/Etnografie.md",
+                "file": "Onderwerpen/deductief.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Onderwerpen/Etnografie.md"
+                "file": "Onderwerpen/deductief.md"
               }
             }
           }
@@ -172,31 +172,31 @@
   "active": "468546ee81df7344",
   "lastOpenFiles": [
     "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 4 Methode en Theorie van Journalism Studies.md",
+    "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Inhoudsanalyse.md",
+    "Onderwerpen/deductief.md",
+    "Onderwerpen/inductief.md",
+    "Pasted image 20231101124302.png",
+    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 5 Methode en Theorie van Journalism Studies.md",
+    "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwantitatieve inhoudsanalyse.md",
+    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 3 Methode en Theorie van Journalism Studies.md",
+    "Onderwerpen/experiment.md",
+    "Experimenten.md",
+    "Onderwerpen/Etnografie.md",
+    "Onderwerpen/participerende observatie.md",
+    "Onderwerpen/Directe.md",
+    "Onderwerpen/Thick discriptions.md",
     "Onderwerpen/validiteit.md",
     "variabelen.md",
-    "Onderwerpen/Etnografie.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 3 Methode en Theorie van Journalism Studies.md",
     "Onderwerpen/onafhankelijke en afhankelijke variabelen.md",
     "Afhankelijke variabelen.md",
     "Onafhankelijke variabelen.md",
     "Onderwerpen/open en axiaal coderen.md",
     "Onderwerpen/betrouwbaarheid.md",
-    "Onderwerpen/inductief.md",
     "Onderwerpen/Kwalitatief onderzoek.md",
     "Onderwerpen/kwantitatief.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md",
     "Onderwerpen/empirische werkelijkheid.md",
     "Onderwerpen/Empirische cyclus.md",
-    "Empirisch onderzoek.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 2 methoden en theorieen van journalism studies.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 1 Methoden en theorieen van journalism studies.md",
-    "Vakken/Woorden als wapens/Onderwerpen/Metafoor.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Tentamen 2 Nov.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 5 Methode en Theorie van Journalism Studies.md",
-    "Grounded theory benadering.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwalitatieve inhoudsanalyse.md",
-    "Representatieve steekproef.md",
-    "steekproef.md",
     "Pasted image 20231101105015.png",
     "Pasted image 20231101095630.png",
     "Pasted image 20231101094612.png",
@@ -215,7 +215,6 @@
     "Vakken/Woorden als wapens/Groepspresentatie/image2.png",
     "Vakken/Woorden als wapens/Groepspresentatie/Beelden/Rabbit-or-duck-illusion-008.jpg",
     "Beelden/Pasted image 20231017172418.png",
-    "Beelden/Pasted image 20231017183335.png",
-    "Beelden/Pasted image 20231017181528.png"
+    "Beelden/Pasted image 20231017183335.png"
   ]
 }

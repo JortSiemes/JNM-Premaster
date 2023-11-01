@@ -61,13 +61,13 @@ Welke [[gebeurtenissen]] zijn belangrijk?
 
 #### Tentamenvraag:
 Uit recente studies blijkt dat de digitalisering van het medialandschap een merkwaardige paradox heeft veroorzaakt. We hebben toegang tot steeds meer informatie, maar die informatie lijkt steeds meer op elkaar. Het nieuwsaanbod homogeniseerd.
-Hoe kun je die claim onderzoeken met ethnografie als zelfstandig onderzoekinstrument? Geef de onderzoeksvraag en geef aan wie en waar je zou gaan onderzoeken
+Hoe kun je die claim onderzoeken met [[etnografie]] als zelfstandig onderzoekinstrument? Geef de onderzoeksvraag en geef aan wie en waar je zou gaan onderzoeken
 
 ##### Antwoord
 De homogenisering van het nieuwsaanbod veronderstelt observatie: met je eigen ogen zien wat journalisten doen op een redactie (onderzoeksvraag). Het antwoord moet  minimaal de basisprincipes van nieuwsetnografie volgen: dus veldwerk (waar?) bij een bepaalde groep journalisten (wie?) motiveren.   
 *Als het antwoord bovendien technieken als [[participerende observatie]] en interviews vermeldt (en waarom die moeten ingezet worden), dan het maximum van de punten*
 
-### [[Experimenten]]
+### [[Experiment]]
 Herleidbaarheid van geïsoleerd causaal effect van X op Y
 
 [[Hypotheses]] = de rol van theorie

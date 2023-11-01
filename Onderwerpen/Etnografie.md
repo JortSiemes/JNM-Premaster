@@ -2,6 +2,8 @@ Zowel bij nieuwsetnografie als bij experimenten kijk je wat er gebeurt:
 etnografie: Wat er gebeurt als je drie weken op een nieuwsredactie rondloopt.
 [[experiment]]: wat er gebeurt als je proefpersonen foto's laat interpreteren.
 
+### Bij antwoord vermelden: [[Participerende observatie]]
+
 Kenmerken:
 - je weet niet precies waar je op moet letten
 - Rol onderzoeker: groot
@@ -21,7 +23,7 @@ Kenmerken:
 - perspectief van onderzochten staat centraal
 - cyclisch onderzoeksproces
 - Doelen: verkennen, beschrijven, verklaren
-Etnografie werkt constrastief
+Etnografie werkt contrastief
 	Veldwerk: natuurlijke omgeving
 	Dagen, maanden, jaren
 	Rol onderzoeker: participant observer (meestal)
@@ -35,7 +37,9 @@ Etnografie werkt constrastief
 	Analyse: coderen (open & axiaal)
 	Resultaten: concepten & typologien
 
-Etnografische vragen:
+
+
+**Etnografische vragen:**
 Hoe gaat dat precies in zijn werk visuele journalistiek?
 Waar komt al die informatie uberhaupt vandaan?
 Hoe bepaal je de nieuwswaarde van immense databanken?

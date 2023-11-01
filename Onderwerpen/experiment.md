@@ -18,9 +18,9 @@ Kenmerken:
 - Hypothese vanaf het begin
 - Kort: max 10 minuten voor geconcentreerd experiment
 - Invloed van de onderzoeker zoveel mogelijk beperkt
-- openlijk observeerbare variabelen
-	- Variabelen die niet openlijk observeerbaar zijn (geheugen), moeten worden afgeleid uit wel observeerbare variabelen -> afgeleide variabelen
-- Deductief: toetsend onderzoek
+- openlijk observeerbare [[variabelen]]
+	- [[Variabelen]] die niet openlijk observeerbaar zijn (geheugen), moeten worden afgeleid uit wel observeerbare [[variabelen]] -> afgeleide [[variabelen]]
+- [[Deductief]]: toetsend onderzoek
 - Statisch onderzoeksopzet
 
 | ...                         | [[Etnografie]]         | [[experiment]]          |
@@ -56,9 +56,9 @@ Observatie: je kijkt door een "microscoop" naar de werkelijkheid: dat waarop je 
 
 ### wanneer zet je de experiment methode in
 
-Het experiment als onderzoeksmethode is met name geschikt voor onderzoeksvragen die effecten van specifieke [[variabelen]] meten. Typische vragen voor experimenten zijn vragen naar het WAAROM en HOE. vragen naar wat het BESTE WERKT.
+Het experiment als [[onderzoeksmethode]] is met name geschikt voor onderzoeksvragen die effecten van specifieke [[variabelen]] meten. Typische vragen voor [[experimenten]] zijn vragen naar het WAAROM en HOE. vragen naar wat het BESTE WERKT.
 
-Experimenten zet je vooral in als we een toetsende onderzoeksvraag hebben.
+[[Experimenten]] zet je vooral in als we een toetsende onderzoeksvraag hebben.
 +
 Een idee hebt wat er ongeveer uit zou moeten komen
 
@@ -104,7 +104,7 @@ Eerst onderzoeksdesign.
 	kijk naar welke getallen afhankelijke en [[onafhankelijke variabelen]] kunnen hebben
 	1, test experiment bij doelgroep
 	2, vind proefpersonen
-	3, evalueer experimenten
+	3, evalueer [[experimenten]]
 	4, Voer experiment uit
 
 5, Data 
