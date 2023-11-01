@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Methodologische opzet.md",
+                "file": "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "onderzoeksm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Methodologische opzet.md",
+                "file": "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Methodologische opzet.md",
+                "file": "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Methodologische opzet.md"
+                "file": "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md"
               }
             }
           }
@@ -171,9 +171,10 @@
   },
   "active": "65b84fc445b9eb61",
   "lastOpenFiles": [
-    "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwantitatieve inhoudsanalyse.md",
-    "Methodologische opzet.md",
+    "Onderwerpen/experiment.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md",
+    "Methodologische opzet.md",
+    "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwantitatieve inhoudsanalyse.md",
     "Vakken/Wetenschapsfilosofie/Aantekeningen Kennisclips wetenschapsfilosofie.md",
     "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwalitatieve inhoudsanalyse.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Tentamen 2 Nov.md",
@@ -188,7 +189,6 @@
     "variabelen.md",
     "Onafhankelijke variabelen.md",
     "Onderwerpen/Etnografie.md",
-    "Onderwerpen/experiment.md",
     "Onderwerpen/focusgroep.md",
     "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Inhoudsanalyse.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/~$derzoekmethoden.docx",
