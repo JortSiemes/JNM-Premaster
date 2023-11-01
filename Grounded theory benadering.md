@@ -1,3 +1,6 @@
+
+
+
 De grounded theory-benadering is een kwalitatieve onderzoeksmethodologie die is ontwikkeld door sociologen Barney G. Glaser en Anselm L. Strauss in de jaren 1960. Deze benadering is bedoeld om nieuwe theorieën te ontwikkelen op basis van empirische gegevens, in plaats van bestaande theorieën te testen. Het doel van grounded theory is om begrip te krijgen voor een bepaald fenomeen en de sociale processen die daarbij betrokken zijn.
 
 Kenmerken:
