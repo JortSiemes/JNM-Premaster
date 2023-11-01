@@ -11,7 +11,7 @@ Kenmerken:
 - Interpretatieve vragen aan teksten
 - Rol van de context belangrijk
 - Betrouwbaarheid laag
-- Validiteit hoog
+- [[Validiteit]] hoog
 - Cyclisch onderzoeken (steeds van data naar theorie en terug)
 - Inductief naar deductief naar inductief etc
 
@@ -22,7 +22,7 @@ Verschillen:
 | Focus type betekenis | manifeste betekenis | Latente betekenis  |
 | rol van context      | niet belangrijk     | belangrijk         |
 | betrouwbaarheid      | belangrijk          | minder belangrijk  |
-| validiteit           | minder belangrijk   | zeer belangrijk    |
+| [[validiteit]]           | minder belangrijk   | zeer belangrijk    |
 | structuur van proces | lineair             | cyclisch/iteratief | 
 
 Onder zoeksopzet staat niet vast, cyclus staat niet vast.

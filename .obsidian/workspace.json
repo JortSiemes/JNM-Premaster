@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Onderwerpen/nieuwswaarden.md",
+                "file": "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nieuwswaarden",
+                "query": "cyclisc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Onderwerpen/nieuwswaarden.md",
+                "file": "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Onderwerpen/nieuwswaarden.md",
+                "file": "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Onderwerpen/nieuwswaarden.md"
+                "file": "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md"
               }
             }
           }
@@ -160,8 +160,11 @@
   "active": "51ca99685d48e2db",
   "lastOpenFiles": [
     "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwalitatieve inhoudsanalyse.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md",
     "Onderwerpen/validiteit.md",
+    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 2 methoden en theorieen van journalism studies.md",
+    "Onderwerpen/framing.md",
+    "Onderwerpen/nieuwswaarden.md",
+    "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md",
     "Onderwerpen/experiment.md",
     "Onafhankelijke variabelen.md",
     "variabelen.md",
@@ -169,7 +172,6 @@
     "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Tentamen 2 Nov.md",
     "Hypotheses.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 1 Methoden en theorieen van journalism studies.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 2 methoden en theorieen van journalism studies.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 3 Methode en Theorie van Journalism Studies.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 4 Methode en Theorie van Journalism Studies.md",
     "Onderwerpen/Argumentatieve Oriëntatie.md",
@@ -184,8 +186,6 @@
     "Onderwerpen/participerende observatie.md",
     "Onderwerpen/Directe.md",
     "Onderwerpen/Thick discriptions.md",
-    "Onderwerpen/onafhankelijke en afhankelijke variabelen.md",
-    "Afhankelijke variabelen.md",
     "Pasted image 20231101105015.png",
     "Pasted image 20231101095630.png",
     "Pasted image 20231101094612.png",
