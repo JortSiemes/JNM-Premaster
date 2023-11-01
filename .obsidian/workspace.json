@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwalitatieve inhoudsanalyse.md",
+                "file": "Onderwerpen/nieuwswaarden.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nieuwswaarden",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwalitatieve inhoudsanalyse.md",
+                "file": "Onderwerpen/nieuwswaarden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwalitatieve inhoudsanalyse.md",
+                "file": "Onderwerpen/nieuwswaarden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwalitatieve inhoudsanalyse.md"
+                "file": "Onderwerpen/nieuwswaarden.md"
               }
             }
           }
@@ -158,6 +159,7 @@
   },
   "active": "51ca99685d48e2db",
   "lastOpenFiles": [
+    "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwalitatieve inhoudsanalyse.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md",
     "Onderwerpen/validiteit.md",
     "Onderwerpen/experiment.md",
@@ -184,7 +186,6 @@
     "Onderwerpen/Thick discriptions.md",
     "Onderwerpen/onafhankelijke en afhankelijke variabelen.md",
     "Afhankelijke variabelen.md",
-    "Onderwerpen/open en axiaal coderen.md",
     "Pasted image 20231101105015.png",
     "Pasted image 20231101095630.png",
     "Pasted image 20231101094612.png",
