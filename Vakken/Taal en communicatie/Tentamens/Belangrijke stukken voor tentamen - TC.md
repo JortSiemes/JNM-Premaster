@@ -159,9 +159,9 @@ preperatory condition = can you, i can, could you, may i, do you want to
 
 [[Primaire taalhandeling]]:
 Promise (beloven)
-Request ()
-Question
-Thanks
+Request (verzoek)
+Question (vraag)
+Thanks (bedanken)
 
 (hoe verbind je de primaire en secondaire [[taalhandelingen]]? vraag op tentamen)
 
