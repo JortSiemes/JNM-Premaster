@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
+                "file": "Onderwerpen/Expliciet performatief.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "expliciet",
+                "query": "expliciet perform",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
+                "file": "Onderwerpen/Expliciet performatief.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
+                "file": "Onderwerpen/Expliciet performatief.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md"
+                "file": "Onderwerpen/Expliciet performatief.md"
               }
             }
           }
@@ -171,8 +171,10 @@
   },
   "active": "51ca99685d48e2db",
   "lastOpenFiles": [
-    "Vakken/Taal en communicatie/Onderwerpen/Maxime.md",
     "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
+    "Vakken/Taal en communicatie/Onderwerpen/waarheidsconditioneel.md",
+    "Onderwerpen/Explicatuur.md",
+    "Vakken/Taal en communicatie/Onderwerpen/Maxime.md",
     "Onderwerpen/primaire taalhandeling.md",
     "Onderwerpen/geslaagdheidsvoorwaarden.md",
     "Onderwerpen/Propositionele inhoudsvoorwaarde.md",
@@ -198,8 +200,6 @@
     "Vakken/Taal en communicatie/Onderwerpen/Explicaturen.md",
     "Onderwerpen/propositionele-content rule.md",
     "Onderwerpen/taalhandelingen.md",
-    "Onderwerpen/Explicatuur.md",
-    "Onderwerpen/secondaire taalhandeling.md",
     "Pasted image 20231101124302.png",
     "Pasted image 20231101105015.png",
     "Pasted image 20231101095630.png",
