@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Oefententamen midterm 1 (met antwoorden).pdf"
+                "file": "Vakken/Taal en communicatie/Tentamens/Extra oefening Horn en Relevantietheorie.pdf"
               }
             }
           },
@@ -59,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scalair",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,8 +76,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Oefententamen midterm 1 (met antwoorden).pdf",
+                "file": "Vakken/Taal en communicatie/Tentamens/Extra oefening Horn en Relevantietheorie.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Oefententamen midterm 1 (met antwoorden).pdf",
+                "file": "Vakken/Taal en communicatie/Tentamens/Extra oefening Horn en Relevantietheorie.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Oefententamen midterm 1 (met antwoorden).pdf"
+                "file": "Vakken/Taal en communicatie/Tentamens/Extra oefening Horn en Relevantietheorie.pdf"
               }
             }
           }
@@ -169,15 +168,16 @@
   },
   "active": "51ca99685d48e2db",
   "lastOpenFiles": [
+    "Vakken/Taal en communicatie/Tentamens/Oefententamen midterm 2 (met antwoorden).pdf",
+    "Vakken/Taal en communicatie/Tentamens/Opnieuw opdrachten.md",
+    "Vakken/Taal en communicatie/Tentamens/Oefententamen midterm 1 (met antwoorden).pdf",
     "Onderwerpen/primaire taalhandeling.md",
     "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
     "Onderwerpen/Expliciet performatief.md",
     "Onderwerpen/Impliciet performatief.md",
-    "Vakken/Taal en communicatie/Tentamens/Oefententamen midterm 1 (met antwoorden).pdf",
     "Vakken/Taal en communicatie/Onderwerpen/Gegeneraliseerde implicatuur.md",
     "Vakken/Taal en communicatie/Onderwerpen/Particuliere implicatuur.md",
     "Vakken/Taal en communicatie/Onderwerpen/Scalaire implicatuur.md",
-    "Vakken/Taal en communicatie/Tentamens/Opnieuw opdrachten.md",
     "Vakken/Taal en communicatie/Colleges/Werkcollege 4 taal en communicatie.md",
     "Vakken/Taal en communicatie/Onderwerpen/Q-Implicaturen.md",
     "Vakken/Taal en communicatie/Onderwerpen/Explicaturen.md",
@@ -185,7 +185,6 @@
     "Onderwerpen/propositionele-content rule.md",
     "Onderwerpen/taalhandelingen.md",
     "Onderwerpen/Explicatuur.md",
-    "Vakken/Taal en communicatie/Tentamens/Oefententamen midterm 2 (met antwoorden).pdf",
     "Onderwerpen/secondaire taalhandeling.md",
     "Onderwerpen/Indirecte.md",
     "Onderwerpen/Directe.md",
