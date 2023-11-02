@@ -158,8 +158,8 @@ preperatory condition = can you, i can, could you, may i, do you want to
 
 
 [[Primaire taalhandeling]]:
-Promise
-Request
+Promise (beloven)
+Request ()
 Question
 Thanks
 
