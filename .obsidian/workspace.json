@@ -23,13 +23,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Onderwerpen/geslaagdheidsvoorwaarden.md",
+                "file": "Vakken/Taal en communicatie/Onderwerpen/Particuliere implicatuur.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -59,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "impliciet",
+                "query": "scalair",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Oefententamen midterm 1 (met antwoorden).pdf",
+                "file": "Vakken/Taal en communicatie/Onderwerpen/Particuliere implicatuur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Oefententamen midterm 1 (met antwoorden).pdf",
+                "file": "Vakken/Taal en communicatie/Onderwerpen/Particuliere implicatuur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Oefententamen midterm 1 (met antwoorden).pdf"
+                "file": "Vakken/Taal en communicatie/Onderwerpen/Particuliere implicatuur.md"
               }
             }
           }
@@ -167,14 +168,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51ca99685d48e2db",
+  "active": "7e4298167f17697e",
   "lastOpenFiles": [
+    "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
+    "Vakken/Taal en communicatie/Onderwerpen/Scalaire implicatuur.md",
+    "Vakken/Taal en communicatie/Tentamens/Opnieuw opdrachten.md",
+    "Vakken/Taal en communicatie/Colleges/Werkcollege 4 taal en communicatie.md",
+    "Vakken/Taal en communicatie/Onderwerpen/Q-Implicaturen.md",
+    "Vakken/Taal en communicatie/Onderwerpen/Explicaturen.md",
+    "Vakken/Taal en communicatie/Tentamens/Oefententamen midterm 1 (met antwoorden).pdf",
     "Onderwerpen/geslaagdheidsvoorwaarden.md",
     "Onderwerpen/propositionele-content rule.md",
-    "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
     "Onderwerpen/taalhandelingen.md",
     "Onderwerpen/Expliciet performatief.md",
-    "Vakken/Taal en communicatie/Tentamens/Oefententamen midterm 1 (met antwoorden).pdf",
     "Onderwerpen/Impliciet performatief.md",
     "Onderwerpen/Explicatuur.md",
     "Vakken/Taal en communicatie/Tentamens/Oefententamen midterm 2 (met antwoorden).pdf",
@@ -193,11 +199,6 @@
     "Onderwerpen/nieuwswaarden.md",
     "Onderwerpen/experiment.md",
     "Onafhankelijke variabelen.md",
-    "variabelen.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwantitatieve inhoudsanalyse.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Tentamen 2 Nov.md",
-    "Hypotheses.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 1 Methoden en theorieen van journalism studies.md",
     "Pasted image 20231101124302.png",
     "Pasted image 20231101105015.png",
     "Pasted image 20231101095630.png",
