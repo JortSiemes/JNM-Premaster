@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "5580caf27f517af0",
+            "id": "7e4298167f17697e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Onderwerpen/secondaire taalhandeling.md",
+                "file": "Onderwerpen/geslaagdheidsvoorwaarden.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "etno",
+                "query": "impliciet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Onderwerpen/secondaire taalhandeling.md",
+                "file": "Onderwerpen/geslaagdheidsvoorwaarden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Onderwerpen/secondaire taalhandeling.md",
+                "file": "Onderwerpen/geslaagdheidsvoorwaarden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Onderwerpen/secondaire taalhandeling.md"
+                "file": "Onderwerpen/geslaagdheidsvoorwaarden.md"
               }
             }
           }
@@ -167,16 +168,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5580caf27f517af0",
+  "active": "7e4298167f17697e",
   "lastOpenFiles": [
-    "Onderwerpen/Indirecte.md",
+    "Onderwerpen/propositionele-content rule.md",
+    "Onderwerpen/geslaagdheidsvoorwaarden.md",
     "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
+    "Onderwerpen/taalhandelingen.md",
+    "Onderwerpen/Expliciet performatief.md",
+    "Vakken/Taal en communicatie/Tentamens/Oefententamen midterm 1 (met antwoorden).pdf",
+    "Onderwerpen/Impliciet performatief.md",
+    "Onderwerpen/Explicatuur.md",
+    "Vakken/Taal en communicatie/Tentamens/Oefententamen midterm 2 (met antwoorden).pdf",
+    "Onderwerpen/secondaire taalhandeling.md",
+    "Onderwerpen/Indirecte.md",
     "Onderwerpen/primaire taalhandeling.md",
     "Onderwerpen/Directe.md",
-    "Onderwerpen/taalhandelingen.md",
-    "Vakken/Taal en communicatie/Tentamens/Oefententamen midterm 1 (met antwoorden).pdf",
     "Vakken/Taal en communicatie/Onderwerpen/Maxime.md",
-    "Vakken/Taal en communicatie/Tentamens/Oefententamen midterm 2 (met antwoorden).pdf",
     "Vakken/Taal en communicatie/Tentamens/Extra oefening Horn en Relevantietheorie.pdf",
     "Onderwerpen/Etnografie.md",
     "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwalitatieve inhoudsanalyse.md",
@@ -192,12 +199,6 @@
     "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Tentamen 2 Nov.md",
     "Hypotheses.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 1 Methoden en theorieen van journalism studies.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 3 Methode en Theorie van Journalism Studies.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 4 Methode en Theorie van Journalism Studies.md",
-    "Onderwerpen/Argumentatieve Oriëntatie.md",
-    "Onderwerpen/deductief.md",
-    "Onderzoeksmethode.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Inhoudsanalyse.md",
     "Pasted image 20231101124302.png",
     "Pasted image 20231101105015.png",
     "Pasted image 20231101095630.png",
