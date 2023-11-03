@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "51ca99685d48e2db",
+            "id": "de3a422d1276b3b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Onderwerpen/Propositionele inhoudsvoorwaarde.md",
+                "file": "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "implica",
+                "query": "explicatuu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Onderwerpen/Propositionele inhoudsvoorwaarde.md",
+                "file": "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Onderwerpen/Propositionele inhoudsvoorwaarde.md",
+                "file": "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Onderwerpen/Propositionele inhoudsvoorwaarde.md"
+                "file": "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md"
               }
             }
           }
@@ -156,8 +157,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51ca99685d48e2db",
+  "active": "de3a422d1276b3b1",
   "lastOpenFiles": [
+    "Vakken/Taal en communicatie/Onderwerpen/Coded Meaning.md",
+    "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
+    "Onderwerpen/Explicatuur.md",
     "Vakken/Taal en communicatie/Colleges/Werkcollege 6 taal en communicatie.md",
     "Onderwerpen/Propositionele inhoudsvoorwaarde.md",
     "Onderwerpen/Voorbereidende voorwaarde.md",
@@ -165,12 +169,10 @@
     "Onderwerpen/geslaagdheidsvoorwaarden.md",
     "taalhandeling.md",
     "Onderwerpen/Expliciet performatief.md",
-    "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
     "Vakken/Taal en communicatie/Tentamens/Oefententamen midterm 2 (met antwoorden).pdf",
     "Vakken/Taal en communicatie/Tentamens/Oefententamen midterm 1 (met antwoorden).pdf",
     "Vakken/Taal en communicatie/Tentamens/Extra oefening Horn en Relevantietheorie.pdf",
     "Vakken/Taal en communicatie/Onderwerpen/waarheidsconditioneel.md",
-    "Onderwerpen/Explicatuur.md",
     "Vakken/Taal en communicatie/Onderwerpen/Maxime.md",
     "Onderwerpen/primaire taalhandeling.md",
     "Onderwerpen/Preparatory rule.md",
@@ -186,7 +188,6 @@
     "Vakken/Taal en communicatie/Onderwerpen/Particuliere implicatuur.md",
     "Vakken/Taal en communicatie/Onderwerpen/Scalaire implicatuur.md",
     "Vakken/Taal en communicatie/Colleges/Werkcollege 4 taal en communicatie.md",
-    "Vakken/Taal en communicatie/Onderwerpen/Q-Implicaturen.md",
     "Pasted image 20231101124302.png",
     "Pasted image 20231101105015.png",
     "Pasted image 20231101095630.png",

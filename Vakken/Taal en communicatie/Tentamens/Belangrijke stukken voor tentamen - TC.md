@@ -137,11 +137,11 @@ Implicature: "the meaning behind this sentence: he is there often"
 
 ### 4 soorten [[geslaagdheidsvoorwaarden]]
 ### 5 groepen [[taalhandelingen]]
-Assertive
-Directive
-Commissive
-Expressive
-Declarative
+Assertive - beweerder
+Directive - stuurder
+Commissive - binder
+Expressive - uitdrukker
+Declarative - verklaarder
 
 ### [[Directe]]-[[indirecte]] [[taalhandelingen]]
 

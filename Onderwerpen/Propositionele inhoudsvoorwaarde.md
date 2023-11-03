@@ -12,8 +12,6 @@ ik deel morgen koekjes uit (inderecte belofte commissief)
 
 ofwel stelling/mededeling/assertief of een vraag
 
-
-
 Ik deel morgen koekjes uit (is indirect, want er staat geen ik beloof bvb)
 Ik beloofd dat ik morgen koekjes uitdeel (is direct)
 
