@@ -1,0 +1,1 @@
+ wil je, kan je, heb je er tijd voor, is er koffie in huis, is er al koffie gezet

@@ -11,9 +11,11 @@
             "id": "51ca99685d48e2db",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Oefententamen midterm 2 (met antwoorden).pdf"
+                "file": "Onderwerpen/Propositionele inhoudsvoorwaarde.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Oefententamen midterm 2 (met antwoorden).pdf",
+                "file": "Onderwerpen/Propositionele inhoudsvoorwaarde.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Oefententamen midterm 2 (met antwoorden).pdf",
+                "file": "Onderwerpen/Propositionele inhoudsvoorwaarde.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Oefententamen midterm 2 (met antwoorden).pdf"
+                "file": "Onderwerpen/Propositionele inhoudsvoorwaarde.md"
               }
             }
           }
@@ -156,20 +158,22 @@
   },
   "active": "51ca99685d48e2db",
   "lastOpenFiles": [
+    "Vakken/Taal en communicatie/Colleges/Werkcollege 6 taal en communicatie.md",
+    "Onderwerpen/Propositionele inhoudsvoorwaarde.md",
+    "Onderwerpen/Voorbereidende voorwaarde.md",
+    "Vakken/Taal en communicatie/Colleges/Hoorcollege 6 Taal en communicatie.md",
+    "Onderwerpen/geslaagdheidsvoorwaarden.md",
+    "taalhandeling.md",
+    "Onderwerpen/Expliciet performatief.md",
     "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
     "Vakken/Taal en communicatie/Tentamens/Oefententamen midterm 2 (met antwoorden).pdf",
     "Vakken/Taal en communicatie/Tentamens/Oefententamen midterm 1 (met antwoorden).pdf",
     "Vakken/Taal en communicatie/Tentamens/Extra oefening Horn en Relevantietheorie.pdf",
-    "Vakken/Taal en communicatie/Colleges/Werkcollege 6 taal en communicatie.md",
-    "Onderwerpen/Expliciet performatief.md",
     "Vakken/Taal en communicatie/Onderwerpen/waarheidsconditioneel.md",
     "Onderwerpen/Explicatuur.md",
     "Vakken/Taal en communicatie/Onderwerpen/Maxime.md",
     "Onderwerpen/primaire taalhandeling.md",
-    "Onderwerpen/geslaagdheidsvoorwaarden.md",
-    "Onderwerpen/Propositionele inhoudsvoorwaarde.md",
     "Onderwerpen/Preparatory rule.md",
-    "Onderwerpen/Voorbereidende voorwaarde.md",
     "Onderwerpen/Essential rule.md",
     "Onderwerpen/Perlocutie.md",
     "Onderwerpen/illocutie.md",
@@ -183,7 +187,6 @@
     "Vakken/Taal en communicatie/Onderwerpen/Scalaire implicatuur.md",
     "Vakken/Taal en communicatie/Colleges/Werkcollege 4 taal en communicatie.md",
     "Vakken/Taal en communicatie/Onderwerpen/Q-Implicaturen.md",
-    "Vakken/Taal en communicatie/Onderwerpen/Explicaturen.md",
     "Pasted image 20231101124302.png",
     "Pasted image 20231101105015.png",
     "Pasted image 20231101095630.png",

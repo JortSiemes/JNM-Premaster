@@ -47,7 +47,7 @@ Ik zal het voor je doen. (belofte)
 		
 
 
-### In de secundaire taalhandeling wordt een [[primaire taalhandeling]] bevraagd of gesteld
+### In de secundaire [[taalhandeling]] wordt een [[primaire taalhandeling]] bevraagd of gesteld
 [[Geslaagdheidsvoorwaarden]]:
 propositionele content rule ([[propositionele inhoudsvoorwaarde]], zet jij koffie? enige)
 - Preparatory rules ([[voorbereidende voorwaarde]], wil je, kan je, heb je er tijd voor, is er koffie in huis, is er al koffie gezet)

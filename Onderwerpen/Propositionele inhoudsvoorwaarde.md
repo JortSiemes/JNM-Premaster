@@ -1,7 +1,6 @@
-de link tussen primaire en [[secondaire taalhandeling]], geslaagdheidsvoorwaarde zijn altijd bij primaire en secondaire taalhandelingen
+de link tussen [[primaire taalhandeling]] en [[secondaire taalhandeling]], geslaagdheidsvoorwaarde zijn altijd bij primaire en secondaire [[taalhandelingen]]
 
-
-proposit, gaat over actie van de spreken in belang van de spreker in de toekomst
+### propositionele inhoudsvoorwaarde, gaat over actie van de spreken in belang van de spreker in de toekomst
 
 Mededeling, spreker actie evt morgen
 Ik neem morgen koekjes mee
