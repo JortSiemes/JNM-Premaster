@@ -1,14 +1,14 @@
 
 Vraag op tentamen:
-[[Indirecte]] en directe [[taalhandelingen]]
+[[Indirecte]] en [[directe]] [[taalhandelingen]]
 
 
 ### [[Indirecte]] [[taalhandelingen]]
-### [[Directe]] [[taalhandeling]]
+### [[Directe]] [[taalhandelingen]]
 
 
-Primaire [[taalhandelingen]]
-Secundaire [[taalhandelingen]]
+Primaire [[taalhandelingen]] (wat je bedoeld)
+Secundaire [[taalhandelingen]] (wat er letterlijk staat)
 
 Letterlijke naar bedoelde
 
@@ -19,7 +19,7 @@ Dit ziet er uit als vraag, maar is het een vraag?
 Als publiek antwoord weet dan is het eigenlijk geen vraag
 
 
-[[Indirecte]] taalhandeling: vorm van de handeling word typisch gebruikt voor bepaalde handeling en de [[Locutie]] is geassocieerd met andere taalhandeling
+[[Indirecte]] [[taalhandeling]]: vorm van de handeling word typisch gebruikt voor bepaalde handeling en de [[Locutie]] is geassocieerd met andere [[taalhandeling]]
 
 Mind if I try them: [[Stuurders]]
 
@@ -43,10 +43,10 @@ Mind if I try them: [[Stuurders]]
 
 
 [[geslaagdheidsvoorwaarden]] (felicity conditions)
-- propositionele content rule
-- Preparatory rules
-- Sincerity rule
-- Essential rule
+- [[propositionele inhoudsvoorwaarde]]
+- [[voorbereidende voorwaarde]]
+- [[Sincerity rule]]
+- [[Essential rule]]
 
 
 Step 1-5: Hoe Grice er naar kijkt (Coöperatieven, Maximes) the hearer concludes that the intended meaning ([[primaire taalhandeling]]) Must be different from the literal one ([[secondaire taalhandeling]])
@@ -55,7 +55,7 @@ Step 6-10: The hearer derives the intended meaning ([[primaire taalhandeling]]) 
 
 
 
-Searles uitvinding: je kan een taalhandeling uitvoeren door asserting of afvragen van een [[geslaagdheidsvoorwaarden]]. 
+Searles uitvinding: je kan een [[taalhandeling]] uitvoeren door asserting of afvragen van een [[geslaagdheidsvoorwaarden]]. 
 
 
 I can help you register to vote:
@@ -73,7 +73,7 @@ Can i help you?
 
 # komt op tentamen!
 Vraag: Wat is secondaire en [[primaire taalhandeling]]: Maybe you will shut up?
-[[primaire taalhandeling]] = bedoelde taalhandeling: directief
+[[primaire taalhandeling]] = bedoelde [[taalhandeling]]: directief
 [[secondaire taalhandeling]] = vraag (question)
 extra: [[Propositionele inhoudsvoorwaarde]], request
 
@@ -89,12 +89,12 @@ I want you to shut up. / I would really like you to get me some coffee!
 
 | ...                                                                   | Propositional content condition                 | preparatory conditions | Sincerity condition      | Essential condition |
 | --------------------------------------------------------------------- | ----------------------------------------------- | ---------------------- | ------------------------ | ------------------- |
-| asserting a felicity condition, [[secondaire taalhandeling]] = assertion  | I will.. You Will..., Ik ga/zal... jij gaat/zal | Ik kan... Je kunt...   | Ik wil.. Ik zou graag... | x                   |
-| Questioning a felicity condition, [[secondaire taalhandeling]] = question | Zal ik...? ga/zal je... ?                       | Kan ik...? Kun je..?   | Wil ik...?               | x                    |
+| (stellen) asserting a felicity condition, [[secondaire taalhandeling]] = assertion  | I will.. You Will..., Ik ga/zal... jij gaat/zal | Ik kan... Je kunt...   | Ik wil.. Ik zou graag... | x                   |
+| (bevragen) Questioning a felicity condition, [[secondaire taalhandeling]] = question | Zal ik...? ga/zal je... ?                       | Kan ik...? Kun je..?   | Wil ik...?               | x                    |
 
 
 
-Non-conventional [[Indirecte]] taalhandeling
+Non-conventional [[Indirecte]] [[taalhandeling]]
 
 Mag ik je succes wensen op het tentamen?
 ziet eruit als (= [[secondaire taalhandeling]], vaak vraag)
