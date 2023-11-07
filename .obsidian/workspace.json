@@ -154,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,9 +170,10 @@
   },
   "active": "f0f90663adcc2424",
   "lastOpenFiles": [
-    "Vakken/Woorden als wapens/Colleges/Werkcollege 6 Woorden als Wapens.md",
-    "Vakken/Woorden als wapens/Colleges/Werkcollege 7 Woorden als Wapens.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/psD4AE.tmp",
     "Vakken/Woorden als wapens/Weekopdrachten/Week7_opdracht.pdf",
+    "Vakken/Woorden als wapens/Colleges/Werkcollege 7 Woorden als Wapens.md",
+    "Vakken/Woorden als wapens/Colleges/Werkcollege 6 Woorden als Wapens.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 6 Journalistiek en Redactionele vaardigheden.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 5 Journalistiek en Redactionele vaardigheden.md",
     "Vakken/Taal en communicatie/Tentamens/11-03.md",
@@ -208,7 +210,6 @@
     "Onderwerpen/Essential rule.md",
     "Onderwerpen/Perlocutie.md",
     "Onderwerpen/illocutie.md",
-    "Onderwerpen/Locutie.md",
     "Pasted image 20231101124302.png",
     "Pasted image 20231101105015.png",
     "Pasted image 20231101095630.png",
