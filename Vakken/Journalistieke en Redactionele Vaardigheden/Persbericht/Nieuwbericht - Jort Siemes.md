@@ -29,6 +29,23 @@ Vertaalslag maken
 
 
 
+Wat weten we:
+Nieuw armoedebeleid "samen sterker" is voorgelegd in Leiden aan de gemeenteraad.
+De raadscommissie werk en middelen buigt zich over de plannen.
+21 december wordt het  nieuwe armoedebeleid behandeld in de Gemeenteraad.
+
+
+
+
+
+
+
+
+
+
+
+
+
 Ongelijk investeren voor gelijke kansen 
 De gemeente Leiden vindt het belangrijk dat iedereen gelijke kansen heeft en mee kan doen. Geldgebrek mag geen belemmering zijn om deel te nemen aan onderwijs, sport of cultuur. Met het nieuwe armoedebeleid voor 2024-2026 ‘Samen Sterker’ bouwt de gemeente voort op de bestaande regelingen voor inwoners met een laag inkomen. Verder ligt de nadruk in de komende periode op maatwerk en het vergroten van het bereik van de regelingen. Met een impuls van ruim 400.000 euro extra per jaar voor specifieke regelingen gaat de gemeente ongelijk investeren om gelijke kansen te creëren. De wethouder is trots op deze “royale maatregel”. 
 Wethouder Ashley North (Kansengelijkheid, Jeugd en Onderwijs): “Voor inwoners met een laag inkomen of geldproblemen is het niet vanzelfsprekendheid om mee te kunnen doen. Armoede heeft invloed op alle aspecten in je leven. Het beperkt je kans om deel te nemen aan sport of sociale activiteiten, maar het kan ook voor stress en schaamte zorgen. Dat is nergens voor nodig, want armoede kan echt iedereen overkomen. Eén verkeerde afslag in het leven, gezondheidspech of een vervelende scheiding kunnen zomaar maken dat iemand die het voor elkaar leek te hebben, toch moeite krijgt om de eindjes aan elkaar te knopen. We vinden het belangrijk dat Leidenaars die in de knel komen, niet door het ijs zakken. En ook dat kinderen geen nadelige gevolgen ondervinden van een krappe beurs van hun ouders. Ik heb er vertrouwen in dat we met de ambities en regelingen in dit beleidsplan veel inwoners kunnen helpen naar een bestaan met meer zekerheid”. 
