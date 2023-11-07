@@ -11,8 +11,10 @@
             "id": "f0f90663adcc2424",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Vakken/Woorden als wapens/Weekopdrachten/Week7_opdracht.pdf"
+              }
             }
           }
         ],
@@ -90,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vakken/Woorden als wapens/Weekopdrachten/Week7_opdracht.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vakken/Woorden als wapens/Weekopdrachten/Week7_opdracht.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Vakken/Woorden als wapens/Weekopdrachten/Week7_opdracht.pdf"
+              }
             }
           }
         ],
