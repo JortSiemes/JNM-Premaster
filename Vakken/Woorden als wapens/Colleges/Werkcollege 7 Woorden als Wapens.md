@@ -12,4 +12,12 @@ Lijdende vorm herkennen aan:
 - hulpwerkwoord (worden/zijn) + voltooid deelwoord
 - 'handelende persoon': uitgedrukt of zonder benoeming
 
+[[Werkcollege 5 Woorden als Wapens]]
+Net zoals 'perspectief'
 
+Lijdende zinnnen bevatten aanduigingen voor toestanden (voltooid deelwoord) wordt nog wel het idee opgeroepen van het proces dat tot die toestand leidt (gebroken vs kapot)
+
+
+**worden-passief,** presenteert een situatie niet vanuit een perspectief van een  aanwezige uitvoerder
+
+**zijn-passief,** presenteert een situatie niet vanuit een perspectief van een   afwezige uitvoerder
