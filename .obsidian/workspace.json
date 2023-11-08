@@ -4,33 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "e02fda737235031e",
+        "id": "5f38f6a6f17cd9f8",
         "type": "tabs",
         "children": [
           {
-            "id": "30c7c68aae0d5ab7",
+            "id": "4a51f23a32e0ae03",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Vakken/Woorden als wapens/Weekopdrachten/Week7_opdracht.pdf"
+              }
+            }
+          },
+          {
+            "id": "d2ac9240890fa17b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/Nieuwbericht - Jort Siemes.md",
+                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 7 (Jort Siemes, s4028198).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7db1dd58675bc095",
+            "id": "b4318cd0d1b03456",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/'Samen Sterker' armoedebeleid 2024- 2026 - PERSBERICHT Gemeente Leiden (1).pdf"
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -105,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/'Samen Sterker' armoedebeleid 2024- 2026 - PERSBERICHT Gemeente Leiden (1).pdf",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/'Samen Sterker' armoedebeleid 2024- 2026 - PERSBERICHT Gemeente Leiden (1).pdf",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/'Samen Sterker' armoedebeleid 2024- 2026 - PERSBERICHT Gemeente Leiden (1).pdf"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -167,36 +179,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7db1dd58675bc095",
+  "active": "b4318cd0d1b03456",
   "lastOpenFiles": [
+    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 7 (Jort Siemes, s4028198).md",
+    "conflict-files-obsidian-git.md",
+    "Lijdende vorm.md",
+    "Vakken/Woorden als wapens/Weekopdrachten/Week7_opdracht.pdf",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 6 Journalistiek en Redactionele vaardigheden.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/Nieuwbericht_Jort Siemes_4028198.pdf",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/NOS.pdf",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/~nos~u7dmnz.idlk",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/NOS.indd",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/~WRL1267.tmp",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/~WRD1264.tmp",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/~WRL0664.tmp",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/~WRD0652.tmp",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/UDC+2019-02++Rapportage+Armoedemonitor+Leiden (1).pdf",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/Nieuwbericht - Jort Siemes.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/TotaleBegroting_Leiden.jpeg",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/Bord-13-Luchtfoto-Leiden-Burcht-Canon-p13.jpg",
+    "Vakken/Woorden als wapens/Colleges/Werkcollege 7 Woorden als Wapens.md",
+    "Bedrijvende vorm.md",
     "Vakken/Taal en communicatie/Tentamens/11-03.md",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/ps8EB8.tmp",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/NLKaar_trans_wit.png",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/ps5C27.tmp",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/NLKaar_trans.png",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/NLKaart.png",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/NLKaart.psd",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/NLKaart.jpg",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/NLKaart.jpg.crdownload",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/Nieuwbericht - Jort Siemes.md",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/'Samen Sterker' armoedebeleid 2024- 2026 - PERSBERICHT Gemeente Leiden (1).pdf",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 6 Journalistiek en Redactionele vaardigheden.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Vragenlijst/Vragenlijst.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Vragenlijst/Werkplan.md",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Appendix A-TM - 24 Hour Clock Chart.pdf",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/V2_Interview Vincent Icke Artikel.pdf",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/RuimteSchipIcke_upscaled4x.png",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/RuimteSchipIcke_upscaled.png",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/RuimteSchipIcke.png",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Interview Vincent Icke ArtikelV1 Jort Siemes.pdf",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Interview opdracht Journalistiek en Redactionele Vaardigheden.md",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/AudioInterview_06102023.mp4",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Interview/Artikel_JNM_WetenschapperV2.pdf",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 5 Journalistiek en Redactionele vaardigheden.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 3 Journalistiek en Redactionele vaardigheden.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 1 Journalistiek en Redactionele Vaardigheden.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 2 Journalistiek en Redactionele vaardigheden.md",
-    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 7 (Jort Siemes, s4028198).md",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 6 (Jort Siemes, s4028198).md",
     "taalhandeling.md",
     "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
@@ -207,13 +225,6 @@
     "Vakken/Taal en communicatie/Onderwerpen/Maxime.md",
     "Onderwerpen/primaire taalhandeling.md",
     "Onderwerpen/geslaagdheidsvoorwaarden.md",
-    "Onderwerpen/Propositionele inhoudsvoorwaarde.md",
-    "Onderwerpen/Preparatory rule.md",
-    "Onderwerpen/Voorbereidende voorwaarde.md",
-    "Onderwerpen/Essential rule.md",
-    "Onderwerpen/Perlocutie.md",
-    "Pasted image 20231101124302.png",
-    "Pasted image 20231101105015.png",
-    "Pasted image 20231101095630.png"
+    "Pasted image 20231101124302.png"
   ]
 }

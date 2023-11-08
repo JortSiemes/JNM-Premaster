@@ -1,0 +1,2122 @@
+BEGIN:VCALENDAR
+PRODID:-//Eveoh//Eveoh iCalExporter 1.3//EN
+VERSION:2.0
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALNAME:Leiden University - Personal timetable: J.B. Siemes
+X-WR-CALDESC:Leiden University - Personal timetable: J.B. Siemes
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+LAST-MODIFIED:20221105T024526Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:DAYLIGHT
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20230911T131500
+DTEND;TZID=Europe/Brussels:20230911T170000
+SUMMARY:5580MVINLY - Inleiding in de journalistiek - Werkgroep 104
+LOCATION:Lipsius - 1.48
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55254-2@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5580MVINLY\n\nProspectus number activity: 5580MVINL
+ W\n\nLocation(s):\nLipsius - 1.48\n\nStaff member(s): Pleijter\, A.R.J.(
+ Alexander)\, Rooijen\, W.L.(Willem) van\n\nGroup: 104\n\nProspectus: htt
+ ps://studiegids.universiteitleiden.nl/en/search?for=courses&q=5580MVINL&
+ redirect=1\n\nID: 55254\n\nThis appointment is managed by MyTimetable.\n
+ \nLast synchronised on 2023-11-07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20230911T161500
+DTEND;TZID=Europe/Brussels:20230911T170000
+SUMMARY:5581VTECY - Taal en communicatie - Hoorcollege 101
+LOCATION:Lipsius - 0.03
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!57299-2@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5581VTECY\n\nProspectus number activity: 5581VTECH\
+ n\nLocation(s):\nLipsius - 0.03\n\nStaff member(s): Boogaart\, R.J.U.(Ro
+ nny)\n\nGroup: 101\n\nProspectus: https://studiegids.universiteitleiden.
+ nl/en/search?for=courses&q=5581VTEC&redirect=1\n\nID: 57299\n\nThis appo
+ intment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 at
+  16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20230911T171500
+DTEND;TZID=Europe/Brussels:20230911T190000
+SUMMARY:5580MVINLY - Inleiding in de journalistiek - Hoorcollege 101
+LOCATION:Lipsius - 0.11
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55255-2@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5580MVINLY\n\nProspectus number activity: 5580MVINL
+ H\n\nLocation(s):\nLipsius - 0.11\n\nStaff member(s): Pleijter\, A.R.J.(
+ Alexander)\, Rooijen\, W.L.(Willem) van\n\nGroup: 101\n\nProspectus: htt
+ ps://studiegids.universiteitleiden.nl/en/search?for=courses&q=5580MVINL&
+ redirect=1\n\nID: 55255\n\nThis appointment is managed by MyTimetable.\n
+ \nLast synchronised on 2023-11-07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20230912T151500
+DTEND;TZID=Europe/Brussels:20230912T170000
+SUMMARY:5582VWAWY - Woorden als wapens: Effecten van formuleringskeuzes -
+  Werkgroep 102
+LOCATION:Lipsius - 2.11
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!57330-2@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5582VWAWY\n\nProspectus number activity: 5582VWAWW\
+ n\nLocation(s):\nLipsius - 2.11\n\nStaff member(s): Leeuwen\, M.(Maarten
+ ) van\n\nGroup: 102\n\nProspectus: https://studiegids.universiteitleiden
+ .nl/en/search?for=courses&q=5582VWAW&redirect=1\n\nID: 57330\n\nThis app
+ ointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 a
+ t 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20230912T171500
+DTEND;TZID=Europe/Brussels:20230912T190000
+SUMMARY:5000VWFY - Kerncurriculum: wetenschapsfilosofie - Hoorcollege 101
+ 
+LOCATION:Lipsius - 0.19
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!59870-2@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5000VWFY\n\nProspectus number activity: 5000VWFH\n\
+ nLocation(s):\nLipsius - 0.19\n\nStaff member(s): Sleutels\, J.J.M.(Jan)
+ \n\nGroup: 101\n\nProspectus: https://studiegids.universiteitleiden.nl/e
+ n/search?for=courses&q=5000VWF&redirect=1\n\nID: 59870\n\nThis appointme
+ nt is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 at 16:1
+ 8 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20230913T141500
+DTEND;TZID=Europe/Brussels:20230913T150000
+SUMMARY:5581VTECY - Taal en communicatie - Werkgroep 103
+LOCATION:Matthias de Vrieshof 2 - 0.01
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!57302-2@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5581VTECY\n\nProspectus number activity: 5581VTECW\
+ n\nLocation(s):\nMatthias de Vrieshof 2 - 0.01\n\nStaff member(s): Nieuw
+ enhuizen\, M.(Mila) van\n\nGroup: 103\n\nProspectus: https://studiegids.
+ universiteitleiden.nl/en/search?for=courses&q=5581VTEC&redirect=1\n\nID:
+  57302\n\nThis appointment is managed by MyTimetable.\n\nLast synchronis
+ ed on 2023-11-07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20230913T151500
+DTEND;TZID=Europe/Brussels:20230913T170000
+SUMMARY:5580MVMETY - Methoden en theorieën van Journalism Studies - Hoorc
+ ollege 101
+LOCATION:Lipsius - 0.05
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55274-2@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5580MVMETY\n\nProspectus number activity: 5580MVMET
+ H\n\nLocation(s):\nLipsius - 0.05\n\nStaff member(s): Nat\, R.(Renée) va
+ n der\n\nGroup: 101\n\nProspectus: https://studiegids.universiteitleiden
+ .nl/en/search?for=courses&q=5580MVMET&redirect=1\n\nID: 55274\n\nThis ap
+ pointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 
+ at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20230918T131500
+DTEND;TZID=Europe/Brussels:20230918T170000
+SUMMARY:5580MVINLY - Inleiding in de journalistiek - Werkgroep 104
+LOCATION:Lipsius - 1.48
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55254-3@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5580MVINLY\n\nProspectus number activity: 5580MVINL
+ W\n\nLocation(s):\nLipsius - 1.48\n\nStaff member(s): Pleijter\, A.R.J.(
+ Alexander)\, Rooijen\, W.L.(Willem) van\n\nGroup: 104\n\nProspectus: htt
+ ps://studiegids.universiteitleiden.nl/en/search?for=courses&q=5580MVINL&
+ redirect=1\n\nID: 55254\n\nThis appointment is managed by MyTimetable.\n
+ \nLast synchronised on 2023-11-07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20230918T161500
+DTEND;TZID=Europe/Brussels:20230918T170000
+SUMMARY:5581VTECY - Taal en communicatie - Hoorcollege 101
+LOCATION:Lipsius - 0.03
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!57299-3@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5581VTECY\n\nProspectus number activity: 5581VTECH\
+ n\nLocation(s):\nLipsius - 0.03\n\nStaff member(s): Boogaart\, R.J.U.(Ro
+ nny)\n\nGroup: 101\n\nProspectus: https://studiegids.universiteitleiden.
+ nl/en/search?for=courses&q=5581VTEC&redirect=1\n\nID: 57299\n\nThis appo
+ intment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 at
+  16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20230918T171500
+DTEND;TZID=Europe/Brussels:20230918T190000
+SUMMARY:5580MVINLY - Inleiding in de journalistiek - Hoorcollege 101
+LOCATION:Lipsius - 0.11
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55255-3@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5580MVINLY\n\nProspectus number activity: 5580MVINL
+ H\n\nLocation(s):\nLipsius - 0.11\n\nStaff member(s): Pleijter\, A.R.J.(
+ Alexander)\, Rooijen\, W.L.(Willem) van\n\nGroup: 101\n\nProspectus: htt
+ ps://studiegids.universiteitleiden.nl/en/search?for=courses&q=5580MVINL&
+ redirect=1\n\nID: 55255\n\nThis appointment is managed by MyTimetable.\n
+ \nLast synchronised on 2023-11-07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20230919T151500
+DTEND;TZID=Europe/Brussels:20230919T170000
+SUMMARY:5582VWAWY - Woorden als wapens: Effecten van formuleringskeuzes -
+  Werkgroep 102
+LOCATION:Lipsius - 2.11
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!57330-3@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5582VWAWY\n\nProspectus number activity: 5582VWAWW\
+ n\nLocation(s):\nLipsius - 2.11\n\nStaff member(s): Leeuwen\, M.(Maarten
+ ) van\n\nGroup: 102\n\nProspectus: https://studiegids.universiteitleiden
+ .nl/en/search?for=courses&q=5582VWAW&redirect=1\n\nID: 57330\n\nThis app
+ ointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 a
+ t 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20230920T141500
+DTEND;TZID=Europe/Brussels:20230920T150000
+SUMMARY:5581VTECY - Taal en communicatie - Werkgroep 103
+LOCATION:Lipsius - 1.18
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!118343-3@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5581VTECY\n\nProspectus number activity: 5581VTECW\
+ n\nLocation(s):\nLipsius - 1.18\n\nStaff member(s): Nieuwenhuizen\, M.(M
+ ila) van\n\nGroup: 103\n\nProspectus: https://studiegids.universiteitlei
+ den.nl/en/search?for=courses&q=5581VTEC&redirect=1\n\nID: 118343\n\nThis
+  appointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-
+ 07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20230920T151500
+DTEND;TZID=Europe/Brussels:20230920T170000
+SUMMARY:5580MVMETY - Methoden en theorieën van Journalism Studies - Hoorc
+ ollege 101
+LOCATION:Lipsius - 0.05
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55274-3@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5580MVMETY\n\nProspectus number activity: 5580MVMET
+ H\n\nLocation(s):\nLipsius - 0.05\n\nStaff member(s): Nat\, R.(Renée) va
+ n der\n\nGroup: 101\n\nProspectus: https://studiegids.universiteitleiden
+ .nl/en/search?for=courses&q=5580MVMET&redirect=1\n\nID: 55274\n\nThis ap
+ pointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 
+ at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20230922T091500
+DTEND;TZID=Europe/Brussels:20230922T110000
+SUMMARY:5580MVREDY - Journalistieke en Redactionele Vaardigheden - Werkgr
+ oep 104
+LOCATION:Lipsius - 2.06
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55267-3@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5580MVREDY\n\nProspectus number activity: 5580MVRED
+ W\n\nLocation(s):\nLipsius - 2.06\n\nStaff member(s): Vandendaele\, A.(A
+ strid)\n\nGroup: 104\n\nProspectus: https://studiegids.universiteitleide
+ n.nl/en/search?for=courses&q=5580MVRED&redirect=1\n\nID: 55267\n\nThis a
+ ppointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07
+  at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20230925T131500
+DTEND;TZID=Europe/Brussels:20230925T170000
+SUMMARY:5580MVINLY - Inleiding in de journalistiek - Werkgroep 104
+LOCATION:Lipsius - 1.48
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55254-4@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5580MVINLY\n\nProspectus number activity: 5580MVINL
+ W\n\nLocation(s):\nLipsius - 1.48\n\nStaff member(s): Pleijter\, A.R.J.(
+ Alexander)\, Rooijen\, W.L.(Willem) van\n\nGroup: 104\n\nProspectus: htt
+ ps://studiegids.universiteitleiden.nl/en/search?for=courses&q=5580MVINL&
+ redirect=1\n\nID: 55254\n\nThis appointment is managed by MyTimetable.\n
+ \nLast synchronised on 2023-11-07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20230925T161500
+DTEND;TZID=Europe/Brussels:20230925T170000
+SUMMARY:5581VTECY - Taal en communicatie - Hoorcollege 101
+LOCATION:Lipsius - 0.03
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!57299-4@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5581VTECY\n\nProspectus number activity: 5581VTECH\
+ n\nLocation(s):\nLipsius - 0.03\n\nStaff member(s): Boogaart\, R.J.U.(Ro
+ nny)\n\nGroup: 101\n\nProspectus: https://studiegids.universiteitleiden.
+ nl/en/search?for=courses&q=5581VTEC&redirect=1\n\nID: 57299\n\nThis appo
+ intment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 at
+  16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20230925T171500
+DTEND;TZID=Europe/Brussels:20230925T190000
+SUMMARY:5580MVINLY - Inleiding in de journalistiek - Hoorcollege 101
+LOCATION:Lipsius - 0.11
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55255-4@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5580MVINLY\n\nProspectus number activity: 5580MVINL
+ H\n\nLocation(s):\nLipsius - 0.11\n\nStaff member(s): Pleijter\, A.R.J.(
+ Alexander)\, Rooijen\, W.L.(Willem) van\n\nGroup: 101\n\nProspectus: htt
+ ps://studiegids.universiteitleiden.nl/en/search?for=courses&q=5580MVINL&
+ redirect=1\n\nID: 55255\n\nThis appointment is managed by MyTimetable.\n
+ \nLast synchronised on 2023-11-07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20230926T151500
+DTEND;TZID=Europe/Brussels:20230926T170000
+SUMMARY:5582VWAWY - Woorden als wapens: Effecten van formuleringskeuzes -
+  Werkgroep 102
+LOCATION:Lipsius - 2.11
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!57330-4@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5582VWAWY\n\nProspectus number activity: 5582VWAWW\
+ n\nLocation(s):\nLipsius - 2.11\n\nStaff member(s): Leeuwen\, M.(Maarten
+ ) van\n\nGroup: 102\n\nProspectus: https://studiegids.universiteitleiden
+ .nl/en/search?for=courses&q=5582VWAW&redirect=1\n\nID: 57330\n\nThis app
+ ointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 a
+ t 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20230926T171500
+DTEND;TZID=Europe/Brussels:20230926T190000
+SUMMARY:5000VWFY - Kerncurriculum: wetenschapsfilosofie - Hoorcollege 101
+ 
+LOCATION:Lipsius - 0.19
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!59870-4@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5000VWFY\n\nProspectus number activity: 5000VWFH\n\
+ nLocation(s):\nLipsius - 0.19\n\nStaff member(s): Sleutels\, J.J.M.(Jan)
+ \n\nGroup: 101\n\nProspectus: https://studiegids.universiteitleiden.nl/e
+ n/search?for=courses&q=5000VWF&redirect=1\n\nID: 59870\n\nThis appointme
+ nt is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 at 16:1
+ 8 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20230927T141500
+DTEND;TZID=Europe/Brussels:20230927T150000
+SUMMARY:5581VTECY - Taal en communicatie - Werkgroep 103
+LOCATION:Lipsius - 1.18
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!118343-4@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5581VTECY\n\nProspectus number activity: 5581VTECW\
+ n\nLocation(s):\nLipsius - 1.18\n\nStaff member(s): Nieuwenhuizen\, M.(M
+ ila) van\n\nGroup: 103\n\nProspectus: https://studiegids.universiteitlei
+ den.nl/en/search?for=courses&q=5581VTEC&redirect=1\n\nID: 118343\n\nThis
+  appointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-
+ 07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20230927T151500
+DTEND;TZID=Europe/Brussels:20230927T170000
+SUMMARY:5580MVMETY - Methoden en theorieën van Journalism Studies - Hoorc
+ ollege 101
+LOCATION:Lipsius - 0.05
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55274-4@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5580MVMETY\n\nProspectus number activity: 5580MVMET
+ H\n\nLocation(s):\nLipsius - 0.05\n\nStaff member(s): Nat\, R.(Renée) va
+ n der\n\nGroup: 101\n\nProspectus: https://studiegids.universiteitleiden
+ .nl/en/search?for=courses&q=5580MVMET&redirect=1\n\nID: 55274\n\nThis ap
+ pointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 
+ at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20230929T091500
+DTEND;TZID=Europe/Brussels:20230929T110000
+SUMMARY:5580MVREDY - Journalistieke en Redactionele Vaardigheden - Werkgr
+ oep 104
+LOCATION:Lipsius - 2.06
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55267-4@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5580MVREDY\n\nProspectus number activity: 5580MVRED
+ W\n\nLocation(s):\nLipsius - 2.06\n\nStaff member(s): Vandendaele\, A.(A
+ strid)\n\nGroup: 104\n\nProspectus: https://studiegids.universiteitleide
+ n.nl/en/search?for=courses&q=5580MVRED&redirect=1\n\nID: 55267\n\nThis a
+ ppointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07
+  at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231004T141500
+DTEND;TZID=Europe/Brussels:20231004T150000
+SUMMARY:5581VTECY - Taal en communicatie - Werkgroep 103
+LOCATION:Lipsius - 1.18
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!118343-5@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5581VTECY\n\nProspectus number activity: 5581VTECW\
+ n\nLocation(s):\nLipsius - 1.18\n\nStaff member(s): Nieuwenhuizen\, M.(M
+ ila) van\n\nGroup: 103\n\nProspectus: https://studiegids.universiteitlei
+ den.nl/en/search?for=courses&q=5581VTEC&redirect=1\n\nID: 118343\n\nThis
+  appointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-
+ 07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231004T151500
+DTEND;TZID=Europe/Brussels:20231004T170000
+SUMMARY:5580MVMETY - Methoden en theorieën van Journalism Studies - Hoorc
+ ollege 101
+LOCATION:Lipsius - 0.05
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55274-5@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5580MVMETY\n\nProspectus number activity: 5580MVMET
+ H\n\nLocation(s):\nLipsius - 0.05\n\nStaff member(s): Nat\, R.(Renée) va
+ n der\n\nGroup: 101\n\nProspectus: https://studiegids.universiteitleiden
+ .nl/en/search?for=courses&q=5580MVMET&redirect=1\n\nID: 55274\n\nThis ap
+ pointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 
+ at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231006T091500
+DTEND;TZID=Europe/Brussels:20231006T110000
+SUMMARY:5580MVREDY - Journalistieke en Redactionele Vaardigheden - Werkgr
+ oep 104
+LOCATION:Lipsius - 2.06
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55267-5@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5580MVREDY\n\nProspectus number activity: 5580MVRED
+ W\n\nLocation(s):\nLipsius - 2.06\n\nStaff member(s): Vandendaele\, A.(A
+ strid)\n\nGroup: 104\n\nProspectus: https://studiegids.universiteitleide
+ n.nl/en/search?for=courses&q=5580MVRED&redirect=1\n\nID: 55267\n\nThis a
+ ppointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07
+  at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231009T131500
+DTEND;TZID=Europe/Brussels:20231009T170000
+SUMMARY:5580MVINLY - Inleiding in de journalistiek - Werkgroep 104
+LOCATION:Lipsius - 1.48
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55254-6@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5580MVINLY\n\nProspectus number activity: 5580MVINL
+ W\n\nLocation(s):\nLipsius - 1.48\n\nStaff member(s): Pleijter\, A.R.J.(
+ Alexander)\, Rooijen\, W.L.(Willem) van\n\nGroup: 104\n\nProspectus: htt
+ ps://studiegids.universiteitleiden.nl/en/search?for=courses&q=5580MVINL&
+ redirect=1\n\nID: 55254\n\nThis appointment is managed by MyTimetable.\n
+ \nLast synchronised on 2023-11-07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231009T161500
+DTEND;TZID=Europe/Brussels:20231009T170000
+SUMMARY:5581VTECY - Taal en communicatie - Hoorcollege 101
+LOCATION:Lipsius - 0.03
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!57299-6@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5581VTECY\n\nProspectus number activity: 5581VTECH\
+ n\nLocation(s):\nLipsius - 0.03\n\nStaff member(s): Boogaart\, R.J.U.(Ro
+ nny)\n\nGroup: 101\n\nProspectus: https://studiegids.universiteitleiden.
+ nl/en/search?for=courses&q=5581VTEC&redirect=1\n\nID: 57299\n\nThis appo
+ intment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 at
+  16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231009T171500
+DTEND;TZID=Europe/Brussels:20231009T190000
+SUMMARY:5580MVINLY - Inleiding in de journalistiek - Hoorcollege 101
+LOCATION:Lipsius - 0.11
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55255-6@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5580MVINLY\n\nProspectus number activity: 5580MVINL
+ H\n\nLocation(s):\nLipsius - 0.11\n\nStaff member(s): Pleijter\, A.R.J.(
+ Alexander)\, Rooijen\, W.L.(Willem) van\n\nGroup: 101\n\nProspectus: htt
+ ps://studiegids.universiteitleiden.nl/en/search?for=courses&q=5580MVINL&
+ redirect=1\n\nID: 55255\n\nThis appointment is managed by MyTimetable.\n
+ \nLast synchronised on 2023-11-07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231010T151500
+DTEND;TZID=Europe/Brussels:20231010T170000
+SUMMARY:5582VWAWY - Woorden als wapens: Effecten van formuleringskeuzes -
+  Werkgroep 102
+LOCATION:Lipsius - 2.11
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!57330-6@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5582VWAWY\n\nProspectus number activity: 5582VWAWW\
+ n\nLocation(s):\nLipsius - 2.11\n\nStaff member(s): Leeuwen\, M.(Maarten
+ ) van\n\nGroup: 102\n\nProspectus: https://studiegids.universiteitleiden
+ .nl/en/search?for=courses&q=5582VWAW&redirect=1\n\nID: 57330\n\nThis app
+ ointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 a
+ t 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231010T171500
+DTEND;TZID=Europe/Brussels:20231010T190000
+SUMMARY:5000VWFY - Kerncurriculum: wetenschapsfilosofie - Hoorcollege 101
+ 
+LOCATION:Lipsius - 0.19
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!59870-6@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5000VWFY\n\nProspectus number activity: 5000VWFH\n\
+ nLocation(s):\nLipsius - 0.19\n\nStaff member(s): Sleutels\, J.J.M.(Jan)
+ \n\nGroup: 101\n\nProspectus: https://studiegids.universiteitleiden.nl/e
+ n/search?for=courses&q=5000VWF&redirect=1\n\nID: 59870\n\nThis appointme
+ nt is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 at 16:1
+ 8 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231011T141500
+DTEND;TZID=Europe/Brussels:20231011T150000
+SUMMARY:5581VTECY - Taal en communicatie - Werkgroep 103
+LOCATION:Lipsius - 1.18
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!118343-6@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5581VTECY\n\nProspectus number activity: 5581VTECW\
+ n\nLocation(s):\nLipsius - 1.18\n\nStaff member(s): Nieuwenhuizen\, M.(M
+ ila) van\n\nGroup: 103\n\nProspectus: https://studiegids.universiteitlei
+ den.nl/en/search?for=courses&q=5581VTEC&redirect=1\n\nID: 118343\n\nThis
+  appointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-
+ 07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231011T151500
+DTEND;TZID=Europe/Brussels:20231011T170000
+SUMMARY:5580MVMETY - Methoden en theorieën van Journalism Studies - Hoorc
+ ollege 101
+LOCATION:Lipsius - 0.05
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55274-6@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5580MVMETY\n\nProspectus number activity: 5580MVMET
+ H\n\nLocation(s):\nLipsius - 0.05\n\nStaff member(s): Nat\, R.(Renée) va
+ n der\n\nGroup: 101\n\nProspectus: https://studiegids.universiteitleiden
+ .nl/en/search?for=courses&q=5580MVMET&redirect=1\n\nID: 55274\n\nThis ap
+ pointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 
+ at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231013T111500
+DTEND;TZID=Europe/Brussels:20231013T130000
+SUMMARY:5580MVREDY - Journalistieke en Redactionele Vaardigheden - Werkgr
+ oep 104
+LOCATION:Lipsius - 0.11
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!120688-6@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5580MVREDY\n\nProspectus number activity: 5580MVRED
+ W\n\nLocation(s):\nLipsius - 0.11\n\nStaff member(s): Vandendaele\, A.(A
+ strid)\n\nGroup: 104\n\nProspectus: https://studiegids.universiteitleide
+ n.nl/en/search?for=courses&q=5580MVRED&redirect=1\n\nID: 120688\n\nThis 
+ appointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-0
+ 7 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231016T131500
+DTEND;TZID=Europe/Brussels:20231016T170000
+SUMMARY:5580MVINLY - Inleiding in de journalistiek - Werkgroep 104
+LOCATION:Lipsius - 1.48
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55254-7@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5580MVINLY\n\nProspectus number activity: 5580MVINL
+ W\n\nLocation(s):\nLipsius - 1.48\n\nStaff member(s): Pleijter\, A.R.J.(
+ Alexander)\, Rooijen\, W.L.(Willem) van\n\nGroup: 104\n\nProspectus: htt
+ ps://studiegids.universiteitleiden.nl/en/search?for=courses&q=5580MVINL&
+ redirect=1\n\nID: 55254\n\nThis appointment is managed by MyTimetable.\n
+ \nLast synchronised on 2023-11-07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231016T161500
+DTEND;TZID=Europe/Brussels:20231016T170000
+SUMMARY:5581VTECY - Taal en communicatie - Hoorcollege 101
+LOCATION:Lipsius - 0.03
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!57299-7@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5581VTECY\n\nProspectus number activity: 5581VTECH\
+ n\nLocation(s):\nLipsius - 0.03\n\nStaff member(s): Boogaart\, R.J.U.(Ro
+ nny)\n\nGroup: 101\n\nProspectus: https://studiegids.universiteitleiden.
+ nl/en/search?for=courses&q=5581VTEC&redirect=1\n\nID: 57299\n\nThis appo
+ intment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 at
+  16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231016T171500
+DTEND;TZID=Europe/Brussels:20231016T190000
+SUMMARY:5580MVINLY - Inleiding in de journalistiek - Hoorcollege 101
+LOCATION:Lipsius - 0.11
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55255-7@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5580MVINLY\n\nProspectus number activity: 5580MVINL
+ H\n\nLocation(s):\nLipsius - 0.11\n\nStaff member(s): Pleijter\, A.R.J.(
+ Alexander)\, Rooijen\, W.L.(Willem) van\n\nGroup: 101\n\nProspectus: htt
+ ps://studiegids.universiteitleiden.nl/en/search?for=courses&q=5580MVINL&
+ redirect=1\n\nID: 55255\n\nThis appointment is managed by MyTimetable.\n
+ \nLast synchronised on 2023-11-07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231017T151500
+DTEND;TZID=Europe/Brussels:20231017T170000
+SUMMARY:5582VWAWY - Woorden als wapens: Effecten van formuleringskeuzes -
+  Werkgroep 102
+LOCATION:Lipsius - 2.11
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!57330-7@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5582VWAWY\n\nProspectus number activity: 5582VWAWW\
+ n\nLocation(s):\nLipsius - 2.11\n\nStaff member(s): Leeuwen\, M.(Maarten
+ ) van\n\nGroup: 102\n\nProspectus: https://studiegids.universiteitleiden
+ .nl/en/search?for=courses&q=5582VWAW&redirect=1\n\nID: 57330\n\nThis app
+ ointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 a
+ t 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231017T171500
+DTEND;TZID=Europe/Brussels:20231017T190000
+SUMMARY:5000VWFY - Kerncurriculum: wetenschapsfilosofie - Hoorcollege 101
+ 
+LOCATION:Lipsius - 0.19
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!59870-7@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5000VWFY\n\nProspectus number activity: 5000VWFH\n\
+ nLocation(s):\nLipsius - 0.19\n\nStaff member(s): Sleutels\, J.J.M.(Jan)
+ \n\nGroup: 101\n\nProspectus: https://studiegids.universiteitleiden.nl/e
+ n/search?for=courses&q=5000VWF&redirect=1\n\nID: 59870\n\nThis appointme
+ nt is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 at 16:1
+ 8 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231018T141500
+DTEND;TZID=Europe/Brussels:20231018T150000
+SUMMARY:5581VTECY - Taal en communicatie - Werkgroep 103
+LOCATION:Lipsius - 1.18
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!118343-7@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5581VTECY\n\nProspectus number activity: 5581VTECW\
+ n\nLocation(s):\nLipsius - 1.18\n\nStaff member(s): Nieuwenhuizen\, M.(M
+ ila) van\n\nGroup: 103\n\nProspectus: https://studiegids.universiteitlei
+ den.nl/en/search?for=courses&q=5581VTEC&redirect=1\n\nID: 118343\n\nThis
+  appointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-
+ 07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231018T151500
+DTEND;TZID=Europe/Brussels:20231018T170000
+SUMMARY:5580MVMETY - Methoden en theorieën van Journalism Studies - Hoorc
+ ollege 101
+LOCATION:Lipsius - 0.05
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55274-7@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5580MVMETY\n\nProspectus number activity: 5580MVMET
+ H\n\nLocation(s):\nLipsius - 0.05\n\nStaff member(s): Nat\, R.(Renée) va
+ n der\n\nGroup: 101\n\nProspectus: https://studiegids.universiteitleiden
+ .nl/en/search?for=courses&q=5580MVMET&redirect=1\n\nID: 55274\n\nThis ap
+ pointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 
+ at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231020T091500
+DTEND;TZID=Europe/Brussels:20231020T110000
+SUMMARY:5580MVREDY - Journalistieke en Redactionele Vaardigheden - Werkgr
+ oep 104
+LOCATION:Lipsius - 2.06
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55267-7@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5580MVREDY\n\nProspectus number activity: 5580MVRED
+ W\n\nLocation(s):\nLipsius - 2.06\n\nStaff member(s): Vandendaele\, A.(A
+ strid)\n\nGroup: 104\n\nProspectus: https://studiegids.universiteitleide
+ n.nl/en/search?for=courses&q=5580MVRED&redirect=1\n\nID: 55267\n\nThis a
+ ppointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07
+  at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231023T131500
+DTEND;TZID=Europe/Brussels:20231023T170000
+SUMMARY:5580MVINLY - Inleiding in de journalistiek - Werkgroep 104
+LOCATION:Lipsius - 1.48
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55254-8@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5580MVINLY\n\nProspectus number activity: 5580MVINL
+ W\n\nLocation(s):\nLipsius - 1.48\n\nStaff member(s): Pleijter\, A.R.J.(
+ Alexander)\, Rooijen\, W.L.(Willem) van\n\nGroup: 104\n\nProspectus: htt
+ ps://studiegids.universiteitleiden.nl/en/search?for=courses&q=5580MVINL&
+ redirect=1\n\nID: 55254\n\nThis appointment is managed by MyTimetable.\n
+ \nLast synchronised on 2023-11-07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231023T161500
+DTEND;TZID=Europe/Brussels:20231023T170000
+SUMMARY:5581VTECY - Taal en communicatie - Hoorcollege 101
+LOCATION:Lipsius - 0.03
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!57299-8@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5581VTECY\n\nProspectus number activity: 5581VTECH\
+ n\nLocation(s):\nLipsius - 0.03\n\nStaff member(s): Boogaart\, R.J.U.(Ro
+ nny)\n\nGroup: 101\n\nProspectus: https://studiegids.universiteitleiden.
+ nl/en/search?for=courses&q=5581VTEC&redirect=1\n\nID: 57299\n\nThis appo
+ intment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 at
+  16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231023T171500
+DTEND;TZID=Europe/Brussels:20231023T190000
+SUMMARY:5580MVINLY - Inleiding in de journalistiek - Hoorcollege 101
+LOCATION:Lipsius - 0.11
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55255-8@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5580MVINLY\n\nProspectus number activity: 5580MVINL
+ H\n\nLocation(s):\nLipsius - 0.11\n\nStaff member(s): Pleijter\, A.R.J.(
+ Alexander)\, Rooijen\, W.L.(Willem) van\n\nGroup: 101\n\nProspectus: htt
+ ps://studiegids.universiteitleiden.nl/en/search?for=courses&q=5580MVINL&
+ redirect=1\n\nID: 55255\n\nThis appointment is managed by MyTimetable.\n
+ \nLast synchronised on 2023-11-07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231024T151500
+DTEND;TZID=Europe/Brussels:20231024T170000
+SUMMARY:5582VWAWY - Woorden als wapens: Effecten van formuleringskeuzes -
+  Werkgroep 102
+LOCATION:Lipsius - 2.11
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!57330-8@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5582VWAWY\n\nProspectus number activity: 5582VWAWW\
+ n\nLocation(s):\nLipsius - 2.11\n\nStaff member(s): Leeuwen\, M.(Maarten
+ ) van\n\nGroup: 102\n\nProspectus: https://studiegids.universiteitleiden
+ .nl/en/search?for=courses&q=5582VWAW&redirect=1\n\nID: 57330\n\nThis app
+ ointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 a
+ t 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231024T171500
+DTEND;TZID=Europe/Brussels:20231024T190000
+SUMMARY:5000VWFY - Kerncurriculum: wetenschapsfilosofie - Hoorcollege 101
+ 
+LOCATION:Lipsius - 0.19
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!59870-8@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5000VWFY\n\nProspectus number activity: 5000VWFH\n\
+ nLocation(s):\nLipsius - 0.19\n\nStaff member(s): Sleutels\, J.J.M.(Jan)
+ \n\nGroup: 101\n\nProspectus: https://studiegids.universiteitleiden.nl/e
+ n/search?for=courses&q=5000VWF&redirect=1\n\nID: 59870\n\nThis appointme
+ nt is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 at 16:1
+ 8 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231025T141500
+DTEND;TZID=Europe/Brussels:20231025T150000
+SUMMARY:5581VTECY - Taal en communicatie - Werkgroep 103
+LOCATION:Lipsius - 1.18
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!118343-8@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5581VTECY\n\nProspectus number activity: 5581VTECW\
+ n\nLocation(s):\nLipsius - 1.18\n\nStaff member(s): Nieuwenhuizen\, M.(M
+ ila) van\n\nGroup: 103\n\nProspectus: https://studiegids.universiteitlei
+ den.nl/en/search?for=courses&q=5581VTEC&redirect=1\n\nID: 118343\n\nThis
+  appointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-
+ 07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231025T151500
+DTEND;TZID=Europe/Brussels:20231025T170000
+SUMMARY:5580MVMETY - Methoden en theorieën van Journalism Studies - Hoorc
+ ollege 101
+LOCATION:Lipsius - 0.05
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55274-8@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5580MVMETY\n\nProspectus number activity: 5580MVMET
+ H\n\nLocation(s):\nLipsius - 0.05\n\nStaff member(s): Nat\, R.(Renée) va
+ n der\n\nGroup: 101\n\nProspectus: https://studiegids.universiteitleiden
+ .nl/en/search?for=courses&q=5580MVMET&redirect=1\n\nID: 55274\n\nThis ap
+ pointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 
+ at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231027T091500
+DTEND;TZID=Europe/Brussels:20231027T110000
+SUMMARY:5580MVREDY - Journalistieke en Redactionele Vaardigheden - Werkgr
+ oep 104
+LOCATION:Lipsius - 2.06
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55267-8@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5580MVREDY\n\nProspectus number activity: 5580MVRED
+ W\n\nLocation(s):\nLipsius - 2.06\n\nStaff member(s): Vandendaele\, A.(A
+ strid)\n\nGroup: 104\n\nProspectus: https://studiegids.universiteitleide
+ n.nl/en/search?for=courses&q=5580MVRED&redirect=1\n\nID: 55267\n\nThis a
+ ppointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07
+  at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231101T130000
+DTEND;TZID=Europe/Brussels:20231101T150000
+SUMMARY:5580MVMETY - Methoden en theorieën van Journalism Studies - Tenta
+ men 101
+LOCATION:Divers - Online
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!73817-9@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Digitaal Tentamen\n\
+ nProspectus number course: 5580MVMETY\n\nProspectus number activity: 558
+ 0MVMETT\n\nLocation(s):\nDivers - Online\n\nStaff member(s): Nat\, R.(Re
+ née) van der\n\nGroup: 101\n\nProspectus: https://studiegids.universitei
+ tleiden.nl/en/search?for=courses&q=5580MVMET&redirect=1\n\nID: 73817\n\n
+ This appointment is managed by MyTimetable.\n\nLast synchronised on 2023
+ -11-07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231103T130000
+DTEND;TZID=Europe/Brussels:20231103T150000
+SUMMARY:5581VTECY - Taal en communicatie - Deeltentamen 101
+LOCATION:Universitair Sportcentrum - Hal
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!73743-9@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Digitaal Tentamen\n\
+ nProspectus number course: 5581VTECY\n\nProspectus number activity: 5581
+ VTECD\n\nLocation(s):\nUniversitair Sportcentrum - Hal\n\nStaff member(s
+ ): Boogaart\, R.J.U.(Ronny)\, Looij\, M.(Matthijs)\, Nieuwenhuizen\, M.(
+ Mila) van\n\nGroup: 101\n\nProspectus: https://studiegids.universiteitle
+ iden.nl/en/search?for=courses&q=5581VTEC&redirect=1\n\nID: 73743\n\nThis
+  appointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-
+ 07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231106T131500
+DTEND;TZID=Europe/Brussels:20231106T170000
+SUMMARY:5580MVINLY - Inleiding in de journalistiek - Werkgroep 104
+LOCATION:Lipsius - 1.48
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55254-10@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5580MVINLY\n\nProspectus number activity: 5580MVINL
+ W\n\nLocation(s):\nLipsius - 1.48\n\nStaff member(s): Pleijter\, A.R.J.(
+ Alexander)\, Rooijen\, W.L.(Willem) van\n\nGroup: 104\n\nProspectus: htt
+ ps://studiegids.universiteitleiden.nl/en/search?for=courses&q=5580MVINL&
+ redirect=1\n\nID: 55254\n\nThis appointment is managed by MyTimetable.\n
+ \nLast synchronised on 2023-11-07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231106T161500
+DTEND;TZID=Europe/Brussels:20231106T170000
+SUMMARY:5581VTECY - Taal en communicatie - Hoorcollege 101
+LOCATION:Lipsius - 0.03
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!57299-10@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5581VTECY\n\nProspectus number activity: 5581VTECH\
+ n\nLocation(s):\nLipsius - 0.03\n\nStaff member(s): Boogaart\, R.J.U.(Ro
+ nny)\n\nGroup: 101\n\nProspectus: https://studiegids.universiteitleiden.
+ nl/en/search?for=courses&q=5581VTEC&redirect=1\n\nID: 57299\n\nThis appo
+ intment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 at
+  16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231106T171500
+DTEND;TZID=Europe/Brussels:20231106T190000
+SUMMARY:5580MVINLY - Inleiding in de journalistiek - Hoorcollege 101
+LOCATION:Lipsius - 0.11
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55255-10@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5580MVINLY\n\nProspectus number activity: 5580MVINL
+ H\n\nLocation(s):\nLipsius - 0.11\n\nStaff member(s): Pleijter\, A.R.J.(
+ Alexander)\, Rooijen\, W.L.(Willem) van\n\nGroup: 101\n\nProspectus: htt
+ ps://studiegids.universiteitleiden.nl/en/search?for=courses&q=5580MVINL&
+ redirect=1\n\nID: 55255\n\nThis appointment is managed by MyTimetable.\n
+ \nLast synchronised on 2023-11-07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231107T151500
+DTEND;TZID=Europe/Brussels:20231107T170000
+SUMMARY:5582VWAWY - Woorden als wapens: Effecten van formuleringskeuzes -
+  Werkgroep 102
+LOCATION:Lipsius - 2.11
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!57330-10@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5582VWAWY\n\nProspectus number activity: 5582VWAWW\
+ n\nLocation(s):\nLipsius - 2.11\n\nStaff member(s): Leeuwen\, M.(Maarten
+ ) van\n\nGroup: 102\n\nProspectus: https://studiegids.universiteitleiden
+ .nl/en/search?for=courses&q=5582VWAW&redirect=1\n\nID: 57330\n\nThis app
+ ointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 a
+ t 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231108T141500
+DTEND;TZID=Europe/Brussels:20231108T150000
+SUMMARY:5581VTECY - Taal en communicatie - Werkgroep 103
+LOCATION:Lipsius - 1.47
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!120597-10@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5581VTECY\n\nProspectus number activity: 5581VTECW\
+ n\nLocation(s):\nLipsius - 1.47\n\nStaff member(s): Nieuwenhuizen\, M.(M
+ ila) van\n\nGroup: 103\n\nProspectus: https://studiegids.universiteitlei
+ den.nl/en/search?for=courses&q=5581VTEC&redirect=1\n\nID: 120597\n\nThis
+  appointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-
+ 07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231108T151500
+DTEND;TZID=Europe/Brussels:20231108T170000
+SUMMARY:5580MVMETY - Methoden en theorieën van Journalism Studies - Werkg
+ roep 104
+LOCATION:Lipsius - 2.01
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55273-10@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5580MVMETY\n\nProspectus number activity: 5580MVMET
+ W\n\nLocation(s):\nLipsius - 2.01\n\nStaff member(s): Nat\, R.(Renée) va
+ n der\n\nGroup: 104\n\nProspectus: https://studiegids.universiteitleiden
+ .nl/en/search?for=courses&q=5580MVMET&redirect=1\n\nID: 55273\n\nThis ap
+ pointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 
+ at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231110T091500
+DTEND;TZID=Europe/Brussels:20231110T110000
+SUMMARY:5580MVREDY - Journalistieke en Redactionele Vaardigheden - Werkgr
+ oep 104
+LOCATION:Lipsius - 2.06
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55267-10@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5580MVREDY\n\nProspectus number activity: 5580MVRED
+ W\n\nLocation(s):\nLipsius - 2.06\n\nStaff member(s): Vandendaele\, A.(A
+ strid)\n\nGroup: 104\n\nProspectus: https://studiegids.universiteitleide
+ n.nl/en/search?for=courses&q=5580MVRED&redirect=1\n\nID: 55267\n\nThis a
+ ppointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07
+  at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231113T131500
+DTEND;TZID=Europe/Brussels:20231113T170000
+SUMMARY:5580MVINLY - Inleiding in de journalistiek - Werkgroep 104
+LOCATION:Lipsius - 1.48
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55254-11@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5580MVINLY\n\nProspectus number activity: 5580MVINL
+ W\n\nLocation(s):\nLipsius - 1.48\n\nStaff member(s): Pleijter\, A.R.J.(
+ Alexander)\, Rooijen\, W.L.(Willem) van\n\nGroup: 104\n\nProspectus: htt
+ ps://studiegids.universiteitleiden.nl/en/search?for=courses&q=5580MVINL&
+ redirect=1\n\nID: 55254\n\nThis appointment is managed by MyTimetable.\n
+ \nLast synchronised on 2023-11-07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231113T161500
+DTEND;TZID=Europe/Brussels:20231113T170000
+SUMMARY:5581VTECY - Taal en communicatie - Hoorcollege 101
+LOCATION:Lipsius - 0.03
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!57299-11@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5581VTECY\n\nProspectus number activity: 5581VTECH\
+ n\nLocation(s):\nLipsius - 0.03\n\nStaff member(s): Boogaart\, R.J.U.(Ro
+ nny)\n\nGroup: 101\n\nProspectus: https://studiegids.universiteitleiden.
+ nl/en/search?for=courses&q=5581VTEC&redirect=1\n\nID: 57299\n\nThis appo
+ intment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 at
+  16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231113T171500
+DTEND;TZID=Europe/Brussels:20231113T190000
+SUMMARY:5580MVINLY - Inleiding in de journalistiek - Hoorcollege 101
+LOCATION:Lipsius - 0.11
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55255-11@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5580MVINLY\n\nProspectus number activity: 5580MVINL
+ H\n\nLocation(s):\nLipsius - 0.11\n\nStaff member(s): Pleijter\, A.R.J.(
+ Alexander)\, Rooijen\, W.L.(Willem) van\n\nGroup: 101\n\nProspectus: htt
+ ps://studiegids.universiteitleiden.nl/en/search?for=courses&q=5580MVINL&
+ redirect=1\n\nID: 55255\n\nThis appointment is managed by MyTimetable.\n
+ \nLast synchronised on 2023-11-07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231114T151500
+DTEND;TZID=Europe/Brussels:20231114T170000
+SUMMARY:5582VWAWY - Woorden als wapens: Effecten van formuleringskeuzes -
+  Werkgroep 102
+LOCATION:Lipsius - 2.11
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!57330-11@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5582VWAWY\n\nProspectus number activity: 5582VWAWW\
+ n\nLocation(s):\nLipsius - 2.11\n\nStaff member(s): Leeuwen\, M.(Maarten
+ ) van\n\nGroup: 102\n\nProspectus: https://studiegids.universiteitleiden
+ .nl/en/search?for=courses&q=5582VWAW&redirect=1\n\nID: 57330\n\nThis app
+ ointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 a
+ t 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231114T171500
+DTEND;TZID=Europe/Brussels:20231114T190000
+SUMMARY:5000VWFY - Kerncurriculum: wetenschapsfilosofie - Hoorcollege 101
+ 
+LOCATION:Lipsius - 0.19
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!59870-11@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5000VWFY\n\nProspectus number activity: 5000VWFH\n\
+ nLocation(s):\nLipsius - 0.19\n\nStaff member(s): Sleutels\, J.J.M.(Jan)
+ \n\nGroup: 101\n\nProspectus: https://studiegids.universiteitleiden.nl/e
+ n/search?for=courses&q=5000VWF&redirect=1\n\nID: 59870\n\nThis appointme
+ nt is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 at 16:1
+ 8 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231115T141500
+DTEND;TZID=Europe/Brussels:20231115T150000
+SUMMARY:5581VTECY - Taal en communicatie - Werkgroep 103
+LOCATION:Lipsius - 1.18
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!120592-11@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5581VTECY\n\nProspectus number activity: 5581VTECW\
+ n\nLocation(s):\nLipsius - 1.18\n\nStaff member(s): Nieuwenhuizen\, M.(M
+ ila) van\n\nGroup: 103\n\nProspectus: https://studiegids.universiteitlei
+ den.nl/en/search?for=courses&q=5581VTEC&redirect=1\n\nID: 120592\n\nThis
+  appointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-
+ 07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231115T151500
+DTEND;TZID=Europe/Brussels:20231115T170000
+SUMMARY:5580MVMETY - Methoden en theorieën van Journalism Studies - Werkg
+ roep 104
+LOCATION:Lipsius - 2.01
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55273-11@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5580MVMETY\n\nProspectus number activity: 5580MVMET
+ W\n\nLocation(s):\nLipsius - 2.01\n\nStaff member(s): Nat\, R.(Renée) va
+ n der\n\nGroup: 104\n\nProspectus: https://studiegids.universiteitleiden
+ .nl/en/search?for=courses&q=5580MVMET&redirect=1\n\nID: 55273\n\nThis ap
+ pointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 
+ at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231117T091500
+DTEND;TZID=Europe/Brussels:20231117T110000
+SUMMARY:5580MVREDY - Journalistieke en Redactionele Vaardigheden - Werkgr
+ oep 104
+LOCATION:Lipsius - 2.06
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55267-11@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5580MVREDY\n\nProspectus number activity: 5580MVRED
+ W\n\nLocation(s):\nLipsius - 2.06\n\nStaff member(s): Vandendaele\, A.(A
+ strid)\n\nGroup: 104\n\nProspectus: https://studiegids.universiteitleide
+ n.nl/en/search?for=courses&q=5580MVRED&redirect=1\n\nID: 55267\n\nThis a
+ ppointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07
+  at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231120T131500
+DTEND;TZID=Europe/Brussels:20231120T170000
+SUMMARY:5580MVINLY - Inleiding in de journalistiek - Werkgroep 104
+LOCATION:Lipsius - 1.48
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55254-12@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5580MVINLY\n\nProspectus number activity: 5580MVINL
+ W\n\nLocation(s):\nLipsius - 1.48\n\nStaff member(s): Pleijter\, A.R.J.(
+ Alexander)\, Rooijen\, W.L.(Willem) van\n\nGroup: 104\n\nProspectus: htt
+ ps://studiegids.universiteitleiden.nl/en/search?for=courses&q=5580MVINL&
+ redirect=1\n\nID: 55254\n\nThis appointment is managed by MyTimetable.\n
+ \nLast synchronised on 2023-11-07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231120T161500
+DTEND;TZID=Europe/Brussels:20231120T170000
+SUMMARY:5581VTECY - Taal en communicatie - Hoorcollege 101
+LOCATION:Lipsius - 0.03
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!57299-12@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5581VTECY\n\nProspectus number activity: 5581VTECH\
+ n\nLocation(s):\nLipsius - 0.03\n\nStaff member(s): Boogaart\, R.J.U.(Ro
+ nny)\n\nGroup: 101\n\nProspectus: https://studiegids.universiteitleiden.
+ nl/en/search?for=courses&q=5581VTEC&redirect=1\n\nID: 57299\n\nThis appo
+ intment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 at
+  16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231120T171500
+DTEND;TZID=Europe/Brussels:20231120T190000
+SUMMARY:5580MVINLY - Inleiding in de journalistiek - Hoorcollege 101
+LOCATION:Lipsius - 0.11
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55255-12@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5580MVINLY\n\nProspectus number activity: 5580MVINL
+ H\n\nLocation(s):\nLipsius - 0.11\n\nStaff member(s): Pleijter\, A.R.J.(
+ Alexander)\, Rooijen\, W.L.(Willem) van\n\nGroup: 101\n\nProspectus: htt
+ ps://studiegids.universiteitleiden.nl/en/search?for=courses&q=5580MVINL&
+ redirect=1\n\nID: 55255\n\nThis appointment is managed by MyTimetable.\n
+ \nLast synchronised on 2023-11-07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231121T151500
+DTEND;TZID=Europe/Brussels:20231121T170000
+SUMMARY:5582VWAWY - Woorden als wapens: Effecten van formuleringskeuzes -
+  Werkgroep 102
+LOCATION:Lipsius - 2.11
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!57330-12@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5582VWAWY\n\nProspectus number activity: 5582VWAWW\
+ n\nLocation(s):\nLipsius - 2.11\n\nStaff member(s): Leeuwen\, M.(Maarten
+ ) van\n\nGroup: 102\n\nProspectus: https://studiegids.universiteitleiden
+ .nl/en/search?for=courses&q=5582VWAW&redirect=1\n\nID: 57330\n\nThis app
+ ointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 a
+ t 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231122T141500
+DTEND;TZID=Europe/Brussels:20231122T150000
+SUMMARY:5581VTECY - Taal en communicatie - Werkgroep 103
+LOCATION:Lipsius - 1.47
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!120595-12@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5581VTECY\n\nProspectus number activity: 5581VTECW\
+ n\nLocation(s):\nLipsius - 1.47\n\nStaff member(s): Nieuwenhuizen\, M.(M
+ ila) van\n\nGroup: 103\n\nProspectus: https://studiegids.universiteitlei
+ den.nl/en/search?for=courses&q=5581VTEC&redirect=1\n\nID: 120595\n\nThis
+  appointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-
+ 07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231122T151500
+DTEND;TZID=Europe/Brussels:20231122T170000
+SUMMARY:5580MVMETY - Methoden en theorieën van Journalism Studies - Werkg
+ roep 104
+LOCATION:Lipsius - 2.01
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55273-12@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5580MVMETY\n\nProspectus number activity: 5580MVMET
+ W\n\nLocation(s):\nLipsius - 2.01\n\nStaff member(s): Nat\, R.(Renée) va
+ n der\n\nGroup: 104\n\nProspectus: https://studiegids.universiteitleiden
+ .nl/en/search?for=courses&q=5580MVMET&redirect=1\n\nID: 55273\n\nThis ap
+ pointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 
+ at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231124T091500
+DTEND;TZID=Europe/Brussels:20231124T110000
+SUMMARY:5580MVREDY - Journalistieke en Redactionele Vaardigheden - Werkgr
+ oep 104
+LOCATION:Lipsius - 2.06
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55267-12@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5580MVREDY\n\nProspectus number activity: 5580MVRED
+ W\n\nLocation(s):\nLipsius - 2.06\n\nStaff member(s): Vandendaele\, A.(A
+ strid)\n\nGroup: 104\n\nProspectus: https://studiegids.universiteitleide
+ n.nl/en/search?for=courses&q=5580MVRED&redirect=1\n\nID: 55267\n\nThis a
+ ppointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07
+  at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231127T131500
+DTEND;TZID=Europe/Brussels:20231127T170000
+SUMMARY:5580MVINLY - Inleiding in de journalistiek - Werkgroep 104
+LOCATION:Lipsius - 1.48
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55254-13@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5580MVINLY\n\nProspectus number activity: 5580MVINL
+ W\n\nLocation(s):\nLipsius - 1.48\n\nStaff member(s): Pleijter\, A.R.J.(
+ Alexander)\, Rooijen\, W.L.(Willem) van\n\nGroup: 104\n\nProspectus: htt
+ ps://studiegids.universiteitleiden.nl/en/search?for=courses&q=5580MVINL&
+ redirect=1\n\nID: 55254\n\nThis appointment is managed by MyTimetable.\n
+ \nLast synchronised on 2023-11-07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231127T161500
+DTEND;TZID=Europe/Brussels:20231127T170000
+SUMMARY:5581VTECY - Taal en communicatie - Hoorcollege 101
+LOCATION:Lipsius - 0.03
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!57299-13@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5581VTECY\n\nProspectus number activity: 5581VTECH\
+ n\nLocation(s):\nLipsius - 0.03\n\nStaff member(s): Boogaart\, R.J.U.(Ro
+ nny)\n\nGroup: 101\n\nProspectus: https://studiegids.universiteitleiden.
+ nl/en/search?for=courses&q=5581VTEC&redirect=1\n\nID: 57299\n\nThis appo
+ intment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 at
+  16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231127T171500
+DTEND;TZID=Europe/Brussels:20231127T190000
+SUMMARY:5580MVINLY - Inleiding in de journalistiek - Hoorcollege 101
+LOCATION:Lipsius - 0.11
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55255-13@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5580MVINLY\n\nProspectus number activity: 5580MVINL
+ H\n\nLocation(s):\nLipsius - 0.11\n\nStaff member(s): Pleijter\, A.R.J.(
+ Alexander)\, Rooijen\, W.L.(Willem) van\n\nGroup: 101\n\nProspectus: htt
+ ps://studiegids.universiteitleiden.nl/en/search?for=courses&q=5580MVINL&
+ redirect=1\n\nID: 55255\n\nThis appointment is managed by MyTimetable.\n
+ \nLast synchronised on 2023-11-07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231128T151500
+DTEND;TZID=Europe/Brussels:20231128T170000
+SUMMARY:5582VWAWY - Woorden als wapens: Effecten van formuleringskeuzes -
+  Werkgroep 102
+LOCATION:Lipsius - 2.11
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!57330-13@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5582VWAWY\n\nProspectus number activity: 5582VWAWW\
+ n\nLocation(s):\nLipsius - 2.11\n\nStaff member(s): Leeuwen\, M.(Maarten
+ ) van\n\nGroup: 102\n\nProspectus: https://studiegids.universiteitleiden
+ .nl/en/search?for=courses&q=5582VWAW&redirect=1\n\nID: 57330\n\nThis app
+ ointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 a
+ t 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231128T171500
+DTEND;TZID=Europe/Brussels:20231128T190000
+SUMMARY:5000VWFY - Kerncurriculum: wetenschapsfilosofie - Hoorcollege 101
+ 
+LOCATION:Lipsius - 0.19
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!59870-13@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5000VWFY\n\nProspectus number activity: 5000VWFH\n\
+ nLocation(s):\nLipsius - 0.19\n\nStaff member(s): Sleutels\, J.J.M.(Jan)
+ \n\nGroup: 101\n\nProspectus: https://studiegids.universiteitleiden.nl/e
+ n/search?for=courses&q=5000VWF&redirect=1\n\nID: 59870\n\nThis appointme
+ nt is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 at 16:1
+ 8 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231129T141500
+DTEND;TZID=Europe/Brussels:20231129T150000
+SUMMARY:5581VTECY - Taal en communicatie - Werkgroep 103
+LOCATION:Lipsius - 1.18
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!120593-13@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5581VTECY\n\nProspectus number activity: 5581VTECW\
+ n\nLocation(s):\nLipsius - 1.18\n\nStaff member(s): Nieuwenhuizen\, M.(M
+ ila) van\n\nGroup: 103\n\nProspectus: https://studiegids.universiteitlei
+ den.nl/en/search?for=courses&q=5581VTEC&redirect=1\n\nID: 120593\n\nThis
+  appointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-
+ 07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231129T151500
+DTEND;TZID=Europe/Brussels:20231129T170000
+SUMMARY:5580MVMETY - Methoden en theorieën van Journalism Studies - Werkg
+ roep 104
+LOCATION:Lipsius - 2.01
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55273-13@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5580MVMETY\n\nProspectus number activity: 5580MVMET
+ W\n\nLocation(s):\nLipsius - 2.01\n\nStaff member(s): Nat\, R.(Renée) va
+ n der\n\nGroup: 104\n\nProspectus: https://studiegids.universiteitleiden
+ .nl/en/search?for=courses&q=5580MVMET&redirect=1\n\nID: 55273\n\nThis ap
+ pointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 
+ at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231201T091500
+DTEND;TZID=Europe/Brussels:20231201T110000
+SUMMARY:5580MVREDY - Journalistieke en Redactionele Vaardigheden - Werkgr
+ oep 104
+LOCATION:Lipsius - 2.06
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55267-13@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5580MVREDY\n\nProspectus number activity: 5580MVRED
+ W\n\nLocation(s):\nLipsius - 2.06\n\nStaff member(s): Vandendaele\, A.(A
+ strid)\n\nGroup: 104\n\nProspectus: https://studiegids.universiteitleide
+ n.nl/en/search?for=courses&q=5580MVRED&redirect=1\n\nID: 55267\n\nThis a
+ ppointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07
+  at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231204T131500
+DTEND;TZID=Europe/Brussels:20231204T170000
+SUMMARY:5580MVINLY - Inleiding in de journalistiek - Werkgroep 104
+LOCATION:Lipsius - 1.48
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55254-14@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5580MVINLY\n\nProspectus number activity: 5580MVINL
+ W\n\nLocation(s):\nLipsius - 1.48\n\nStaff member(s): Pleijter\, A.R.J.(
+ Alexander)\, Rooijen\, W.L.(Willem) van\n\nGroup: 104\n\nProspectus: htt
+ ps://studiegids.universiteitleiden.nl/en/search?for=courses&q=5580MVINL&
+ redirect=1\n\nID: 55254\n\nThis appointment is managed by MyTimetable.\n
+ \nLast synchronised on 2023-11-07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231204T161500
+DTEND;TZID=Europe/Brussels:20231204T170000
+SUMMARY:5581VTECY - Taal en communicatie - Hoorcollege 101
+LOCATION:Lipsius - 0.03
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!57299-14@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5581VTECY\n\nProspectus number activity: 5581VTECH\
+ n\nLocation(s):\nLipsius - 0.03\n\nStaff member(s): Boogaart\, R.J.U.(Ro
+ nny)\n\nGroup: 101\n\nProspectus: https://studiegids.universiteitleiden.
+ nl/en/search?for=courses&q=5581VTEC&redirect=1\n\nID: 57299\n\nThis appo
+ intment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 at
+  16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231204T171500
+DTEND;TZID=Europe/Brussels:20231204T190000
+SUMMARY:5580MVINLY - Inleiding in de journalistiek - Hoorcollege 101
+LOCATION:Lipsius - 0.11
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55255-14@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5580MVINLY\n\nProspectus number activity: 5580MVINL
+ H\n\nLocation(s):\nLipsius - 0.11\n\nStaff member(s): Pleijter\, A.R.J.(
+ Alexander)\, Rooijen\, W.L.(Willem) van\n\nGroup: 101\n\nProspectus: htt
+ ps://studiegids.universiteitleiden.nl/en/search?for=courses&q=5580MVINL&
+ redirect=1\n\nID: 55255\n\nThis appointment is managed by MyTimetable.\n
+ \nLast synchronised on 2023-11-07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231205T151500
+DTEND;TZID=Europe/Brussels:20231205T170000
+SUMMARY:5582VWAWY - Woorden als wapens: Effecten van formuleringskeuzes -
+  Werkgroep 102
+LOCATION:Lipsius - 2.11
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!57330-14@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5582VWAWY\n\nProspectus number activity: 5582VWAWW\
+ n\nLocation(s):\nLipsius - 2.11\n\nStaff member(s): Leeuwen\, M.(Maarten
+ ) van\n\nGroup: 102\n\nProspectus: https://studiegids.universiteitleiden
+ .nl/en/search?for=courses&q=5582VWAW&redirect=1\n\nID: 57330\n\nThis app
+ ointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 a
+ t 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231206T141500
+DTEND;TZID=Europe/Brussels:20231206T150000
+SUMMARY:5581VTECY - Taal en communicatie - Werkgroep 103
+LOCATION:Lipsius - 1.47
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!120596-14@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5581VTECY\n\nProspectus number activity: 5581VTECW\
+ n\nLocation(s):\nLipsius - 1.47\n\nStaff member(s): Nieuwenhuizen\, M.(M
+ ila) van\n\nGroup: 103\n\nProspectus: https://studiegids.universiteitlei
+ den.nl/en/search?for=courses&q=5581VTEC&redirect=1\n\nID: 120596\n\nThis
+  appointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-
+ 07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231206T151500
+DTEND;TZID=Europe/Brussels:20231206T170000
+SUMMARY:5580MVMETY - Methoden en theorieën van Journalism Studies - Werkg
+ roep 104
+LOCATION:Lipsius - 2.01
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55273-14@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5580MVMETY\n\nProspectus number activity: 5580MVMET
+ W\n\nLocation(s):\nLipsius - 2.01\n\nStaff member(s): Nat\, R.(Renée) va
+ n der\n\nGroup: 104\n\nProspectus: https://studiegids.universiteitleiden
+ .nl/en/search?for=courses&q=5580MVMET&redirect=1\n\nID: 55273\n\nThis ap
+ pointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 
+ at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231208T091500
+DTEND;TZID=Europe/Brussels:20231208T110000
+SUMMARY:5580MVREDY - Journalistieke en Redactionele Vaardigheden - Werkgr
+ oep 104
+LOCATION:Lipsius - 2.06
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55267-14@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5580MVREDY\n\nProspectus number activity: 5580MVRED
+ W\n\nLocation(s):\nLipsius - 2.06\n\nStaff member(s): Vandendaele\, A.(A
+ strid)\n\nGroup: 104\n\nProspectus: https://studiegids.universiteitleide
+ n.nl/en/search?for=courses&q=5580MVRED&redirect=1\n\nID: 55267\n\nThis a
+ ppointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07
+  at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231211T131500
+DTEND;TZID=Europe/Brussels:20231211T170000
+SUMMARY:5580MVINLY - Inleiding in de journalistiek - Werkgroep 104
+LOCATION:Lipsius - 1.48
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55254-15@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5580MVINLY\n\nProspectus number activity: 5580MVINL
+ W\n\nLocation(s):\nLipsius - 1.48\n\nStaff member(s): Pleijter\, A.R.J.(
+ Alexander)\, Rooijen\, W.L.(Willem) van\n\nGroup: 104\n\nProspectus: htt
+ ps://studiegids.universiteitleiden.nl/en/search?for=courses&q=5580MVINL&
+ redirect=1\n\nID: 55254\n\nThis appointment is managed by MyTimetable.\n
+ \nLast synchronised on 2023-11-07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231211T161500
+DTEND;TZID=Europe/Brussels:20231211T170000
+SUMMARY:5581VTECY - Taal en communicatie - Hoorcollege 101
+LOCATION:Lipsius - 0.03
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!57299-15@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5581VTECY\n\nProspectus number activity: 5581VTECH\
+ n\nLocation(s):\nLipsius - 0.03\n\nStaff member(s): Boogaart\, R.J.U.(Ro
+ nny)\n\nGroup: 101\n\nProspectus: https://studiegids.universiteitleiden.
+ nl/en/search?for=courses&q=5581VTEC&redirect=1\n\nID: 57299\n\nThis appo
+ intment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 at
+  16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231211T171500
+DTEND;TZID=Europe/Brussels:20231211T190000
+SUMMARY:5580MVINLY - Inleiding in de journalistiek - Hoorcollege 101
+LOCATION:Lipsius - 0.11
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55255-15@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5580MVINLY\n\nProspectus number activity: 5580MVINL
+ H\n\nLocation(s):\nLipsius - 0.11\n\nStaff member(s): Pleijter\, A.R.J.(
+ Alexander)\, Rooijen\, W.L.(Willem) van\n\nGroup: 101\n\nProspectus: htt
+ ps://studiegids.universiteitleiden.nl/en/search?for=courses&q=5580MVINL&
+ redirect=1\n\nID: 55255\n\nThis appointment is managed by MyTimetable.\n
+ \nLast synchronised on 2023-11-07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231212T151500
+DTEND;TZID=Europe/Brussels:20231212T170000
+SUMMARY:5582VWAWY - Woorden als wapens: Effecten van formuleringskeuzes -
+  Werkgroep 102
+LOCATION:Lipsius - 2.11
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!57330-15@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5582VWAWY\n\nProspectus number activity: 5582VWAWW\
+ n\nLocation(s):\nLipsius - 2.11\n\nStaff member(s): Leeuwen\, M.(Maarten
+ ) van\n\nGroup: 102\n\nProspectus: https://studiegids.universiteitleiden
+ .nl/en/search?for=courses&q=5582VWAW&redirect=1\n\nID: 57330\n\nThis app
+ ointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 a
+ t 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231212T171500
+DTEND;TZID=Europe/Brussels:20231212T190000
+SUMMARY:5000VWFY - Kerncurriculum: wetenschapsfilosofie - Hoorcollege 101
+ 
+LOCATION:Lipsius - 0.19
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!59870-15@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Hoorcollege\n\nProsp
+ ectus number course: 5000VWFY\n\nProspectus number activity: 5000VWFH\n\
+ nLocation(s):\nLipsius - 0.19\n\nStaff member(s): Sleutels\, J.J.M.(Jan)
+ \n\nGroup: 101\n\nProspectus: https://studiegids.universiteitleiden.nl/e
+ n/search?for=courses&q=5000VWF&redirect=1\n\nID: 59870\n\nThis appointme
+ nt is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 at 16:1
+ 8 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231213T141500
+DTEND;TZID=Europe/Brussels:20231213T150000
+SUMMARY:5581VTECY - Taal en communicatie - Werkgroep 103
+LOCATION:Lipsius - 1.18
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!120594-15@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5581VTECY\n\nProspectus number activity: 5581VTECW\
+ n\nLocation(s):\nLipsius - 1.18\n\nStaff member(s): Nieuwenhuizen\, M.(M
+ ila) van\n\nGroup: 103\n\nProspectus: https://studiegids.universiteitlei
+ den.nl/en/search?for=courses&q=5581VTEC&redirect=1\n\nID: 120594\n\nThis
+  appointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-
+ 07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231213T151500
+DTEND;TZID=Europe/Brussels:20231213T170000
+SUMMARY:5580MVMETY - Methoden en theorieën van Journalism Studies - Werkg
+ roep 104
+LOCATION:Lipsius - 2.01
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55273-15@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5580MVMETY\n\nProspectus number activity: 5580MVMET
+ W\n\nLocation(s):\nLipsius - 2.01\n\nStaff member(s): Nat\, R.(Renée) va
+ n der\n\nGroup: 104\n\nProspectus: https://studiegids.universiteitleiden
+ .nl/en/search?for=courses&q=5580MVMET&redirect=1\n\nID: 55273\n\nThis ap
+ pointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07 
+ at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231214T151500
+DTEND;TZID=Europe/Brussels:20231214T170000
+SUMMARY:5580MVMETY - Methoden en theorieën van Journalism Studies - Werkg
+ roep 104
+LOCATION:Lipsius - 0.01
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!126335-15@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5580MVMETY\n\nProspectus number activity: 5580MVMET
+ W\n\nLocation(s):\nLipsius - 0.01\n\nStaff member(s): Nat\, R.(Renée) va
+ n der\n\nGroup: 104\n\nProspectus: https://studiegids.universiteitleiden
+ .nl/en/search?for=courses&q=5580MVMET&redirect=1\n\nID: 126335\n\nThis a
+ ppointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07
+  at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231215T091500
+DTEND;TZID=Europe/Brussels:20231215T110000
+SUMMARY:5580MVREDY - Journalistieke en Redactionele Vaardigheden - Werkgr
+ oep 104
+LOCATION:Lipsius - 2.06
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!55267-15@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Werkcollege\n\nProsp
+ ectus number course: 5580MVREDY\n\nProspectus number activity: 5580MVRED
+ W\n\nLocation(s):\nLipsius - 2.06\n\nStaff member(s): Vandendaele\, A.(A
+ strid)\n\nGroup: 104\n\nProspectus: https://studiegids.universiteitleide
+ n.nl/en/search?for=courses&q=5580MVRED&redirect=1\n\nID: 55267\n\nThis a
+ ppointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-07
+  at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231218T130000
+DTEND;TZID=Europe/Brussels:20231218T150000
+SUMMARY:5581VTECY - Taal en communicatie - Tentamen 101
+LOCATION:Universitair Sportcentrum - Hal
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!73742-16@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Digitaal Tentamen\n\
+ nProspectus number course: 5581VTECY\n\nProspectus number activity: 5581
+ VTECT\n\nLocation(s):\nUniversitair Sportcentrum - Hal\n\nStaff member(s
+ ): Boogaart\, R.J.U.(Ronny)\, Looij\, M.(Matthijs)\, Nieuwenhuizen\, M.(
+ Mila) van\n\nGroup: 101\n\nProspectus: https://studiegids.universiteitle
+ iden.nl/en/search?for=courses&q=5581VTEC&redirect=1\n\nID: 73742\n\nThis
+  appointment is managed by MyTimetable.\n\nLast synchronised on 2023-11-
+ 07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231220T130000
+DTEND;TZID=Europe/Brussels:20231220T150000
+SUMMARY:5580MVINLY - Inleiding in de journalistiek - Tentamen 101
+LOCATION:Universitair Sportcentrum - B
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!73816-16@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Digitaal Tentamen\n\
+ nProspectus number course: 5580MVINLY\n\nProspectus number activity: 558
+ 0MVINLT\n\nLocation(s):\nUniversitair Sportcentrum - B\n\nStaff member(s
+ ): Pleijter\, A.R.J.(Alexander)\, Rooijen\, W.L.(Willem) van\n\nGroup: 1
+ 01\n\nProspectus: https://studiegids.universiteitleiden.nl/en/search?for
+ =courses&q=5580MVINL&redirect=1\n\nID: 73816\n\nThis appointment is mana
+ ged by MyTimetable.\n\nLast synchronised on 2023-11-07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20231222T131500
+DTEND;TZID=Europe/Brussels:20231222T133000
+SUMMARY:5580MVREDY - Journalistieke en Redactionele Vaardigheden - Schrif
+ telijke rapp 101
+LOCATION:Divers - Geen zaal
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!73818-16@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Deadline\n\nProspect
+ us number course: 5580MVREDY\n\nProspectus number activity: 5580MVREDR\n
+ \nLocation(s):\nDivers - Geen zaal\n\nDeze deadline is enkel voor admini
+ stratieve en registratiedoeleinden. Zie Brightspace voor de definitieve 
+ deadlines.\n\nStaff member(s): Jong\, J.C.(Jaap) de\, Sneep\, W.M.(Wille
+ mijn)\, Vandendaele\, A.(Astrid)\n\nGroup: 101\n\nProspectus: https://st
+ udiegids.universiteitleiden.nl/en/search?for=courses&q=5580MVRED&redirec
+ t=1\n\nID: 73818\n\nThis appointment is managed by MyTimetable.\n\nLast 
+ synchronised on 2023-11-07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20240104T090000
+DTEND;TZID=Europe/Brussels:20240104T110000
+SUMMARY:5582VWAWY - Woorden als wapens: Effecten van formuleringskeuzes -
+  Tentamen 101
+LOCATION:Lipsius - 0.11
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!73751-18@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Tentamen\n\nProspect
+ us number course: 5582VWAWY\n\nProspectus number activity: 5582VWAWT\n\n
+ Location(s):\nLipsius - 0.11\n\nStaff member(s): Cornelis\, L.H.(Louise)
+ \, Leeuwen\, M.(Maarten) van\n\nGroup: 101\n\nProspectus: https://studie
+ gids.universiteitleiden.nl/en/search?for=courses&q=5582VWAW&redirect=1\n
+ \nID: 73751\n\nThis appointment is managed by MyTimetable.\n\nLast synch
+ ronised on 2023-11-07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231107T151823Z
+DTSTART;TZID=Europe/Brussels:20240109T090000
+DTEND;TZID=Europe/Brussels:20240109T110000
+SUMMARY:5000VWFY - Kerncurriculum: wetenschapsfilosofie - Tentamen 101
+LOCATION:Universitair Sportcentrum - A\, Universitair Sportcentrum - Hal
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20231107T151823Z
+LAST-MODIFIED:20231107T151823Z
+UID:UL2324!73784-19@rooster.universiteitleiden.nl
+DESCRIPTION:Enrolled for this activity: Yes\n\nType: Digitaal Tentamen\n\
+ nProspectus number course: 5000VWFY\n\nProspectus number activity: 5000V
+ WFT\n\nLocation(s):\nUniversitair Sportcentrum - A\nUniversitair Sportce
+ ntrum - Hal\n\nStaff member(s): Sleutels\, J.J.M.(Jan)\n\nGroup: 101\n\n
+ Prospectus: https://studiegids.universiteitleiden.nl/en/search?for=cours
+ es&q=5000VWF&redirect=1\n\nID: 73784\n\nThis appointment is managed by M
+ yTimetable.\n\nLast synchronised on 2023-11-07 at 16:18 CET
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
