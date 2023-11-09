@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ef6c6ab5d70cee97",
+        "id": "8451f3055917a4ce",
         "type": "tabs",
         "children": [
           {
-            "id": "f0f90663adcc2424",
+            "id": "0dc8932aefa52c89",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Week7_opdracht.pdf"
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/'Samen Sterker' armoedebeleid 2024- 2026 - PERSBERICHT Gemeente Leiden (1).pdf"
               }
             }
           }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Week7_opdracht.pdf",
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/'Samen Sterker' armoedebeleid 2024- 2026 - PERSBERICHT Gemeente Leiden (1).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Week7_opdracht.pdf",
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/'Samen Sterker' armoedebeleid 2024- 2026 - PERSBERICHT Gemeente Leiden (1).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Week7_opdracht.pdf"
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/'Samen Sterker' armoedebeleid 2024- 2026 - PERSBERICHT Gemeente Leiden (1).pdf"
               }
             }
           }
@@ -155,8 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0f90663adcc2424",
+  "active": "0dc8932aefa52c89",
   "lastOpenFiles": [
+    "Vakken/Woorden als wapens/Weekopdrachten/Week7_opdracht.pdf",
     "Vakken/Woorden als wapens/Colleges/Werkcollege 7 Woorden als Wapens.md",
     "Agenda/ical.ics",
     "Agenda/Unconfirmed 329475.crdownload",
@@ -164,7 +165,6 @@
     "Lijdende vorm.md",
     "Vakken/Woorden als wapens/Literatuur/1993_Onrust-Verhagen-Doeve_Formuleren_H4-LijdendeVorm.pdf",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/psD4AE.tmp",
-    "Vakken/Woorden als wapens/Weekopdrachten/Week7_opdracht.pdf",
     "Vakken/Woorden als wapens/Colleges/Werkcollege 6 Woorden als Wapens.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 6 Journalistiek en Redactionele vaardigheden.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 5 Journalistiek en Redactionele vaardigheden.md",
