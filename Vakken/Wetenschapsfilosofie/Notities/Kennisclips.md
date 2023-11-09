@@ -1,4 +1,4 @@
 
 
-# Chapter 3.3: Hegel, the logic of History
+# Chapter 3.3: [[Hegel]], the logic of History
 
