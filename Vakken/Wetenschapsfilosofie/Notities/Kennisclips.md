@@ -3,7 +3,7 @@
 # Chapter 3.3: [[Hegel]], the logic of History
 
 
-G. W. F. Hegel
+G. W. F. [[Hegel]]
 
 Agrees with Romantics
 "nobody can escape from its own time to take a position outside of history."
