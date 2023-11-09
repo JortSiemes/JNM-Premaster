@@ -18,3 +18,18 @@ Cannot reach eternal truths.
 
 "philosophy is its own time captured in thought"
 
+
+Every stage of history is a logical development of the previous stage.
+
+
+History of politics:
+- lawlessness without states
+- strict hierarchical states
+- rechtsstaat
+
+Contradiction:
+Do whatever you want = not freedom
+lawlessness is also unfreedom
+
+
+These contradictions
