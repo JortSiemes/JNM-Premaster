@@ -18,4 +18,4 @@ b, Perspectief, de vrouw word omschreven met compleet andere attributen bijvoorb
 
 c, begint rond 55 en tot 75, dit is gekozen omdat in dit gedeelte van het verhaal de afstand tussen moeder en zoon het grootste is. Dit is een stilistische keuze omdat de jongen zijn moeder niet meer herkend in hetgeen wat ziek in bed ligt.
 
-d, Aardappels als titel doet eigenlijk hetzelfde als de [[lijdende vorm]] in deze tekst waarmee het de afstand vergroot tussen de feitelijke omschrijving van [[gebeurtenissen]] in een soort van vaag verhaal. Het verhaal gaat niet over aardappels echter past daarom de titel erg goed omdat dit de afstand tussen de titel en [[gebeurtenissen]] vergroot. 
+d, Aardappels als titel doet eigenlijk hetzelfde als de [[Lijdende vorm]] in deze tekst waarmee het de afstand vergroot tussen de feitelijke omschrijving van [[gebeurtenissen]] in een soort van vaag verhaal. Het verhaal gaat niet over aardappels echter past daarom de titel erg goed omdat dit de afstand tussen de titel en [[gebeurtenissen]] vergroot. 

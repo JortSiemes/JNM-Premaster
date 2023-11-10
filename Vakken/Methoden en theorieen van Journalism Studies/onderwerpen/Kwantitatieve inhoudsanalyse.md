@@ -32,7 +32,7 @@ wat zijn verschillen in brongebruik tussen de volkskrant en volkskrant magazine
 	- Operationaliseren is het antwoord op de vraag hoe je indicatoren in een tekst herkent; Je moet dat zo goed omschrijven dat iedere ander ermee kan werken;
 - Stap 4: Hoe ontwerp ik een codeboek?
 	- Krippendorff's alpha: ideale waarde is >0.8, maar >0.67 is acceptabel
-	- [[afhankelijke variabelen]]: indicatoren van de bronnen 
+	- [[Afhankelijke variabelen]]: indicatoren van de bronnen 
 	- Geen taartdiagram, tabellen eerder gebruiken
 	- [[Onafhankelijke variabelen]] 
 	- Scores

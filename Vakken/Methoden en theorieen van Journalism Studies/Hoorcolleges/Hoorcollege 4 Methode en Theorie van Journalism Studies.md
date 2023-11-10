@@ -95,7 +95,7 @@ Voorbeelden openlijk observeerbaar gedrag:
 Wat is een [[variabelen]]?
 dit zijn dingen die kunnen variëren
 
-[[Onafhankelijke variabelen]]  -> [[afhankelijke variabelen]]
+[[Onafhankelijke variabelen]]  -> [[Afhankelijke variabelen]]
 
 Zijn de variablen observeerbaar?
 zo nee, wat zijn dan de afgeleiden [[variabelen]]?
@@ -118,7 +118,7 @@ Tentamenvraag:
 What is the effect on memory when seemingly innocuous photos accompany false reports of the news? We asked people to read news headlines of world events, some of which were false. Half the headlines appeared with photographs that were tangentially related to the event; others were presented without photographs. People saw each headline only once, and indicated whether they remembered the event, knew about it, or neither. Photos led people to immediately and confidently remember false news events. Drawing on the Source Monitoring Framework (Johnson, Hashtroudi, & Lindsay, 1993), we suggest that people often relied on familiarity and other heuristic processes when making their judgments and thus experienced effects of the photos as evidence of memory for the headlines.
 ****
 Strange, Garry, Bernstein & Lindsay (2010) beschrijven een [[experiment]] naar het effect van foto’s op het onthouden van nieuws. 
-• wat zijn hun afhankelijke en [[onafhankelijke variabelen]]? 
+• wat zijn hun afhankelijke en [[Onafhankelijke variabelen]]? 
 • wat is de functie van hun theoretisch kader? 
 • waarom hebben ze niet voor een enquête als methode gekozen? 
 • vat hun onderzoeksdesign in een schema samen.

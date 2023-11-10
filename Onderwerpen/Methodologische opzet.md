@@ -12,11 +12,11 @@ Een typische methodologische opzet omvat de volgende elementen:
 
 1. **Onderzoeksvragen of hypothesen:** Een beschrijving van de onderzoeksvragen die je probeert te beantwoorden of de hypothesen die je wilt testen.
     
-2. **[[Steekproef]] en steekproeftrekking:** Hoe de [[steekproef]] is geselecteerd, inclusief criteria voor deelname en het aantal deelnemers.
+2. **[[steekproef]] en steekproeftrekking:** Hoe de [[steekproef]] is geselecteerd, inclusief criteria voor deelname en het aantal deelnemers.
     
 3. **Gegevensverzameling:** De methoden en instrumenten die worden gebruikt om gegevens te verzamelen. Dit kan enquêtes, interviews, observaties, experimenten, of andere technieken omvatten.
     
-4. **[[Variabelen]]:** Identificatie van de [[variabelen]] die worden bestudeerd en hoe ze worden gemeten. Dit omvat zowel de [[onafhankelijke variabelen]] (factoren die worden gemanipuleerd of geobserveerd) als de [[afhankelijke variabelen]] (resultaten of effecten).
+4. **[[variabelen]]:** Identificatie van de [[variabelen]] die worden bestudeerd en hoe ze worden gemeten. Dit omvat zowel de [[Onafhankelijke variabelen]] (factoren die worden gemanipuleerd of geobserveerd) als de [[Afhankelijke variabelen]] (resultaten of effecten).
     
 5. **Data-analyse:** De statistische of analytische technieken die worden gebruikt om de verzamelde gegevens te analyseren en conclusies te trekken.
     

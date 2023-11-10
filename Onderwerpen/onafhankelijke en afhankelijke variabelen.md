@@ -9,6 +9,6 @@ Hoeveel drank op (promilage)
 
 
 **[[Afhankelijke variabelen]]**
-Wat je vervolgens gaat meten met behulp van [[onafhankelijke variabelen]]
+Wat je vervolgens gaat meten met behulp van [[Onafhankelijke variabelen]]
 Hoe snel gereden (km/h)
 

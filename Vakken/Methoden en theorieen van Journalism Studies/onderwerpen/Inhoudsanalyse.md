@@ -12,7 +12,7 @@ hiermee kan je op een systematische manier onderzoeken hoe beeldvorming in de sa
 Bijv.: Oneworld onderzocht taalgebruik in klimaatberichtgeving
 
 
-Inhoudsanalyse, ook wel bekend als content analysis, is een [[onderzoeksmethode]] die wordt gebruikt om patronen in bewaarde communicatie te vinden. Het bestaat uit de systematische analyse van een reeks teksten, die geschreven, gesproken of visueel kunnen zijn. Voorbeelden van teksten die kunnen worden geanalyseerd zijn boeken, kranten, tijdschriften, toespraken, interviews, online content en socialemediaberichten, foto’s en films.
+Inhoudsanalyse, ook wel bekend als content analysis, is een [[Onderzoeksmethode]] die wordt gebruikt om patronen in bewaarde communicatie te vinden. Het bestaat uit de systematische analyse van een reeks teksten, die geschreven, gesproken of visueel kunnen zijn. Voorbeelden van teksten die kunnen worden geanalyseerd zijn boeken, kranten, tijdschriften, toespraken, interviews, online content en socialemediaberichten, foto’s en films.
 
 Een inhoudsanalyse kan zowel [[kwantitatief]] (gericht op tellen en meten) als [[kwalitatief]] (gericht op interpreteren en begrijpen) van aard zijn1. In beide gevallen categoriseer of “codeer” je woorden, thema’s en concepten in de teksten, om ze vervolgens te analyseren.
 

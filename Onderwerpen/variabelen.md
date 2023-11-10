@@ -44,7 +44,7 @@ Onafhankelijke variabele -----------> Afhankelijke variabele
 
 
 [[Afhankelijke variabelen]]
-De variabelen die veranderen onder invloed van de [[onafhankelijke variabelen]]. 
+De variabelen die veranderen onder invloed van de [[Onafhankelijke variabelen]]. 
 
 
 [[Onafhankelijke variabelen]]

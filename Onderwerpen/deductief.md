@@ -1,6 +1,6 @@
-Deductief redeneren is een top-down [[onderzoeksmethode]], waarbij je op basis van een generalisatie naar specifieke gevallen zoekt. Met behulp van deductief onderzoek toets je theorieën en hypothesen.
+Deductief redeneren is een top-down [[Onderzoeksmethode]], waarbij je op basis van een generalisatie naar specifieke gevallen zoekt. Met behulp van deductief onderzoek toets je theorieën en hypothesen.
 
-## top-down [[onderzoeksmethode]]
+## top-down [[Onderzoeksmethode]]
 
 Het proces bestaat over het algemeen uit dezelfde vier stappen1:
 

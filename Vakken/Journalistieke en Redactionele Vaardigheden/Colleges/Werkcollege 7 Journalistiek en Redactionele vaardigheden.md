@@ -18,6 +18,9 @@ Sluit je het verhaal af (maak het verhaal rond)
 Eindigen met een soort van antwoord
 
 
+Achtergrond kan je mening mengen, gebruik hiervoor je experts
+
+
 
 
 

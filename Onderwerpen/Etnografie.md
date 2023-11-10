@@ -1,4 +1,4 @@
-Zowel bij nieuwsetnografie als bij [[experimenten]] kijk je wat er gebeurt:
+Zowel bij nieuwsetnografie als bij [[Experimenten]] kijk je wat er gebeurt:
 etnografie: Wat er gebeurt als je drie weken op een nieuwsredactie rondloopt.
 [[experiment]]: wat er gebeurt als je proefpersonen foto's laat interpreteren.
 

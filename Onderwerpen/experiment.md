@@ -19,7 +19,7 @@ Kenmerken:
 - Kort: max 10 minuten voor geconcentreerd experiment
 - Invloed van de onderzoeker zoveel mogelijk beperkt
 - openlijk observeerbare [[variabelen]]
-	- [[Variabelen]] die niet openlijk observeerbaar zijn (geheugen), moeten worden afgeleid uit wel observeerbare [[variabelen]] -> afgeleide [[variabelen]]
+	- [[variabelen]] die niet openlijk observeerbaar zijn (geheugen), moeten worden afgeleid uit wel observeerbare [[variabelen]] -> afgeleide [[variabelen]]
 - [[Deductief]]: toetsend onderzoek
 - Statisch onderzoeksopzet
 
@@ -56,7 +56,7 @@ Observatie: je kijkt door een "microscoop" naar de werkelijkheid: dat waarop je 
 
 ### wanneer zet je de experiment methode in
 
-Het experiment als [[onderzoeksmethode]] is met name geschikt voor onderzoeksvragen die effecten van specifieke [[variabelen]] meten. Typische vragen voor [[experimenten]] zijn vragen naar het WAAROM en HOE. vragen naar wat het BESTE WERKT.
+Het experiment als [[Onderzoeksmethode]] is met name geschikt voor onderzoeksvragen die effecten van specifieke [[variabelen]] meten. Typische vragen voor [[Experimenten]] zijn vragen naar het WAAROM en HOE. vragen naar wat het BESTE WERKT.
 
 [[Experimenten]] zet je vooral in als we een toetsende onderzoeksvraag hebben.
 +
@@ -95,16 +95,16 @@ niet elk onderzoeker moet elk onderzoek wiel opnieuw uitvinden
 Zinvol omdat:
 - gaat na denken over de vraag wat theorie nu eigenlijk doet voor onderzoek
 - wat kan je verwachten op grond van je theorie
-Hypothese maakt duidelijk wat de [[afhankelijke variabelen]] en [[onafhankelijke variabelen]] zijn.
+Hypothese maakt duidelijk wat de [[Afhankelijke variabelen]] en [[Onafhankelijke variabelen]] zijn.
 
 
 4, Methode
 Ontwerp je experiment.
 Eerst onderzoeksdesign. 
-	kijk naar welke getallen afhankelijke en [[onafhankelijke variabelen]] kunnen hebben
+	kijk naar welke getallen afhankelijke en [[Onafhankelijke variabelen]] kunnen hebben
 	1, test experiment bij doelgroep
 	2, vind proefpersonen
-	3, evalueer [[experimenten]]
+	3, evalueer [[Experimenten]]
 	4, Voer experiment uit
 
 5, Data 
@@ -144,7 +144,7 @@ niet elk onderzoeker moet elk onderzoek wiel opnieuw uitvinden
 Zinvol omdat:
 - gaat na denken over de vraag wat theorie nu eigenlijk doet voor onderzoek
 - wat kan je verwachten op grond van je theorie
-Hypothese maakt duidelijk wat de [[afhankelijke variabelen]] en [[onafhankelijke variabelen]] zijn.
+Hypothese maakt duidelijk wat de [[Afhankelijke variabelen]] en [[Onafhankelijke variabelen]] zijn.
 
 'fillers toevoegen'
 

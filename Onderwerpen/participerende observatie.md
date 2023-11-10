@@ -4,7 +4,7 @@
 (doel: "describing en **interpreting** the observable relationships between social practices and systems of meaning, based upon 'firsthand experience and exploration' of a particular cultural setting")
 
 
-Participerende observatie is een [[onderzoeksmethode]] binnen de sociologie, antropologie en andere sociale wetenschappen waarbij de onderzoeker actief deelneemt aan de situatie of gemeenschap die wordt bestudeerd, terwijl hij of zij tegelijkertijd observaties en aantekeningen maakt. Het is een diepgaande vorm van veldwerk waarbij de onderzoeker niet alleen passief observeert, maar ook actief betrokken raakt bij de activiteiten en interacties van de mensen in de onderzochte omgeving.
+Participerende observatie is een [[Onderzoeksmethode]] binnen de sociologie, antropologie en andere sociale wetenschappen waarbij de onderzoeker actief deelneemt aan de situatie of gemeenschap die wordt bestudeerd, terwijl hij of zij tegelijkertijd observaties en aantekeningen maakt. Het is een diepgaande vorm van veldwerk waarbij de onderzoeker niet alleen passief observeert, maar ook actief betrokken raakt bij de activiteiten en interacties van de mensen in de onderzochte omgeving.
 
 Kenmerkende aspecten van participerende observatie zijn onder andere:
 
