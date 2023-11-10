@@ -11,8 +11,12 @@
             "id": "30b52ee79d00e314",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 7 Journalistiek en Redactionele vaardigheden.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 7 Journalistiek en Redactionele vaardigheden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 7 Journalistiek en Redactionele vaardigheden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 7 Journalistiek en Redactionele vaardigheden.md"
+              }
             }
           }
         ]
@@ -140,5 +148,8 @@
     }
   },
   "active": "30b52ee79d00e314",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 6 Journalistiek en Redactionele vaardigheden.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 7 Journalistiek en Redactionele vaardigheden.md"
+  ]
 }
