@@ -1,39 +1,40 @@
 {
   "main": {
-    "id": "68f1c761a7e619d6",
+    "id": "74140995e7ee8812",
     "type": "split",
     "children": [
       {
-        "id": "43a84fd497fb61ae",
+        "id": "71ffd11363546cba",
         "type": "tabs",
         "children": [
           {
-            "id": "30b52ee79d00e314",
+            "id": "15876dbf8e0cfc58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 7 Journalistiek en Redactionele vaardigheden.md",
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondartikel.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "74fca18899783d5e",
+    "id": "15669e7e105c7be8",
     "type": "split",
     "children": [
       {
-        "id": "bf40795662ceafa6",
+        "id": "563e23d44199766b",
         "type": "tabs",
         "children": [
           {
-            "id": "710ea6e24d4a10d5",
+            "id": "d1600001feb785ff",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +44,12 @@
             }
           },
           {
-            "id": "ec7779312463a6c4",
+            "id": "04ea66dd4c102027",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "implica",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +59,7 @@
             }
           },
           {
-            "id": "2ef1b77eda0487a1",
+            "id": "93fc385e08f86483",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +73,28 @@
     "width": 300
   },
   "right": {
-    "id": "3aeb26ee9b280b8d",
+    "id": "7859014a86b170ac",
     "type": "split",
     "children": [
       {
-        "id": "0f43671afb46ab5f",
+        "id": "99db599b1727e4e3",
         "type": "tabs",
         "children": [
           {
-            "id": "eee659a9e1093bea",
+            "id": "0814e8448907efcd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7b464230e7192d40",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 7 Journalistiek en Redactionele vaardigheden.md",
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondartikel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +106,19 @@
             }
           },
           {
-            "id": "ec6505e8ee2b7392",
+            "id": "529bfa46d73bb647",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 7 Journalistiek en Redactionele vaardigheden.md",
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondartikel.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "7396f413719e63a7",
+            "id": "ec6f786f046e3111",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,21 +129,21 @@
             }
           },
           {
-            "id": "c67089e5a78a05a8",
+            "id": "82793ef6cf4a5db3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 7 Journalistiek en Redactionele vaardigheden.md"
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondartikel.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,16 +156,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30b52ee79d00e314",
+  "active": "15876dbf8e0cfc58",
   "lastOpenFiles": [
-    "Onderwerpen/Afhankelijke variabelen.md",
-    "Beelden/Pasted image 20231101094612.png",
-    "Onderwerpen/Onderzoeksmethode.md",
-    "Beelden/Pasted image 20231101095630.png",
-    "Beelden/Pasted image 20231101105015.png",
-    "Beelden/Pasted image 20231101124302.png",
-    "Onderwerpen/variabelen.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 7 Journalistiek en Redactionele vaardigheden.md",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 6 Journalistiek en Redactionele vaardigheden.md"
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondartikel.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 6 Journalistiek en Redactionele vaardigheden.md",
+    "Onderwerpen/variabelen.md",
+    "Onderwerpen/taalhandeling.md",
+    "Onderwerpen/steekproef.md",
+    "Onderwerpen/Role performance.md",
+    "Onderwerpen/Role concepts.md",
+    "Onderwerpen/Representatieve steekproef.md",
+    "Onderwerpen/Onderzoeksmethode.md",
+    "Onderwerpen/Onafhankelijke variabelen.md",
+    "Onderwerpen/Methodologische opzet.md",
+    "Onderwerpen/Lijdende vorm.md",
+    "Onderwerpen/Hypotheses.md",
+    "Onderwerpen/Grounded theory benadering.md",
+    "Onderwerpen/Experimenten.md",
+    "Onderwerpen/Empirisch onderzoek.md",
+    "Onderwerpen/Bedrijvende vorm.md",
+    "Onderwerpen/Audience expectations.md",
+    "Onderwerpen/Analyse niveaus.md",
+    "Onderwerpen/Afhankelijke variabelen.md",
+    "Beelden/Pasted image 20231101124302.png",
+    "Beelden/Pasted image 20231101105015.png",
+    "Beelden/Pasted image 20231101095630.png",
+    "Beelden/Pasted image 20231101094612.png",
+    "Vakken/Wetenschapsfilosofie/Notities/Kennisclips.md",
+    "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 5 wetenschapsfilosofie.md",
+    "Vakken/Wetenschapsfilosofie/Notities",
+    "Vakken/Woorden als wapens/Weekopdrachten/Week7_opdracht.pdf",
+    "Vakken/Methoden en theorieen van Journalism Studies/Hoorcolleges/Hoorcollege 6 Methode en Theorie van Journalism Studies.md",
+    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 7 (Jort Siemes, s4028198).md",
+    "conflict-files-obsidian-git.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/Nieuwbericht_Jort Siemes_4028198.pdf",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/NOS.pdf",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/~nos~u7dmnz.idlk",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/NOS.indd",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/~WRL1267.tmp",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/~WRD1264.tmp",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/~WRL0664.tmp",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/~WRD0652.tmp",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/TotaleBegroting_Leiden.jpeg",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/Bord-13-Luchtfoto-Leiden-Burcht-Canon-p13.jpg",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/NLKaar_trans_wit.png",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/NLKaar_trans.png",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/NLKaart.png",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Persbericht/NLKaart.jpg"
   ]
 }
