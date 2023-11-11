@@ -70,12 +70,19 @@ Krimpflatie = het fenomeen dat producten krimpen zodat de prijs hetzelfde blijft
 Bronnen: 
 ECB
 Nederlandse Econoom (Edin Mujagic, meestal kritisch op keuzes van ECB)
-Woordvoerder supermarkt
+Woordvoerder supermarkt (of lokale supermarkt eigenaar)
 {Overheidsinstanties over cijfers}
 
 
 ![[Pasted image 20231111160226.png]]
 https://nos.nl/artikel/2496051-inflatie-daalt-door-goedkopere-energie-in-de-winkel-nog-weinig-te-merken
 
+
+![[Pasted image 20231111161804.png]]
+
 ----
 
+![[Pasted image 20231111161917.png]]
+
+![[Pasted image 20231111161940.png]]
+![[Pasted image 20231111161954.png]]
