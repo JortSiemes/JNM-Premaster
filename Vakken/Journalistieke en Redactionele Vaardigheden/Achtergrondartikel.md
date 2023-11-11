@@ -4,9 +4,19 @@ Hoe kan dat?
 
 De inflatie periode van 2021, 2022 en 2023 is vooral gekenmerkt door de gigantische stijging van de energie prijzen door de oorlog tussen Rusland en Oekraine die eigenlijk als een klap op de vuurpijl kwamen bovenop een zwakke economie net klaar van de wereldwijde COVID pandemie.
 
-De rol van deze energie prijzen door een Rusland die geen gas meer onze kant op k0o
+De rol van deze energie prijzen door een Rusland die geen gas meer onze kant op stuurde voornamelijk door sancties van de Verenigde Staten en EU is groot. 
 
 is een complex economisch fenomeen dat vooral een reactie was op de globale pandemie waarin hoge kosten voor de samenleving logisch waren.
+
+De Nederlandse burger weet eigenlijk helemaal niet wie er nou verantwoordelijk is voor de stijging van hun boodschappenmandje. 
+
+
+
+Ik wil ook kijken naar de rol van de ECB sinds deze voornamelijk verantwoordelijk zijn 
+geweest voor de keuzes rondom het monetaire beleid tijdens en na de COVID periode. 
+
+Veel experts zijn het namelijk over eens dat de ECB veel te laat is gestart met het verhogen van de rentes
+
 
 
 Monetaire beleid ECB krimpflatie
@@ -65,10 +75,7 @@ Woordvoerder supermarkt
 
 
 ![[Pasted image 20231111160226.png]]
-
- 
-
-
+https://nos.nl/artikel/2496051-inflatie-daalt-door-goedkopere-energie-in-de-winkel-nog-weinig-te-merken
 
 ----
 
