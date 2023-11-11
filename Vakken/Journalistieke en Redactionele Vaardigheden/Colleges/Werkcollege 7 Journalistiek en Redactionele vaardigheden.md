@@ -29,12 +29,35 @@ college opdracht:
 Vraag:
 Hoe zit het met?
 
+---
+
+werkplan:
+Voor wie?
+Doel? (geen opinie stuk)
+Genre? 
+Haalbaar?
 
 
+WERKPLAN:
+- vragen:
+	- Onderwerp
+	- Lezer
+	- doel
+	- genre
 
-
+Werkplan a4,
+- Medium (kenmerken ervan) en lezersprofiel
+- Hoofdthema, aanleiding/casus
+- Centrale vraag die je gaat beantwoorden
 
 
 
 #### Stel een **werkplan** op
 
+
+Mogelijk onderwerp
+ECB, monetaire beleid (lagarde)
+
+Huiswerk:
+15nov werkplan
+(mogelijk, pitch 3min voor klas)
