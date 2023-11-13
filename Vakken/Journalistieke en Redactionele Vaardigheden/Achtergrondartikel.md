@@ -59,7 +59,9 @@ Dit is in de laatste jaren opgevallen door consumenten die dit op sociale media 
 
 Edin Mujagić (BNR) "als het goed gaat en de inflatie is laag dan is dat door het geweldige werk van de centrale bank, Als het inflatie te hoog is, dan ligt het aan van alles en nogwat behalve het beleid van de bank zelf" (
 2022https://www.youtube.com/watch?v=6QXYjA1uYjI&ab_channel=BNR
-)
+)  e.mujagic@ohv.nl
+
+
 
 Onderwerpen:
 Graaiflatie = het fenomeen dat bedrijven hun prijzen een stuk meer hebben verhoogd dan dat hun eigen kosten zijn gestegen.

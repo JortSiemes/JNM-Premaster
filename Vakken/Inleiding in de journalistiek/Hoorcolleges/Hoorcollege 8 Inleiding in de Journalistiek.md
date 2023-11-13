@@ -17,3 +17,8 @@ rol journalistiek verandert:
 2, Van journalistiek als product naar journalistiek als proces
 
 
+## Kenmerken van 'produsage'
+1, een grote gemeenschap van participanten
+2, Voortdurende wisseling van rollen tussen 'produsers'
+3, Producties zijn voortdurend onder ontwikkeling
+
