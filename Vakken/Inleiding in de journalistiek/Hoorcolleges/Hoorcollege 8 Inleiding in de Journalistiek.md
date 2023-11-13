@@ -7,4 +7,13 @@ Het publiek rukt op in de journalistiek
 - journalistiek als een domein
 
 ## Ecosysteem
--
+
+
+Axel Bruns:
+Gatekeeping versus gatewatching
+
+rol journalistiek verandert:
+1, axel bruns: Gatekeeping versus gatewatching
+2, Van journalistiek als product naar journalistiek als proces
+
+
