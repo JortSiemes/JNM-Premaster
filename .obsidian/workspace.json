@@ -8,28 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "15876dbf8e0cfc58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 8 (Jort Siemes, s4028198).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97f02b4f29048044",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Vakken/Woorden als wapens/Literatuur/1993_Onrust-Verhagen-Doeve_Formuleren_H5-Naamwoordstijl.pdf"
-              }
-            }
-          },
-          {
             "id": "b085590e8cea2255",
             "type": "leaf",
             "state": {
@@ -40,7 +18,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -115,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Woorden als wapens/Literatuur/1993_Onrust-Verhagen-Doeve_Formuleren_H5-Naamwoordstijl.pdf",
+                "file": "Vakken/Woorden als wapens/Weekopdrachten/Week8_opdracht.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Woorden als wapens/Literatuur/1993_Onrust-Verhagen-Doeve_Formuleren_H5-Naamwoordstijl.pdf",
+                "file": "Vakken/Woorden als wapens/Weekopdrachten/Week8_opdracht.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Woorden als wapens/Literatuur/1993_Onrust-Verhagen-Doeve_Formuleren_H5-Naamwoordstijl.pdf"
+                "file": "Vakken/Woorden als wapens/Weekopdrachten/Week8_opdracht.pdf"
               }
             }
           }
@@ -178,10 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97f02b4f29048044",
+  "active": "b085590e8cea2255",
   "lastOpenFiles": [
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 8 (Jort Siemes, s4028198).md",
     "Vakken/Woorden als wapens/Weekopdrachten/Week8_opdracht.pdf",
+    "Vakken/Woorden als wapens/Literatuur/1993_Onrust-Verhagen-Doeve_Formuleren_H5-Naamwoordstijl.pdf",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 7 (Jort Siemes, s4028198).md",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 6 (Jort Siemes, s4028198).md",
     "Vakken/Woorden als wapens/Weekopdrachten/Week7_opdracht.pdf",
@@ -205,7 +183,6 @@
     "Vakken/Inleiding in de journalistiek/Foto Opdracht/~WRL2737.tmp",
     "Vakken/Inleiding in de journalistiek/Foto Opdracht/~WRD2713.tmp",
     "Vakken/Inleiding in de journalistiek/Foto Opdracht/Opdracht.docx",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRL3969.tmp",
     "conflict-files-obsidian-git.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 7 Journalistiek en Redactionele vaardigheden.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 6 Journalistiek en Redactionele vaardigheden.md",
