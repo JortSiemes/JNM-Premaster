@@ -60,7 +60,7 @@ Effect (van deze kenmerken) op de voorstelling van zaken
 
 
 
-het besluit
+het besluit -> is besloten
 hebben moeten vaststellen
 
 
