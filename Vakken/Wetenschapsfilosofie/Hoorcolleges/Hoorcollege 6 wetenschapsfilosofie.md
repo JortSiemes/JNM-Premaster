@@ -4,7 +4,7 @@
 
 [[Postmodernisme]]
 
-[[universalisme]]
+[[Universalisme]]
 
 [[identiteit]]
 

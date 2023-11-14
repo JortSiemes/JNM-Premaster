@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Richard Rorty.md",
+                "file": "Universalisme.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Richard Rorty.md",
+                "file": "Universalisme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Richard Rorty.md",
+                "file": "Universalisme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Richard Rorty.md"
+                "file": "Universalisme.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   "active": "b085590e8cea2255",
   "lastOpenFiles": [
     "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 6 wetenschapsfilosofie.md",
+    "Universalisme.md",
     "Richard Rorty.md",
     "Postmodernisme.md",
     "Friedrich Nietzsche.md",
@@ -203,7 +204,6 @@
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 6 Journalistiek en Redactionele vaardigheden.md",
     "Onderwerpen/variabelen.md",
     "Onderwerpen/taalhandeling.md",
-    "Onderwerpen/steekproef.md",
-    "Onderwerpen/Role performance.md"
+    "Onderwerpen/steekproef.md"
   ]
 }
