@@ -27,3 +27,4 @@ Waarheid kan niet verschillend zijn voor verschillende groepen mensen.
 
 [[Friedrich Nietzsche]]
 
+[[Richard Rorty]]

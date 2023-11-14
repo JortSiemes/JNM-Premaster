@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Postmodernisme.md",
+                "file": "Richard Rorty.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Postmodernisme.md",
+                "file": "Richard Rorty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Postmodernisme.md",
+                "file": "Richard Rorty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Postmodernisme.md"
+                "file": "Richard Rorty.md"
               }
             }
           }
@@ -160,8 +160,9 @@
   "active": "b085590e8cea2255",
   "lastOpenFiles": [
     "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 6 wetenschapsfilosofie.md",
-    "Friedrich Nietzsche.md",
+    "Richard Rorty.md",
     "Postmodernisme.md",
+    "Friedrich Nietzsche.md",
     "subjectiviteit.md",
     "objectiviteit.md",
     "funderingen.md",
@@ -203,7 +204,6 @@
     "Onderwerpen/variabelen.md",
     "Onderwerpen/taalhandeling.md",
     "Onderwerpen/steekproef.md",
-    "Onderwerpen/Role performance.md",
-    "Onderwerpen/Role concepts.md"
+    "Onderwerpen/Role performance.md"
   ]
 }
