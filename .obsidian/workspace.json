@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Postmodernisme.md",
+                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 6 wetenschapsfilosofie.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Postmodernisme.md",
+                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 6 wetenschapsfilosofie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Postmodernisme.md",
+                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 6 wetenschapsfilosofie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Postmodernisme.md"
+                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 6 wetenschapsfilosofie.md"
               }
             }
           }
@@ -159,8 +159,10 @@
   },
   "active": "b085590e8cea2255",
   "lastOpenFiles": [
-    "funderingen.md",
     "Postmodernisme.md",
+    "subjectiviteit.md",
+    "objectiviteit.md",
+    "funderingen.md",
     "Beelden/Pasted image 20231010124337.png",
     "Beelden/Pasted image 20231017172418.png",
     "Beelden/Pasted image 20231111160226.png",
@@ -202,8 +204,6 @@
     "Onderwerpen/steekproef.md",
     "Onderwerpen/Role performance.md",
     "Onderwerpen/Role concepts.md",
-    "Onderwerpen/Representatieve steekproef.md",
-    "Onderwerpen/Onderzoeksmethode.md",
-    "Onderwerpen/Onafhankelijke variabelen.md"
+    "Onderwerpen/Representatieve steekproef.md"
   ]
 }

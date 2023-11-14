@@ -1,0 +1,1 @@
+Het tegendeel hiervan is [[subjectiviteit]]: wat niet hetzelfde is voor iedereen, en dus ook niet overeenkomt met hoe de wereld op zich is.

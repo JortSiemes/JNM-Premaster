@@ -1,0 +1,1 @@
+objectief betekent dan: komt overeen met hoe de wereld op zich is. Datgene wat objectief is, is hetzelfde voor iedereen.
