@@ -1,0 +1,1 @@
+in traditionele visie van filosofie, is dit waar de zoektocht naar kennis stopt

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 7 Woorden als Wapens.md",
+                "file": "Postmodernisme.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 7 Woorden als Wapens.md",
+                "file": "Postmodernisme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 7 Woorden als Wapens.md",
+                "file": "Postmodernisme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 7 Woorden als Wapens.md"
+                "file": "Postmodernisme.md"
               }
             }
           }
@@ -159,16 +159,26 @@
   },
   "active": "b085590e8cea2255",
   "lastOpenFiles": [
+    "funderingen.md",
+    "Postmodernisme.md",
+    "Beelden/Pasted image 20231010124337.png",
+    "Beelden/Pasted image 20231017172418.png",
+    "Beelden/Pasted image 20231111160226.png",
+    "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 6 wetenschapsfilosofie.md",
+    "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 5 wetenschapsfilosofie.md",
+    "Vakken/Woorden als wapens/Colleges/Werkcollege 7 Woorden als Wapens.md",
+    "Vakken/Woorden als wapens/Weekopdrachten/~WRL0004.tmp",
+    "Vakken/Woorden als wapens/Weekopdrachten/~WRD0003.tmp",
+    "Vakken/Woorden als wapens/Weekopdrachten/~WRD0002.tmp",
     "Vakken/Woorden als wapens/Colleges/Werkcollege 8 Woorden als Wapens.md",
     "Vakken/Woorden als wapens/Onderwerpen/Naamwoordstijl.md",
     "Nominalisatie.md",
     "Stijldeugden.md",
     "Vakken/Woorden als wapens/Weekopdrachten/~$ekopdracht8_JortSiemes.docx",
-    "Vakken/Woorden als wapens/Colleges/Werkcollege 7 Woorden als Wapens.md",
     "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 8 Inleiding in de Journalistiek.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRL3711.tmp",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~$rkplan.docx",
-    "Pasted image 20231114110823.png",
+    "Beelden/Pasted image 20231114110823.png",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondartikel.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/EU_MAP_UnionMembersWhite_NL.png",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/Flag_of_Europe.png",
@@ -182,14 +192,8 @@
     "Vakken/Woorden als wapens/Weekopdrachten/~WRD3853.tmp",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht8_JortSiemes.docx",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 8 (Jort Siemes, s4028198).md",
-    "Vakken/Woorden als wapens/Literatuur/1993_Onrust-Verhagen-Doeve_Formuleren_H5-Naamwoordstijl.pdf",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 7 (Jort Siemes, s4028198).md",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 6 (Jort Siemes, s4028198).md",
-    "Vakken/Woorden als wapens/Weekopdrachten/Week7_opdracht.pdf",
-    "Vakken/Inleiding in de journalistiek/Foto Opdracht/Portret/JortSiemes_Portret.jpeg",
-    "Vakken/Inleiding in de journalistiek/Foto Opdracht/Portret/JortSiemes_Portret.jpeg.crdownload",
-    "Vakken/Inleiding in de journalistiek/Foto Opdracht/Beweging/JortSiemes_Beweging.png",
-    "Vakken/Inleiding in de journalistiek/Foto Opdracht/Compositie_Diepte/JortSiemes_Diepte.png",
     "conflict-files-obsidian-git.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 7 Journalistiek en Redactionele vaardigheden.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 6 Journalistiek en Redactionele vaardigheden.md",
@@ -200,10 +204,6 @@
     "Onderwerpen/Role concepts.md",
     "Onderwerpen/Representatieve steekproef.md",
     "Onderwerpen/Onderzoeksmethode.md",
-    "Onderwerpen/Onafhankelijke variabelen.md",
-    "Onderwerpen/Methodologische opzet.md",
-    "Onderwerpen/Lijdende vorm.md",
-    "Onderwerpen/Hypotheses.md",
-    "Onderwerpen/Grounded theory benadering.md"
+    "Onderwerpen/Onafhankelijke variabelen.md"
   ]
 }
