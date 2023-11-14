@@ -63,8 +63,8 @@ Tijd van negatieve rente op bankrekening laat die mentaliteit zien.
 The ECB promised to devise by the spring a new framework for steering short term interest rates after a decade of massive money printing, which flooded the banking system with some 3.6 trillion euros ($3.85 trillion) worth of excess cash via bond purchases and loans.
 (https://www.reuters.com/markets/europe/ecb-balance-must-shrink-not-too-much-lane-2023-11-09/)
 
-
-
+![[Pasted image 20231114110823.png]]
+(bron: ECB.europa.eu: https://www.ecb.europa.eu/pub/annual/balance/html/index.en.html)
 
 
 Edin Mujagić (BNR) "als het goed gaat en de inflatie is laag dan is dat door het geweldige werk van de centrale bank, Als het inflatie te hoog is, dan ligt het aan van alles en nogwat behalve het beleid van de bank zelf" (
