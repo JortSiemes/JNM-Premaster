@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 8 Woorden als Wapens.md",
+                "file": "Nominalisatie.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 8 Woorden als Wapens.md",
+                "file": "Nominalisatie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 8 Woorden als Wapens.md",
+                "file": "Nominalisatie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 8 Woorden als Wapens.md"
+                "file": "Nominalisatie.md"
               }
             }
           }
@@ -159,9 +159,12 @@
   },
   "active": "b085590e8cea2255",
   "lastOpenFiles": [
+    "Vakken/Woorden als wapens/Colleges/Werkcollege 8 Woorden als Wapens.md",
+    "Nominalisatie.md",
+    "Vakken/Woorden als wapens/Onderwerpen/Naamwoordstijl.md",
+    "Stijldeugden.md",
     "Vakken/Woorden als wapens/Weekopdrachten/~$ekopdracht8_JortSiemes.docx",
     "Vakken/Woorden als wapens/Colleges/Werkcollege 7 Woorden als Wapens.md",
-    "Vakken/Woorden als wapens/Colleges/Werkcollege 8 Woorden als Wapens.md",
     "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 8 Inleiding in de Journalistiek.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRL3711.tmp",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~$rkplan.docx",
@@ -183,7 +186,6 @@
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 7 (Jort Siemes, s4028198).md",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 6 (Jort Siemes, s4028198).md",
     "Vakken/Woorden als wapens/Weekopdrachten/Week7_opdracht.pdf",
-    "Vakken/Woorden als wapens/Onderwerpen/Naamwoordstijl.md",
     "Vakken/Inleiding in de journalistiek/Foto Opdracht/Portret/JortSiemes_Portret.jpeg",
     "Vakken/Inleiding in de journalistiek/Foto Opdracht/Portret/JortSiemes_Portret.jpeg.crdownload",
     "Vakken/Inleiding in de journalistiek/Foto Opdracht/Beweging/JortSiemes_Beweging.png",
@@ -202,7 +204,6 @@
     "Onderwerpen/Methodologische opzet.md",
     "Onderwerpen/Lijdende vorm.md",
     "Onderwerpen/Hypotheses.md",
-    "Onderwerpen/Grounded theory benadering.md",
-    "Onderwerpen/Experimenten.md"
+    "Onderwerpen/Grounded theory benadering.md"
   ]
 }
