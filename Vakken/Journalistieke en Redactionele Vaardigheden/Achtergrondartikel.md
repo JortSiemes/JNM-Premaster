@@ -54,13 +54,13 @@ Ook zijn de prijzen van sommige producten zodanig gestegen dat het een inflectie
 Dit is in de laatste jaren opgevallen door consumenten die dit op sociale media zijn gaan delen om hier de klanten over te informeren. Op r/schrinkflation is een community die met elkaar overduidelijke gevallen van dit economische fenomeen delen. 
 
 
+Arnoud boot - beleidsmakers zitten behind the curve, we zitten in een situatie waar rente omhoog moet. Want de economie moet worden afgeremd, hij bedoelt met behind the curve. Inflatie is ontstaan, door Energie van Rusland en COVID. Maar fundamenteel is het ervoor al fout gegaan door het verhaal dat geld niks waard was. Het denken in hoofd van men
 
 
 
 Edin Mujagić (BNR) "als het goed gaat en de inflatie is laag dan is dat door het geweldige werk van de centrale bank, Als het inflatie te hoog is, dan ligt het aan van alles en nogwat behalve het beleid van de bank zelf" (
 2022https://www.youtube.com/watch?v=6QXYjA1uYjI&ab_channel=BNR
 )  e.mujagic@ohv.nl
-
 
 
 Onderwerpen:
