@@ -14,6 +14,11 @@ Algemene boodschap
 dit roept natuurlijk de vraag op of er wel/niet een 'neutrale' waarheid is --> aanval op de eenheid van waarheid.
 
 
+wat beweren ze:
+- niet dat er over alles altijd verschillende waarheden zijn.
+- helemaal niet dat elke claim die je maar kan doen waar is
+- wel dat het soms zo ..........
+
 
 
 
