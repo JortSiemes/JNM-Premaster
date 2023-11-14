@@ -54,7 +54,16 @@ Ook zijn de prijzen van sommige producten zodanig gestegen dat het een inflectie
 Dit is in de laatste jaren opgevallen door consumenten die dit op sociale media zijn gaan delen om hier de klanten over te informeren. Op r/schrinkflation is een community die met elkaar overduidelijke gevallen van dit economische fenomeen delen. 
 
 
-Arnoud boot - beleidsmakers zitten behind the curve, we zitten in een situatie waar rente omhoog moet. Want de economie moet worden afgeremd, hij bedoelt met behind the curve. Inflatie is ontstaan, door Energie van Rusland en COVID. Maar fundamenteel is het ervoor al fout gegaan door het verhaal dat geld niks waard was. Het denken in hoofd van men
+**Arnoud boot** - beleidsmakers zitten behind the curve, we zitten in een situatie waar rente omhoog moet. Want de economie moet worden afgeremd, hij bedoelt met behind the curve. Inflatie is ontstaan, door Energie van Rusland en COVID. Maar fundamenteel is het ervoor al fout gegaan door het verhaal dat geld niks waard was. 2% beleid, 2019 is economie al overspannen. ECB kan er niet uitstappen, overheden geven gratis geld uit. We geven compensatie aan alles. Wat betekend dat voor de consument, geld heeft geen waarde. Op moment dat geld geen waarde heeft volgens de consument, dan is er inflatie. Sparen pensioen heeft geen zin dus mensen gaan het maar uitgeven aan bijvoorbeeld veel huizen. Als je veel gaat uitgeven volgt inflatie. 
+Tijd van negatieve rente op bankrekening laat die mentaliteit zien. 
+
+(https://www.youtube.com/watch?v=tyuK0ssSJag&ab_channel=BNR)
+
+
+The ECB promised to devise by the spring a new framework for steering short term interest rates after a decade of massive money printing, which flooded the banking system with some 3.6 trillion euros ($3.85 trillion) worth of excess cash via bond purchases and loans.
+(https://www.reuters.com/markets/europe/ecb-balance-must-shrink-not-too-much-lane-2023-11-09/)
+
+
 
 
 
