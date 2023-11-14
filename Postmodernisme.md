@@ -20,6 +20,8 @@ wat beweren ze:
 - wel dat het soms zo ..........
 
 
+Het is onmogelijk om op neutrale wijze wetenschap te doen.
+
 
 
 
