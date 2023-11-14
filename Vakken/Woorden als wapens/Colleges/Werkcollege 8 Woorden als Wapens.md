@@ -60,6 +60,9 @@ Effect (van deze kenmerken) op de voorstelling van zaken
 
 
 
+het besluit
+hebben moeten vaststellen
+
 
 
 
