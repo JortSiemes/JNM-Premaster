@@ -25,4 +25,5 @@ Descartes 2 soorten eigenschappen:
 Waarheid kan niet verschillend zijn voor verschillende groepen mensen.
 
 
+[[Friedrich Nietzsche]]
 
