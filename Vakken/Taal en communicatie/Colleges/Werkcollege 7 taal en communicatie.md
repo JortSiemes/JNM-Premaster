@@ -22,6 +22,17 @@ temporal
 [[pronomenale anaforen]]
 [[antecedent]]
 
+adverbiaale anaforen
+Hij, hem zich,
+verbiaale anaforen
+daarvandaan, 
+
 Klemtoon kan rol spelen, 
 
 
+
+### Presupposities:
+Niet expliciet gezegd (impliciete bedoeling)
+Niet context afhankelijk & niet annuleerbaar
+
+Mijn hond is zwart -> maar ik heb geen hond (kan niet)
