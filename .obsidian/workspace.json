@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4dd99d665c7789eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pronomenale anaforen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "671c6f36ee5399c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "antecedent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -94,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Taal en communicatie/Colleges/Werkcollege 7 taal en communicatie.md",
+                "file": "pronomenale anaforen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Taal en communicatie/Colleges/Werkcollege 7 taal en communicatie.md",
+                "file": "pronomenale anaforen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Taal en communicatie/Colleges/Werkcollege 7 taal en communicatie.md"
+                "file": "pronomenale anaforen.md"
               }
             }
           }
@@ -157,10 +182,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b085590e8cea2255",
+  "active": "4dd99d665c7789eb",
   "lastOpenFiles": [
-    "Vakken/Taal en communicatie/Colleges/Werkcollege 6 taal en communicatie.md",
     "Vakken/Taal en communicatie/Colleges/Werkcollege 7 taal en communicatie.md",
+    "pronomenale anaforen.md",
+    "antecedent.md",
+    "Vakken/Taal en communicatie/Colleges/Werkcollege 6 taal en communicatie.md",
     "Vakken/Woorden als wapens/Colleges/Werkcollege 9 Woorden als Wapens.md",
     "Vakken/Woorden als wapens/Colleges/Werkcollege 8 Woorden als Wapens.md",
     "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 5 wetenschapsfilosofie.md",
@@ -197,9 +224,7 @@
     "Vakken/Woorden als wapens/Onderwerpen/Naamwoordstijl.md",
     "Nominalisatie.md",
     "Stijldeugden.md",
-    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 8 Inleiding in de Journalistiek.md",
     "Beelden/Pasted image 20231114110823.png",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondartikel.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/EU_MAP_UnionMembersWhite_NL.png",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/Flag_of_Europe.png",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/fra06p020_bg_motiv11_visualisierung2012.png",
