@@ -35,4 +35,10 @@ Klemtoon kan rol spelen,
 Niet expliciet gezegd (impliciete bedoeling)
 Niet context afhankelijk & niet annuleerbaar
 
+Waarheidscondities van een zin.
+
 Mijn hond is zwart -> maar ik heb geen hond (kan niet)
+
+
+[[Metalinguistic negation]]
+[[supsension]]
