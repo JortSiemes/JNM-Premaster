@@ -17,4 +17,8 @@ Universalisme en intentiteitsdenken = Essentialisme
 - volgens universalimse zijn essenties NIET belangrijk
 
 Postmoderne filosofen ontkennen het bestaan van vaste essenties in de wereld:
-- de betekenis van begrippen zoals 'man'
+- de betekenis van begrippen zoals 'man', 'vrouw', 'moslim' wordt niet bepaald door hun intrinsieke inhoud, maar door hun (complexe, veranderlijke) relaties tot alle andere begrippen
+- begrippen zoals 'man', 'vrouw', 'moslim' hebben dus geen duidelijke, vastomlijnde betekenis; hun interpretatie hangt af van context en situatie, en kan van persoon tot persoon verschillen.
+
+
+wetenschappers moeten ook doen aan **zelf-interpretatie**, reflecteren op
