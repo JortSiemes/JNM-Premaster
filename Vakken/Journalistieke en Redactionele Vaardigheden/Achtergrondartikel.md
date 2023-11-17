@@ -38,6 +38,39 @@ doet te weinig
 Bedrijven hebben hierop gereageerd.
 
 
+ls je kijkt naar het huidige nieuws over inflatie lijkt het goed te gaan met de economie, we zijn zelfs deze maand voor het eerst in een periode van deflatie gekomen als Nederland. Echter is dit niet het hele verhaal, wie wel eens een supermarkt bezoekt of op een vrijdag een terras opzoekt komt toch thuis met een heel ander verhaal.
+
+Hoe kan dat?
+
+De inflatie periode van 2021, 2022 en 2023 is vooral gekenmerkt door de gigantische stijging van de energie prijzen door de oorlog tussen Rusland en Oekraine die eigenlijk als een klap op de vuurpijl kwamen bovenop een zwakke economie net klaar van de wereldwijde COVID pandemie. De rol van deze energie prijzen door een Rusland die geen gas meer onze kant op stuurde voornamelijk door sancties van de Verenigde Staten en EU is groot. is een complex economisch fenomeen dat vooral een reactie was op de globale pandemie waarin hoge kosten voor de samenleving logisch waren. De Nederlandse burger weet eigenlijk helemaal niet wie er nou verantwoordelijk is voor de stijging van hun boodschappenmandje. Ik wil ook kijken naar de rol van de ECB sinds deze voornamelijk verantwoordelijk zijn.
+
+geweest voor de keuzes rondom het monetaire beleid tijdens en na de COVID periode. Veel experts zijn het namelijk over eens dat de ECB veel te laat is gestart met het verhogen van de rentes
+
+Problemen:
+
+Macro
+
+Niemand weet wat ECB is / doet – zijn niet kiesbaar maar bepalen bijna gehele monetaire beleid van EU
+
+ECB te laat begonnen met verhogen van rentes
+
+EU te afhankelijk van Energie (Gas) Rusland, druppel die emmer deed overlopen qua inflatie.
+
+Nederland koploper inflatie vorig jaar nu recessie.
+
+Micro
+
+Prijzen in supermarkt stijgen
+
+Prijzen dusdanig gestegen dat krimpflatie optreed
+
+In andere markten spraken van graaiflatie: Geeft hoge winsten (Shell, Supermarkten): [https://nos.nl/artikel/2463875-recordwinst-voor-ahold-delhaize-ondanks-inflatie](https://nos.nl/artikel/2463875-recordwinst-voor-ahold-delhaize-ondanks-inflatie)
+
+Loon prijs spiraal is iets waar voor gewaarschuwd word,
+
+
+
+
 
 te veel geld in omloop na COVID response
 
