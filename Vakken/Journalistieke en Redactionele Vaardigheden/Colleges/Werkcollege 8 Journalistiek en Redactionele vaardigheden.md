@@ -20,3 +20,9 @@ Welk haakje ga je voor verhaal gebruiken om relevant te maken:
 
 
 
+## Verhaallijnen
+1. probleemverhaal (er is een probleem, niet twee partijen perse)
+2. maatregelverhaal (nieuwe maatregel, niet meer roken, wat nu?)
+3. Conflictverhaal (Conflict tussen 2 partijen)
+4. Trendverhaal (we zien nieuw fenomeen, wat is dat?)
+
