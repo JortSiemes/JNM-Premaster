@@ -1,4 +1,24 @@
-## Belangrijke vormen
+
+Neurologisch onderzoek (opgeven)
+studieproposodie@gmail.com
+
+
+Tekstadviseringsperspectief
+## [[Naamwoordstijl]]
+van werkwoord maak je een zelfstandig naamwoord
+
+[[Stijldeugden]]
+
+Stylistische middelen gebruiken/niet gebruiken.
+Naamwoord stijl en Lijdende vorm (negatief imago, omdat wordt gesproken over bedreiging voor duidelijkheid en concreetheid van tekst.)
+
+kernbegrippen:
+- lijdende vorm
+- worden- en zijn-passieven
+- Motieven voor gebruik van de lijdende vorm
+- Passend en effectief gebruik
+
+Deze week
 - Naamwoordstijl
 - [[Nominalisatie]]
 	- Afleiding (-ing, -actie bij leenwoorden)
@@ -7,20 +27,6 @@
 		Het beheer, gebruik, behoud; het optreden, verdedigen, realiseren
 	- restcategorie
 		de conclusie, het aanbod, de afname
-
-
-
-van werkwoord maak je een zelfstandig naamwoord
-
-
-je zou ook een vervoegd werkwoord kunnen invoeren.
-
-
-
-'Vermijd de naamwoordstijl' is bekend advies.
-
-Zin met meerdere 
-
 
 ### Functiekenmerken van nominalisatie
 1, uitvoerder van de handeling verdwijnt naar de achtergrond; geen directe koppeling tussen actie en handelende instantie
@@ -51,3 +57,25 @@ Effect (van deze kenmerken) op de voorstelling van zaken
 	1, **Invoering** van elektronisch patiëntendossier vermindert het aantal medische fouten.
 	2, Vrijere **Prijsvorming** en **innovatie** zijn nodig om wachtlijsten in te korten en de zorg goed en betaalbaar te houden.
 	3, Het grotere **aanbod** van voedingsstoffen veroorzaakt algengroei, en daarmee een **afname** van het zuurstofgehalte van het water.
+
+
+
+het besluit -> is besloten
+hebben moeten vaststellen
+
+
+
+Algemene wetmatigheid
+gezichtzorg
+gezag
+
+
+
+
+
+
+
+
+
+
+

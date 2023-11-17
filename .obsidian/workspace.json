@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c48ed68b25faa420",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwantitatieve inhoudsanalyse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -49,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "implica",
+                "query": "codeboek",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +79,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondartikel.md",
+                "file": "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwantitatieve inhoudsanalyse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondartikel.md",
+                "file": "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwantitatieve inhoudsanalyse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondartikel.md"
+                "file": "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwantitatieve inhoudsanalyse.md"
               }
             }
           }
@@ -157,53 +171,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b085590e8cea2255",
+  "active": "c48ed68b25faa420",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwantitatieve inhoudsanalyse.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondartikel.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRL0070.tmp",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRD0070.tmp",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRD0066.tmp",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRL3555.tmp",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRD3551.tmp",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRL4085.tmp",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRD4081.tmp",
+    "subjectiviteit.md",
+    "objectiviteit.md",
+    "funderingen.md",
+    "Vakken/Woorden als wapens/Colleges/Werkcollege 8 Woorden als Wapens.md",
+    "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 6 wetenschapsfilosofie.md",
+    "Universalisme.md",
+    "Stijldeugden.md",
+    "Richard Rorty.md",
+    "Postmodernisme.md",
+    "Nominalisatie.md",
+    "Friedrich Nietzsche.md",
+    "Beelden/Pasted image 20231114110823.png",
+    "Beelden/Pasted image 20231111161954.png",
+    "Beelden/Pasted image 20231111161940.png",
+    "Beelden/Pasted image 20231111161917.png",
+    "Beelden/Pasted image 20231111161804.png",
+    "Beelden/Pasted image 20231111160226.png",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRL0558.tmp",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRD0554.tmp",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRL1733.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRD1730.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRL1293.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRD1289.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRL0604.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRD0600.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRL2592.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRD2589.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRL1703.tmp",
     "Pasted image 20231114110823.png",
     "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 8 Inleiding in de Journalistiek.md",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondartikel.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/EU_MAP_UnionMembersWhite_NL.png",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/Flag_of_Europe.png",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/fra06p020_bg_motiv11_visualisierung2012.png",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/Flag_of_Europe.svg",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/EU_MAP_UnionMembersWhite.png",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/Blank_map_of_Europe_cropped.svg",
     "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 6 Inleiding in de Journalistiek.md",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 8 (Jort Siemes, s4028198).md",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 7 (Jort Siemes, s4028198).md",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 6 (Jort Siemes, s4028198).md",
     "Vakken/Woorden als wapens/Colleges/Werkcollege 7 Woorden als Wapens.md",
     "Vakken/Woorden als wapens/Onderwerpen/Naamwoordstijl.md",
-    "Vakken/Inleiding in de journalistiek/Foto Opdracht/Portret/JortSiemes_Portret.jpeg",
-    "Vakken/Inleiding in de journalistiek/Foto Opdracht/Beweging/JortSiemes_Beweging.png",
-    "Vakken/Inleiding in de journalistiek/Foto Opdracht/Compositie_Diepte/JortSiemes_Diepte.png",
-    "conflict-files-obsidian-git.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 7 Journalistiek en Redactionele vaardigheden.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 6 Journalistiek en Redactionele vaardigheden.md",
     "Onderwerpen/variabelen.md",
     "Onderwerpen/taalhandeling.md",
-    "Onderwerpen/steekproef.md",
-    "Onderwerpen/Role performance.md",
-    "Onderwerpen/Role concepts.md",
-    "Onderwerpen/Representatieve steekproef.md",
-    "Onderwerpen/Onderzoeksmethode.md",
-    "Onderwerpen/Onafhankelijke variabelen.md",
-    "Onderwerpen/Methodologische opzet.md",
-    "Onderwerpen/Lijdende vorm.md",
-    "Onderwerpen/Hypotheses.md",
-    "Onderwerpen/Grounded theory benadering.md",
-    "Onderwerpen/Experimenten.md",
-    "Onderwerpen/Empirisch onderzoek.md"
+    "Onderwerpen/steekproef.md"
   ]
 }

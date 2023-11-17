@@ -21,4 +21,12 @@ rol journalistiek verandert:
 1, een grote gemeenschap van participanten
 2, Voortdurende wisseling van rollen tussen 'produsers'
 3, Producties zijn voortdurend onder ontwikkeling
+4, Gebaseerd op betrokkenheid in plaats van juridisch eigendom
+	- Creative Commons, geen auteursrecht is van de gemeenschap
+
+
+
+
+
+
 
