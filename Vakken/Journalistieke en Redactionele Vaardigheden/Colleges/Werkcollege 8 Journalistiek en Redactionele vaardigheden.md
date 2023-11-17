@@ -10,3 +10,13 @@ In nieuwsbericht alinea's linken door signaalwoorden (daarnaast, bovendien)
 Welk haakje ga je voor verhaal gebruiken om relevant te maken:
 'omdat het interessant is is niet genoeg'
 
+## voorbereidingsfase
+- bronnen & info vinden
+- ZELF, Alles van je onderwerp begrijpen
+	- kijk eerst in NexisUni!
+	- Andere media zijn geen bron, maar kunnen wel leiden tot bronnen.
+- meer info is niet beter => juiste info
+	- Een bron = geen bron
+
+
+
