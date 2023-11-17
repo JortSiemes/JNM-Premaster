@@ -1,0 +1,6 @@
+(voornaamwoorden)
+
+
+Hij, hem, zich
+
+
