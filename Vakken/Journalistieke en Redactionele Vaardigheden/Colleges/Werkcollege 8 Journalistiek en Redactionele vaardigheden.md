@@ -26,3 +26,17 @@ Welk haakje ga je voor verhaal gebruiken om relevant te maken:
 3. Conflictverhaal (Conflict tussen 2 partijen)
 4. Trendverhaal (we zien nieuw fenomeen, wat is dat?)
 
+## info ordenen: voor jezelf
+1. deze week: bronnen spreken
+2. informatie verzamelen
+3. dan: ordenen en selecteren
+4. komen tot een concrete tekstopzet en invalshoek
+*Begin niet te vroeg met schrijven*
+
+Verdeel je inhoud onder in subkopjes/deelvragen
+- bv. oorzaak,gevolg, oplossing OF verleden, heden, toekomst
+- bv. 5 W's en H gebruiken, of de vaste vraagstructuren om je info te ordenen
+
+### Volg het tekstschema op brightspace
+max 5 subthema's
+
