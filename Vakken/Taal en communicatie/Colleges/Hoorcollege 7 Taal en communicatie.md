@@ -8,7 +8,5 @@
 | context-independent | Context dependent            |
 | Truth-conditional   | Not turth-conditional                             |
 
-
-
 referentie en presuppositie
 
