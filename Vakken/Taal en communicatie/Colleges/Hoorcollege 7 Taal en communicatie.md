@@ -46,6 +46,32 @@ Verwijzingen van deiktische en anaforische elementen zijn explicaturen.
 ### Presupposities
 My dog is black +> I have a dog
 - is dit een conversationele implicatuur? > Nee is niet annuleerbaar. 
+Dat ik een hond heb wordt niet beweerd maar de waarheid daarvan wordt in deze zin voorondersteld: [[presuppositie]]
+
+
+"constancy under negation"
+verschil van presuppositie / implicatuur = Dat een ontkenning overleeft
+My dog is black +> I have a dog
+My dog is not black +> I have a dog
+
+
+De scholen zijn weer begonnen
+De scholen (presuppositie = er zijn scholen in de buurt, definite description)
+begonnen (presuppositie = er was iets dicht en is nu open, change of state)
+
+
+Entailment (logische gevolgtrekking)
+als q een entailment is van p, dan volgt de waarheid van q noodzakelijkerwijs (logisch, semantisch, dwingend) uit de waarheid van p.
+Vaak o
+
+John ate all the cookies  
+entails
+John ate some cookies
+
+John has 3 brothers
+entails
+John has 2 brothers
+
 
 
 
