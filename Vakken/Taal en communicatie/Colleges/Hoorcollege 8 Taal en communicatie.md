@@ -37,6 +37,13 @@ Gezichtsbedreigende [[taalhandelingen]] hebben een gewicht
 5. don't do the FTA
 
 
+Conventionele indirect = on-record
+
+- soical distance
+- power distance
+- cultural ranking
+
+politeness1 & politeness2
 
 
 
