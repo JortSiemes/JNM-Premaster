@@ -57,7 +57,11 @@ Termen in discussie over mediahypes
 - amplificatie
 - uitvergroting
 
-
+patroon van mediahypes
+1. sleutelgebeurtenis
+2. nieuwsthema (trefwoord, label)
+3. Lager nieuwsdrempel (nu is al het nieuws over dit thema stuk interessanter)
+4. Feedback loops
 
 
 
