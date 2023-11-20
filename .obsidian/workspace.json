@@ -11,9 +11,11 @@
             "id": "b085590e8cea2255",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Vakken/Taal en communicatie/book_by_birner_betty_j_introduction_to_pragmatics-.pdf"
+                "file": "Vakken/Taal en communicatie/Colleges/Hoorcollege 8 Taal en communicatie.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Taal en communicatie/book_by_birner_betty_j_introduction_to_pragmatics-.pdf",
+                "file": "Vakken/Taal en communicatie/Colleges/Hoorcollege 8 Taal en communicatie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Taal en communicatie/book_by_birner_betty_j_introduction_to_pragmatics-.pdf",
+                "file": "Vakken/Taal en communicatie/Colleges/Hoorcollege 8 Taal en communicatie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Taal en communicatie/book_by_birner_betty_j_introduction_to_pragmatics-.pdf"
+                "file": "Vakken/Taal en communicatie/Colleges/Hoorcollege 8 Taal en communicatie.md"
               }
             }
           }
@@ -157,8 +159,10 @@
   },
   "active": "b085590e8cea2255",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Vakken/Taal en communicatie/Colleges/Hoorcollege 7 Taal en communicatie.md",
+    "Vakken/Taal en communicatie/Colleges/Hoorcollege 8 Taal en communicatie.md",
     "Vakken/Taal en communicatie/book_by_birner_betty_j_introduction_to_pragmatics-.pdf",
+    "conflict-files-obsidian-git.md",
     "Vakken/Woorden als wapens/Literatuur/1-s2.0-S0378216611001755-main.pdf",
     "deiktische.md",
     "anaforische referentie.md",
@@ -167,7 +171,6 @@
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht week 9(DOC).docx",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 9 (Jort Siemes, s4028198).md",
     "Vakken/Woorden als wapens/Weekopdrachten/Week9_opdracht.pdf",
-    "Vakken/Taal en communicatie/Colleges/Hoorcollege 7 Taal en communicatie.md",
     "Vakken/Taal en communicatie/Notities H6 Birner.md",
     "Vakken/Taal en communicatie/COLLECTIE FILE Taal en communicatie.md",
     "Vakken/Taal en communicatie/Birner H6.md",
