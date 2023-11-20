@@ -27,7 +27,10 @@ Extra [[nieuwswaarden]]
 Journaal sluit meestal af met positief nieuws, zodat niet alleen maar depri is
 
 
-
-
+Nieuwsselectie online
+- geen deadlines: continue updates
+- oneindige ruimte (geen limieten van fysieke krant)
+- concurrentie
+- real time audience data
 
 
