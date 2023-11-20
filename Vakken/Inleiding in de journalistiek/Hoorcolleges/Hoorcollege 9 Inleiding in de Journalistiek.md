@@ -43,6 +43,24 @@ Time spent = hoelang mensen blijven op pagina
 
 Laten redacties zich meer beïnvloeden door het publiek.
 
+Mediahypes
+- de hoeveelheid aandacht van de media is buitenproportioneel
+- media maken onderwerpen groter dan het daadwerkelijk is
+- er is een mismatch tussen het nieuws en de echte wereld.
+- media creëren nieuws ipv nieuws te verslaan (media doet meer dan alleen vertellen, door dingen erbij te halen)
+- Media jagen elkaar op
+
+
+Termen in discussie over mediahypes
+- overdrijving: **subjectief**
+- vertekening: **niet kenbaar**
+- amplificatie
+- uitvergroting
+
+
+
+
+
 
 
 
