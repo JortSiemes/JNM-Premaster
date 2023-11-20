@@ -26,4 +26,18 @@ gezicht kan aangevallen worden
 - enhances het [[negatief gezicht]]
 
 
+Face threatening act
+Gezichtsbedreigende [[taalhandelingen]] hebben een gewicht
+
+5 strategieën:
+1. without redressive action (baldly)
+2. [[positive politeness]]
+3. [[negative politeness]]
+4. Off record
+5. don't do the FTA
+
+
+
+
+
 
