@@ -59,13 +59,19 @@ may be politic
 - negative impoliteness hurts the negative face of the speaker
 
 
-| positive face | positive politeness | positive impoliteness                                                                                                              |
+| positive face | [[positive politeness]] | positive impoliteness                                                                                                              |
 | ------------- | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 |               |                     | Threatening face of the hearer, saying bad things about H, swearing, calling names, being unsympathetic, ignoring, exluding hearer | 
 
 
-| negative face:    | negative politeness     | Negative impoliteness                        |
+| negative face:    | [[negative politeness]]     | Negative impoliteness                        |
 | ----------------- | --- | -------------------------------------------- |
 | need for autonomy |     | Coming to close, how much money do you make? |
 
-### a face threatening act can either treaten the face of the hearer, these 
+### a face threatening act can either treaten the face of 
+
+mensen hebben behoefte aan een positief of [[negatief gezicht]]. Je kan een positief of negatief gebruiken. 
+
+Door [[taalhandeling]] kan je positieve of negatieve gezicht bedreigen.
+
+je kan dit verzachten met positieve beleefdheid,
