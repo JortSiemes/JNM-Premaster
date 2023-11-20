@@ -33,4 +33,10 @@ Nieuwsselectie online
 - concurrentie
 - real time audience data
 
+Clickthrough rate = doorklikken naar een artikel
+Time spent = hoelang mensen blijven op pagina
+
+
+Trustee model
+
 
