@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "trustee",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,10 +156,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04ea66dd4c102027",
+  "active": "b085590e8cea2255",
   "lastOpenFiles": [
-    "Onderwerpen/Onderwerpen.md",
     "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 9 Inleiding in de Journalistiek.md",
+    "Market model.md",
+    "Trustee model.md",
+    "Bounce rate.md",
+    "Onderwerpen/Onderwerpen.md",
     "Onderwerpen/nieuwswaarden.md",
     "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 8 Inleiding in de Journalistiek.md",
     "Vakken/Taal en communicatie/Colleges/Hoorcollege 8 Taal en communicatie.md",
@@ -196,9 +198,6 @@
     "Vakken/Taal en communicatie/Colleges/Werkcollege 7 taal en communicatie.md",
     "Onderwerpen/antecedent.md",
     "Onderwerpen/supsension.md",
-    "Onderwerpen/Metalinguistic negation.md",
-    "Onderwerpen/pronomenale anaforen.md",
-    "Vakken/Taal en communicatie/Colleges/Werkcollege 6 taal en communicatie.md",
     "Vakken/Methoden en theorieen van Journalism Studies/KwantitatieveInhoudsanalyse/linkedin_scraper-2.11.2/docs/proxycurl.png",
     "Beelden/Pasted image 20231010124337.png",
     "Beelden/Pasted image 20231017172418.png",

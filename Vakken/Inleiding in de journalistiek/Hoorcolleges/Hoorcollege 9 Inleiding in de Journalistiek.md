@@ -22,7 +22,7 @@ Socialisatie op redacties
 
 Extra [[nieuwswaarden]]
 1. beeld = als er geen goed beeld van is
-2. 
+
 
 Journaal sluit meestal af met positief nieuws, zodat niet alleen maar depri is
 
@@ -35,8 +35,17 @@ Nieuwsselectie online
 
 Clickthrough rate = doorklikken naar een artikel
 Time spent = hoelang mensen blijven op pagina
+[[Bounce rate]] = hoe snel weer weg van een website
+
+[[Trustee model]]
+[[Market model]]
 
 
-Trustee model
+Laten redacties zich meer beïnvloeden door het publiek.
+
+
+
+
+
 
 
