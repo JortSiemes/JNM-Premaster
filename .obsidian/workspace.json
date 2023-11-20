@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondartikel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c48ed68b25faa420",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwantitatieve inhoudsanalyse.md",
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 8 Journalistiek en Redactionele vaardigheden.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -62,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "codeboek",
+                "query": "implica",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwantitatieve inhoudsanalyse.md",
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 8 Journalistiek en Redactionele vaardigheden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwantitatieve inhoudsanalyse.md",
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 8 Journalistiek en Redactionele vaardigheden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwantitatieve inhoudsanalyse.md"
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 8 Journalistiek en Redactionele vaardigheden.md"
               }
             }
           }
@@ -171,52 +157,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c48ed68b25faa420",
+  "active": "b085590e8cea2255",
   "lastOpenFiles": [
+    "Vakken/Methoden en theorieen van Journalism Studies/Pitch/JournalismPractice_Mockup_trans.png",
+    "Vakken/Methoden en theorieen van Journalism Studies/Pitch/JournalismPractice_Mockup.png",
+    "Vakken/Methoden en theorieen van Journalism Studies/Pitch/JournalismPractice.webp",
+    "Vakken/Methoden en theorieen van Journalism Studies/Pitch/JournalismPractice.png",
+    "Vakken/Methoden en theorieen van Journalism Studies/Pitch",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/New folder/Werkplan Kaylee de Jong_FeedbackJort.docx",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/New folder/Werkplan Kaylee de Jong.docx",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/New folder/Werkplan achtergrondverhaal_FeedbackJort.docx",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/New folder/Werkplan achtergrondverhaal.docx",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/New folder",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 7 Journalistiek en Redactionele vaardigheden.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 8 Journalistiek en Redactionele vaardigheden.md",
+    "Vakken/Taal en communicatie/Colleges/Werkcollege 7 taal en communicatie.md",
+    "Onderwerpen/antecedent.md",
+    "Onderwerpen/supsension.md",
+    "Onderwerpen/Metalinguistic negation.md",
+    "Onderwerpen/pronomenale anaforen.md",
+    "Vakken/Taal en communicatie/Colleges/Werkcollege 6 taal en communicatie.md",
+    "Vakken/Woorden als wapens/Colleges/Werkcollege 9 Woorden als Wapens.md",
+    "Vakken/Woorden als wapens/Colleges/Werkcollege 8 Woorden als Wapens.md",
+    "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 5 wetenschapsfilosofie.md",
+    "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 1 wetenschapsfilosofie.md",
+    "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 6 wetenschapsfilosofie.md",
+    "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 4 wetenschapsfilosofie.md",
+    "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 3 wetenschapsfilosofie.md",
+    "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 2 wetenschapsfilosofie.md",
+    "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf",
     "Vakken/Methoden en theorieen van Journalism Studies/KwantitatieveInhoudsanalyse/linkedin_scraper-2.11.2/test/scrape_person.py",
-    "Vakken/Methoden en theorieen van Journalism Studies/KwantitatieveInhoudsanalyse/linkedin_scraper-2.11.2/samples/scrape_person_contacts.py",
+    "Vakken/Methoden en theorieen van Journalism Studies/KwantitatieveInhoudsanalyse/linkedin_scraper-2.11.2/test",
+    "Vakken/Wetenschapsfilosofie/Reader notities Wetenschapsfilosofie.md",
+    "Vakken/Wetenschapsfilosofie/COLLECTIE FILE Wetenschapsfilosofie.md",
+    "Onderwerpen/Universalisme.md",
     "Vakken/Methoden en theorieen van Journalism Studies/KwantitatieveInhoudsanalyse/linkedin_scraper-2.11.2/samples/scrape_person.py",
-    "Vakken/Methoden en theorieen van Journalism Studies/KwantitatieveInhoudsanalyse/linkedin_scraper-2.11.2/linkedin_scraper/__init__.py",
-    "Vakken/Methoden en theorieen van Journalism Studies/KwantitatieveInhoudsanalyse/linkedin_scraper-2.11.2/linkedin_scraper/selectors.py",
-    "Vakken/Methoden en theorieen van Journalism Studies/KwantitatieveInhoudsanalyse/linkedin_scraper-2.11.2/linkedin_scraper/person.py",
-    "Vakken/Methoden en theorieen van Journalism Studies/KwantitatieveInhoudsanalyse/linkedin_scraper-2.11.2/linkedin_scraper/objects.py",
-    "Vakken/Methoden en theorieen van Journalism Studies/KwantitatieveInhoudsanalyse/linkedin_scraper-2.11.2/linkedin_scraper/job_search.py",
-    "Vakken/Methoden en theorieen van Journalism Studies/KwantitatieveInhoudsanalyse/linkedin_scraper-2.11.2/linkedin_scraper/jobs.py",
-    "Vakken/Methoden en theorieen van Journalism Studies/KwantitatieveInhoudsanalyse/linkedin_scraper-2.11.2/linkedin_scraper/constants.py",
-    "Vakken/Methoden en theorieen van Journalism Studies/KwantitatieveInhoudsanalyse/linkedin_scraper-2.11.2/linkedin_scraper/company.py",
     "Vakken/Methoden en theorieen van Journalism Studies/KwantitatieveInhoudsanalyse/linkedin_scraper-2.11.2/docs/proxycurl.png",
     "Vakken/Methoden en theorieen van Journalism Studies/KwantitatieveInhoudsanalyse/linkedin_scraper-2.11.2/README.md",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 8 Journalistiek en Redactionele vaardigheden.md",
-    "Onderwerpen/supsension.md",
-    "Onderwerpen/subjectiviteit.md",
-    "Onderwerpen/pronomenale anaforen.md",
-    "Onderwerpen/objectiviteit.md",
-    "Onderwerpen/funderingen.md",
-    "Onderwerpen/antecedent.md",
-    "Onderwerpen/Universalisme.md",
-    "Onderwerpen/Stijldeugden.md",
-    "Onderwerpen/Richard Rorty.md",
     "Onderwerpen/Postmodernisme.md",
-    "Onderwerpen/Nominalisatie.md",
-    "Onderwerpen/Metalinguistic negation.md",
+    "Onderwerpen/Richard Rorty.md",
     "Onderwerpen/Friedrich Nietzsche.md",
-    "conflict-files-obsidian-git.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/onderwerpen/Kwantitatieve inhoudsanalyse.md",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondartikel.md",
-    "subjectiviteit.md",
-    "objectiviteit.md",
-    "funderingen.md",
-    "Vakken/Woorden als wapens/Colleges/Werkcollege 8 Woorden als Wapens.md",
-    "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 6 wetenschapsfilosofie.md",
-    "Universalisme.md",
-    "Stijldeugden.md",
-    "Beelden/Pasted image 20231114110823.png",
-    "Beelden/Pasted image 20231111161954.png",
-    "Beelden/Pasted image 20231111161940.png",
-    "Beelden/Pasted image 20231111161917.png",
-    "Beelden/Pasted image 20231111161804.png",
+    "Onderwerpen/subjectiviteit.md",
+    "Onderwerpen/objectiviteit.md",
+    "Beelden/Pasted image 20231010124337.png",
+    "Beelden/Pasted image 20231017172418.png",
     "Beelden/Pasted image 20231111160226.png",
-    "Pasted image 20231114110823.png",
+    "Beelden/Pasted image 20231114110823.png",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/EU_MAP_UnionMembersWhite_NL.png",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/Flag_of_Europe.png"
   ]
