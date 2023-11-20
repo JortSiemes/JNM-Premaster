@@ -11,6 +11,18 @@
             "id": "6e3fc33fa95dab3d",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 9 (Jort Siemes, s4028198).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a5785a52badeb96",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
                 "file": "Vakken/Woorden als wapens/Weekopdrachten/Week9_opdracht.pdf"
@@ -18,6 +30,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -155,10 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e3fc33fa95dab3d",
+  "active": "7a5785a52badeb96",
   "lastOpenFiles": [
-    "Vakken/Taal en communicatie/Colleges/Hoorcollege 7 Taal en communicatie.md",
+    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 9 (Jort Siemes, s4028198).md",
+    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 8 (Jort Siemes, s4028198).md",
     "Vakken/Woorden als wapens/Weekopdrachten/Week9_opdracht.pdf",
+    "Vakken/Taal en communicatie/Colleges/Hoorcollege 7 Taal en communicatie.md",
     "Vakken/Woorden als wapens/Weekopdrachten/Niet bevestigd 718624.crdownload",
     "anaforische referentie.md",
     "deiktische.md",
@@ -192,7 +207,6 @@
     "Onderwerpen/Friedrich Nietzsche.md",
     "conflict-files-obsidian-git.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondartikel.md",
-    "subjectiviteit.md",
     "Beelden/Pasted image 20231114110823.png",
     "Beelden/Pasted image 20231111161954.png",
     "Beelden/Pasted image 20231111161940.png",
