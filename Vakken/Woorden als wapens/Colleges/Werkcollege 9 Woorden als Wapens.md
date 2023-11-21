@@ -1,4 +1,3 @@
-
 Problemen bij [[naamwoordstijl]]
 - bleangrijke informatie komt (dieper) in een bijvoeglijke bepaling terecht
 	- De op geopolitieke overwegingen gerichte analyses
@@ -16,7 +15,11 @@ conclusie: gesubstantiveerde infinitieven zijn moeilijker te verwerken, leiden n
 
 ### Voornaamwoorden
 
-anaforische en [[deiktische]] verwijzingen
+anaforische verwijzingen: 
+
+
+[[deiktische]] verwijzingen:
+
 ambiguïteit
 
 
