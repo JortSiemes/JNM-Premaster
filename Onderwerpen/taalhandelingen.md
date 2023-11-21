@@ -73,11 +73,11 @@ n. beloven - X, [[Binders]] $
 o. toelichten - X, [[Stuurders]] > [[Verklaarders]]
 p. vragen - ??? > [[Stuurders]]
 q. waarschuwen - X, [[Stuurders]] $
-r. intimideren $ (alleen perlocutie)
+r. intimideren $ (alleen [[perlocutie]])
 s. toestaan - X, [[Stuurders]] / [[Binders]] $
 t. weigeren -  > [[Binders]]
 u. zeuren $
-v. geruststellen $ (alleen perlocutie)
+v. geruststellen $ (alleen [[perlocutie]])
 w. roddelen $
 x. prijzen - X, [[Uitdrukkers]] $
 y. protesteren -  X > [[Stuurders]]
