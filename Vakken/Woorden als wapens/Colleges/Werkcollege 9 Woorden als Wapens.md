@@ -29,6 +29,7 @@ kritiek op Proctor & Su (2017) artikel
 		- Context/aard van die interviews
 	- 
 - Analysemethode?
+	- ? analyse van 'we' en 'our' + 'object'
 
 
 ambiguïteit
