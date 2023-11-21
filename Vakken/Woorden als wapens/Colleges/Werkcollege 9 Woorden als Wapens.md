@@ -15,10 +15,12 @@ conclusie: gesubstantiveerde infinitieven zijn moeilijker te verwerken, leiden n
 
 ### Voornaamwoorden
 
-anaforische verwijzingen: 
+anaforische verwijzingen: in de tekstuele context
+
+[[deiktische]] verwijzingen: buiten tekstuele werkelijkheid
 
 
-[[deiktische]] verwijzingen:
+
 
 ambiguïteit
 
