@@ -63,6 +63,8 @@ patroon van mediahypes
 3. Lager nieuwsdrempel (nu is al het nieuws over dit thema stuk interessanter)
 4. Feedback loops
 
+kenmerken mediahype
+
 
 
 
