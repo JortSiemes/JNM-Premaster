@@ -12,3 +12,10 @@ Problemen bij [[naamwoordstijl]]
 
 Gesubstantiveerde infinitieven (het + infinitief)
 
+substantiveringen worden significant langzamer gelezen dan werkwoordelijke constructies
+conclusie: gesubstantiveerde infinitieven zijn moeilijker te verwerken, leiden niet to begripsverlies.
+
+
+
+
+
