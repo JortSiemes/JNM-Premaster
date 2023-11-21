@@ -1,5 +1,3 @@
-### Voornaamwoorden
-
 
 Problemen bij [[naamwoordstijl]]
 - bleangrijke informatie komt (dieper) in een bijvoeglijke bepaling terecht
@@ -14,6 +12,14 @@ Gesubstantiveerde infinitieven (het + infinitief)
 
 substantiveringen worden significant langzamer gelezen dan werkwoordelijke constructies
 conclusie: gesubstantiveerde infinitieven zijn moeilijker te verwerken, leiden niet to begripsverlies.
+
+
+### Voornaamwoorden
+
+anaforische en [[deiktische]] verwijzingen
+ambiguïteit
+
+
 
 
 
