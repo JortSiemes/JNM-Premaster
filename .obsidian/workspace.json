@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Groepsopdracht.md",
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Karl Popper.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Groepsopdracht.md",
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Karl Popper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Groepsopdracht.md",
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Karl Popper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Groepsopdracht.md"
+                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Karl Popper.md"
               }
             }
           }
@@ -158,8 +158,10 @@
   },
   "active": "b085590e8cea2255",
   "lastOpenFiles": [
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/EU_MAP_UnionMembersWhite.png",
     "Vakken/Wetenschapsfilosofie/Groepsopdracht.md",
+    "Onderwerpen/Falsificatie.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/Karl Popper.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/EU_MAP_UnionMembersWhite.png",
     "Vakken/Woorden als wapens/Untitled.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/Achtergrondartikel.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/New folder/~WRL3745.tmp",
@@ -193,7 +195,6 @@
     "Vakken/Taal en communicatie/Notities H6 Birner.md",
     "Vakken/Taal en communicatie/COLLECTIE FILE Taal en communicatie.md",
     "Vakken/Taal en communicatie/Birner H6.md",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 8 Journalistiek en Redactionele vaardigheden.md",
     "Vakken/Methoden en theorieen van Journalism Studies/Pitch/JournalismPractice_Mockup_trans.png",
     "Vakken/Methoden en theorieen van Journalism Studies/Pitch/JournalismPractice_Mockup.png",
     "Vakken/Methoden en theorieen van Journalism Studies/Pitch/JournalismPractice.webp",
