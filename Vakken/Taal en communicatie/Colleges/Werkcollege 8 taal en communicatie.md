@@ -20,7 +20,7 @@ Baldly met beleefdheidsstrategie:
 
 Vragen zijn bijna altijd met [[negatief gezicht]], je geeft de ander de vrijheid om een antwoord te geven.
 
-Hedge 
+Hedge, misschien & even je maakt een zin beleefder, en geeft hi
 
 ### Kom langs morgen:
 **baldly**: kom morgen langs
@@ -48,6 +48,30 @@ b.
 c.
 
 3.
+a. vraagvorm
+b. negatieve beleefdheid (respectvolle middelen)
+c. cultural ranking (is hoe samenleving dit vraagt)
+
+4.
+a. Negatieve beleefdheid, vraagvorm, uitleggen verzoeken, hedge (misschien), aanhef
+b. Positieve beleefdheid (solidariserende middelen) reden geven ('ik voel me niet zo lekker')
+c. machtsverhouding (juf > leerling)
+
+5.
+a. Vraagvorm = [[negatief gezicht]], uitleggen = [[positief gezicht]] (solidariserende middelen)
+c. Off the record
+c.  sociale afstand: hangt er af hoe goed s en h elkaar kennen
+
+Opdracht 2.
+Links is direct (bald on record)
+Rechts: negatieve beleefdheid:
+- verontschuldigen (excuse me)
+- aanspreekvorm ('sir')
+- conventioneel indirect ('i wonder if you would mind')
+- Minimaliseren ('a moment')
+- permissive zijn (het mag)
+ W
+
 
 
 
