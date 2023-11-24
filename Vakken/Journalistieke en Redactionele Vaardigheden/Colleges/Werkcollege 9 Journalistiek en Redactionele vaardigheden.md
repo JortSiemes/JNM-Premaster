@@ -65,4 +65,31 @@ geen goed tekstschema gemaakt
 
 
 
-een subthema meerdere alinea's GEBRUIK SIGNAALW
+een subthema meerdere alinea's GEBRUIK SIGNAALWOORDEN! 'alleereerst, bovendien, daar komt nog bij dat'
+
+
+# tekst heeft 800 woorden
+
+#### Het slot
+meer dan een 'saaie samenvatting'
+	BELANGRIJK:
+	geen nieuwe informatie
+	geen mening of advies
+	wel truc gebruiken: een van je bronnen opvoeren met zijn of haar citaat
+Wel doen:
+- grijp terug naar basisuitspraak
+- maak het verhaal ook weer rond. Komt terug op de anekdote uit het begin of laat de bron uit het begin terugkomen
+Geen samenvatting! Denk aan een film, is ook open einde of happy end ....
+
+## leuke quote als einde = opinie in eind
+
+
+
+Conclusie, poging tot antwoord op de centrale vraag
+
+
+
+
+
+
+
