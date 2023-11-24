@@ -120,5 +120,10 @@ Volgende week schrijf 1ste versie
 			BETER: het onderwerp **doet** iets
 1. beeldend schrijven
 		Geen emotieloze werkwoorden: 
+		metaforen
 1. eenvoudig schrijven
-2. begrijpelijk schrijven
+		overbodige woorden schrappen
+		Geen zin met MAAR beginnen
+1. begrijpelijk schrijven
+		geen tangconstructies (informatie proppen tussen verbonden woorden: plaats-vinden)
+
