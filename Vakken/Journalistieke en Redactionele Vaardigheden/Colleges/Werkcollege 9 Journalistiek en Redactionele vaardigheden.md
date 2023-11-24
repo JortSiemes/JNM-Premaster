@@ -110,3 +110,15 @@ Soorten leads:
 	Vignette (levensbeschrijving, om meteen in feiten te brengen)
 
 
+Volgende week schrijf 1ste versie
+
+
+### journalistieke stijl
+1. actief schrijven
+		actieve werkwoorden, geen zinnen zonder ww (geen passieven)
+			Het onderwerp wordt door iemand gedaan
+			BETER: het onderwerp **doet** iets
+1. beeldend schrijven
+		Geen emotieloze werkwoorden: 
+1. eenvoudig schrijven
+2. begrijpelijk schrijven
