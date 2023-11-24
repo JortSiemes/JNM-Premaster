@@ -88,8 +88,25 @@ Geen samenvatting! Denk aan een film, is ook open einde of happy end ....
 Conclusie, poging tot antwoord op de centrale vraag
 
 
+Beste mr Mujagic,
+
+Zou ik je volgende week kort kunnen spreken over....
+recente tweet gelezen over ECB notules
 
 
 
+Soorten leads:
+- **feitelijk:** paar intrigerende feiten op een rij, aandacht trekken
+	- Bu bindt ze samen en geeft aan waar het over gaat
+- **Beschrijvend:** heel beeldend sprekende details, nieuwsgierig maken
+	- bu vult in waar we deel van zijn geworden
+- **Citaat:** gebruik quote van iemand die de kern beschrijft, introduceert gelijk je hoofdbron
+	- bu duidt waar dit citaat over gaat
+- **Vraaglead:** nieuwsgierig oproepen, spanningsboog
+	- antwoord is vaak BU zou dit gaan over, nee het was
+- **Beeldspraak:** vergelijking gebruiken om je onderwerp neer te zetten
+	- BU duidt vaak waarom die vergelijking past
+- !!!!**Ik-lead;** vanuit jezelf aanleiding is vaak iets wat je afvraagt
+	Vignette (levensbeschrijving, om meteen in feiten te brengen)
 
 
