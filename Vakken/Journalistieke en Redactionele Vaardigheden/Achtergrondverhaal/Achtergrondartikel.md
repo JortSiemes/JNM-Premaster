@@ -1,3 +1,57 @@
+basis van goed journalistiek verhaal
+1. **afbakenen**: centrale vraag of basisuitspraak (selecteren en kort)
+2. **onderbouwen**: met mondelingen en schriftelijke bronnen (substantiëren)
+3. **opschrijven**: goed gestructureerd, begrijpelijk en aantrekkelijk
+
+
+#### Centrale vraag:
+'Wat is het resultaat van de keuzes van de Europese Centrale Bank op de huidige economische situatie van de Nederlandse burger?
+De Nederlandse burger weet eigenlijk helemaal niet wie er nou verantwoordelijk is voor de stijging van hun boodschappenmandje.
+
+#### Basisuitspraak:
+de vooral onbekende keuzes die door de ECB onder Lagarde zijn gemaakt in de periode 2019-2020, zijn te laat en onverantwoord gemaakt -> De huidige inflatie is hiervan het resultaat, met als gevolg dat de ECB zijn renteverhogingen op een snel tempo heeft moeten invoeren -> Prijzen in de supermarkt zijn voor burgers gigantisch gestegen met zelfs unieke fenomenen als krimpflatie als gevolg.
+
+Subthemas:
+
+
+
+Stel een centrale vraag in artikel zoek je antwoord
+precies geformuleerd (niet vaag) in de vorm van een 'stelling' over je hoofdthema
+
+Nooit twee verschillende zaken behandelen
+'Het zou kunnen dat...' is te vaag.
+
+basisuitspraak komt aan **eind van de lead**.
+basisuitspraak = pitch in 1 zin, algemene zin (kernzin) van hele artikel
+- die zin is weer algemener dan de kernzinnen van de alinea's die volgen
+kort statement waarmee je de centrale vraag beantwoordt
+Niet: waarom gaan steeds meer vrouwen op boksen? (centrale vraag)
+Maar: fit worden en je veilig voelen is de winst van boksen voor vrouwen
+
+Lead = eerste alinea van het verhaal
+2 onderdelen 
+1. een pakkend, inleidend deel om de lezer het verhaal in te trekken
+2. basisuitspraak (BU) die het hoofdthema formuleert
+
+
+### Structuur
+
+Lead: (eindigt op basisuitspraak)
+Aantrekkelijke inleiding hoofdthema
+formulering hoofdthema
+
+Alinea 2:
+Kernzin alinea 2
+Rest alinea
+
+Alinea 3:
+Kernzin alinea 3
+Rest alinea
+
+Slot
+
+
+
 
 Als je kijkt naar het huidige nieuws over inflatie lijkt het goed te gaan met de economie, we zijn zelfs deze maand voor het eerst in een periode van deflatie gekomen als Nederland. Echter is dit niet het hele verhaal, wie wel eens een supermarkt bezoekt of op een vrijdag een terras opzoekt komt toch thuis met een heel ander verhaal. 
 Hoe kan dat?
@@ -84,6 +138,10 @@ Woordvoerder supermarkt (of lokale supermarkt eigenaar)
 
 The ECB promised to devise by the spring a new framework for steering short term interest rates after a decade of massive money printing, which flooded the banking system with some 3.6 trillion euros ($3.85 trillion) worth of excess cash via bond purchases and loans.
 (https://www.reuters.com/markets/europe/ecb-balance-must-shrink-not-too-much-lane-2023-11-09/)
+
+Supermarkten:
+Jumbo: pers@jumbo.com
+
 
 ![[Pasted image 20231114110823.png]]
 (bron: ECB.europa.eu: https://www.ecb.europa.eu/pub/annual/balance/html/index.en.html)
