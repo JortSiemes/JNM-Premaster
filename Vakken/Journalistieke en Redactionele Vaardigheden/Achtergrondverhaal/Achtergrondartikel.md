@@ -89,6 +89,10 @@ The ECB promised to devise by the spring a new framework for steering short term
 (bron: ECB.europa.eu: https://www.ecb.europa.eu/pub/annual/balance/html/index.en.html)
 
 
+woordvoerder Jumbo / Ahold
+
+
+
 **Onderwerpen:**
 Graaiflatie = het fenomeen dat bedrijven hun prijzen een stuk meer hebben verhoogd dan dat hun eigen kosten zijn gestegen.
 
