@@ -126,6 +126,8 @@ In een eerste voorlopige berekening komt het [Centraal Bureau voor de Statistie
 Edin Mujagić (BNR) "als het goed gaat en de inflatie is laag dan is dat door het geweldige werk van de centrale bank, Als het inflatie te hoog is, dan ligt het aan van alles en nogwat behalve het beleid van de bank zelf" (2022https://www.youtube.com/watch?v=6QXYjA1uYjI&ab_channel=BNR)
 e.mujagic@ohv.nl
 
+
+
 **Arnoud boot** - beleidsmakers zitten behind the curve, we zitten in een situatie waar rente omhoog moet. Want de economie moet worden afgeremd, hij bedoelt met behind the curve. Inflatie is ontstaan, door Energie van Rusland en COVID. Maar fundamenteel is het ervoor al fout gegaan door het verhaal dat geld niks waard was. 2% inflatie beleid, 2019 is economie al overspannen. ECB kan er niet uitstappen, overheden geven gratis geld uit. We geven compensatie aan alles. Wat betekend dat voor de consument, geld heeft geen waarde. Op moment dat geld geen waarde heeft volgens de consument, dan is er inflatie. Sparen pensioen heeft geen zin dus mensen gaan het maar uitgeven aan bijvoorbeeld veel huizen. Als je veel gaat uitgeven volgt inflatie. 
 Tijd van negatieve rente op bankrekening laat die mentaliteit zien. 
 
