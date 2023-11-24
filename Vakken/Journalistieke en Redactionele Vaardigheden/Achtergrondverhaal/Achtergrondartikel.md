@@ -26,7 +26,6 @@ Standpunten:
 Subthemas:
 
 
-
 Stel een centrale vraag in artikel zoek je antwoord
 precies geformuleerd (niet vaag) in de vorm van een 'stelling' over je hoofdthema
 
