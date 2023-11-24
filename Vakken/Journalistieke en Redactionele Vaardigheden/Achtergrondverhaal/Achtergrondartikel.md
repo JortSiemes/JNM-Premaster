@@ -13,7 +13,7 @@ de vooral onbekende keuzes die door de ECB onder Lagarde zijn gemaakt in de peri
 
 Standpunten:
 - ECB rentebeleid is een aanfluiting -> loopt achter de feiten aan
-- Te laat begonnen (2020) met verhogen van rente?
+- Te laat begonnen (2022) met verhogen van rente?
 - 
 - zojuist besloten om optie om rente te verhogen open te houden
 - ECB doelstelling is 2025 inflatie weer op normaal niveau, gaan ze dit wel redden? Hoeveel jaar gaat dit nog duren?
