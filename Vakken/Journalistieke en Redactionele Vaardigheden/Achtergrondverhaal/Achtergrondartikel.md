@@ -19,20 +19,11 @@ Veel experts zijn het namelijk over eens dat de ECB veel te laat is gestart met 
 
 
 
-Monetaire beleid ECB krimpflatie
-
-ECB te laat gestart met rente verhogen, nu geld ontwaardigd, pensioenfondsen gedaald, huizenbubbel.
-
-
-Fabio Pannetta ECB geeft bedrijfsleven de schuld van hoge inflatie 2022https://www.youtube.com/watch?v=6QXYjA1uYjI&ab_channel=BNR
-
-
-Hoge winsten: Shell, supermarkten
-
-
-
-Herfst 2021, ECB te laat begonnen aanpakken inflate
-doet te weinig
+### Monetaire beleid ECB krimpflatie
+1. ECB te laat gestart met rente verhogen, nu geld ontwaardigd, pensioenfondsen gedaald, huizenbubbel.
+2. Fabio Pannetta ECB geeft bedrijfsleven de schuld van hoge inflatie 2022https://www.youtube.com/watch?v=6QXYjA1uYjI&ab_channel=BNR
+		Hoge winsten: Shell, supermarkten
+3. Herfst 2021, ECB te laat begonnen aanpakken inflate
 
 
 Bedrijven hebben hierop gereageerd.
@@ -42,37 +33,32 @@ ls je kijkt naar het huidige nieuws over inflatie lijkt het goed te gaan met de 
 
 Hoe kan dat?
 
-De inflatie periode van 2021, 2022 en 2023 is vooral gekenmerkt door de gigantische stijging van de energie prijzen door de oorlog tussen Rusland en Oekraine die eigenlijk als een klap op de vuurpijl kwamen bovenop een zwakke economie net klaar van de wereldwijde COVID pandemie. De rol van deze energie prijzen door een Rusland die geen gas meer onze kant op stuurde voornamelijk door sancties van de Verenigde Staten en EU is groot. is een complex economisch fenomeen dat vooral een reactie was op de globale pandemie waarin hoge kosten voor de samenleving logisch waren. De Nederlandse burger weet eigenlijk helemaal niet wie er nou verantwoordelijk is voor de stijging van hun boodschappenmandje. Ik wil ook kijken naar de rol van de ECB sinds deze voornamelijk verantwoordelijk zijn.
+De inflatie periode van 2021, 2022 en 2023 is vooral gekenmerkt door de gigantische stijging van de energie prijzen door de oorlog tussen Rusland en de Oekraïne die eigenlijk als een klap op de vuurpijl kwamen bovenop een zwakke economie net klaar van de wereldwijde COVID pandemie. De rol van deze energie prijzen door een Rusland die geen gas meer onze kant op stuurde voornamelijk door sancties van de Verenigde Staten en EU is groot. is een complex economisch fenomeen dat vooral een reactie was op de globale pandemie waarin hoge kosten voor de samenleving logisch waren. De Nederlandse burger weet eigenlijk helemaal niet wie er nou verantwoordelijk is voor de stijging van hun boodschappenmandje. Ik wil ook kijken naar de rol van de ECB sinds deze voornamelijk verantwoordelijk zijn.
 
 geweest voor de keuzes rondom het monetaire beleid tijdens en na de COVID periode. Veel experts zijn het namelijk over eens dat de ECB veel te laat is gestart met het verhogen van de rentes
 
-Problemen:
+### Problemen:
 
-Macro
+##### Macro
+- Niemand weet wat ECB is / doet – zijn niet kiesbaar maar bepalen bijna gehele monetaire beleid van EU
+- ECB te laat begonnen met verhogen van rentes
+- EU te afhankelijk van Energie (Gas) Rusland, druppel die emmer deed overlopen qua inflatie.
+- Nederland koploper inflatie vorig jaar nu recessie.
+- te veel geld in omloop na COVID response
 
-Niemand weet wat ECB is / doet – zijn niet kiesbaar maar bepalen bijna gehele monetaire beleid van EU
-
-ECB te laat begonnen met verhogen van rentes
-
-EU te afhankelijk van Energie (Gas) Rusland, druppel die emmer deed overlopen qua inflatie.
-
-Nederland koploper inflatie vorig jaar nu recessie.
-
-Micro
-
-Prijzen in supermarkt stijgen
-
-Prijzen dusdanig gestegen dat krimpflatie optreed
+##### Micro
+- Prijzen in supermarkt stijgen
+- Prijzen dusdanig gestegen dat krimpflatie optreed
+*Ook zijn de prijzen van sommige producten zodanig gestegen dat het een inflectie punt heeft bereikt. Mensen zijn vanaf dat punt niet bereid meer te betalen en kopen het product niet meer of kopen een goedkoper alternatief. Daarop volgt weer een reactie van de producent in vorm van krimpflatie. Producten waarbij een prijsstijging negatief zou zijn voor de verkoopcijfers van een bedrijf zoeken methodes om hetzelfde bedrag te vragen voor minder product.
+Dit is in de laatste jaren opgevallen door consumenten die dit op sociale media zijn gaan delen om hier de klanten over te informeren. Op r/schrinkflation is een community die met elkaar overduidelijke gevallen van dit economische fenomeen delen. *
 
 In andere markten spraken van graaiflatie: Geeft hoge winsten (Shell, Supermarkten): [https://nos.nl/artikel/2463875-recordwinst-voor-ahold-delhaize-ondanks-inflatie](https://nos.nl/artikel/2463875-recordwinst-voor-ahold-delhaize-ondanks-inflatie)
-
-Loon prijs spiraal is iets waar voor gewaarschuwd word,
-
+We hebben in deze twee jaar zelfs het punt bereikt dat de stijging van dit prijspijl in de supermarkt. Heeft geleid tot hogere winsten van bedrijven terwijl deze toch alleen stegen door hogere kosten? Dit noem je graaiflatie
 
 
+**Loon prijs spiraal is iets waar voor gewaarschuwd word,**
 
 
-te veel geld in omloop na COVID response
 
 Nederland nu koploper in inflatie voornamelijk belang bij KERNINFLATIE, https://www.cbs.nl/nl-nl/nieuws/2023/39/inflatie-in-september-0-2-procent-bij-snelle-raming
 
@@ -81,13 +67,11 @@ https://www.cbs.nl/nl-nl/faq/infoservice/gebruikt-het-cbs-het-begrip-kerninflati
 In een eerste voorlopige berekening komt het [Centraal Bureau voor de Statistiek](https://www.cbs.nl/nl-nl/nieuws/2023/44/inflatie-in-oktober-0-4-procent-bij-snelle-raming-5-1-procent-exclusief-energie) (CBS) uit op een negatief inflatiecijfer van -0,4 procent. Dat betekent dat het gemiddelde prijspeil voor september 2023 0,4 procent lager ligt dan een jaar geleden, met name omdat de energieprijzen vorig jaar nog heel hoog waren. Als energie niet wordt meegerekend, lagen de prijzen in oktober juist 5,1 procent hoger.
 
 
-We hebben in deze twee jaar zelfs het punt bereikt dat de stijging van dit prijspijl in de supermarkt. Heeft geleid tot hogere winsten van bedrijven terwijl deze toch alleen stegen door hogere kosten? Dit noem je graaiflatie
-
-Ook zijn de prijzen van sommige producten zodanig gestegen dat het een inflectie punt heeft bereikt. Mensen zijn vanaf dat punt niet bereid meer te betalen en kopen het product niet meer of kopen een goedkoper alternatief. Daarop volgt weer een reactie van de producent in vorm van krimpflatie. Producten waarbij een prijsstijging negatief zou zijn voor de verkoopcijfers van een bedrijf zoeken methodes om hetzelfde bedrag te vragen voor minder product.
-Dit is in de laatste jaren opgevallen door consumenten die dit op sociale media zijn gaan delen om hier de klanten over te informeren. Op r/schrinkflation is een community die met elkaar overduidelijke gevallen van dit economische fenomeen delen. 
 
 
-**Arnoud boot** - beleidsmakers zitten behind the curve, we zitten in een situatie waar rente omhoog moet. Want de economie moet worden afgeremd, hij bedoelt met behind the curve. Inflatie is ontstaan, door Energie van Rusland en COVID. Maar fundamenteel is het ervoor al fout gegaan door het verhaal dat geld niks waard was. 2% beleid, 2019 is economie al overspannen. ECB kan er niet uitstappen, overheden geven gratis geld uit. We geven compensatie aan alles. Wat betekend dat voor de consument, geld heeft geen waarde. Op moment dat geld geen waarde heeft volgens de consument, dan is er inflatie. Sparen pensioen heeft geen zin dus mensen gaan het maar uitgeven aan bijvoorbeeld veel huizen. Als je veel gaat uitgeven volgt inflatie. 
+
+
+**Arnoud boot** - beleidsmakers zitten behind the curve, we zitten in een situatie waar rente omhoog moet. Want de economie moet worden afgeremd, hij bedoelt met behind the curve. Inflatie is ontstaan, door Energie van Rusland en COVID. Maar fundamenteel is het ervoor al fout gegaan door het verhaal dat geld niks waard was. 2% inflatie beleid, 2019 is economie al overspannen. ECB kan er niet uitstappen, overheden geven gratis geld uit. We geven compensatie aan alles. Wat betekend dat voor de consument, geld heeft geen waarde. Op moment dat geld geen waarde heeft volgens de consument, dan is er inflatie. Sparen pensioen heeft geen zin dus mensen gaan het maar uitgeven aan bijvoorbeeld veel huizen. Als je veel gaat uitgeven volgt inflatie. 
 Tijd van negatieve rente op bankrekening laat die mentaliteit zien. 
 
 (https://www.youtube.com/watch?v=tyuK0ssSJag&ab_channel=BNR)
