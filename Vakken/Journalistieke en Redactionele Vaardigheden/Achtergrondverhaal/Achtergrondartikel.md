@@ -5,11 +5,14 @@ basis van goed journalistiek verhaal
 
 
 #### Centrale vraag:
-'Wat is het resultaat van de keuzes van de Europese Centrale Bank op de huidige economische situatie van de Nederlandse burger?
+"Hoe verantwoordelijk is de ECB geweest voor het probleem van te hoge inflatie in Nederland"
+
 De Nederlandse burger weet eigenlijk helemaal niet wie er nou verantwoordelijk is voor de stijging van hun boodschappenmandje.
 
 #### Basisuitspraak:
-de vooral onbekende keuzes die door de ECB onder Lagarde zijn gemaakt in de periode 2019-2020, zijn te laat en onverantwoord gemaakt -> De huidige inflatie is hiervan het resultaat, met als gevolg dat de ECB zijn renteverhogingen op een snel tempo heeft moeten invoeren -> Prijzen in de supermarkt zijn voor burgers gigantisch gestegen met zelfs unieke fenomenen als krimpflatie als gevolg.
+de vooral onbekende keuzes die door de ECB onder Lagarde zijn gemaakt in de periode 2019-2020, zijn te laat en onverantwoord gemaakt 
+-> De huidige inflatie is hiervan het resultaat, met als gevolg dat de ECB zijn renteverhogingen op een snel tempo heeft moeten invoeren 
+-> Prijzen in de supermarkt zijn voor burgers gigantisch gestegen met zelfs unieke fenomenen als krimpflatie als gevolg.
 
 Standpunten:
 - ECB rentebeleid is een aanfluiting -> loopt achter de feiten aan
