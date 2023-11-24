@@ -67,15 +67,20 @@ https://www.cbs.nl/nl-nl/faq/infoservice/gebruikt-het-cbs-het-begrip-kerninflati
 In een eerste voorlopige berekening komt het [Centraal Bureau voor de Statistiek](https://www.cbs.nl/nl-nl/nieuws/2023/44/inflatie-in-oktober-0-4-procent-bij-snelle-raming-5-1-procent-exclusief-energie) (CBS) uit op een negatief inflatiecijfer van -0,4 procent. Dat betekent dat het gemiddelde prijspeil voor september 2023 0,4 procent lager ligt dan een jaar geleden, met name omdat de energieprijzen vorig jaar nog heel hoog waren. Als energie niet wordt meegerekend, lagen de prijzen in oktober juist 5,1 procent hoger.
 
 
+## Bronnen
 
-
-
+Edin Mujagić (BNR) "als het goed gaat en de inflatie is laag dan is dat door het geweldige werk van de centrale bank, Als het inflatie te hoog is, dan ligt het aan van alles en nogwat behalve het beleid van de bank zelf" (2022https://www.youtube.com/watch?v=6QXYjA1uYjI&ab_channel=BNR)
+e.mujagic@ohv.nl
 
 **Arnoud boot** - beleidsmakers zitten behind the curve, we zitten in een situatie waar rente omhoog moet. Want de economie moet worden afgeremd, hij bedoelt met behind the curve. Inflatie is ontstaan, door Energie van Rusland en COVID. Maar fundamenteel is het ervoor al fout gegaan door het verhaal dat geld niks waard was. 2% inflatie beleid, 2019 is economie al overspannen. ECB kan er niet uitstappen, overheden geven gratis geld uit. We geven compensatie aan alles. Wat betekend dat voor de consument, geld heeft geen waarde. Op moment dat geld geen waarde heeft volgens de consument, dan is er inflatie. Sparen pensioen heeft geen zin dus mensen gaan het maar uitgeven aan bijvoorbeeld veel huizen. Als je veel gaat uitgeven volgt inflatie. 
 Tijd van negatieve rente op bankrekening laat die mentaliteit zien. 
 
 (https://www.youtube.com/watch?v=tyuK0ssSJag&ab_channel=BNR)
 
+ECB
+Nederlandse Econoom (Edin Mujagic, meestal kritisch op keuzes van ECB)
+Woordvoerder supermarkt (of lokale supermarkt eigenaar)
+{Overheidsinstanties over cijfers}
 
 The ECB promised to devise by the spring a new framework for steering short term interest rates after a decade of massive money printing, which flooded the banking system with some 3.6 trillion euros ($3.85 trillion) worth of excess cash via bond purchases and loans.
 (https://www.reuters.com/markets/europe/ecb-balance-must-shrink-not-too-much-lane-2023-11-09/)
@@ -84,22 +89,14 @@ The ECB promised to devise by the spring a new framework for steering short term
 (bron: ECB.europa.eu: https://www.ecb.europa.eu/pub/annual/balance/html/index.en.html)
 
 
-Edin Mujagić (BNR) "als het goed gaat en de inflatie is laag dan is dat door het geweldige werk van de centrale bank, Als het inflatie te hoog is, dan ligt het aan van alles en nogwat behalve het beleid van de bank zelf" (
-2022https://www.youtube.com/watch?v=6QXYjA1uYjI&ab_channel=BNR
-)  e.mujagic@ohv.nl
-
-
-Onderwerpen:
+**Onderwerpen:**
 Graaiflatie = het fenomeen dat bedrijven hun prijzen een stuk meer hebben verhoogd dan dat hun eigen kosten zijn gestegen.
 
 Krimpflatie = het fenomeen dat producten krimpen zodat de prijs hetzelfde blijft omdat een maximaal kosten punt is bereikt
 
 
-Bronnen: 
-ECB
-Nederlandse Econoom (Edin Mujagic, meestal kritisch op keuzes van ECB)
-Woordvoerder supermarkt (of lokale supermarkt eigenaar)
-{Overheidsinstanties over cijfers}
+
+
 
 
 ![[Pasted image 20231111160226.png]]
