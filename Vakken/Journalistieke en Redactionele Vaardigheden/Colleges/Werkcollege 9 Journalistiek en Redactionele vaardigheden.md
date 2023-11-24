@@ -124,6 +124,22 @@ Volgende week schrijf 1ste versie
 1. eenvoudig schrijven
 		overbodige woorden schrappen
 		Geen zin met MAAR beginnen
-1. begrijpelijk schrijven
 		geen tangconstructies (informatie proppen tussen verbonden woorden: plaats-vinden)
+1. begrijpelijk schrijven
+		Economische taal, vertalen naar normaal nederlands
+		Vermijd vakjargon
+		vermijd lege woorden: bespreekvoorstel, inregelen, herconceptualiseren
+		vertaal naar iets voorstelbaars
+
+NRC artikel dus denk aan lezer (mam)
+
+check slide met clichés in Nederlandse taal
+
+
+### Citaten
+Niet: beschrijven wat ook al in het citaat staat
+Maar; zorg wel dat duidelijk is waar het over gaat:
+
+
+
 
