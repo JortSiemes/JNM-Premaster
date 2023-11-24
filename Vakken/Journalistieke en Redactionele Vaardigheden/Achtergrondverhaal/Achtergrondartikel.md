@@ -11,6 +11,12 @@ De Nederlandse burger weet eigenlijk helemaal niet wie er nou verantwoordelijk i
 #### Basisuitspraak:
 de vooral onbekende keuzes die door de ECB onder Lagarde zijn gemaakt in de periode 2019-2020, zijn te laat en onverantwoord gemaakt -> De huidige inflatie is hiervan het resultaat, met als gevolg dat de ECB zijn renteverhogingen op een snel tempo heeft moeten invoeren -> Prijzen in de supermarkt zijn voor burgers gigantisch gestegen met zelfs unieke fenomenen als krimpflatie als gevolg.
 
+Standpunten:
+- ECB rentebeleid is een aanfluiting
+- zojuist besloten om optie om rente te verhogen open te houden
+- Hoeveel jaar gaat dit nog 
+
+
 Subthemas:
 
 
