@@ -87,20 +87,9 @@ Geen samenvatting! Denk aan een film, is ook open einde of happy end ....
 
 Conclusie, poging tot antwoord op de centrale vraag
 
-Beste heer Mujagic,
 
-Mijn naam is Jort Siemes en ik ben momenteel bezig met het schrijven van een kort artikel over het beleid van de ECB met betrekking tot de huidige periode van torenhoge inflatie in Nederland. Als student journalistiek aan de Universiteit Leiden ben ik zeer geïnteresseerd in uw perspectief op het rentebeleid van de ECB.
 
-Zou het mogelijk zijn om volgende week kort met u te spreken, hetzij telefonisch of via e-mail, om enkele vragen over dit onderwerp te bespreken? Ik ben vooral benieuwd naar uw visie op het rentebeleid van de ECB en de overwegingen die daarin meespelen.
 
-Tevens wil ik graag meer inzicht verkrijgen in uw tweet van 24 november, waarin u verwees naar ECB-notulen die de mogelijkheid van verdere renteverhogingen suggereerden. De betreffende tweet kunt u hier vinden: [link naar de tweet]. Uw toelichting hierop zou van grote waarde zijn voor mijn artikel.
-
-Ik begrijp dat uw tijd kostbaar is, en ik waardeer uw overweging van mijn verzoek. Mocht het u beter uitkomen, ben ik ook bereikbaar via telefoon op het nummer +31 6 36514067.
-
-Met vriendelijke groet,
-
-Jort Siemes
-+31 6 36514067
 
 
 

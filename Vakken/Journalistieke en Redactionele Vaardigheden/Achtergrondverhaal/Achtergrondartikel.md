@@ -134,6 +134,31 @@ In een eerste voorlopige berekening komt het [Centraal Bureau voor de Statistie
 
 ## Bronnen
 
+
+**Mail mujagic:**
+
+Beste heer Mujagic,
+
+Mijn naam is Jort Siemes en ik ben momenteel bezig met het schrijven van een kort artikel over het beleid van de ECB met betrekking tot de huidige periode van torenhoge inflatie in Nederland. Als student journalistiek aan de Universiteit Leiden ben ik geïnteresseerd in uw perspectief op het rentebeleid van de ECB.
+
+Zou het mogelijk zijn om volgende week kort met u te spreken, telefonisch of via e-mail, om enkele vragen over dit onderwerp te bespreken? Ik ben vooral benieuwd naar uw visie op het rentebeleid van de ECB en het effect hiervan op Nederland.
+
+Ook ben ik erg benieuwd of u wat toelichting kan geven naar de tweet van 24 november, waarin u verwees naar ECB-notulen die de mogelijkheid van verdere renteverhogingen suggereerden. (https://twitter.com/edinmujagic/status/1727975995984998750). Uw inzichten zijn van grote waarde voor mijn artikel.
+
+Alvast bedankt voor uw tijd. Mocht het u beter uitkomen, ben ik ook bereikbaar via telefoon op het nummer +31 6 36514067.
+
+Met vriendelijke groet,
+
+Jort Siemes
++31 6 36514067
+
+**Mail ECB:**
+
+
+
+Mail Ahold:
+
+
 Edin Mujagić (BNR) "als het goed gaat en de inflatie is laag dan is dat door het geweldige werk van de centrale bank, Als het inflatie te hoog is, dan ligt het aan van alles en nogwat behalve het beleid van de bank zelf" (2022https://www.youtube.com/watch?v=6QXYjA1uYjI&ab_channel=BNR)
 e.mujagic@ohv.nl
 
@@ -154,6 +179,12 @@ The ECB promised to devise by the spring a new framework for steering short term
 
 Supermarkten:
 Jumbo: pers@jumbo.com
+
+https://nos.nl/artikel/2483362-jumbo-maakt-zich-zorgen-of-er-nog-genoeg-geld-te-verdienen-valt
+
+
+Unilever:
+
 
 
 ![[Pasted image 20231114110823.png]]
