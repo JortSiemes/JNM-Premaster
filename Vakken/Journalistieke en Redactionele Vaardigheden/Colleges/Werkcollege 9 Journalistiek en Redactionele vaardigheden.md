@@ -42,4 +42,27 @@ Slot
 
 
 
-Beginnen vanuit de Basisuitspraak; chronologisch probleem en oplossing
+1. Beginnen vanuit de Basisuitspraak; chronologisch probleem en oplossing uitwerken
+2. vanuit de interesse van de lezer
+3. of: sandwichen door anekdotes en droge cijfers af te wisselen
+
+
+"ik kom net terug van de supermarkt en zie dat mijn boodschappen weer duurder zijn geworden, ook lijkt mijn zak pepernoten kleiner? Terwijl deze week op het journaal gepraat werd over recordwinsten van deze supermarkt. Wat is hier aan de hand en wat is hier gebeurd?"
+
+
+Kies een belangrijkste expert (edin mujagic), komt meerdere keren terug in de tekst
+
+#### Goede kernzin:
+- doet scherpe, bondige uitspraak over subonderwerp dat in de alinea aan bod komt
+- trekt aandacht
+- ondersteunt de basis uitspraak
+
+Alle kernzinnen bij elkaar zouden hele verhaal al moeten zijn.
+Kernzinnen (hans en grietje kruimels) als piketpaaltjes in je tekst
+
+##### ontspoorde alinea = alinea waar kernzin niet overeenkomt
+geen goed tekstschema gemaakt
+
+
+
+een subthema meerdere alinea's GEBRUIK SIGNAALW
