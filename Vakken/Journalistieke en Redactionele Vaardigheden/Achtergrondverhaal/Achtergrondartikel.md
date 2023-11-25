@@ -132,6 +132,39 @@ https://www.cbs.nl/nl-nl/faq/infoservice/gebruikt-het-cbs-het-begrip-kerninflati
 In een eerste voorlopige berekening komt het [Centraal Bureau voor de Statistiek](https://www.cbs.nl/nl-nl/nieuws/2023/44/inflatie-in-oktober-0-4-procent-bij-snelle-raming-5-1-procent-exclusief-energie) (CBS) uit op een negatief inflatiecijfer van -0,4 procent. Dat betekent dat het gemiddelde prijspeil voor september 2023 0,4 procent lager ligt dan een jaar geleden, met name omdat de energieprijzen vorig jaar nog heel hoog waren. Als energie niet wordt meegerekend, lagen de prijzen in oktober juist 5,1 procent hoger.
 
 
+**Tekstschema verhaal impact keuzes ECB op prijspeil Nederlandse burger**
+
+**Lead**_Centrale vraag_: 'Wat is het resultaat van de keuzes van de Europese Centrale Bank op de huidige economische situatie van de Nederlandse burger?
+
+Waarom belangrijk: De Nederlandse burger weet eigenlijk helemaal niet wie er nou verantwoordelijk is voor de stijging van hun boodschappenmandje.
+
+_Voorlopige basisuitspraak:_ de vooral onbekende keuzes die door de ECB onder Lagarde zijn gemaakt in de periode 2019-2020, zijn te laat en onverantwoord gemaakt  à De huidige inflatie is hiervan het resultaat, met als gevolg dat de ECB zijn renteverhogingen op een snel tempo heeft moeten invoeren à Prijzen in de supermarkt zijn voor burgers gigantisch gestegen met zelfs unieke fenomenen als krimpflatie als gevolg.
+
+**Subthema 1**  
+Het naast elkaar houden van twee supermarkt mandjes eentje uit 2023 en de ander uit 2019. Dit verschil van 4 jaar heeft grote veranderingen met zich mee gebracht voor het winkelmandje voor de weekboodschappen van de gemiddelde Nederlander
+
+**Subthema 2**
+
+Hoe is dit gebeurd? De Europese unie kwam in 2019 tijdens een periode van “gratis geld” en Blitzkrieg bedrijven als UBER, voor een enorme shock. De corona pandemie heeft dramatische gevolgen voor de gehele wereldeconomie. Wat zijn precies hiervan de gevolgen en hoe heeft de ECB hierop gereageerd?
+
+Klap op de vuurpijl was de Oorlog op ons continent.
+
+Dat wil ik bespreken met econoom Edin Mujagic wie voor verschillende instanties het Macroeconomische nieuws brengt.
+
+Ook Schriftelijke bronnen zoals cijfers van ECB en CBS gebruiken om aan te tonen wat in 2019 is veranderd door de pandemie (bijv. Banen, spaargeld, geld printen?)
+
+**Subthema 3**  
+Wat heeft de ECB toen gedaan? De ECB heeft hierop gereageerd door in enorme aantallen Eurobiljetten te printen. En hierbij de Europese economie te steunen die bezig waren met massale stimulus pakketten om stilstaande economieën te stutten.
+
+Dit wil ik bespreken met een woordvoerder van de ECB, die mij hopelijk hun beeld kan laten zien. Hoe is deze keuze gemaakt, hoe bepaalde ze het aantal, vinden ze zelf dat dit op de best mogelijke manier is aangepakt?
+
+**Subthema 4**  
+Resultaat van beleid ECB en krimp- & graaiflatie, deze punten hebben geleid tot de huidige situatie voor het afgelopen jaar. De prijzen van consumentengoederen daalt maar niet en er treden nu ook nieuwe economische fenomenen op zoals ‘graaiflatie’ en ‘krimpflatie’. Hoe kunnen we dit herkennen en hoe gaat dit in de toekomst eruit zien?
+
+
+
+
+
 ## Bronnen
 
 
@@ -141,7 +174,7 @@ Beste heer Mujagic,
 
 Mijn naam is Jort Siemes en ik ben momenteel bezig met het schrijven van een kort artikel over het beleid van de ECB met betrekking tot de huidige periode van torenhoge inflatie in Nederland. Als student journalistiek aan de Universiteit Leiden ben ik geïnteresseerd in uw perspectief op het rentebeleid van de ECB.
 
-Zou het mogelijk zijn om volgende week kort met u te spreken, telefonisch of via e-mail, om enkele vragen over dit onderwerp te bespreken? Ik ben vooral benieuwd naar uw visie op het rentebeleid van de ECB en het effect hiervan op Nederland.
+Zou het mogelijk zijn om deze week kort met u te spreken, telefonisch of via e-mail, om enkele vragen over dit onderwerp te bespreken? Ik ben vooral benieuwd naar uw visie op het rentebeleid van de ECB en het effect hiervan op Nederland.
 
 Ook ben ik erg benieuwd of u wat toelichting kan geven naar de tweet van 24 november, waarin u verwees naar ECB-notulen die de mogelijkheid van verdere renteverhogingen suggereerden. (https://twitter.com/edinmujagic/status/1727975995984998750). Uw inzichten zijn van grote waarde voor mijn artikel.
 
@@ -151,6 +184,7 @@ Met vriendelijke groet,
 
 Jort Siemes
 +31 6 36514067
+
 
 **Mail ECB:**
 
