@@ -32,6 +32,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/Achtergrondartikel.md",
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 9 Journalistiek en Redactionele vaardigheden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/Achtergrondartikel.md",
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 9 Journalistiek en Redactionele vaardigheden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/Achtergrondartikel.md"
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 9 Journalistiek en Redactionele vaardigheden.md"
               }
             }
           }
@@ -160,13 +161,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7fd137f720d1cd3c",
+  "active": "fdbd859f3097278c",
   "lastOpenFiles": [
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/Achtergrondartikel.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/New folder/~WRL0003.tmp",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/New folder/~WRD0002.tmp",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 9 Journalistiek en Redactionele vaardigheden.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/New folder/~$htergrondverhaal Tekstschema.docx",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/New folder/~WRL2967.tmp",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/New folder/~WRD2963.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/Achtergrondartikel.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/New folder/~WRL0001.tmp",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/New folder/~WRD0000.tmp"
   ]
