@@ -178,7 +178,7 @@ Zou het mogelijk zijn om deze week kort met u te spreken, telefonisch of via e-m
 
 Ook ben ik erg benieuwd of u wat toelichting kan geven naar de tweet van 24 november, waarin u verwees naar ECB-notulen die de mogelijkheid van verdere renteverhogingen suggereerden. (https://twitter.com/edinmujagic/status/1727975995984998750). Uw inzichten zijn van grote waarde voor mijn artikel.
 
-Alvast bedankt voor uw tijd. Mocht het u beter uitkomen, ben ik ook bereikbaar via telefoon op het nummer +31 6 36514067.
+Alvast bedankt voor uw tijd. 
 
 Met vriendelijke groet,
 
@@ -186,17 +186,17 @@ Jort Siemes
 +31 6 36514067
 
 
-**Mail Marco Kesteloo (Retailexpert):**
+**Mail Marco Kesteloo (Retailexpert):** marcokesteloo@me.com 
 
 Beste heer Kesteloo,
 
-Mijn naam is Jort Siemes en ik ben momenteel bezig met het schrijven van een kort artikel over krimpflatie tijdens de periode van torenhoge inflatie in Nederland. Als student journalistiek aan de Universiteit Leiden ben ik geïnteresseerd in uw perspectief dit fenomeen.
+Mijn naam is Jort Siemes en ik ben momenteel bezig met het schrijven van een kort artikel over voornamelijk de prijsstijgingen en fenomenen zoals krimpflatie in de Nederlandse supermarkt. Als student journalistiek aan de Universiteit Leiden ben ik geïnteresseerd in uw perspectief.
 
 Zou het mogelijk zijn om deze week kort met u te spreken, telefonisch of via e-mail, om enkele vragen over dit onderwerp te bespreken? 
 
-Ook ben ik erg benieuwd of u wat toelichting kan geven naar de tweet van 24 november, waarin u verwees naar ECB-notulen die de mogelijkheid van verdere renteverhogingen suggereerden. (https://twitter.com/edinmujagic/status/1727975995984998750). Uw inzichten zijn van grote waarde voor mijn artikel.
+Uw inzichten zijn van grote waarde voor mijn artikel.
 
-Alvast bedankt voor uw tijd. Mocht het u beter uitkomen, ben ik ook bereikbaar via telefoon op het nummer +31 6 36514067.
+Alvast bedankt voor uw tijd. 
 
 Met vriendelijke groet,
 
@@ -208,9 +208,18 @@ Jort Siemes
 
 **Mail ECB:**
 
+Dear sir, madam, ECB
 
 
-Mail Ahold:
+
+
+
+Mail Jumbo: pers@jumbo.com
+
+
+
+
+
 
 
 Edin Mujagić (BNR) "als het goed gaat en de inflatie is laag dan is dat door het geweldige werk van de centrale bank, Als het inflatie te hoog is, dan ligt het aan van alles en nogwat behalve het beleid van de bank zelf" (2022https://www.youtube.com/watch?v=6QXYjA1uYjI&ab_channel=BNR)
