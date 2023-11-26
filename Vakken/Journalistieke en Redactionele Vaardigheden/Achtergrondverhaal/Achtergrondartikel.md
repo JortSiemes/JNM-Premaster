@@ -220,13 +220,13 @@ My name is Jort Siemes, and I am a journalist from the Leiden University. I am r
 As a member of the press and an engaged observer of economic developments. I am interested in gaining insight into the ECB's perspective on the following key aspects of its monetary policy.
 
 **Outlook on Achieving the 2% Target:**
-I would appreciate it if the ECB could provide information on its assessment of whether the bank believes it is on track to bring down interest rates and approach the 2% inflation target over the next 12-15 months. Understanding the ECB's outlook on this matter would be invaluable for journalists and researchers seeking a deeper understanding of the central bank's goals and strategies.
+I would appreciate it if the ECB could provide information on its assessment of whether the bank believes it is on track to bring down interest rates and approach the 2% inflation target over the next 12-15 months. 
 
 **Evaluation of Past Interest Rate Choices:**
-Additionally, I am interested in learning about the ECB's confidence and satisfaction with the choices made regarding interest rates over the past 12 months. A brief overview of the factors considered and the outcomes observed would be insightful for those following the economic landscape.
+Additionally, I am interested in learning about the ECB's confidence and satisfaction with the choices made regarding interest rates over the past 12 months. 
 
 **Timing of Rate Cut Discussions:**
-Lastly, I would like to inquire about the ECB's stance on the current discussions surrounding potential rate cuts. How premature does the ECB perceive these talks at the present time? Understanding the central bank's perspective on the timing and considerations for such discussions would provide clarity to journalists and researchers monitoring monetary policy developments.
+Lastly, I would like to inquire about the ECB's stance on the current discussions surrounding potential rate cuts. How premature does the ECB perceive these talks at the present time? 
 
 I understand that the European Central Bank plays a crucial role in shaping the economic landscape of the Eurozone, and I appreciate your time and attention to these inquiries. If possible, I kindly request a response to these questions. Additionally, I would like to request that, if needed, I be directed to an employee who is knowledgeable about the information sought in this inquiry.
 
@@ -235,16 +235,34 @@ Thank you for your consideration. I look forward to gaining further insights int
 Kind regards,
 
 Jort Siemes
-Journalist
-Leiden University
-
-
++31 6 36514067
+Journalist - Leiden University
 
 
 
 
 
 Mail Jumbo: pers@jumbo.com
+
+Verzoek om Informatie over Prijsbeleid en Krimpflatie bij Jumbo
+
+Geachte heer/mevrouw,
+
+Mijn naam is Jort Siemes, journalist aan de Universiteit Leiden, en ik schrijf momenteel een artikel over prijsbeleid en fenomenen zoals krimpflatie in Nederlandse supermarkten. Als journalist ben ik geïnteresseerd in het perspectief van de supermarkten zelf; Jumbo op deze kwesties.
+
+Ik zou graag meer inzicht willen krijgen in hoe Jumbo besluit tot een prijsstijging en welke overwegingen daarbij een rol spelen. 
+
+Daarnaast ben ik benieuwd naar het standpunt van Jumbo met betrekking tot producten waarvan de inhoud afneemt (krimpflatie) en hoe de supermarktketen hiermee omgaat.
+
+Zou het mogelijk zijn om enkele vragen over deze onderwerpen te bespreken? Ik ben beschikbaar voor een kort telefonisch gesprek of een e-mailuitwisseling, afhankelijk van uw voorkeur en beschikbaarheid.
+
+Uw input en informatie zijn van groot belang voor mijn artikel, en ik waardeer uw tijd en medewerking hierbij.
+
+Met vriendelijke groet,
+
+Jort Siemes
++31 6 36514067
+Journalist - Universiteit Leiden
 
 
 
