@@ -31,5 +31,6 @@ The soup has thawed, if it was ever frozen. > [[suspension]], nu laat je mogelij
 Opdracht 4:
 a, presuppositie, een change-of-state verb. Je kan niet afkicken als je niet verslaafd bent. Als je wel of niet afgekickt bent maakt eigenlijk niet uit, allebei komen op zelfde presuppositie.
 
-b, de presuppositie is waarschijnlijk onwa
+b, de presuppositie is waarschijnlijk onwaar: de kop is onhandig gekozen
 
+c, [[Metalinguistische negatie]], Wendy is niet afgekickt van de coke, ze was nooit verslaafd, hiermee ontken je de presuppositie. 
