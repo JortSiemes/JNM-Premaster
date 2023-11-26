@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 218.5
   },
   "right": {
     "id": "21fd0c6494cc2d20",
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Taal en communicatie/Colleges/Hoorcollege 7 Taal en communicatie.md",
+                "file": "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Taal en communicatie/Colleges/Hoorcollege 7 Taal en communicatie.md",
+                "file": "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Taal en communicatie/Colleges/Hoorcollege 7 Taal en communicatie.md"
+                "file": "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 2.pdf"
               }
             }
           }
@@ -171,13 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39993c65202c75f6",
+  "active": "5c9daf030fa3548a",
   "lastOpenFiles": [
+    "Vakken/Taal en communicatie/Colleges/Hoorcollege 7 Taal en communicatie.md",
     "Vakken/Taal en communicatie/Opdrachten/Opdracht week 10 - Taal en Communicatie.md",
     "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 2.pdf",
     "Vakken/Taal en communicatie/Opdrachten/Opdracht week 6 - Taal en Communicatie.md",
     "Vakken/Taal en communicatie/Opdrachten/Extra oefening Horn en Relevantietheorie.pdf",
-    "Vakken/Taal en communicatie/Colleges/Hoorcollege 7 Taal en communicatie.md",
     "Vakken/Taal en communicatie/Colleges/Hoorcollege 8 Taal en communicatie.md",
     "Vakken/Taal en communicatie/Colleges/Werkcollege 8 taal en communicatie.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 9 Journalistiek en Redactionele vaardigheden.md",
