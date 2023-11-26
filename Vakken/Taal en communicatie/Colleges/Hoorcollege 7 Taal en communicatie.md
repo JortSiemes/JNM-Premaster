@@ -6,7 +6,16 @@
 | Sentence            | Utterance                    |
 | Sense               | Reference                    |
 | context-independent | Context dependent            |
-| Truth-conditional   | Not turth-conditional                             |
+| Truth-conditional   | Not turth-conditional        |
+
+Referentie:
+### [[Deiktische elementen]]
+Verwijzen naar iets in de spreeksituatie (bijv. plaats, tijd, persoon)
+
+
+### Anaforische elementen
+verwijzen naar een taalkundig element (eerder) in de tekst
+
 
 referentie en presuppositie
 
