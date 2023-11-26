@@ -9,7 +9,7 @@ Die, Hij, hem, zich
 Die, Hij
 
 
-**Geslacht persoon getal:**
+**Geslacht persoon getal:** (refereert naar een duidelijk geslacht in een tekst door dit te benoemen weet je wie het is, getal zelfde door aantal mensen weet je wie het betreft)
 Hem, Haar
 
 **Topicaliteit:** (inhoudelijke onderwerp)
