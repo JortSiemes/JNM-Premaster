@@ -210,7 +210,32 @@ Jort Siemes
 
 **Mail ECB:** [media@ecb.europa.eu](mailto:media@ecb.europa.eu)
 
-Dear sir, madam, ECB
+
+**Subject:** Inquiry Regarding European Interest Rate Policy
+
+Dear Press Contact/Department,
+
+My name is Jort Siemes, and I am writing to inquire about the European Central Bank's current stance on its interest rate policy. As an engaged observer of economic developments, I am interested in gaining insight into the ECB's perspective on several key aspects of its monetary policy.
+
+Outlook on Achieving the 2% Target:
+I would appreciate it if the ECB could provide information on its assessment of whether the bank believes it is on track to bring down interest rates and approach the 2% inflation target over the next 12-15 months. Understanding the ECB's outlook on this matter would be invaluable for individuals like myself who seek a deeper understanding of the central bank's goals and strategies.
+
+Evaluation of Past Interest Rate Choices:
+Additionally, I am interested in learning about the ECB's satisfaction with the choices made regarding interest rates over the past 12 months. A brief overview of the factors considered and the outcomes observed would be insightful for those following the economic landscape.
+
+Timing of Rate Cut Discussions:
+Lastly, I would like to inquire about the ECB's stance on the current discussions surrounding potential rate cuts. How premature does the ECB perceive these talks at the present time? Understanding the central bank's perspective on the timing and considerations for such discussions would provide clarity to those monitoring monetary policy developments.
+
+I understand that the European Central Bank plays a crucial role in shaping the economic landscape of the Eurozone, and I appreciate your time and attention to these inquiries. If possible, I kindly request a response to these questions at your earliest convenience.
+
+Thank you for your consideration. I look forward to gaining further insights into the European Central Bank's perspective on these matters.
+
+Kind regards,
+
+Jort Siemes
+
+
+
 
 
 
@@ -282,6 +307,36 @@ https://nos.nl/artikel/2496051-inflatie-daalt-door-goedkopere-energie-in-de-wink
 
 ![[Pasted image 20231111161940.png]]
 ![[Pasted image 20231111161954.png]]
+
+
+
+
+https://www.reuters.com/markets/europe/ecb-must-resist-urge-cut-rates-early-bundesbank-chief-says-2023-11-23/
+# ECB must resist urge to cut rates early, Bundesbank chief says
+
+Reuters
+
+November 23, 20232:03 PM GMT+1Updated 3 days ago
+
+![European Central Bank (ECB) headquarters in Frankfurt](https://cloudfront-us-east-2.images.arcpublishing.com/reuters/5NJ7A2XE45NBBEX3ZHU7VCHDDI.jpg)
+
+A view shows the logo of the European Central Bank (ECB) outside its headquarters in Frankfurt, Germany March 16, 2023. REUTERS/Heiko Becker//File Photo [Acquire Licensing Rights](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+
+FRANKFURT, Nov 23 (Reuters) - The European Central Bank must resist any temptation to cut interest rates early as the most difficult part of fighting off the recent inflation surge could still be ahead, Bundesbank President Joachim Nagel said on Thursday.
+
+The ECB broke a streak of 10 straight rate hikes last month and guided markets for steady policy ahead, fuelling bets that the first rate cut could come as soon as April.
+
+"We are faced with the most difficult part of our journey forward," Nagel said in a speech in Milan, [largely repeating](https://www.reuters.com/markets/europe/ecbs-nagel-calls-cut-interest-paid-bank-reserves-2023-11-17/) his earlier comments. "We need the patience to wait for the full effect of policy tightening on inflation to materialise."
+
+Advertisement · Scroll to continue
+
+ECB President Christine Lagarde [earlier said](https://www.reuters.com/markets/europe/ecbs-lagarde-warns-against-hasty-policy-conclusions-inflation-2023-11-21/) that rates could stay steady for several quarters and she warned against premature celebration as price growth, now below 3%, could rise again soon, primarily on technical factors.
+
+Disinflation would then pick up pace again later in 2024 and the ECB could hit its 2% target in late 2025.
+
+"Even if energy prices remain where they are, I expect the inflation rate to rise again somewhat," Nagel said. "For some months to come, the road ahead will probably be a bumpy one with many ups and downs."
+
+Reporting by Balazs Koranyi; Editing by Alex Richardson
 
 
 
