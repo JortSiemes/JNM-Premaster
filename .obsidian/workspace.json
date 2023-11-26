@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anaforische elementen.md",
+                "file": "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anaforische elementen.md",
+                "file": "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anaforische elementen.md"
+                "file": "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 2.pdf"
               }
             }
           }
@@ -171,10 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39993c65202c75f6",
+  "active": "5c9daf030fa3548a",
   "lastOpenFiles": [
-    "Vakken/Taal en communicatie/Opdrachten/Opdracht week 10 - Taal en Communicatie.md",
     "Anaforische elementen.md",
+    "Vakken/Taal en communicatie/Opdrachten/Opdracht week 10 - Taal en Communicatie.md",
     "Vakken/Taal en communicatie/Colleges/Hoorcollege 7 Taal en communicatie.md",
     "Onderwerpen/pronomenale anaforen.md",
     "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 2.pdf",
