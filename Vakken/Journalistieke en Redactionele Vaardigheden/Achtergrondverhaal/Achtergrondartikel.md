@@ -170,20 +170,22 @@ Resultaat van beleid ECB en krimp- & graaiflatie, deze punten hebben geleid tot 
 
 **Mail mujagic:** e.mujagic@ohv.nl
 
+
 Beste heer Mujagic,
 
-Mijn naam is Jort Siemes en ik ben momenteel bezig met het schrijven van een kort artikel over het beleid van de ECB met betrekking tot de huidige periode van torenhoge inflatie in Nederland. Als student journalistiek aan de Universiteit Leiden ben ik geïnteresseerd in uw perspectief op het rentebeleid van de ECB.
+Mijn naam is Jort Siemes, en ik ben momenteel bezig met het schrijven van een kort artikel over het beleid van de ECB met betrekking tot de huidige periode van torenhoge inflatie in Nederland. Als student journalistiek aan de Universiteit Leiden ben ik geïnteresseerd in uw perspectief op het rentebeleid van de ECB.
 
-Zou het mogelijk zijn om deze week kort met u te spreken, telefonisch of via e-mail, om enkele vragen over dit onderwerp te bespreken? 
+Zou het mogelijk zijn om deze week kort met u te spreken, telefonisch of via e-mail, om enkele vragen over dit onderwerp te bespreken?
 
-Ook ben ik erg benieuwd of u wat toelichting kan geven naar de tweet van 24 november, waarin u verwees naar ECB-notulen die de mogelijkheid van verdere renteverhogingen suggereerden. (https://twitter.com/edinmujagic/status/1727975995984998750). Uw inzichten zijn van grote waarde voor mijn artikel.
+Ook ben ik erg benieuwd of u enige toelichting kunt geven op de tweet van 24 november, waarin u verwees naar ECB-notulen die de mogelijkheid van verdere renteverhogingen suggereerden (https://twitter.com/edinmujagic/status/1727975995984998750). Uw inzichten zijn van grote waarde voor mijn artikel.
 
-Alvast bedankt voor uw tijd. 
+Alvast bedankt voor uw tijd.
 
 Met vriendelijke groet,
 
-Jort Siemes
+Jort Siemes 
 +31 6 36514067
+
 
 
 **Mail Marco Kesteloo (Retailexpert):** marcokesteloo@me.com 
@@ -192,11 +194,11 @@ Beste heer Kesteloo,
 
 Mijn naam is Jort Siemes en ik ben momenteel bezig met het schrijven van een kort artikel over voornamelijk de prijsstijgingen en fenomenen zoals krimpflatie in de Nederlandse supermarkt. Als student journalistiek aan de Universiteit Leiden ben ik geïnteresseerd in uw perspectief.
 
-Zou het mogelijk zijn om deze week kort met u te spreken, telefonisch of via e-mail, om enkele vragen over dit onderwerp te bespreken? 
+Zou het mogelijk zijn om deze week kort met u te spreken, telefonisch of via e-mail, om enkele vragen over dit onderwerp te bespreken?
 
-Uw inzichten zijn van grote waarde voor mijn artikel.
+Uw inzichten over de toekomst van retail en lokale handel zijn van grote waarde voor mijn artikel.
 
-Alvast bedankt voor uw tijd. 
+Alvast bedankt voor uw tijd.
 
 Met vriendelijke groet,
 
@@ -206,7 +208,7 @@ Jort Siemes
 
 
 
-**Mail ECB:**
+**Mail ECB:** [media@ecb.europa.eu](mailto:media@ecb.europa.eu)
 
 Dear sir, madam, ECB
 
