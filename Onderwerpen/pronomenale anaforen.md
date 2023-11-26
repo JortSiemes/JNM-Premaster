@@ -16,3 +16,10 @@ Hem, Haar
 
 
 **Subject:** (grammaticale onderwerp)
+
+
+
+Adverbiaal:
+
+
+Verbale anafoor:
