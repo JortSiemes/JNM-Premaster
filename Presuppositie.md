@@ -1,0 +1,3 @@
+- een presuppositie is 'een vanzelfsprekende waarheid' die volgt uit een uiting
+- een presuppositie 'overleeft' een ontkenning
+- een presuppositie is annuleerbaar in heel specifieke contexten
