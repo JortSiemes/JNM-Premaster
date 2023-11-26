@@ -168,13 +168,13 @@ Resultaat van beleid ECB en krimp- & graaiflatie, deze punten hebben geleid tot 
 ## Bronnen
 
 
-**Mail mujagic:**
+**Mail mujagic:** e.mujagic@ohv.nl
 
 Beste heer Mujagic,
 
 Mijn naam is Jort Siemes en ik ben momenteel bezig met het schrijven van een kort artikel over het beleid van de ECB met betrekking tot de huidige periode van torenhoge inflatie in Nederland. Als student journalistiek aan de Universiteit Leiden ben ik geïnteresseerd in uw perspectief op het rentebeleid van de ECB.
 
-Zou het mogelijk zijn om deze week kort met u te spreken, telefonisch of via e-mail, om enkele vragen over dit onderwerp te bespreken? Ik ben vooral benieuwd naar uw visie op het rentebeleid van de ECB en het effect hiervan op Nederland.
+Zou het mogelijk zijn om deze week kort met u te spreken, telefonisch of via e-mail, om enkele vragen over dit onderwerp te bespreken? 
 
 Ook ben ik erg benieuwd of u wat toelichting kan geven naar de tweet van 24 november, waarin u verwees naar ECB-notulen die de mogelijkheid van verdere renteverhogingen suggereerden. (https://twitter.com/edinmujagic/status/1727975995984998750). Uw inzichten zijn van grote waarde voor mijn artikel.
 
@@ -184,6 +184,26 @@ Met vriendelijke groet,
 
 Jort Siemes
 +31 6 36514067
+
+
+**Mail Marco Kesteloo (Retailexpert):**
+
+Beste heer Kesteloo,
+
+Mijn naam is Jort Siemes en ik ben momenteel bezig met het schrijven van een kort artikel over krimpflatie tijdens de periode van torenhoge inflatie in Nederland. Als student journalistiek aan de Universiteit Leiden ben ik geïnteresseerd in uw perspectief dit fenomeen.
+
+Zou het mogelijk zijn om deze week kort met u te spreken, telefonisch of via e-mail, om enkele vragen over dit onderwerp te bespreken? 
+
+Ook ben ik erg benieuwd of u wat toelichting kan geven naar de tweet van 24 november, waarin u verwees naar ECB-notulen die de mogelijkheid van verdere renteverhogingen suggereerden. (https://twitter.com/edinmujagic/status/1727975995984998750). Uw inzichten zijn van grote waarde voor mijn artikel.
+
+Alvast bedankt voor uw tijd. Mocht het u beter uitkomen, ben ik ook bereikbaar via telefoon op het nummer +31 6 36514067.
+
+Met vriendelijke groet,
+
+Jort Siemes
++31 6 36514067
+
+
 
 
 **Mail ECB:**
@@ -251,3 +271,36 @@ https://nos.nl/artikel/2496051-inflatie-daalt-door-goedkopere-energie-in-de-wink
 
 ![[Pasted image 20231111161940.png]]
 ![[Pasted image 20231111161954.png]]
+
+
+
+https://www.bnr.nl/nieuws/economie/10493990/prijsstijgingen-in-supermarkt-we-moeten-samen-op-zoek-gaan-naar-doorbraken
+# Prijsstijgingen in supermarkt: 'We moeten samen op zoek gaan naar doorbraken'
+
+Auteur: Myrthe Koopman
+
+Veel boodschappen zijn flink duurder geworden en dat is voor de consument te merken aan de kassa in de supermarkten. Dit komt door de enorm gestegen productiekosten van levensmiddelen en de grootste veroorzaker van die prijsstijgingen is de oorlog in Oekraïne. Maar experts denken dat er ook een verandering moet komen bij de mindset van de consument en de manier waarop supermarkten daarop inspelen: 'Aardbeien in november zijn nou eenmaal duur.'
+
+Audiofragment
+
+## 'Supermarkten, leveranciers en de consument moeten samen op zoek gaan naar doorbraken'
+
+12 min 23 sec
+
+Retailexpert Marco Kesteloo van adviesbureau Oliver Wyman stelt dat de prijsstijgingen in de supermarkt niet gewenst zijn voor de consument. 'Maar de sector is zich hier zeker van bewust.' Supermarkten hebben volgens Kesteloo te maken met een tekort aan personeel, hoge energiekosten en een intense concurrentiemarkt. 'Dit zorgt voor een spanningsveld en de consument gaat daardoor switchen want de keuze is reuze.'
+
+## Spanningsveld
+
+Ook CEO Dick Hordijk van Agrifirm kan zich vinden in het beeld van het spanningsveld in de levensmiddelensector. 'Er is nog altijd een klein groepje inkopers, van een stuk of tien, dat erg machtig is. Daartegenover staan vijftigduizend leveranciers. De inkopers hebben het slim geregeld maar de druk op de leveranciers neemt toe', legt Hordijk uit.
+
+**Lees ook** | [Hoge kosten transportbedrijven voelbaar in supermarkt](https://www.bnr.nl/nieuws/economie/10493877/hoge-kosten-transportbedrijven-voelbaar-in-supermarkt)
+
+De boer zit dus vast door de druk vanuit de supermarkten en de hoge kosten. Supermarkten zitten vast door de hoge concurrentie en de consument heeft simpelweg minder te besteden door onder andere de hoge energierekening. De torenhoge prijzen in de supermarkten zijn dus voor iedereen merkbaar.
+
+## Aardbeien in november
+
+Kesteloo ziet oplossingen voor dit probleem bij andere sectoren: 'Kijk bijvoorbeeld naar modeketen Zara of woonwinkel Ikea, daar wordt met de leveranciers goed afgestemd waar wel en niet vraag naar is.' Volgens de retailexpert kunnen supermarkten hier een voorbeeld aannemen. 'Supermarkten moeten meer focussen op de vraag van de consument en vervolgens de producten hier op afstemmen,' legt Kesteloo uit.
+
+**Lees ook** | ['Verlaag de btw op voedsel'](https://www.bnr.nl/nieuws/economie/10493666/verlaag-de-btw-op-voedsel)
+
+'Dit kan betekenen dat er straks misschien minder seizoensproducten buiten het seizoen in de schappen liggen. Want aardbeien in november zijn ook erg duur, dat merkt de consument ook en die kiest dan liever voor alternatieven.'Ook Hordijk voelt iets voor het idee om de dialoog aan te gaan met de leverancier, de supermarkt en de consument. 'We moeten met alle partijen samen op zoek gaan naar doorbraken. Misschien betekent dat inderdaad geen aardbeien meer in de schappen in november. Tegelijkertijd is dat ook een duurzame stap in misschien wel de goede richting.'
