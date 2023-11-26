@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anaforische elementen.md",
+                "file": "Vakken/Taal en communicatie/Colleges/Hoorcollege 7 Taal en communicatie.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,7 +42,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 2.pdf",
+                "file": "Vakken/Taal en communicatie/Opdrachten/Opdracht week 10 - Taal en Communicatie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,9 +125,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 2.pdf",
+                "file": "Vakken/Taal en communicatie/Opdrachten/Opdracht week 10 - Taal en Communicatie.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -149,11 +148,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 2.pdf"
+                "file": "Vakken/Taal en communicatie/Opdrachten/Opdracht week 10 - Taal en Communicatie.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,16 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c9daf030fa3548a",
+  "active": "b4303f295276abb2",
   "lastOpenFiles": [
-    "Anaforische elementen.md",
-    "Vakken/Taal en communicatie/Opdrachten/Opdracht week 10 - Taal en Communicatie.md",
     "Vakken/Taal en communicatie/Colleges/Hoorcollege 7 Taal en communicatie.md",
-    "Onderwerpen/pronomenale anaforen.md",
+    "Presuppositie.md",
     "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 2.pdf",
+    "Vakken/Taal en communicatie/Opdrachten/Opdracht week 10 - Taal en Communicatie.md",
+    "suspension.md",
+    "Onderwerpen/pronomenale anaforen.md",
+    "Anaforische elementen.md",
     "Deiktisch centrum.md",
     "Deiktische elementen.md",
-    "Presuppositie.md",
     "Vakken/Taal en communicatie/Opdrachten/Opdracht week 6 - Taal en Communicatie.md",
     "Vakken/Taal en communicatie/Opdrachten/Extra oefening Horn en Relevantietheorie.pdf",
     "Vakken/Taal en communicatie/Colleges/Hoorcollege 8 Taal en communicatie.md",
