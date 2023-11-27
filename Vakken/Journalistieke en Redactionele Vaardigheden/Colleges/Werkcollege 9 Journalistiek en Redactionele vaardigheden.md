@@ -140,6 +140,19 @@ check slide met clichés in Nederlandse taal
 Niet: beschrijven wat ook al in het citaat staat
 Maar; zorg wel dat duidelijk is waar het over gaat:
 
+### Geen uitroeptekens, alleen als iemand schreeuwt
+
+
+15 Dec - droombaanmiddag 15:00-17:00 LIPS 019
+
+
+eertse achtergrond verhaal
+woensdag 29 nov 9:00
+	-assignments en discussions 104
+
+Feedback 30 nov
+
+
 
 
 
