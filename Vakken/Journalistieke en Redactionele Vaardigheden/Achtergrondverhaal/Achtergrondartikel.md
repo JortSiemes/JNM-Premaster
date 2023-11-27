@@ -171,7 +171,7 @@ Resultaat van beleid ECB en krimp- & graaiflatie, deze punten hebben geleid tot 
 **Mail mujagic:** e.mujagic@ohv.nl
 
 
-Beste heer Mujagic,
+Beste heer Mujagić,
 
 Mijn naam is Jort Siemes, en ik ben momenteel bezig met het schrijven van een kort artikel over het beleid van de ECB met betrekking tot de huidige periode van torenhoge inflatie in Nederland. Als student journalistiek aan de Universiteit Leiden ben ik geïnteresseerd in uw perspectief op het rentebeleid van de ECB.
 
@@ -208,7 +208,7 @@ Jort Siemes
 
 
 
-**Mail ECB:** [media@ecb.europa.eu](mailto:media@ecb.europa.eu)
+**Mail ECB:** media@ecb.europa.eu
 
 
 **Subject:** 
