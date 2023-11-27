@@ -79,4 +79,31 @@ Geprefereerde reactie
 >> Snelle Reactie
 >> Directe reactie
 
-NB culturele v
+NB culturele verschillen in preferentie
+
+#### Niet-geprefereerde reacties
+= niet inovereenstemming met 1e paardeel
+>> Gemarkeerd door uitstel
+>> Gemarkeerd door twijfel
+
+
+Volgorde
+Pre-sequentie
+[[Basissequentie]]
+[[insertiesequentie]]
+pre-sequentie
+
+
+### Conversatie-analyse
+- data gestuurd
+- authentieke data
+- interpretatie door gespreksdeelnemers zelf staat centraal
+- discourse niveau
+- mondeling taalgebruik
+
+Kritiek
+- analyse nooit vrij van theorie?
+- Blijft interpretatie van gespreksanalysticus
+- Context buiten gesprek relevant
+
+
