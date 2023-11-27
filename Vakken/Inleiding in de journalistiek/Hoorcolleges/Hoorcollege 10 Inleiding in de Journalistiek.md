@@ -43,6 +43,8 @@ Code of Ethics
 - seek truth and report it
 - minimize harm
 - act independently
-- be accountable and 
+- be accountable and transparent
+
+
 
 
