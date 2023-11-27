@@ -1,21 +1,19 @@
 {
   "main": {
-    "id": "74140995e7ee8812",
+    "id": "405c72ca6c7ee289",
     "type": "split",
     "children": [
       {
-        "id": "71ffd11363546cba",
+        "id": "b31a7e79818954a9",
         "type": "tabs",
         "children": [
           {
-            "id": "b085590e8cea2255",
+            "id": "8ef227a3fa711aeb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 9 Journalistiek en Redactionele vaardigheden.md",
-                "mode": "source",
-                "source": false
+                "file": "Vakken/Woorden als wapens/Weekopdrachten/Week9_opdracht.pdf"
               }
             }
           }
@@ -26,15 +24,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "15669e7e105c7be8",
+    "id": "90242067430feb04",
     "type": "split",
     "children": [
       {
-        "id": "563e23d44199766b",
+        "id": "4293905f9d9713e8",
         "type": "tabs",
         "children": [
           {
-            "id": "d1600001feb785ff",
+            "id": "4c6509847f41cf6d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +42,7 @@
             }
           },
           {
-            "id": "04ea66dd4c102027",
+            "id": "50ecca2fc39339d5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -59,7 +57,7 @@
             }
           },
           {
-            "id": "93fc385e08f86483",
+            "id": "ef47ac473dd2bc2f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -70,31 +68,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 318.5
   },
   "right": {
-    "id": "7859014a86b170ac",
+    "id": "21fd0c6494cc2d20",
     "type": "split",
     "children": [
       {
-        "id": "99db599b1727e4e3",
+        "id": "7a9a3dfaf5385810",
         "type": "tabs",
         "children": [
           {
-            "id": "0814e8448907efcd",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "7b464230e7192d40",
+            "id": "530f21bb873b27e0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 9 Journalistiek en Redactionele vaardigheden.md",
+                "file": "Vakken/Woorden als wapens/Weekopdrachten/Week9_opdracht.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,19 +96,19 @@
             }
           },
           {
-            "id": "529bfa46d73bb647",
+            "id": "d7105a6393f4bb35",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 9 Journalistiek en Redactionele vaardigheden.md",
+                "file": "Vakken/Woorden als wapens/Weekopdrachten/Week9_opdracht.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "ec6f786f046e3111",
+            "id": "d6c232d790a87b02",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -129,21 +119,22 @@
             }
           },
           {
-            "id": "82793ef6cf4a5db3",
+            "id": "87aacad58b760f68",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 9 Journalistiek en Redactionele vaardigheden.md"
+                "file": "Vakken/Woorden als wapens/Weekopdrachten/Week9_opdracht.pdf"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,53 +147,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b085590e8cea2255",
+  "active": "8ef227a3fa711aeb",
   "lastOpenFiles": [
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 8 Journalistiek en Redactionele vaardigheden.md",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 9 Journalistiek en Redactionele vaardigheden.md",
+    "Vakken/Woorden als wapens/Weekopdrachten/~WRL2278.tmp",
+    "Vakken/Woorden als wapens/Weekopdrachten/~WRD2274.tmp",
+    "Vakken/Woorden als wapens/Weekopdrachten/~WRL3033.tmp",
+    "Vakken/Woorden als wapens/Weekopdrachten/~WRD3029.tmp",
+    "Vakken/Woorden als wapens/Weekopdrachten/~WRL0384.tmp",
+    "Vakken/Woorden als wapens/Weekopdrachten/~WRD0380.tmp",
+    "Vakken/Woorden als wapens/Weekopdrachten/~WRL0348.tmp",
+    "Vakken/Woorden als wapens/Weekopdrachten/~WRD0332.tmp",
+    "Vakken/Woorden als wapens/Weekopdrachten/~WRL1057.tmp",
+    "Vakken/Woorden als wapens/Weekopdrachten/~WRD1053.tmp",
+    "Vakken/Woorden als wapens/Weekopdrachten/~WRL1787.tmp",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/Achtergrondartikel.md",
-    "Vakken/Taal en communicatie/Colleges/Werkcollege 8 taal en communicatie.md",
-    "off record.md",
-    "negatieve beleefdheid.md",
-    "positieve beleefdheid.md",
-    "baldly.md",
-    "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 2.pdf",
-    "Vakken/Taal en communicatie/Opdrachten/Unconfirmed 414369.crdownload",
-    "Vakken/Taal en communicatie/Colleges/Werkcollege 7 taal en communicatie.md",
-    "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 1.pdf",
-    "Vakken/Woorden als wapens/Colleges/Werkcollege 9 Woorden als Wapens.md",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/New folder/~$htergrondverhaal Tekstschema.docx",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/New folder/~WRL0167.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/New folder/~WRD0151.tmp",
-    "Onderwerpen/deiktische.md",
-    "Vakken/Woorden als wapens/Onderwerpen/Naamwoordstijl.md",
-    "Vakken/Woorden als wapens/Weekopdrachten/~$ekopdracht week 9(DOC).docx",
-    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht Week 9 (Jort Siemes, s4028198).md",
-    "Vakken/Wetenschapsfilosofie/Onderwerpen/Karl Popper.md",
-    "Vakken/Wetenschapsfilosofie/Groepsopdracht.md",
-    "Onderwerpen/Falsificatie.md",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/EU_MAP_UnionMembersWhite.png",
-    "Vakken/Woorden als wapens/Untitled.md",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/New folder/~WRL3745.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/New folder/~WRD3726.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/fra06p020_bg_motiv11_visualisierung2012.png",
-    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 9 Inleiding in de Journalistiek.md",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/New folder/Achtergrondverhaal Tekstschema.docx",
-    "Market model.md",
-    "Trustee model.md",
-    "Bounce rate.md",
-    "Onderwerpen/Onderwerpen.md",
-    "Onderwerpen/nieuwswaarden.md",
-    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 8 Inleiding in de Journalistiek.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 9 Journalistiek en Redactionele vaardigheden.md",
+    "Vakken/Taal en communicatie/Opdrachten/Opdracht week 10 - Taal en Communicatie.md",
+    "Vakken/Taal en communicatie/Colleges/Hoorcollege 7 Taal en communicatie.md",
+    "Vakken/Taal en communicatie/Opdrachten/Opdracht week 6 - Taal en Communicatie.md",
+    "Metalinguistische negatie.md",
+    "Presuppositie.md",
+    "suspension.md",
+    "Onderwerpen/pronomenale anaforen.md",
+    "Anaforische elementen.md",
+    "Deiktisch centrum.md",
+    "Deiktische elementen.md",
     "Vakken/Taal en communicatie/Colleges/Hoorcollege 8 Taal en communicatie.md",
-    "Onderwerpen/taalhandelingen.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/Pitch/JournalismPractice_Mockup_trans.png",
-    "Vakken/Methoden en theorieen van Journalism Studies/Pitch/JournalismPractice_Mockup.png",
-    "Vakken/Methoden en theorieen van Journalism Studies/Pitch/JournalismPractice.webp",
-    "Vakken/Methoden en theorieen van Journalism Studies/Pitch/JournalismPractice.png",
-    "Vakken/Methoden en theorieen van Journalism Studies/KwantitatieveInhoudsanalyse/linkedin_scraper-2.11.2/docs/proxycurl.png",
-    "Beelden/Pasted image 20231010124337.png",
-    "Beelden/Pasted image 20231017172418.png",
-    "Beelden/Pasted image 20231111160226.png"
+    "Vakken/Taal en communicatie/Colleges/Werkcollege 8 taal en communicatie.md"
   ]
 }

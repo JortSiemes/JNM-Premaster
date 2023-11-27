@@ -88,10 +88,10 @@ Geen samenvatting! Denk aan een film, is ook open einde of happy end ....
 Conclusie, poging tot antwoord op de centrale vraag
 
 
-Beste mr Mujagic,
 
-Zou ik je volgende week kort kunnen spreken over....
-recente tweet gelezen over ECB notules
+
+
+
 
 
 

@@ -6,7 +6,23 @@
 | Sentence            | Utterance                    |
 | Sense               | Reference                    |
 | context-independent | Context dependent            |
-| Truth-conditional   | Not turth-conditional                             |
+| Truth-conditional   | Not turth-conditional        |
+
+**Referentie:**
+### [[Deiktische elementen]]
+Verwijzen naar iets in de spreeksituatie (bijv. plaats, tijd, persoon)
+### [[Anaforische elementen]]
+verwijzen naar een taalkundig element (eerder) in de tekst
+
+**[[Presuppositie]]:**
+- een presuppositie is 'een vanzelfsprekende waarheid' die volgt uit een uiting
+- een presuppositie 'overleeft' een ontkenning
+- een presuppositie is annuleerbaar in heel specifieke contexten
+
+[[pronomenale anaforen]]
+
+
+
 
 referentie en presuppositie
 
