@@ -33,6 +33,12 @@ Klachten over journalistieke publicaties
 vvoj
 
 
+ombudsman
+- transparantie
+- (zelf)reflectie / (zelf)kritiek
+- Hogere kwaliteit
+
+
 
 
 
