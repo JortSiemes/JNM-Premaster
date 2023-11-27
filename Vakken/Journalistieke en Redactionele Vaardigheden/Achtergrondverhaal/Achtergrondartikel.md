@@ -391,3 +391,48 @@ Kesteloo ziet oplossingen voor dit probleem bij andere sectoren: 'Kijk bijvoorbe
 **Lees ook** | ['Verlaag de btw op voedsel'](https://www.bnr.nl/nieuws/economie/10493666/verlaag-de-btw-op-voedsel)
 
 'Dit kan betekenen dat er straks misschien minder seizoensproducten buiten het seizoen in de schappen liggen. Want aardbeien in november zijn ook erg duur, dat merkt de consument ook en die kiest dan liever voor alternatieven.'Ook Hordijk voelt iets voor het idee om de dialoog aan te gaan met de leverancier, de supermarkt en de consument. 'We moeten met alle partijen samen op zoek gaan naar doorbraken. Misschien betekent dat inderdaad geen aardbeien meer in de schappen in november. Tegelijkertijd is dat ook een duurzame stap in misschien wel de goede richting.'
+
+
+
+https://nos.nl/artikel/2426947-andere-verpakking-minder-inhoud-zelfde-prijs-dat-is-krimpflatie
+# Andere verpakking, minder inhoud, zelfde prijs; dat is krimpflatie
+
+Wasmiddel, pindasaus en bakmeel: het zijn producten waarbij niet direct opvalt dat ze duurder zijn geworden. Maar wie goed op de verpakking kijkt, ziet dat er minder in zit voor dezelfde prijs. Dat heet krimpflatie, en dat treedt vaker op bij een - zoals nu - [hoge inflatie.](https://nos.nl/index.php/artikel/2426900-inflatie-loopt-in-april-iets-terug-maar-blijft-uitzonderlijk-hoog)
+
+Want ook fabrikanten hebben last van de prijsstijgingen en dat proberen ze aan consumenten door te berekenen. Die prijsstijgingen in de supermarkt zijn al [langer](https://nos.nl/artikel/2402575-van-bier-tot-vanille-prijzen-van-boodschappen-blijven-stijgen) te merken.
+
+Wat consumenten minder snel merken, is het verkleinen van de inhoud en dan dezelfde prijs rekenen. Maar de oplettende koper uit zijn of haar onvrede daarover al op sociale media. "Mensen voelen zich beetgenomen", zegt Babs van der Staak van de Consumentenbond.
+
+## Trucje
+
+De Consumentenbond spreekt van een trucje en zegt dat dit vaker wordt uitgehaald, zoals [vorig jaar](https://www.consumentenbond.nl/voedingstests/minder-inhoud-zelfde-prijs). Maar zolang op de verpakking staat wat en hoeveel erin zit, mag dat. Fabrikanten houden zich daar tot nu toe aan, maar vermelden dus niet expliciet dat er minder in zit voor dezelfde prijs.
+
+Op die verborgen prijsstijging kreeg onder meer producent Koopmans veel kritiek op sociale media: de verpakking zelfrijzend bakmeel veranderde van 500 naar 400 gram. "Maar die verandering is al van anderhalf jaar geleden en heeft dus helemaal niets te maken met de stijgende grondstofprijzen door Oekraïne", zegt Joost van den Berg, marketingmanager bij het bedrijf.
+
+Van den Berg zegt dat de inhoud is verminderd vanwege een "kwaliteitsverbetering". Door de klachten van consumenten wordt de verandering teruggedraaid: vanaf deze zomer liggen er weer verpakkingen met 500 gram zelfrijzend bakmeel in de schappen.
+
+Ook Unilever sleutelt aan zijn producten. Zo kan Robijn kleurwasmiddel negentien keer mee in plaats van twintig. En komt er minder pindasaus uit de nieuwe verpakking van Calvé door de samenstelling van de ingrediënten.
+
+Het bedrijf zegt in een reactie "continu de producten te verbeteren, bijvoorbeeld op het gebied van ingrediënten of op het vlak van duurzaamheid."
+
+"Fabrikanten proberen een mooie draai aan krimpflatie te geven door teksten als 'verbeterde receptuur' of 'duurzamere verpakking'. Maar uiteindelijk heb je natuurlijk gewoon minder plakken kaas in je pak", zegt Van der Staak van de Consumentenbond.
+
+## Niet stiekem
+
+Ook zijn er ondernemers die openlijk aan klanten laten weten dat ze minder krijgen voor dezelfde prijs. Een voorbeeld daarvan is bakkerij KEEK in Utrecht. In de zaak hangt een briefje waarop staat de producten soms kleiner zijn door de gestegen kosten.
+
+_Wij namen er een kijkje:_
+
+![](https://cdn.nos.nl/image/2022/04/29/856195/1024x576a.jpg)
+
+1:50
+
+Met een kleinere portie houdt deze bakker de prijzen gelijk
+
+## Kleinere verpakking geen oplossing
+
+Volgens Sebastiaan Schreijen, analist consument en voedsel bij RaboResearch, is het verkleinen van de verpakking niet de meest voor de hand liggende oplossing. Want de fabrikant heeft nog steeds de vaste kosten van bijvoorbeeld de verpakking. "Maar de psychologie van het prijspunt kan meespelen: als je bijvoorbeeld op 1,99 voor 500 gram zit, wil je niet voorbij de 2 euro."
+
+Ook zegt Schreijen dat krimpflatie een internationaal fenomeen is. "Het verschilt per producent, maar uiteindelijk is het een van de mogelijke oplossingen om de sterk gestegen kosten door te belasten aan de consument."
+
+Volgens Koopmans en Unilever zijn de supermarkten verantwoordelijk voor de verkoopprijzen. We hebben Albert Heijn, Plus en Jumbo gevraagd om een reactie. Die zeggen dat het besluit voor kleinere verpakkingen voor dezelfde verkoopprijs juist bij de fabrikant ligt. De drie supermarkten verwijzen ook naar het CBL, de branchevereniging voor levensmiddelen.
