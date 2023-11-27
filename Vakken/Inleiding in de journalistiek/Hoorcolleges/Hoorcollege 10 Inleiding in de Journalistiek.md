@@ -21,4 +21,12 @@ Hoe bepaal je journalistieke [[ethiek]]?
 
 Kovach & Rosenstiel:
 "journalists have an obligation to exercise their personal conscience."
+Every journalist must be able to voice their personal sense of ethics and responsibility.
+
+
+Klachten over journalistieke publicaties
+1. Rechter
+2. Raad voor de journalistiek
+3. Ombudsman van een medium
+
 
