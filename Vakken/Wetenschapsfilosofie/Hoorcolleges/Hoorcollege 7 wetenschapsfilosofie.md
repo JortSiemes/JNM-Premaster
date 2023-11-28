@@ -55,3 +55,14 @@ De publish or perish-cultuur heeft positieve en negatieve aspecten
 - immers, fraaie resultaten kunnen direct effect hebben op je carrière
 - toegeven dat je fouten hebt gemaakt is niet 
 
+#### Wetenschappelijke zones
+- bedenken van onderzoeksresultaten
+- plagiaat
+- je eigen onderzoek of prestaties beter laten lijken dan ze eigenlijk zijn.
+- Slinkse trucs gebruiken om concurrenten te snel af te zijn
+
+
+
+
+
+
