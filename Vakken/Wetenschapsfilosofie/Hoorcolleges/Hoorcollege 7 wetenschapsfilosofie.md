@@ -61,6 +61,7 @@ De publish or perish-cultuur heeft positieve en negatieve aspecten
 - je eigen onderzoek of prestaties beter laten lijken dan ze eigenlijk zijn.
 - Slinkse trucs gebruiken om concurrenten te snel af te zijn
 
+[[plagiaat]]
 
 
 
