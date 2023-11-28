@@ -13,7 +13,7 @@ mensen willen niet bot zijn tot hier
 Als je kiest voor on the record dan verzoek je iets ([[baldly]], enorm direct)
 
 
-[[Baldly]] met beleefdheidsstrategie:
+[[baldly]] met beleefdheidsstrategie:
 - [[positieve beleefdheid]]
 - [[negatieve beleefdheid]]
 	- iets bijvoorbeeld vragen (mag ik misschien je auto lenen?)
@@ -39,7 +39,7 @@ cultural ranking van de face threatening act (hoe fta vind de samenleving dit)
 
 1.
 a. [[nominalisatie]], S en H onpersoonlijk, hedge ('misschien')
-b. [[Negatieve beleefdheid]]
+b. [[negatieve beleefdheid]]
 c. 
 
 2.
@@ -53,8 +53,8 @@ b. [[negatieve beleefdheid]] (respectvolle middelen)
 c. cultural ranking (is hoe samenleving dit vraagt)
 
 4.
-a. [[Negatieve beleefdheid]], vraagvorm, uitleggen verzoeken, hedge (misschien), aanhef
-b. [[Positieve beleefdheid]] (solidariserende middelen) reden geven ('ik voel me niet zo lekker')
+a. [[negatieve beleefdheid]], vraagvorm, uitleggen verzoeken, hedge (misschien), aanhef
+b. [[positieve beleefdheid]] (solidariserende middelen) reden geven ('ik voel me niet zo lekker')
 c. machtsverhouding (juf > leerling)
 
 5.
@@ -91,7 +91,7 @@ Opdracht 5
 Volgende week H9 (p90-112)
 
 
-1. [[Negatieve beleefdheid]]
+1. [[negatieve beleefdheid]]
 2. Off the record
 3. 
 

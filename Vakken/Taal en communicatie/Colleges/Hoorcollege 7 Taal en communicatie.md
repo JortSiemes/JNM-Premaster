@@ -62,7 +62,7 @@ Verwijzingen van deiktische en anaforische elementen zijn explicaturen.
 ### Presupposities
 My dog is black +> I have a dog
 - is dit een conversationele implicatuur? > Nee is niet annuleerbaar. 
-Dat ik een hond heb wordt niet beweerd maar de waarheid daarvan wordt in deze zin voorondersteld: [[presuppositie]]
+Dat ik een hond heb wordt niet beweerd maar de waarheid daarvan wordt in deze zin voorondersteld: [[Presuppositie]]
 
 
 "constancy under negation"

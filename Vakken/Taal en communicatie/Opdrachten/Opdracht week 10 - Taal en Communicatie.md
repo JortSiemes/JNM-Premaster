@@ -15,9 +15,9 @@ Het verhaal speelt **zich** af in 1887 en draait deels om de Oost-Indische Compa
 
 
 3a 
-[[presuppositie]]: The soup has thawed > er is soep + de soep was bevroren
-[[presuppositie]]: The soup has not thawed > [[Presuppositie]] geldt nog steeds (constancy under negation)
-The soup has not thawed; it was never frozen! > [[presuppositie]] wordt geannuleerd ([[metalinguistic negation]])
+[[Presuppositie]]: The soup has thawed > er is soep + de soep was bevroren
+[[Presuppositie]]: The soup has not thawed > [[Presuppositie]] geldt nog steeds (constancy under negation)
+The soup has not thawed; it was never frozen! > [[Presuppositie]] wordt geannuleerd ([[metalinguistic negation]])
 The soup has thawed, if it was ever frozen. > [[suspension]], nu laat je mogelijkheid voor wel of niet allebei open
 
 (i) Even the king of france is bald.
