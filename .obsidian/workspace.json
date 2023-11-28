@@ -138,8 +138,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b085590e8cea2255",
+  "active": "0814e8448907efcd",
   "lastOpenFiles": [
     "Onderwerpen/Anaforische elementen.md",
     "Vakken/Woorden als wapens/Colleges/Werkcollege 10 Woorden als Wapens.md",

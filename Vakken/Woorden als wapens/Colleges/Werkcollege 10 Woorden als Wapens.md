@@ -18,3 +18,11 @@ Toegankelijk taalgebruik -> Gewonemensentaal
 Gewonemensentaal -> nabijheid tot het volk x afstand tot collega's
 
 
+Concreet taalgebruik -> Toegankelijk taalgebruik
+
+Concrete / abstracte naamwoorden -> Concreet taalgebruik
+Individuen opvoeren als representatief over grotere groep -> Concreet taalgebruik
+Veelzeggende details -> Concreet taalgebruik
+Citaten -> Concreet taalgebruik
+
+
