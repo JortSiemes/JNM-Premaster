@@ -19,6 +19,19 @@ Wetenschappelijke kennis is geen prive bezit
 
 [[CUDOS]]
 
+Beloning in de wetenschap
+- hoe implementeert een gemeenschap [[normen]]?
+	- Over het algemeen door middel van beloning en straf
 
+Beloning in wetenschap: geld
+
+Straf in wetenschap: 
+
+
+Wetenschappelijke kwaliteit:
+- je kan citaten turven
+- Kwantiteit van "goede producten" als maatstaf voor kwaliteit
+
+Vaak alleen Engelstalige wetenschappers
 
 
