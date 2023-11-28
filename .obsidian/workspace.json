@@ -138,7 +138,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -155,8 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0814e8448907efcd",
+  "active": "d1600001feb785ff",
   "lastOpenFiles": [
+    "Vakken/Woorden als wapens/Weekopdrachten/~WRL0001.tmp",
+    "Vakken/Woorden als wapens/Weekopdrachten/~WRD0000.tmp",
     "Onderwerpen/Anaforische elementen.md",
     "Vakken/Woorden als wapens/Colleges/Werkcollege 10 Woorden als Wapens.md",
     "Vakken/Woorden als wapens/Weekopdrachten/~$ekopdracht week 10(DOC).docx",
@@ -181,7 +184,6 @@
     "Vakken/Wetenschapsfilosofie/Opdracht/Anagramdesign_Template_Tiktok-2023-2/__MACOSX/Anagramdesign_Template_Tiktok-2023/Light",
     "Vakken/Wetenschapsfilosofie/Opdracht/Anagramdesign_Template_Tiktok-2023-2/__MACOSX/Anagramdesign_Template_Tiktok-2023/Dark",
     "Vakken/Wetenschapsfilosofie/Opdracht/Anagramdesign_Template_Tiktok-2023-2/__MACOSX/Anagramdesign_Template_Tiktok-2023",
-    "Vakken/Wetenschapsfilosofie/Opdracht/Anagramdesign_Template_Tiktok-2023-2/__MACOSX",
     "Vakken/Taal en communicatie/Opdrachten/Opdracht week 10 - Taal en Communicatie.md",
     "Onderwerpen/Presuppositie.md",
     "Onderwerpen/Metalinguistische negatie.md",
