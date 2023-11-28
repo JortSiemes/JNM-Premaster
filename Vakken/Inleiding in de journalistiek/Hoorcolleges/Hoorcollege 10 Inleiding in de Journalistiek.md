@@ -1,10 +1,10 @@
-Journalistieke [[ethiek]]
+Journalistieke [[Ethiek]]
 
 Jos B. of Jos Brech?
-Hoe bepaal je journalistieke [[ethiek]]?
+Hoe bepaal je journalistieke [[Ethiek]]?
 
 [[Ethisch dilemma]] kunnen analyseren:
-- onderscheid te maken tussen [[waarden]], [[normen]] en regels
+- onderscheid te maken tussen [[Waarden]], [[Normen]] en regels
 - belangen af te wegen
 
 [[Ethiek]] = moraliteit
