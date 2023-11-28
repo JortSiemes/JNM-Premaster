@@ -1,0 +1,1 @@
+idealen en motieven die een samenleving of groep als ideaal of wenselijk worden beschreven
