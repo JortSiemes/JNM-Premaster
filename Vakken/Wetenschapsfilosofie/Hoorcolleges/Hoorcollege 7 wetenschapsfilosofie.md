@@ -35,3 +35,23 @@ Wetenschappelijke kwaliteit:
 Vaak alleen Engelstalige wetenschappers
 
 
+#### Publish or perish
+Sociale realiteit van de wetenschap: je moet publiceren, liefst veel, want anders krijg je geen beloning (baan, subsidie, enz)
+
+De publish or perish-cultuur heeft positieve en negatieve aspecten
+
+**Positief:** dienstbaar aan Mertons beginselen Communality, Originality en Scepticism.
+**Negatief:** onbedoelde en ongewenste neveneffecten
+
+- snelheid is belangrijker dan zorgvuldigheid.
+- veel kleine artikelen zijn beter dan een grote studie
+- het loont om je te richten op populaire onderzoeksgebieden
+- Risicoloos onderzoek loont meer dan onderzoek met ongewis resultaat
+
+
+##### Fraude in wetenschap
+- wetenschappelijke fraude is van alle tijden.
+- misschien leidt de grote druk om te publiceren tot meer fraude in de wetenschap
+- immers, fraaie resultaten kunnen direct effect hebben op je carrière
+- toegeven dat je fouten hebt gemaakt is niet 
+
