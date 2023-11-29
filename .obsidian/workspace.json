@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 7 wetenschapsfilosofie.md",
+                "file": "Vakken/Taal en communicatie/Opdrachten/Opdracht week 10 - Taal en Communicatie.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 7 wetenschapsfilosofie.md",
+                "file": "Vakken/Taal en communicatie/Opdrachten/Opdracht week 10 - Taal en Communicatie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 7 wetenschapsfilosofie.md",
+                "file": "Vakken/Taal en communicatie/Opdrachten/Opdracht week 10 - Taal en Communicatie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 7 wetenschapsfilosofie.md"
+                "file": "Vakken/Taal en communicatie/Opdrachten/Opdracht week 10 - Taal en Communicatie.md"
               }
             }
           }
@@ -143,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,11 +159,13 @@
   },
   "active": "b085590e8cea2255",
   "lastOpenFiles": [
+    "Vakken/Taal en communicatie/Opdrachten/Opdracht week 12 - Taal en Communicatie.md",
+    "Vakken/Taal en communicatie/Opdrachten/Opdracht week 10 - Taal en Communicatie.md",
+    "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 7 wetenschapsfilosofie.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRL0005.tmp",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~$rtSiemes_104_V1_AchtergrondArtikel_ECB.docx",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/JortSiemes_104_V1_AchtergrondArtikel_ECB.docx",
     "plagiaat.md",
-    "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 7 wetenschapsfilosofie.md",
     "Robert Merton.md",
     "Onderwerpen/Universalisme.md",
     "CUDOS.md",
@@ -189,8 +192,6 @@
     "Onderwerpen/suspension.md",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht week 10(DOC).docx",
     "Vakken/Wetenschapsfilosofie/Opdracht/Anagramdesign_Template_Tiktok-2023-2/__MACOSX/Anagramdesign_Template_Tiktok-2023/_Fonts/Roboto",
-    "Vakken/Wetenschapsfilosofie/Opdracht/Anagramdesign_Template_Tiktok-2023-2/__MACOSX/Anagramdesign_Template_Tiktok-2023/_Fonts",
-    "Vakken/Taal en communicatie/Opdrachten/Opdracht week 10 - Taal en Communicatie.md",
     "Onderwerpen/Presuppositie.md",
     "Onderwerpen/Metalinguistische negatie.md",
     "Onderwerpen/Deiktische elementen.md",
