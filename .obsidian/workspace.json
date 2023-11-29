@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 9 Journalistiek en Redactionele vaardigheden.md",
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/Achtergrondartikel.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 9 Journalistiek en Redactionele vaardigheden.md",
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/Achtergrondartikel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 9 Journalistiek en Redactionele vaardigheden.md",
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/Achtergrondartikel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 9 Journalistiek en Redactionele vaardigheden.md"
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/Achtergrondartikel.md"
               }
             }
           }
@@ -156,19 +156,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "529bfa46d73bb647",
+  "active": "b085590e8cea2255",
   "lastOpenFiles": [
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRL1480.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRD1476.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRL3984.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRD3980.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRL2499.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRD2495.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRL1462.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRD1458.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRL1383.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRD1379.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRL0420.tmp",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRL1786.tmp",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRD1778.tmp",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRL3189.tmp",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRD3185.tmp",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRL2021.tmp",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRD2017.tmp",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRD1779.tmp",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 9 Journalistiek en Redactionele vaardigheden.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRL3524.tmp",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRD3520.tmp",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRL1733.tmp",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRD1729.tmp",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/Achtergrondartikel.md",
     "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 10 Inleiding in de Journalistiek.md",
     "plagiaat.md",
@@ -186,7 +187,6 @@
     "Basissequentie.md",
     "insertiesequentie.md",
     "Vakken/Taal en communicatie/Colleges/Hoorcollege 8 Taal en communicatie.md",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 9 Journalistiek en Redactionele vaardigheden.md",
     "suspension.md",
     "Vakken/Taal en communicatie/Opdrachten/Opdracht week 10 - Taal en Communicatie.md",
     "Presuppositie.md",
