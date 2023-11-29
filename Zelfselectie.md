@@ -1,0 +1,1 @@
+Wanneer spreker zelf begint met 
