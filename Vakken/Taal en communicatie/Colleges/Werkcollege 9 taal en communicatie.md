@@ -39,4 +39,18 @@ B = basis, paardeel 2 (paar 1)
 135 = zelfselectie (iemand begint met praten is niet verwezen)
 
 #### Opdracht 3
-A
+A = maar wel een mooi land? (geprefereerde antwoord = Ja mooi)
+Of niet zo enthousiast? (geprefereerde antwoord = Nee)
+
+
+#### Opdracht 4
+Je hebt zeker geen zin = negatie
+Geprefereerde antwoord = nee
+maar stiekem is het ja
+Negatieve politeness, want je houd afstand van de hoorder en je geeft de hoorder autonomie en geen gezichtverlies
+(nogsteeds vrienden ookal zeg je nee)
+
+Negatieve politeness
+preferentie antwoord = beleefd
+
+de keuze van negatie is gekozen: 
