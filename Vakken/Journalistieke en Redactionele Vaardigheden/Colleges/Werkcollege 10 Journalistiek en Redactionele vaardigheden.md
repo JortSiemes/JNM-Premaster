@@ -154,3 +154,14 @@ Twee suggesties voor verrijking (valt buiten woordlimiet)
 
 Deadline nieuwsbericht; 6dec 9u
 Deadline final versie achtergrondverhaal: 13 dec
+
+---
+
+Wat: Taart in gezicht gegooid
+Wie: Martin Bosma, woordvoerder cultuur en media, 2de man Wilders 
+Waar: Universiteit Leiden, faculteit rechtsgeleerdheid 
+Wanneer: Donderdag 30nov iets voor 8u
+Waarom: SP jongeren uit protest voor PVV overwinning, Lezing belang van grondrechten
+Hoe: 
+
+Kop:
