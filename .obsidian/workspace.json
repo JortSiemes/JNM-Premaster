@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 10 Journalistiek en Redactionele vaardigheden.md",
+                "file": "Nieuwsbericht.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 10 Journalistiek en Redactionele vaardigheden.md",
+                "file": "Nieuwsbericht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 10 Journalistiek en Redactionele vaardigheden.md",
+                "file": "Nieuwsbericht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 10 Journalistiek en Redactionele vaardigheden.md"
+                "file": "Nieuwsbericht.md"
               }
             }
           }
@@ -159,8 +159,11 @@
   },
   "active": "b085590e8cea2255",
   "lastOpenFiles": [
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 9 Journalistiek en Redactionele vaardigheden.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 10 Journalistiek en Redactionele vaardigheden.md",
+    "Nieuwsbericht.md",
+    "Embedden.md",
+    "Doorleeskaders.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 9 Journalistiek en Redactionele vaardigheden.md",
     "Vakken/Taal en communicatie/Colleges/Werkcollege 9 taal en communicatie.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/New folder/~$htergrondverhaal Congo Kaylee de Jong versie 1.docx",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/New folder/Achtergrondverhaal Congo Kaylee de Jong versie 1.docx",
@@ -193,9 +196,6 @@
     "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 10 Inleiding in de Journalistiek.md",
     "Onderwerpen/Ethisch dilemma.md",
     "Onderwerpen/Normen.md",
-    "Onderwerpen/Waarden.md",
-    "Onderwerpen/Ethiek.md",
-    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 9 Inleiding in de Journalistiek.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/EU_MAP_UnionMembersWhite.png",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/fra06p020_bg_motiv11_visualisierung2012.png",
     "Vakken/Methoden en theorieen van Journalism Studies/Pitch/JournalismPractice_Mockup_trans.png",

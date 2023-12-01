@@ -10,7 +10,7 @@ Dat:
 Het woorden, Het team dat
 
 
-#### Nieuwsbericht 2 opdracht
+#### [[Nieuwsbericht]] 2 opdracht
 (150w)
 Medium: rtl nieuws
 Lichter nieuws, iets ernstiger van toon, taalkeuzes,
@@ -48,6 +48,14 @@ TIJD: begin met voltooid tegenwoordige tijd (de minister **is afgetreden**)
 deze opdracht stukjes toevoegen,
 Afbeeldingen, kaartjes of infokaders
 maar **online** kun je helemaal veel toevoegen!
+
+**[[Doorleeskaders]]**
+- binnen eigen medium doorlinken
+
+[[Embedden]]
+
+Interactieve tijdlijn. voorbeelden in de presentatie
+
 
 
 
