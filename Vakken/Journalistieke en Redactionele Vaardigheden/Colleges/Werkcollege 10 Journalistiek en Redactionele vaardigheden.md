@@ -43,7 +43,7 @@ TIP: begin nooit met plaatsaanduiding (gisteren in Leiden)
 TIJD: begin met voltooid tegenwoordige tijd (de minister **is afgetreden**)
 	daarna uitwerken met onvoltooid verleden tijd (hij **gaf** als verklaring)
 
-
+---
 #### verrijken van artikel
 deze opdracht stukjes toevoegen,
 Afbeeldingen, kaartjes of infokaders
@@ -56,7 +56,71 @@ maar **online** kun je helemaal veel toevoegen!
 
 Interactieve tijdlijn. voorbeelden in de presentatie
 
+Interactieve kaarten
+
+Explainer video
+
+Lijstje (5 tips van sectoren)
+
+Infographic
 
 
+---
+Niet te veel afleidingen in je artikel
 
 
+vak (internetjournalistiek, komt dit aan bod)
+
+---
+
+### Persconferentie
+
+René Pomodhara, woordvoerder Faculteit Rechten Universiteit Leiden
+jfvGROTIUS
+
+Zeer spijtig incident van gisteravond, Martin Bosman 2de man Wilders
+
+Cultuur en Media PVV
+
+Te gast op Uni Leiden
+
+
+SP jongeren, taart in gezicht.
+Lezing belang van grondrechten
+aan faculteit rechtsgeleerdheid, grotius studentenvereninging
+
+Donderdag 30nov iets voor 8u
+Net auditorium betreden toen taart in gezicht.
+
+Auditorium kamerling onnus gebouw, debat georganiseerd door juridisch 
+Modereerd Hoogleeraar door Paul Cliteur.
+
+"in Leiden moet het anders, en anders is de SP"
+Door incident lezing niet doorgegaan.
+
+Maanden voor verkiezingsoverwinning ingeplanned.
+
+René betuigt spijt.
+
+### Vragen uit publiek
+
+Reactie van Martin;
+Enorm geschrokken, deel van taart in gezicht gekregen.
+Meeste in gezicht van beveiliger
+
+
+Hoe is het er aan toe:
+Martin geschrokken, en staat open voor terugkomen op Universiteit Leiden
+"bolwerk van de vrijheid" slogan Leiden
+
+
+Was het een student van Leiden Uni,
+Niet bekend of de jongeren in kwestie een student aan Leiden is.
+Loopt een organisatie, sp jongeren zijn niet aangemeldt. Ook niet zichtbaar als protestgroep.
+
+geen reactie van de SP
+
+Een beveiliger van Universiteit aanwezig, die was bezig met checken van LU kaarten.
+Hij heeft kunnen ontkomen de SP student
+
+Hoe gaat L
