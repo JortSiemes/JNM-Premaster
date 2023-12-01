@@ -22,8 +22,16 @@ Wanneer:
 Waarom:
 Hoe:
 
+Schrijf oprolbaar (laatste alinea kan geknipt worden, dus niks belangrijks)
+maak een vertaalslag:
+- vermijd wollige zinnen
+- vermijd jargon
+
+Kop: 
 ##### Structuur
+Kop (kort en bevat belangrijkste nieuws)
 Lead: twee zinnen, belangrijkste vragen
+Alinea: (geeft achtergornd en context bij de lead, waarom en hoe)
 Eerste zin: bevat het nieuws en niets anders
 	Werkt samen met de kop, maar net iets meer info
 
@@ -32,6 +40,8 @@ Waar & Wanneer & Waarom (dan)
 
 TIP: begin nooit met plaatsaanduiding (gisteren in Leiden)
 
+TIJD: begin met voltooid tegenwoordige tijd (de minister **is afgetreden**)
+	daarna uitwerken met onvoltooid verleden tijd (hij **gaf** als verklaring)
 
 
 
