@@ -123,4 +123,34 @@ geen reactie van de SP
 Een beveiliger van Universiteit aanwezig, die was bezig met checken van LU kaarten.
 Hij heeft kunnen ontkomen de SP student
 
-Hoe gaat L
+Hoe gaat Leiden dit soort dingen voorkomen:
+Ze gaan beveiliging optrekken, LU kaarten actief 
+Niet perse inzetten op strengere beveiliging, maar op social media nauwer in de gaten houden. Bedreigingen aan de Campus van den haag, gekozen om universiteit paar dagen te sluiten.
+
+"Het belang van grondrechten"
+
+Bedoeling dat er nieuwe datum wordt geprikt, door verkiezingen onduidelijk
+
+Universiteit wil alle partijen een stem geven
+
+Standaard beveiliging van Leiden, heer Bosma had 4 beveiligers mee, in overleg dat dat voldoende zou zijn, nergens sprake van dreiging.
+
+Had dit voorkomen kunnen worden, 
+
+Tomatentaart, rode taart van de SP
+
+Nog stappen ondernomen? Geen studentenvereniging van Universiteit, uni leiden kan verder niet ingrijpen? Alleen als ze gerechtelijke stappen nemen, kunnen er reprocussies volgen.
+
+
+---
+
+Opdracht: schrijf een nieuwsbericht
+- denk aan alle onderdelen
+- denk aan je opbouw
+- denk aan je publiek: wat is het nieuws voor breed, landelijk publiek?
+- Denk aan je mogelijkheden van onlinenieuws
+
+Twee suggesties voor verrijking (valt buiten woordlimiet)
+
+Deadline nieuwsbericht; 6dec 9u
+Deadline final versie achtergrondverhaal: 13 dec
