@@ -44,5 +44,11 @@ TIJD: begin met voltooid tegenwoordige tijd (de minister **is afgetreden**)
 	daarna uitwerken met onvoltooid verleden tijd (hij **gaf** als verklaring)
 
 
+#### verrijken van artikel
+deze opdracht stukjes toevoegen,
+Afbeeldingen, kaartjes of infokaders
+maar **online** kun je helemaal veel toevoegen!
+
+
 
 
