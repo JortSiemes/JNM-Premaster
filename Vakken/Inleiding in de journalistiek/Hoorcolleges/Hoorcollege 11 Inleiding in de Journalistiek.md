@@ -23,6 +23,11 @@ Beeldschermjournalistiek
 
 
 Image-management
+- voor sporters is journalistiek als promotie
+	- aandacht
+	- fandom
+	- enthousiasme
+
 
 
 
