@@ -157,11 +157,25 @@ Deadline final versie achtergrondverhaal: 13 dec
 
 ---
 
-Wat: Taart in gezicht gegooid
-Wie: Martin Bosma, woordvoerder cultuur en media, 2de man Wilders 
-Waar: Universiteit Leiden, faculteit rechtsgeleerdheid 
-Wanneer: Donderdag 30nov iets voor 8u
-Waarom: SP jongeren uit protest voor PVV overwinning, Lezing belang van grondrechten
-Hoe: 
+### opbouw
+**Wat:** Taart in gezicht gegooid
+**Wie:** Martin Bosma, woordvoerder cultuur en media, 2de man Wilders 
+**Waar:** Universiteit Leiden, faculteit rechtsgeleerdheid 
+**Wanneer:** Donderdag 30nov iets voor 8u
+**Waarom**: SP jongeren uit protest voor PVV overwinning, Lezing belang van grondrechten
+**Hoe:** Net voor de ingang zaal om lezing te geven over, lezing belang van grondrechten
 
-Kop:
+**Kop:** Martin Bosma PVV krijgt taart in gezicht door SP jongeren aanhanger
+
+**Insteek:**
+
+Martin Bosma kreeg voor zijn 17e jaar in de Tweede Kamer, op een andere manier een taart uitgereikt. Een SP jongeren lid uit protest tegen de zege van de PVV, heeft een taart in zijn gezicht gegooid. 
+
+**Alinea:**  
+
+
+
+
+**Staart:**
+Laatste tijd zijn er steeds meer gevallen van politici die aangevallen worden door protestanten, zie Thierry paraplu, 
+"tweet als citaat"
