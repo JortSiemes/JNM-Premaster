@@ -13,5 +13,8 @@ Commercie:
 - sporters zijn handelswaar
 	- verhuren aan merken (adidas marketing)
 - sportjournalistiek is handelswaar
+	- AD sportkrant: SportwereldPro
+
+
 
 
