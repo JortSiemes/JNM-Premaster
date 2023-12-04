@@ -28,6 +28,12 @@ Image-management
 	- fandom
 	- enthousiasme
 
+- journalistiek als bedreiging
+	- wangedrag
+	- doping
+	- rellen
+	- kritiek
+
 
 
 
