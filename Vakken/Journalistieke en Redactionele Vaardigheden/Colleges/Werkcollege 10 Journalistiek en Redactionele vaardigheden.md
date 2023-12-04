@@ -144,7 +144,7 @@ Nog stappen ondernomen? Geen studentenvereniging van Universiteit, uni leiden ka
 
 ---
 
-Opdracht: schrijf een nieuwsbericht
+Opdracht: schrijf een [[nieuwsbericht]]
 - denk aan alle onderdelen
 - denk aan je opbouw
 - denk aan je publiek: wat is het nieuws voor breed, landelijk publiek?
@@ -152,7 +152,7 @@ Opdracht: schrijf een nieuwsbericht
 
 Twee suggesties voor verrijking (valt buiten woordlimiet)
 
-Deadline nieuwsbericht; 6dec 9u
+Deadline [[nieuwsbericht]]; 6dec 9u
 Deadline final versie achtergrondverhaal: 13 dec
 
 ---
