@@ -36,3 +36,16 @@ Tijd is ruimte
 
 [[Conceptuele metafoor]] = anders dan een letterlijke [[metafoor]]
 mensen gaan hierdoor de werkelijkheid echt anders zien.
+
+[[Conceptuele metafoor]] heeft de vorm X = Y
+X = het [[doeldomein]]
+Y = het [[brondomein]]
+
+### Critical Discourse Analysis
+tijdens het conceptualiseren, dan presenteer je een specifiek beeld op de werkelijkheid.
+Tijdens CDA ga je dit losbrengen en deze "views of reality", CDA focuses on the way inequality is presented in language.
+
+Taalgeb
+
+
+

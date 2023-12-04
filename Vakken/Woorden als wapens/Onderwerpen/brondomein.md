@@ -1,3 +1,5 @@
+Je bent hier bekend mee en kan het daarom goed gebruiken
+het brondomein leent zn bekende eigenschappen aan het [[doeldomein]]
 
 Dit hoort onder de [[Conceptuele metafoor]]
 
