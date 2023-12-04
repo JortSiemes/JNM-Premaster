@@ -50,3 +50,9 @@ Hybride sportjounalistiek
 al sinds begin 2010, computer programmas die journalistieke teksten schrijven.
 
 op basis van statistiek heel makkelijk om artikel te maken
+
+
+
+- uitleggen wat de relatie is tussen journalistiek, commercie en sport
+- uitleggen wat hybride sportjournalistiek is en welke vormen daarvan bestaan
+- uitleggen hoe robotjournalistiek werkt
