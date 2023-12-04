@@ -10,7 +10,7 @@ Dat:
 Het woorden, Het team dat
 
 
-#### [[Nieuwsbericht]] 2 opdracht
+#### [[Onderwerpen/Nieuwsbericht]] 2 opdracht
 (150w)
 Medium: rtl nieuws
 Lichter nieuws, iets ernstiger van toon, taalkeuzes,
