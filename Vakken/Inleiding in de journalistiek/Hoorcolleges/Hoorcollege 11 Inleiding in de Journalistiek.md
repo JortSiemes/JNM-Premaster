@@ -15,6 +15,16 @@ Commercie:
 - sportjournalistiek is handelswaar
 	- AD sportkrant: SportwereldPro
 
+Sport steeds meer live
+
+Beeldschermjournalistiek
+- verslag achter een beeldscherm, naar wedstrijden word niet gedaan. verslaggevers zitten achter een beeldscherm in een klein kamertje.
+- In hilversum doen verslaggevers nu vooral verslag sinds pandemie
+
+
+Image-management
+
+
 
 
 
