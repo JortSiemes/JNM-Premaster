@@ -38,3 +38,7 @@ Rol Journalist
 Journalist is fan van de sporters   V
 "going native", teveel verbonden met je onderwerp
 
+Hybride sportjounalistiek
+- contact met belangrijke speler heb je toestemming nodig, je moet onderhandelen met zaakwaarnemer & manager
+- autorisatie, journalistieke productie geeft inzage aan ander voordat je mag publiceren.
+- Chequebook journalism: betalen om iemand te mogen interviewen
