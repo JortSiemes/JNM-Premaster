@@ -34,8 +34,7 @@ Image-management
 	- rellen
 	- kritiek
 
-
-
-
-
+Rol Journalist
+Journalist is fan van de sporters   V
+"going native", teveel verbonden met je onderwerp
 
