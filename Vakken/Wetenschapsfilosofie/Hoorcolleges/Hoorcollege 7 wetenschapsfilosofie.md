@@ -57,12 +57,18 @@ De publish or perish-cultuur heeft positieve en negatieve aspecten
 
 #### Wetenschappelijke zones
 - bedenken van onderzoeksresultaten
-- plagiaat
+- [[plagiaat]]
 - je eigen onderzoek of prestaties beter laten lijken dan ze eigenlijk zijn.
 - Slinkse trucs gebruiken om concurrenten te snel af te zijn
 
 [[plagiaat]]
 
+
+Het gedrag van fraudeurs valt te verklaren wanneer we kijken naar de **beloningsstructuur** van de wetenschap.
+
+Het gedrag van fraudeurs valt ook beter te begrijpen wanneer we de **continuïteit** van goede wetenschap en frauduleuze wetenschap zien.
+
+Er zit niet per se een diepe kloof tussen; het is een glijdende schaal
 
 
 

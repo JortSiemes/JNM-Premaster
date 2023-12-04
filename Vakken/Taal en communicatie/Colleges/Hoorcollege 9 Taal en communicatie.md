@@ -47,7 +47,7 @@ TRP: transition relevance place (vraagteken = de TRP)
 
 (hierin selecteert andere spreker de TRP, je nomineert de andere spreker)
 
-
+na een PRO, is er mogelijkheid tot verandering beurt
 ### Beurttoewijzing (rondom PRO)
 1. **[[Anderselectie]]**, nieuwe spreker 'aangewezen' (nominated speaker)
 2. **[[Zelfselectie]],** Als niet 1, dan Zelfselectie door nieuwe spreker
