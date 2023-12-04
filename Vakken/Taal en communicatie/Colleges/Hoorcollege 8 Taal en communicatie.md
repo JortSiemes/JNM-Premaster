@@ -19,10 +19,10 @@ gezicht kan aangevallen worden
 - an accusation > threatens het positieve gezicht (van luisteraar)
 - an directive > threatens het negatieve gezicht (van luisteraar)
 
-[[positive politeness]] > positieve beleefdheid
+[[positive politeness]] > [[positieve beleefdheid]]
 - enhances het positieve gezicht
 
-[[Negative politeness]] > negatieve beleefdheid
+[[Negative politeness]] > [[negatieve beleefdheid]]
 - enhances het [[negatief gezicht]]
 
 
@@ -30,10 +30,10 @@ Face threatening act
 Gezichtsbedreigende [[taalhandelingen]] hebben een gewicht
 
 5 strategieën:
-1. without redressive action (baldly)
+1. without redressive action ([[baldly]])
 2. [[positive politeness]]
 3. [[negative politeness]]
-4. Off record
+4. [[Off record]]
 5. don't do the FTA
 
 
@@ -74,4 +74,4 @@ mensen hebben behoefte aan een positief of [[negatief gezicht]]. Je kan een posi
 
 Door [[taalhandeling]] kan je positieve of negatieve gezicht bedreigen.
 
-je kan dit verzachten met positieve beleefdheid,
+je kan dit verzachten met [[positieve beleefdheid]],

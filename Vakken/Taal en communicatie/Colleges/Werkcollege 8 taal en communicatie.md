@@ -79,7 +79,7 @@ links: [[negatieve beleefdheid]]
 
 opdracht 4
 
-compliment is een: positieve beleefdheid strategie
+compliment is een: [[positieve beleefdheid]] strategie
 volgens culpeper kunnen complimenten een vorm van negatieve onbeleefdheid
 
 

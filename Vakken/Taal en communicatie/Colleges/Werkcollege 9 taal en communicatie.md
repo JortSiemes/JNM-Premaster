@@ -26,17 +26,17 @@ B = basis, paardeel 2 (paar 1)
 
 
 #### Opdracht 2
-1. 2 beurten:  regel 13, zelfselectie. anderselectie, ^he geeft aan, anderselectie gebeurt op regel 15. 
+1. 2 beurten:  regel 13, [[zelfselectie]]. [[anderselectie]], ^he geeft aan, [[anderselectie]] gebeurt op regel 15. 
 2. ![[Pasted image 20231129144241.png]]
-127 = zelfselectie (begint met praten)
+127 = [[zelfselectie]] (begint met praten)
 128 = 0,8: pro
-129 = anderselectie
+129 = [[anderselectie]]
 130 = "=" pro
-131 = beurtbehoud (iemand gaat door met praten)
+131 = [[beurtbehoud]] (iemand gaat door met praten)
 132 = "=" pro
-133 = beurtbehoud (iemand gaat door met praten)
+133 = [[beurtbehoud]] (iemand gaat door met praten)
 134 = 0,8: pro
-135 = zelfselectie (iemand begint met praten is niet verwezen)
+135 = [[zelfselectie]] (iemand begint met praten is niet verwezen)
 
 #### Opdracht 3
 A = maar wel een mooi land? (geprefereerde antwoord = Ja mooi)

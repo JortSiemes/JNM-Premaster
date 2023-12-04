@@ -50,8 +50,8 @@ TRP: transition relevance place (vraagteken = de TRP)
 na een PRO, is er mogelijkheid tot verandering beurt
 ### Beurttoewijzing (rondom PRO)
 1. **[[Anderselectie]]**, nieuwe spreker 'aangewezen' (nominated speaker)
-2. **[[Zelfselectie]],** Als niet 1, dan Zelfselectie door nieuwe spreker
-3. **[[Beurtbehoud]]**, Als niet 1 of 2, dan kan huidige spreker doorpraten (beurtbehoud)
+2. **[[Zelfselectie]],** Als niet 1, dan [[Zelfselectie]] door nieuwe spreker
+3. **[[Beurtbehoud]]**, Als niet 1 of 2, dan kan huidige spreker doorpraten ([[beurtbehoud]])
 
 Sequentiele organisatie
 1e Paardeel
