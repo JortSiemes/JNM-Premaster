@@ -19,13 +19,16 @@ Martin Bosma kreeg 30 november voor zijn 17e jaar in de Tweede Kamer, op een and
 Martin Bosma van de PVV heeft een taart in zijn gezicht gegooid gekregen laat René Pomodhara, woordvoerder Faculteit Rechten Universiteit Leiden weten.
 
 **Taartgooier weggekomen**
-
+Was het een student van Leiden Uni,
+Niet bekend of de jongeren in kwestie een student aan Leiden is.
+Loopt een organisatie, sp jongeren zijn niet aangemeldt. Ook niet zichtbaar als protestgroep.
 
 
 **Universiteit Leiden Reageert: 'onacceptabel'**
 Staan open voor opnieuw martin uit te nodigen
-
-
+H]]oe gaat Leiden dit soort dingen voorkomen:
+Ze gaan beveiliging optrekken, LU kaarten actief 
+Niet perse inzetten op strengere beveiliging, maar op social media nauwer in de gaten houden. Bedreigingen aan de Campus van den haag, gekozen om universiteit paar dagen te sluiten. Nog stappen ondernomen? Geen studentenvereniging van Universiteit, uni leiden kan verder niet ingrijpen? Alleen als ze gerechtelijke stappen nemen, kunnen er reprocussies volgen.
 
 
 
