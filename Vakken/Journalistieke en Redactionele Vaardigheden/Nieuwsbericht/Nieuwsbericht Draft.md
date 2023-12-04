@@ -25,8 +25,15 @@ Laatste tijd zijn er steeds meer gevallen van politici die aangevallen worden do
 
 Suggestie verrijking:
 - scrollbare tijdlijn met nog meer aanvallen op politici, een interactieve tijdlijn waarin dit het meest recente aanvallen.
+Wat het concept is: Je heb onder de titel een tijdlijn staan van de huidige verkiezingperiode, met aanklikbare highlights van verschillende bedrijgingen en aanvallen op politieke figuren.
+Zie thierry paraplu, fakkels bij Kaag, enzv.
+Wanneer je dit aanklikt krijg je een stukje te lezen over elke bedrijging, ik denk dat dit een leuke interactieve manier is om voor de lezer ook een goed beeld te krijgen van wat er aan de hand is. 
+Tekening:
+
 
 - Omdat het onderwerp van dit artikel ook erg taartgerelateerd is, leek het me leuk om een interactief taartdiagram te maken. die tijdens het scrollen verschillende verdelingen laat zien. bijvoorbeeld statistieken over bedreigingen en aanvallen per partij.
+Wat het concept is: je hebt een normaal artikel met een taart rechts die vaststaat. Tijdens het scrollen van het artikel word de taal opgedeeld in stukken die in de tekst staan. Ik denk dat dit een leuke manier is om het artikel visueel te ondersteunen.
+Tekening:
 
 
 
