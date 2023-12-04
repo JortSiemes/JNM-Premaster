@@ -13,12 +13,13 @@ Taartgooier
 Lead:
 Martin Bosma kreeg 30 november voor zijn 17e jaar in de Tweede Kamer, op een andere manier een taart uitgereikt. Een SP jongeren lid uit protest tegen de zege van de PVV, heeft een taart in zijn gezicht gegooid. 
   
-Op 30 november, ter gelegenheid van zijn 17e jaar in de Tweede Kamer, kreeg Martin Bosma op een ongewone wijze een taart aangeboden. Een lid van de SP-jongeren, uit protest tegen de successen van de PVV, besloot een taart in zijn gezicht te gooien.
+
 
 **Alinea:**  
 Martin Bosma van de PVV heeft een taart in zijn gezicht gegooid gekregen laat René Pomodhara, woordvoerder Faculteit Rechten Universiteit Leiden weten.
 
-**Taartgooier ontsnapt**
+**Taartgooier weggekomen**
+
 
 
 **Universiteit Leiden Reageert: 'onacceptabel'**
