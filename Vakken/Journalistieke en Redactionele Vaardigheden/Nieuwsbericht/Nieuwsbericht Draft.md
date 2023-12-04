@@ -8,14 +8,18 @@ Taartgooier
 **Waarom**: SP jongeren uit protest voor PVV overwinning, Lezing belang van grondrechten
 **Hoe:** Net voor de ingang zaal om lezing te geven over, lezing belang van grondrechten
 
-**Kop:** Martin Bosma PVV krijgt taart in gezicht door SP jongeren aanhanger
+**Kop:** PVV-politicus Martin Bosma verrast door taartaanval
 
-**Insteek:**
-
-Martin Bosma kreeg voor zijn 17e jaar in de Tweede Kamer, op een andere manier een taart uitgereikt. Een SP jongeren lid uit protest tegen de zege van de PVV, heeft een taart in zijn gezicht gegooid. 
+Lead:
+Martin Bosma kreeg 30 november voor zijn 17e jaar in de Tweede Kamer, op een andere manier een taart uitgereikt. Een SP jongeren lid uit protest tegen de zege van de PVV, heeft een taart in zijn gezicht gegooid. 
+  
+Op 30 november, ter gelegenheid van zijn 17e jaar in de Tweede Kamer, kreeg Martin Bosma op een ongewone wijze een taart aangeboden. Een lid van de SP-jongeren, uit protest tegen de successen van de PVV, besloot een taart in zijn gezicht te gooien.
 
 **Alinea:**  
 Martin Bosma van de PVV heeft een taart in zijn gezicht gegooid gekregen laat René Pomodhara, woordvoerder Faculteit Rechten Universiteit Leiden weten.
+
+**Taartgooier ontsnapt**
+
 
 **Universiteit Leiden Reageert: 'onacceptabel'**
 Staan open voor opnieuw martin uit te nodigen
