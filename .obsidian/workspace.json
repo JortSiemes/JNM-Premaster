@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "a250d5935e3201e5",
+    "id": "74140995e7ee8812",
     "type": "split",
     "children": [
       {
-        "id": "1a6a336a2b6a2838",
+        "id": "71ffd11363546cba",
         "type": "tabs",
         "children": [
           {
-            "id": "0dd78f050a28c139",
+            "id": "b085590e8cea2255",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "0cbe6a1397b31863",
+            "id": "8d2839f317a2153e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,21 +32,22 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2a044feed773dfe9",
+    "id": "15669e7e105c7be8",
     "type": "split",
     "children": [
       {
-        "id": "a454a4df9ac24c95",
+        "id": "563e23d44199766b",
         "type": "tabs",
         "children": [
           {
-            "id": "3e47c4bbd83caeac",
+            "id": "d1600001feb785ff",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +57,7 @@
             }
           },
           {
-            "id": "b8c96e702c84225e",
+            "id": "04ea66dd4c102027",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +72,7 @@
             }
           },
           {
-            "id": "6ee4aa06361dc858",
+            "id": "93fc385e08f86483",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,18 +83,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 363.5
   },
   "right": {
-    "id": "27dd7627a1e04486",
+    "id": "7859014a86b170ac",
     "type": "split",
     "children": [
       {
-        "id": "94791e8497c47d54",
+        "id": "99db599b1727e4e3",
         "type": "tabs",
         "children": [
           {
-            "id": "59664fb919054f26",
+            "id": "0814e8448907efcd",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -101,12 +102,12 @@
             }
           },
           {
-            "id": "1c3f42c4c6f1c3cb",
+            "id": "7b464230e7192d40",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Nieuwsbericht/Nieuwsbericht Draft.md",
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 10 Journalistiek en Redactionele vaardigheden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,19 +119,19 @@
             }
           },
           {
-            "id": "89d2d18b1f645e29",
+            "id": "529bfa46d73bb647",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Nieuwsbericht/Nieuwsbericht Draft.md",
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 10 Journalistiek en Redactionele vaardigheden.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "75c482093a04c969",
+            "id": "ec6f786f046e3111",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -141,21 +142,21 @@
             }
           },
           {
-            "id": "ef01e53e7a7bc2ea",
+            "id": "82793ef6cf4a5db3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Nieuwsbericht/Nieuwsbericht Draft.md"
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 10 Journalistiek en Redactionele vaardigheden.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,35 +169,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0dd78f050a28c139",
+  "active": "8d2839f317a2153e",
   "lastOpenFiles": [
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Nieuwsbericht/~WRL0973.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Nieuwsbericht/~WRD0969.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Nieuwsbericht/~WRL3476.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Nieuwsbericht/~WRD3472.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Nieuwsbericht/~WRL0903.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Nieuwsbericht/~WRD0903.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Nieuwsbericht/~WRL0751.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Nieuwsbericht/~WRD0751.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Nieuwsbericht/~WRL4001.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Nieuwsbericht/~WRD3985.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Nieuwsbericht/~WRL2454.tmp",
+    "Vakken/Woorden als wapens/Weekopdrachten/Week 11/Weekopdracht 11.docx",
+    "Vakken/Woorden als wapens/Weekopdrachten/Week 11/Screenshot3_controversieel.png",
+    "Vakken/Woorden als wapens/Weekopdrachten/Week 11/Screenshot2.png",
+    "Vakken/Woorden als wapens/Weekopdrachten/Week 11/Screenshot1.png",
+    "Vakken/Woorden als wapens/Weekopdrachten/Week 11/Conversation1.webp",
+    "Vakken/Woorden als wapens/Weekopdrachten/Week 11/Book1.xlsx",
+    "Vakken/Woorden als wapens/Weekopdrachten/Week 11",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Nieuwsbericht/~WRL3122.tmp",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Nieuwsbericht/~$euwsbericht_V1.docx",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Nieuwsbericht/leiden_law_school_cover.jpeg",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 10 Journalistiek en Redactionele vaardigheden.md",
-    "Onderwerpen/Nieuwsbericht.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Nieuwsbericht/Nieuwsbericht_V1.docx",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Nieuwsbericht/Nieuwsbericht Draft.md",
-    "conflict-files-obsidian-git.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 10 Journalistiek en Redactionele vaardigheden.md",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 11 Inleiding in de Journalistiek.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Nieuwsbericht",
     "Robotjournalistiek.md",
-    "Onderwerpen/plagiaat.md",
-    "Onderwerpen/Zelfselectie.md",
-    "Onderwerpen/Robert Merton.md",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/College 7 Journalistieke objectiviteit.pdf",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 10 Inleiding in de Journalistiek.md",
+    "Vakken/Taal en communicatie/Colleges/Hoorcollege 6 Taal en communicatie.md",
+    "Vakken/Taal en communicatie/Colleges/Hoorcollege 7 Taal en communicatie.md",
+    "Vakken/Taal en communicatie/Colleges/Hoorcollege 8 Taal en communicatie.md",
+    "Vakken/Taal en communicatie/Colleges/Hoorcollege 9 Taal en communicatie.md",
+    "Vakken/Taal en communicatie/Colleges/Werkcollege 4 taal en communicatie.md",
+    "Vakken/Taal en communicatie/Colleges/Werkcollege 6 taal en communicatie.md",
+    "Vakken/Taal en communicatie/Colleges/Werkcollege 7 taal en communicatie.md",
+    "Vakken/Taal en communicatie/Colleges/Werkcollege 8 taal en communicatie.md",
+    "Vakken/Taal en communicatie/Colleges/Werkcollege 9 taal en communicatie.md",
+    "Vakken/Taal en communicatie/Colleges/Hoorcollege 10 Taal en communicatie.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/crisis.md",
+    "Onderwerpen/Anderselectie.md",
+    "Beelden/Pasted image 20231129144241.png",
+    "Onderwerpen/Critical Discourse Analysis.md",
+    "Vakken/Woorden als wapens/Onderwerpen/brondomein.md",
+    "Vakken/Woorden als wapens/Onderwerpen/Conceptuele metafoor.md",
+    "Onderwerpen/Construal.md",
+    "Onderwerpen/Conceptualization.md",
+    "Vakken/Woorden als wapens/Literatuur/16cf36649a172da56658845db55ca5a0.pdf",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/New folder/Achtergrondverhaal Congo Kaylee de Jong versie1_FeedbackJort.docx",
+    "Vakken/Inleiding in de journalistiek/Factcheck Opdracht/Vergelijking.png",
+    "Vakken/Inleiding in de journalistiek/Factcheck Opdracht/Reactor size comparison.psd",
+    "Onderwerpen/Nieuwsbericht.md",
     "Onderwerpen/Embedden.md",
     "Onderwerpen/Doorleeskaders.md",
-    "Onderwerpen/Critical Discourse Analysis.md",
-    "Onderwerpen/Conceptualization.md",
-    "Onderwerpen/CUDOS.md",
-    "Onderwerpen/Beurtbehoud.md",
-    "Onderwerpen/Anderselectie.md",
-    "Beelden/Pasted image 20231129144241.png"
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/EU_MAP_UnionMembersWhite.png",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/fra06p020_bg_motiv11_visualisierung2012.png",
+    "Vakken/Methoden en theorieen van Journalism Studies/Pitch/JournalismPractice_Mockup_trans.png"
   ]
 }
