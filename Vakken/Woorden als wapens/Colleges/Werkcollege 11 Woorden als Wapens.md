@@ -26,18 +26,18 @@ een van de factoren die bijdraagt aan succesvolle webcare is de toon die organis
 
 [[linguïstische kenmerken]]
 
-
+----
 
 Doel is begrijpen: effecten van formuleringskeuzes
 - betekenis is meer dan beschrijving van de werkelijkheid: geeft ook altijd een subjecteif perspectief op de werkelijkheid.
 - Dus: stilistische varianten zijn niet betekenisloos; ze geven verschillende *construals* van hetzelfde verschijnsel in de werkelijkheid.
-- In deze opvatting moet 'stijl als versiering' worden verworpen.
+- In deze opvatting moet '[[stijl]] als versiering' worden verworpen.
 - behandelde forumelingskeuzes en stijlmiddelen
-	- framing
+	- [[framing]]
 	- metaforen
 	- perspectief
 	- taalintensiteit
-	- lijdende vorm
+	- [[lijdende vorm]]
 	- naamwoordenstijl
 
 
@@ -50,7 +50,6 @@ Tentamen:
 Tentamen (4 jan)
 
 
-
 Twee soorten vragen: kennisvragen over de inhoud van artikelen & collegestof, en toepassingsvragen
 - voorbeelden van kennisvragen op de volgende slides (NB: de vragen gaan over artikelen die dit niet jaar op de leeslijst stonden, dus je kunt deze niet vragen beantwoorden, maar ze geven wel een beeld van het soort kennisvragen)
 	- voorbeeld vraag:
@@ -60,6 +59,9 @@ Twee soorten vragen: kennisvragen over de inhoud van artikelen & collegestof, en
 
 Voor leren: lees alle artikelen nog een x
 - bijv, drie frames Joris. a (2013)
+
+
+
 
 
 
