@@ -17,19 +17,23 @@ een van de factoren die bijdraagt aan succesvolle webcare is de toon die organis
 - in welke mate zijn de uit de theorie onderscheiden conversationele linguistische elementen gemeengoed in webcare-gesprekken **van nederlandse gemeenten**
 - in hoeverre verschillen Nederlandse gemeenten **onderling** in hun inzet van conversationele linguïstische elementen in webcare-gesprekken. 
 
+#### Kernbegrippen
 [[personalisatie]]
-
-
 
 [[informele taal]]
 
-
-
 [[uitnodigende retoriek]]
 
-
-
 [[linguïstische kenmerken]]
+
+
+
+Doel is begrijpen: effecten van formuleringskeuzes
+
+
+
+
+
 
 
 
