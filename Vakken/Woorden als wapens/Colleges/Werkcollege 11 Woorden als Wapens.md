@@ -20,7 +20,13 @@ een van de factoren die bijdraagt aan succesvolle webcare is de toon die organis
 [[personalisatie]]
 
 
+
 [[informele taal]]
+
+
+
+[[uitnodigende retoriek]]
+
 
 
 [[linguïstische kenmerken]]
