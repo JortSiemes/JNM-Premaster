@@ -23,3 +23,7 @@ Virus = vijand
 
 **critical metaphor analysis:**
 [[Conceptuele metafoor]] = niet altijd harmless, misschien verdraaien ze de realiteit of representeren iets wat niet klopt. Je creëert eigenlijk een nieuwe werkelijkheid.
+
+CDA concentreert zich op:
+- machtsongelijkheid
+- in taal
