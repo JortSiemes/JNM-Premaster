@@ -19,6 +19,20 @@ CDA concentreert zich op:
 
 
 Stapje voor stapje uitwerken:
-1. hide-and-seek is metafoor, slipped out the back door to refuge
+1. hide-and-seek is [[metafoor]], slipped out the back door to refuge
 	Oorlog = spel & land = huis
-2. 
+2. oorlog, [[doeldomein]] = sport, [[brondomein]]
+3. machine = levend wezen
+
+
+
+Geef de [[metafoor]]:
+1. beschrijf [[metafoor]]
+2. noem [[brondomein]] & [[doeldomein]]
+3. ??*en ideologische gedachte*
+
+
+Taal en ideologie:
+- (werk)woorden met een bepaalde associatie
+- grammaticale structuren (agens/patiens)
+
