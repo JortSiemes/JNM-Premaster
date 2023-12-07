@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3f7af92def123a6d",
+        "id": "4b02f4923d09107a",
         "type": "tabs",
         "children": [
           {
-            "id": "0633101ed5bc31e5",
+            "id": "939321408ae5f049",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Taal en communicatie/Colleges/Werkcollege 10 taal en communicatie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3bf9fe03a244983",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Taal en communicatie/Opdrachten/Opdracht week 13 - Taal en Communicatie.md",
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/interview raoul.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -83,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 632.5
   },
   "right": {
     "id": "7859014a86b170ac",
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Taal en communicatie/Opdrachten/Opdracht week 13 - Taal en Communicatie.md",
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/interview raoul.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Taal en communicatie/Opdrachten/Opdracht week 13 - Taal en Communicatie.md",
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/interview raoul.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Taal en communicatie/Opdrachten/Opdracht week 13 - Taal en Communicatie.md"
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/interview raoul.md"
               }
             }
           }
@@ -169,8 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3bf9fe03a244983",
+  "active": "939321408ae5f049",
   "lastOpenFiles": [
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/interview raoul.md",
+    "Untitled.md",
     "Vakken/Taal en communicatie/Colleges/Werkcollege 10 taal en communicatie.md",
     "Vakken/Taal en communicatie/Opdrachten/Opdracht week 13 - Taal en Communicatie.md",
     "Onderwerpen/Critical Discourse Analysis.md",
@@ -210,8 +199,6 @@
     "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 10 Inleiding in de Journalistiek.md",
     "Vakken/Taal en communicatie/Colleges/Hoorcollege 6 Taal en communicatie.md",
     "Vakken/Taal en communicatie/Colleges/Hoorcollege 7 Taal en communicatie.md",
-    "Vakken/Taal en communicatie/Colleges/Hoorcollege 8 Taal en communicatie.md",
-    "Vakken/Taal en communicatie/Colleges/Hoorcollege 9 Taal en communicatie.md",
     "Beelden/Pasted image 20231129144241.png",
     "Vakken/Inleiding in de journalistiek/Factcheck Opdracht/Vergelijking.png",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/EU_MAP_UnionMembersWhite.png",
