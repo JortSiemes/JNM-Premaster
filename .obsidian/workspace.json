@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d7e64df6cf11d85f",
+        "id": "d150417f97417475",
         "type": "tabs",
         "children": [
           {
-            "id": "e47ae39324c28d63",
+            "id": "7200a362ea4de1b5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/Achtergrondartikel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71c27cd656c58197",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ]
@@ -147,6 +168,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e47ae39324c28d63",
-  "lastOpenFiles": []
+  "active": "71c27cd656c58197",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/Achtergrondartikel.md",
+    "Vakken/Woorden als wapens/Colleges/Werkcollege 11 Woorden als Wapens.md",
+    "Vakken/Taal en communicatie/Opdrachten/Opdracht week 13 - Taal en Communicatie.md",
+    "Vakken/Taal en communicatie/Colleges/Werkcollege 10 taal en communicatie.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Nieuwsbericht/Voorstel2.png",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Nieuwsbericht/Voorstel1.png",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Nieuwsbericht/Nieuwsbericht_V1 input I.docx",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Nieuwsbericht/Nieuwsbericht2_104_JortSiemes_s4028198.pdf",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Nieuwsbericht/Nieuwsbericht2_104_JortSiemes_s4028198.docx",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Nieuwsbericht/Nieuwsbericht2JortSiemes.docx",
+    "Onderwerpen/uitnodigende retoriek.md",
+    "Onderwerpen/personalisatie.md",
+    "Onderwerpen/linguïstische kenmerken.md",
+    "Onderwerpen/informele taal.md",
+    "Onderwerpen/Robotjournalistiek.md",
+    "Onderwerpen/Conversational human voice.md"
+  ]
 }
