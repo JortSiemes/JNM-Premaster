@@ -24,8 +24,6 @@ Stapje voor stapje uitwerken:
 2. oorlog, [[doeldomein]] = sport, [[brondomein]]
 3. machine = levend wezen
 
-
-
 Geef de [[metafoor]]:
 1. beschrijf [[metafoor]]
 2. noem [[brondomein]] & [[doeldomein]]
@@ -35,4 +33,6 @@ Geef de [[metafoor]]:
 Taal en ideologie:
 - (werk)woorden met een bepaalde associatie
 - grammaticale structuren (agens/patiens)
+
+
 
