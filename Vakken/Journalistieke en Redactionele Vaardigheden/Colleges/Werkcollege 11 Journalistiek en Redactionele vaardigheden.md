@@ -20,11 +20,20 @@ een officiële
 **naam achternaam** functie
 
 
-
 #### tussenkopjes
 lidwoorden vermijden zo veel mogelijk
 Max (3w)
 
+
+Voeg sprekend onderschrift aan afbeelding toe
++bronvermelding
+geen figuur 1:!!!, en graag bron: ANP
+
+
+
+stijltip:
+Film: *cursief*
+Liedjes: 'aanhalingstekens'
 
 
 
