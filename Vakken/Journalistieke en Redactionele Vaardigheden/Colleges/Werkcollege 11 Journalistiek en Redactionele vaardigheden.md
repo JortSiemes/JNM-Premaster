@@ -12,5 +12,21 @@ Lead, kop & slot samenwerken
 een primaire
 een officiële
 
+"bruggetjes bouwen"
+
+#### uitgelicht citaat toevoegen
+
+"quote............................................."
+**naam achternaam** functie
+
+
+
+#### tussenkopjes
+lidwoorden vermijden zo veel mogelijk
+Max (3w)
+
+
+
+
 
 
