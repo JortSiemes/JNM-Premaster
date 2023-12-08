@@ -8,4 +8,7 @@ Lead, kop & slot samenwerken
 
 ##### quote als basisuitspraak??
 
+#### Bronnen
+een primaire
+een officiële
 
