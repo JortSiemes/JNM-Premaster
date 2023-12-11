@@ -1,7 +1,7 @@
 ## Grice
 - [ ] Betekenis/bedoeling
 - [ ] wat gezegd wordt, wat bedoeld wordt ([[waarheidsconditioneel]])
-- [ ] Coöperatieprincipe, samenwerkingsbeginsel
+- [ ] [[Coöperatieprincipe]], samenwerkingsbeginsel
 - [ ] 4 maximes
 - [ ] in acht nemen, heimelijk schenden/overtreden, openlijk overtreden, terugtrekken
 - [ ] hoe kun je implicaturen afleiden met behulp van maximes
@@ -13,7 +13,7 @@
 - [ ] [[R-implicaturen]]
 - [ ] Relevantie-theorie
 - [ ] Relevantie-principe
-- [ ] Explicatuur-[[implicatuur]]
+- [ ] [[Explicatuur]]-[[implicatuur]]
 - [ ] Relevantietheorie versus Grice/Neo-Griceanen
 NIET 3.1.2 en 3.1.3
 

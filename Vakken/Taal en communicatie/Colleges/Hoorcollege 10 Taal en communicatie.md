@@ -10,12 +10,12 @@ Taal refereert naar werkelijkheid
 
 
 #### [[Conceptualization]]:
-[[Semantiek]] van een uiting = is iets anders dan iets waar een zin naar verwijst
+[[Vakken/Taal en communicatie/Onderwerpen/Semantiek]] van een uiting = is iets anders dan iets waar een zin naar verwijst
 Cognitive semantics: language tells us how we view reality
 
 Jan leest het boek - jan heeft een boek gelezen
 zelfde waarheidsconditionele betekenis
-maar cognitieve [[semantiek]]/[[Conceptualization]]: is wel anders
+maar cognitieve [[Vakken/Taal en communicatie/Onderwerpen/Semantiek]]/[[Conceptualization]]: is wel anders
 
 ### [[Construal]]
 vrij prominente term, manier waarop je de werkelijkheid construeert.

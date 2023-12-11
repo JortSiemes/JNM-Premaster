@@ -7,7 +7,7 @@ De betekenis van een zin = de voorwaarden waaronder die zin waar is in 'de werel
 Is de bedoelde betekenis waarheidsconditioneel?
 (verwijst het naar iets in de werkelijkheid)
 
-Ja: Het is deel van What is said ([[semantiek]])
+Ja: Het is deel van What is said ([[Vakken/Taal en communicatie/Onderwerpen/Semantiek]])
 
 Nee: Het is een [[implicatuur]]. 
 Kun je die annuleren?
