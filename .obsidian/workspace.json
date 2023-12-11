@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4b02f4923d09107a",
+        "id": "6842b0507fc6efec",
         "type": "tabs",
         "children": [
           {
-            "id": "939321408ae5f049",
+            "id": "c457cd2ccaa66ddf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf"
+                "file": "Vakken/Taal en communicatie/Colleges/Hoorcollege 6 Taal en communicatie.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf",
+                "file": "Vakken/Taal en communicatie/Colleges/Hoorcollege 6 Taal en communicatie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf",
+                "file": "Vakken/Taal en communicatie/Colleges/Hoorcollege 6 Taal en communicatie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf"
+                "file": "Vakken/Taal en communicatie/Colleges/Hoorcollege 6 Taal en communicatie.md"
               }
             }
           }
@@ -154,10 +156,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "939321408ae5f049",
+  "active": "c457cd2ccaa66ddf",
   "lastOpenFiles": [
-    "Vakken/Wetenschapsfilosofie/Reader notities Wetenschapsfilosofie.md",
+    "Vakken/Taal en communicatie/Colleges/Hoorcollege 7 Taal en communicatie.md",
+    "Vakken/Taal en communicatie/Tentamens/Tentamen 4 nov.md",
+    "Vakken/Taal en communicatie/Tentamens/Vragen voor 30-10.md",
+    "Vakken/Taal en communicatie/Tentamens/Wat extra hulp om Grice te begrijpen - Copy.pdf",
+    "Vakken/Taal en communicatie/Birner H6.md",
+    "Vakken/Taal en communicatie/book_by_birner_betty_j_introduction_to_pragmatics-.pdf",
+    "Vakken/Taal en communicatie/COLLECTIE FILE Taal en communicatie.md",
+    "Vakken/Taal en communicatie/Deeltoets 3 NOV.md",
+    "Vakken/Taal en communicatie/Extra opdrachten Horn Relevance.md",
+    "Vakken/Taal en communicatie/Notities H6 Birner.md",
+    "Vakken/Taal en communicatie/Tentamenstof.jpeg",
+    "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
+    "Vakken/Taal en communicatie/Tentamens/Extra oefening Horn en Relevantietheorie.pdf",
+    "Vakken/Taal en communicatie/Tentamens/11-03.md",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/COLLECTIE FILE journalistieke en redactionele vaardigheden.md",
     "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf",
+    "Vakken/Wetenschapsfilosofie/Reader notities Wetenschapsfilosofie.md",
     "Vakken/Wetenschapsfilosofie/Groepsopdracht.md",
     "Vakken/Wetenschapsfilosofie/Literatuur/Cursusboek.pdf",
     "Vakken/Wetenschapsfilosofie/COLLECTIE FILE Wetenschapsfilosofie.md",
@@ -178,28 +195,14 @@
     "Vakken/Taal en communicatie/Opdrachten/Opdracht week 12 - Taal en Communicatie.md",
     "Vakken/Taal en communicatie/Opdrachten/Opdracht week 10 - Taal en Communicatie.md",
     "Vakken/Taal en communicatie/Opdrachten/Opdracht week 6 - Taal en Communicatie.md",
-    "Onderwerpen/Conversational human voice.md",
-    "Vakken/Woorden als wapens/Colleges/Werkcollege 11 Woorden als Wapens.md",
-    "Onderwerpen/linguïstische kenmerken.md",
-    "Onderwerpen/uitnodigende retoriek.md",
-    "Vakken/Woorden als wapens/Colleges/Werkcollege 6 Woorden als Wapens.md",
-    "Vakken/Woorden als wapens/Colleges/Werkcollege 10 Woorden als Wapens.md",
-    "Onderwerpen/informele taal.md",
-    "Onderwerpen/personalisatie.md",
     "Vakken/Woorden als wapens/Weekopdrachten/Week 11/~$ekopdracht 11.docx",
-    "conflict-files-obsidian-git.md",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Nieuwsbericht/~$euwsbericht_V1.docx",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Nieuwsbericht/~WRL3870.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Nieuwsbericht/~WRD3851.tmp",
     "Vakken/Woorden als wapens/Weekopdrachten/Week 11/Screenshot3_controversieel.png",
     "Vakken/Woorden als wapens/Weekopdrachten/Week 11/Screenshot2.png",
     "Vakken/Woorden als wapens/Weekopdrachten/Week 11/Screenshot1.png",
     "Vakken/Woorden als wapens/Weekopdrachten/Week 11/Conversation1.webp",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Nieuwsbericht/leiden_law_school_cover.jpeg",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Nieuwsbericht/Nieuwsbericht Draft.md",
     "Beelden/Pasted image 20231129144241.png",
     "Vakken/Inleiding in de journalistiek/Factcheck Opdracht/Vergelijking.png",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/EU_MAP_UnionMembersWhite.png",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/fra06p020_bg_motiv11_visualisierung2012.png"
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/EU_MAP_UnionMembersWhite.png"
   ]
 }
