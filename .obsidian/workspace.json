@@ -11,8 +11,12 @@
             "id": "d6acc9ac55bd6b2d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/Achtergrondartikel.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Beelden/Pasted image 20231111161917.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Beelden/Pasted image 20231111161917.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Beelden/Pasted image 20231111161917.png"
+              }
             }
           }
         ]
@@ -147,8 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6acc9ac55bd6b2d",
+  "active": "6c3dd75fab1d03a9",
   "lastOpenFiles": [
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/NRC_logo.svg.png",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/NRC_logo.svg.png.crdownload",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/Achtergrondartikel.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRL1721.tmp",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRD1717.tmp",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRL3142.tmp",
@@ -157,8 +168,6 @@
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRD3473.tmp",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRL0875.tmp",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRD0875.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRL0766.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRD0762.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRL0920.tmp"
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRL0766.tmp"
   ]
 }
