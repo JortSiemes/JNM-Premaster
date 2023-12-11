@@ -21,7 +21,19 @@ als je beschuldigd word: sexisme / racisme etc. dan kan je verder rechts in deze
 | omstandigheden | e                   | f                    |
 | procedure      | g                   | h                     |
 
+| ...            | expliciet betekenis | impliciete betekenis |
+| -------------- | ------------------- | -------------------- |
+| ontkennen      | I never said                   | b                    |
+| herdefinitie   | c                   | d                    |
+| omstandigheden | e                   | f                    |
+| procedure      | g                   | h                     |
 
+| ...            | strategie van de verdediging | toegepast op omstreden uitingen |
+| -------------- | ---------------------------- | -------------------- |
+| ontkennen      | ontkennen dat actie is uitgevoerd                         | ik kan me dat niet herinneren                    |
+| herdefinitie   | de actie op zo'n manier herdefinieren dat die niet of minder strafbaar is.                            | uit de context gehaald, evident een grap, provocatie                    |
+| omstandigheden | een beroep doen op verzachtende omstandigheden                          | vermoeidheid, laat, glaasje op, wrevelige sfeer                   |
+| procedure      | een beroep doen op procedurefouten zoals een onbevoegde rechter                            | Roddels, het is een coup, onzuiver motieven                    |
 
 A
 [[Expliciete betekenis]] ontkennen:
@@ -34,6 +46,16 @@ als je wilt verdedegen over beschuldiging die over een uitspraak gaat, dan kan j
 - willen jullie meer of minder Marokkanen?
 	- ik stelde alleen maar een vraag.
 	- ALS je dit gebruikt dan ontken je de implicatuur, beroep op de letterlijke betekenis.
+
+C
+Expliciete betekenis herdefinieren
+als je iets verkeerds hebt gezegd, dan zeggen het was een grapje, een metafoor, ironisch
+omdat je hiermee de letterlijke waarde veranderd herdefinieert naar een "grap"
+
+D
+impliciete betekenis herdefinieren
+I hope you can see your way to letting this go! - trump
+Denying implicature
 
 
 
