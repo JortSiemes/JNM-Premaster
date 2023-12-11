@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "737526819a35df0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0810939fcf165e36",
             "type": "leaf",
             "state": {
@@ -32,6 +44,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Taal en communicatie/Colleges/Hoorcollege 7 Taal en communicatie.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Taal en communicatie/Colleges/Hoorcollege 7 Taal en communicatie.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Taal en communicatie/Colleges/Hoorcollege 7 Taal en communicatie.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -168,53 +181,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c457cd2ccaa66ddf",
+  "active": "737526819a35df0e",
   "lastOpenFiles": [
+    "Vakken/Taal en communicatie/Colleges/Hoorcollege 7 Taal en communicatie.md",
+    "conflict-files-obsidian-git.md",
+    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht_upload/Weekopdracht 9 Jort Siemes.pdf.pdf",
+    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht_upload/Weekopdracht 8_JortSiemes.pdf",
+    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht_upload/Weekopdracht 7 Jort Siemes.pdf",
+    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht_upload/Weekopdracht 6 Jort Siemes.pdf.pdf",
+    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht_upload/Weekopdracht 5 Jort Siemes.pdf.pdf",
+    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht_upload/Weekopdracht 4 Jort Siemes.pdf.pdf",
+    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht_upload/Weekopdracht 3 Jort Siemes.pdf",
+    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht_upload/Weekopdracht 2 Jort Siemes.pdf",
+    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht_upload/Weekopdracht 11 Jort Siemes.pdf",
+    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht_upload/Weekopdracht 10 Jort Siemes.pdf.pdf",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/NRC_logo.svg.png",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/Cover_Achtergrondartikel.png",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/1-1631190961.png",
     "Vakken/Taal en communicatie/Tentamens/Tentamenstof eindtentamen.md",
     "Entailment.md",
     "Onderwerpen/antecedent.md",
-    "Vakken/Taal en communicatie/Colleges/Hoorcollege 7 Taal en communicatie.md",
     "Vakken/Taal en communicatie/Colleges/Hoorcollege 8 Taal en communicatie.md",
     "Vakken/Taal en communicatie/Colleges/Werkcollege 6 taal en communicatie.md",
     "Vakken/Taal en communicatie/Colleges/Werkcollege 7 taal en communicatie.md",
     "Vakken/Taal en communicatie/Colleges/Hoorcollege 6 Taal en communicatie.md",
     "Vakken/Taal en communicatie/Tentamens/Tentamen 4 nov.md",
     "Vakken/Taal en communicatie/Tentamens/Vragen voor 30-10.md",
-    "Vakken/Taal en communicatie/Tentamens/Wat extra hulp om Grice te begrijpen - Copy.pdf",
     "Vakken/Taal en communicatie/Birner H6.md",
-    "Vakken/Taal en communicatie/book_by_birner_betty_j_introduction_to_pragmatics-.pdf",
     "Vakken/Taal en communicatie/COLLECTIE FILE Taal en communicatie.md",
     "Vakken/Taal en communicatie/Deeltoets 3 NOV.md",
     "Vakken/Taal en communicatie/Extra opdrachten Horn Relevance.md",
     "Vakken/Taal en communicatie/Notities H6 Birner.md",
     "Vakken/Taal en communicatie/Tentamenstof.jpeg",
     "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
-    "Vakken/Taal en communicatie/Tentamens/Extra oefening Horn en Relevantietheorie.pdf",
     "Vakken/Taal en communicatie/Tentamens/11-03.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/COLLECTIE FILE journalistieke en redactionele vaardigheden.md",
-    "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf",
     "Vakken/Wetenschapsfilosofie/Reader notities Wetenschapsfilosofie.md",
     "Vakken/Wetenschapsfilosofie/Groepsopdracht.md",
-    "Vakken/Wetenschapsfilosofie/Literatuur/Cursusboek.pdf",
     "Vakken/Wetenschapsfilosofie/COLLECTIE FILE Wetenschapsfilosofie.md",
-    "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 11 Journalistiek en Redactionele vaardigheden.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/US_Yieldcurve.png",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 10 Journalistiek en Redactionele vaardigheden.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/interview raoul.md",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRD0000.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~$rtSiemes_104_V1_AchtergrondArtikel_ECB.docx",
     "Untitled.md",
-    "Vakken/Taal en communicatie/Colleges/Werkcollege 10 taal en communicatie.md",
-    "Vakken/Taal en communicatie/Opdrachten/Opdrachten Taal en communicatie blok 2.pdf",
-    "Vakken/Woorden als wapens/Weekopdrachten/Week 11/~$ekopdracht 11.docx",
     "Vakken/Woorden als wapens/Weekopdrachten/Week 11/Screenshot3_controversieel.png",
     "Vakken/Woorden als wapens/Weekopdrachten/Week 11/Screenshot2.png",
     "Vakken/Woorden als wapens/Weekopdrachten/Week 11/Screenshot1.png",
     "Vakken/Woorden als wapens/Weekopdrachten/Week 11/Conversation1.webp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Nieuwsbericht/leiden_law_school_cover.jpeg",
-    "Beelden/Pasted image 20231129144241.png",
-    "Vakken/Inleiding in de journalistiek/Factcheck Opdracht/Vergelijking.png",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/EU_MAP_UnionMembersWhite.png"
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Nieuwsbericht/leiden_law_school_cover.jpeg"
   ]
 }
