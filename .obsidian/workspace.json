@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beelden/Pasted image 20231111161917.png",
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/Achtergrondartikel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beelden/Pasted image 20231111161917.png",
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/Achtergrondartikel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beelden/Pasted image 20231111161917.png"
+                "file": "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/Achtergrondartikel.md"
               }
             }
           }
@@ -155,8 +155,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c3dd75fab1d03a9",
+  "active": "d6acc9ac55bd6b2d",
   "lastOpenFiles": [
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRD2267.tmp",
+    "Beelden/Pasted image 20231111161917.png",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRL3861.tmp",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRD3857.tmp",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRL3715.tmp",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRD3711.tmp",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRL0948.tmp",
@@ -165,9 +169,6 @@
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRD0222.tmp",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRL1697.tmp",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRD1693.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRL0620.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRD0617.tmp",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRL4010.tmp",
     "Vakken/Taal en communicatie/Tentamens/Tentamenstof eindtentamen.md",
     "Vakken/Taal en communicatie/Colleges/Hoorcollege 11 Taal en communicatie.md",
     "Entailment.md",
