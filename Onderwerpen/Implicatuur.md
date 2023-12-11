@@ -1,4 +1,4 @@
 [[Pragmatiek]]
 
-De achterliggende gedachten aan een zin in tegenstelling tot [[Semantiek]]
+De achterliggende gedachten aan een zin in tegenstelling tot [[Vakken/Taal en communicatie/Onderwerpen/Semantiek]]
 

@@ -39,7 +39,7 @@ Implicatie
 Grice noemt het *[[Implicatuur]]*
 [[Implicatuur]] = [[Pragmatiek]]
 
-[[Semantiek]] = What Is Said
+[[Vakken/Taal en communicatie/Onderwerpen/Semantiek]] = What Is Said
 
 Theorie van Grice gaat van:
 Hoe ga je van what is said naar [[implicatuur]]?
