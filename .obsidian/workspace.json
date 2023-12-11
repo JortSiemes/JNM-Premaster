@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "737526819a35df0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0810939fcf165e36",
             "type": "leaf",
             "state": {
@@ -119,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Vakken/Taal en communicatie/Tentamens/Tentamenstof eindtentamen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Vakken/Taal en communicatie/Tentamens/Tentamenstof eindtentamen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Vakken/Taal en communicatie/Tentamens/Tentamenstof eindtentamen.md"
               }
             }
           }
@@ -181,9 +169,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "737526819a35df0e",
+  "active": "0810939fcf165e36",
   "lastOpenFiles": [
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRL0001.tmp",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/~WRD0000.tmp",
     "Vakken/Taal en communicatie/Colleges/Hoorcollege 7 Taal en communicatie.md",
+    "Vakken/Taal en communicatie/Tentamens/Tentamenstof eindtentamen.md",
     "conflict-files-obsidian-git.md",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht_upload/Weekopdracht 9 Jort Siemes.pdf.pdf",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht_upload/Weekopdracht 8_JortSiemes.pdf",
@@ -194,11 +185,9 @@
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht_upload/Weekopdracht 3 Jort Siemes.pdf",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht_upload/Weekopdracht 2 Jort Siemes.pdf",
     "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht_upload/Weekopdracht 11 Jort Siemes.pdf",
-    "Vakken/Woorden als wapens/Weekopdrachten/Weekopdracht_upload/Weekopdracht 10 Jort Siemes.pdf.pdf",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/NRC_logo.svg.png",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/Cover_Achtergrondartikel.png",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/1-1631190961.png",
-    "Vakken/Taal en communicatie/Tentamens/Tentamenstof eindtentamen.md",
     "Entailment.md",
     "Onderwerpen/antecedent.md",
     "Vakken/Taal en communicatie/Colleges/Hoorcollege 8 Taal en communicatie.md",
@@ -223,7 +212,6 @@
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/US_Yieldcurve.png",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 10 Journalistiek en Redactionele vaardigheden.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/interview raoul.md",
-    "Untitled.md",
     "Vakken/Woorden als wapens/Weekopdrachten/Week 11/Screenshot3_controversieel.png",
     "Vakken/Woorden als wapens/Weekopdrachten/Week 11/Screenshot2.png",
     "Vakken/Woorden als wapens/Weekopdrachten/Week 11/Screenshot1.png",

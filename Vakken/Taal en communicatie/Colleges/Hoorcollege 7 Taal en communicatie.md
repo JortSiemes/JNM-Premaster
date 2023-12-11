@@ -77,7 +77,7 @@ begonnen ([[presuppositie]] = er was iets dicht en is nu open, change of state)
 
 
 ### [[Entailment]] (logische gevolgtrekking)
-als q een entailment is van p, dan volgt de waarheid van q noodzakelijkerwijs (logisch, semantisch, dwingend) uit de waarheid van p.
+als q een [[entailment]] is van p, dan volgt de waarheid van q noodzakelijkerwijs (logisch, semantisch, dwingend) uit de waarheid van p.
 Vaak ook scalaire implicaturen
 
 John ate all the cookies  
@@ -102,12 +102,12 @@ someone was kidnapped
 
 
 
-Entailment vergeleken met [[presuppositie]]
+[[Entailment]] vergeleken met [[presuppositie]]
 
 my wife was kidnapped - entails - someone was kidnapped
 my wife was kidnapped - presupposes - i have a wife
 
-- de entailment overleeft de negatie niet, de [[presuppositie]] wel:
+- de [[entailment]] overleeft de negatie niet, de [[presuppositie]] wel:
 
 My wife was not kidnapped does NOT ential - someone was kidnapped
 My wife was not kidnapped presupposes - i have a wife
