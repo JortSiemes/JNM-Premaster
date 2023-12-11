@@ -76,7 +76,7 @@ De scholen ([[presuppositie]] = er zijn scholen in de buurt, definite descriptio
 begonnen ([[presuppositie]] = er was iets dicht en is nu open, change of state)
 
 
-### Entailment (logische gevolgtrekking)
+### [[Entailment]] (logische gevolgtrekking)
 als q een entailment is van p, dan volgt de waarheid van q noodzakelijkerwijs (logisch, semantisch, dwingend) uit de waarheid van p.
 Vaak ook scalaire implicaturen
 
