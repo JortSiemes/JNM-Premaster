@@ -109,7 +109,7 @@ my wife was kidnapped - presupposes - i have a wife
 
 - de entailment overleeft de negatie niet, de [[presuppositie]] wel:
 
-My wife was nog kidnapped does NOT ential - someone was kidnapped
+My wife was not kidnapped does NOT ential - someone was kidnapped
 My wife was not kidnapped presupposes - i have a wife
 
 
