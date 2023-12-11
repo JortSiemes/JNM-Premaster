@@ -5,9 +5,9 @@ Blok 2
 # Referentie
 [[Deiktische elementen]]
 [[Anaforische elementen]]
-antecedent
+[[antecedent]]
 
 # [[Presuppositie]]
-### Entailment
+### [[Entailment]]
 
 
