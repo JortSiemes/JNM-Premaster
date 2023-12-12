@@ -11,3 +11,11 @@ overlap is, maken van abstracter, wetenschappelijke toon
 2 dingen die gebeuren
 - ontkoppeling van handelende instantie
 - maakt van een concreet gebeuren (piet slaapt = gemarkeerd door ww slaapt) los van tijd of plaats
+
+[[nominalisatie]]:
+Gebeuren -> ding
+(slaapt)           (slaap)
+
+- beleefdheid
+- verantwoordelijkheid ontlopen/ontduiken
+- 
