@@ -13,7 +13,7 @@ Literatuur 1 ()
 	Hoe sprekend worden mensen opgevoerd
 De man zag de boot en was opgelucht. Hij zag iemand. (Impliciet perspectief)
 VS
-De man zag het eiland en was opgelucht: "yes, daar is iemand!"  (Directe rede)
+De man zag het eiland en was opgelucht: "yes, daar is iemand!"  ([[Directe]] rede)
 Literatuur 2 (populisme)
 
 ### Perspectief 1 - Van Krieken, Sanders & Hoeken
@@ -22,13 +22,13 @@ Literatuur 2 (populisme)
 Standaard nieuwsberichten: wie, wat, waar, wanneer, waarom
 Journalistieke narratieven:
 - het hoe staat centraal
-	- Gebeurtenissen in chronologische volgorde
+	- [[Gebeurtenissen]] in chronologische volgorde
 	- aandacht voor detail
 	- beschreven vanuit het perspectief van een ooggetuige
-- Lezer wordt mediated witness (lezer kan zich inleven en gebeurtenissen 'meebeleven')
+- Lezer wordt mediated witness (lezer kan zich inleven en [[gebeurtenissen]] 'meebeleven')
 
-##### Hypotheses: Van Krieken, Sanders & Hoeken
-- in journalistieke narratieven verschijnen ooggetuigen van schokkende gebeurtenissen vaker in subjectpositie dan niet-ooggetuigen
+##### [[Hypotheses]]: Van Krieken, Sanders & Hoeken
+- in journalistieke narratieven verschijnen ooggetuigen van schokkende [[gebeurtenissen]] vaker in subjectpositie dan niet-ooggetuigen
 - in journalistieke narratieven wordt vaker met een voornaamwoord dan een naamwoord naar ooggetuigen verwezen, en naar niet-ooggetuigen vaker met een naamwoord dan een voornaamwoord.
 
 Bevindingen:
@@ -72,11 +72,11 @@ wie is verantwoordelijk voor de inhoud en vorm van de gepresenteerde informatie?
 
 ### Perspectiveringsschaal
 {Meest sterke perspectief, meest stem laten horen} 
-**Directe rede:** (zeiden tegen mij: we zijn grote tegenstanders van belastingverhoging)
+**[[Directe]] rede:** (zeiden tegen mij: we zijn grote tegenstanders van belastingverhoging)
 
 **VrijeIndirecte rede**: parafraseer je met dat zin (zeiden het zelf: ja, ze waren grote tegenstanders van belastingverhoging)
 
-**Indirecte rede:** (zeiden dat ze: 'grote tegenstanders van belastingverhoging waren')
+**[[Indirecte]] rede:** (zeiden dat ze: 'grote tegenstanders van belastingverhoging waren')
 
 **impliciet perspectief:** (Henk en Ingrid: willen absoluut geen belastingverhoging)
 {minst sterk perspectief, minst stem laten horen}

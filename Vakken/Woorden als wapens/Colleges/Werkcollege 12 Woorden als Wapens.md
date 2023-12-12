@@ -16,6 +16,18 @@ overlap is, maken van abstracter, wetenschappelijke toon
 Gebeuren -> ding
 (slaapt)           (slaap)
 
+Keuzes of nominalisaties te gebruiken
 - beleefdheid
 - verantwoordelijkheid ontlopen/ontduiken
-- 
+
+**taalintensiveerders**
+moet je kunnen motiveren vanuit de literatuur,
+bijv wel of niet intensiveerders/ of uitleggen waarom iets een taalintensiveerder is
+
+
+**perspectivering,**
+zien, voelen, kijken,
+
+
+Stof 
+Week 1 - 11 volledige college literatuur

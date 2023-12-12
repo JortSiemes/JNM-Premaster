@@ -7,7 +7,7 @@
 
 Metaforen sturen, framen
 
-Metaforen vs framing
+Metaforen vs [[framing]]
 
 wat maakt een [[conceptuele metafoor]] effectief?
 a, [[doeldomein]] is abstract en complex

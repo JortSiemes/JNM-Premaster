@@ -30,7 +30,7 @@ aspecten van bron domein, gebruiken als doel domein
 		Het ijzeren gordijn
 
 
-3. Ons conceptuele systeem is geworteld in onze directe fysieke en culturele ervaring.
+3. Ons conceptuele systeem is geworteld in onze [[directe]] fysieke en culturele ervaring.
 
 - Gelukkig is Boven; Droevig is Beneden
 	In hogere sferen zijn, opvrolijken, opgewekt humeur, terneergeslagen zijn, de moed zonk hemin de schoenen, ze leeft weer helemaal op
@@ -41,7 +41,7 @@ aspecten van bron domein, gebruiken als doel domein
 [[Oriëntatiemetaforen]]: gevallen waarin concepten tot elkaar worden geordend op een manier die te maken heeft met oriëntatie in de ruimte
 - toekomst is vooruit
 
-[[Ontologische metaforen]]: gevallen waarin we kunstmatige begrenzingen opleggen (=> gebeurtenissen, handelingen, emoties, ideeën, etc. als entiteiten en substanties beschouwen)
+[[Ontologische metaforen]]: gevallen waarin we kunstmatige begrenzingen opleggen (=> [[gebeurtenissen]], [[handelingen]], emoties, ideeën, etc. als entiteiten en substanties beschouwen)
 	Subtype: personificatie
 	- inflatie is een entiteit
 
