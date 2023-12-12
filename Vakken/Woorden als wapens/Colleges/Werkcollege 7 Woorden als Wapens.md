@@ -1,4 +1,4 @@
-### Lijdende Vorm
+### [[Lijdende Vorm]]
 
 [[Bedrijvende vorm]] ('actief')
 1a) De strandwacht redt het slachtoffer
@@ -8,7 +8,7 @@
 1b) het slachtoffer wordt gered (door de strandwacht)
 2b) het slachtoffer is gered (door de strandwacht)
 
-Lijdende vorm herkennen aan:
+[[Lijdende vorm]] herkennen aan:
 - hulpwerkwoord (worden/zijn) + voltooid deelwoord
 - 'handelende persoon': uitgedrukt of zonder benoeming
 
@@ -23,7 +23,7 @@ Lijdende zinnnen bevatten aanduigingen voor toestanden (voltooid deelwoord) word
 **zijn-passief,** presenteert een situatie niet vanuit een perspectief van een   afwezige uitvoerder
 
 
-Redenen waarom je van Lijdende vorm gebruik wilt maken.
+Redenen waarom je van [[Lijdende vorm]] gebruik wilt maken.
 
 1. Iets anders dan de uitvoerende instantie levert (als grammaticaal onderwerp) het perspectief van waaruit de situatie gepresenteerd wordt.
 2. Er is geen specifiek perspectief van waaruit de situatie gepresenteerd wordt; het kan er dan om gaan het gebeuren als zodanige de volle aandacht te schenken, de uitvoerende instantie in het vage te laten, of beide.

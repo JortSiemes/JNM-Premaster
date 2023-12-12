@@ -5,3 +5,8 @@ passief
 
 Lijdende vorm herkennen aan:
 - hulpwerkwoord (worden/zijn) + voltooid deelwoord
+
+### definitie:
+vorm kant = worden/zijn
+informatie presenteren niet vanuit het perspectief van de uitvoerder.
+negatief
