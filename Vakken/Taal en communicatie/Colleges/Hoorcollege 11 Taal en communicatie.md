@@ -82,11 +82,22 @@ Als je 4 koekjes hebt gegeten heb je ook 2 koekjes en 3 koekjes gegeten, dat is 
 is in 100% van de gevallen waar.
 
 
-### Presuppositie
+### [[Presuppositie]]
 A: my dog is black
 B: so you are saying you have a dog?
 A: No, I don't have a dog
 
-Presuppositie ontkennen
+[[Presuppositie]] ontkennen
 Nee mijn hond is niet zwart, I heb niet eens een hond
 
+
+
+| [[presuppositie]] triggers |                                             |                                         | survives negation (ontkenning toevoegen, maar dan is de [[presuppositie]] nogsteeds waar)      |
+| ---------------------- | ------------------------------------------- | --------------------------------------- | ------------------------ |
+| Definitive description | the dog                                     | there is a dog                          | my dog is not black      |
+| Factive verb           | know, regret, to be                         | presupposes the truth of the complement | i dont regret doing that |
+| change-of-state verb   | Stopped, opened (is het ooit dicht geweest) | was going on, started was closed        | I did not stop smoking   |
+| Iterative              | again                                       | Happened before                         | I did not do it again    |
+| Cleft                  | It was X who did it                         | someone did it                          | it was not me who did it                         |
+
+Very special context: [[metalinguistic]] 
