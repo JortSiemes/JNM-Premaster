@@ -31,3 +31,7 @@ zien, voelen, kijken,
 
 Stof 
 Week 1 - 11 volledige college literatuur
+
+
+
+
