@@ -32,6 +32,6 @@ zien, voelen, kijken,
 Stof 
 Week 1 - 11 volledige college literatuur
 
-
-
-
+#### Is erg ambigu
+Inclusief we = wij allemaal
+exclusief we = wij als groep
