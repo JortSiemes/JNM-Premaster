@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
+                "file": "Vakken/Taal en communicatie/Tentamens/11-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "secondaire",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
+                "file": "Vakken/Taal en communicatie/Tentamens/11-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
+                "file": "Vakken/Taal en communicatie/Tentamens/11-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md"
+                "file": "Vakken/Taal en communicatie/Tentamens/11-03.md"
               }
             }
           }
@@ -158,8 +159,12 @@
   },
   "active": "0810939fcf165e36",
   "lastOpenFiles": [
-    "Onderwerpen/Implicatuur.md",
+    "Onderwerpen/secondaire taalhandeling.md",
+    "Vakken/Taal en communicatie/Tentamens/11-03.md",
     "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
+    "Onderwerpen/primaire taalhandeling.md",
+    "Onderwerpen/geslaagdheidsvoorwaarden.md",
+    "Onderwerpen/Implicatuur.md",
     "Onderwerpen/Explicatuur.md",
     "Vakken/Taal en communicatie/Onderwerpen/Scalaire implicatuur.md",
     "Vakken/Taal en communicatie/Onderwerpen/Gegeneraliseerde implicatuur.md",
@@ -191,10 +196,6 @@
     "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md",
     "Vakken/Woorden als wapens/Colleges/Werkcollege 11 Woorden als Wapens.md",
     "Vakken/Woorden als wapens/Colleges/Werkcollege 5 Woorden als Wapens.md",
-    "Vakken/Woorden als wapens/Colleges/Werkcollege 4 Woorden als Wapens.md",
-    "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md",
-    "Vakken/Woorden als wapens/Colleges/Werkcollege 2 Woorden als Wapens.md",
-    "Vakken/Woorden als wapens/Colleges/Werkcollege 10 Woorden als Wapens.md",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/NRC_logo.svg.png",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/Cover_Achtergrondartikel.png",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/1-1631190961.png",
