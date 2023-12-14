@@ -27,7 +27,7 @@ Werkcolleges:
 	context dependent
 	non truth-conditional
 
-[[Vakken/Taal en communicatie/Onderwerpen/Semantiek]]:
+[[Semantiek]]:
 	Literal meaning
 	Sentence
 	Sentence Meaning
