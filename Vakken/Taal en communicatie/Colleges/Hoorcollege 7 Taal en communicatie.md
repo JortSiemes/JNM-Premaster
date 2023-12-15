@@ -22,8 +22,6 @@ verwijzen naar een taalkundig element (eerder) in de tekst
 [[pronomenale anaforen]]
 
 
-
-
 referentie en [[presuppositie]]
 
 Twee soorten verwijzende woorden:
@@ -51,7 +49,6 @@ Ik zag John twee dagen geleden. **Hij** was verkouden. Ik ben **dat** nu zelf oo
 
 [[Antecedent]] van een anaforisch element ('anaphora resolution', 'pronoun resolution')
 
-
 ### Referentie
 - het verschil tussen [[deiktische]] en [[anaforische referentie]]
 - Verschillende soorten deixis (persoondeixis, ruimtelijke deixis, temporele deixis)
@@ -74,7 +71,6 @@ My dog is not black +> I have a dog
 De scholen zijn weer begonnen
 De scholen ([[presuppositie]] = er zijn scholen in de buurt, definite description)
 begonnen ([[presuppositie]] = er was iets dicht en is nu open, change of state)
-
 
 ### [[Entailment]] (logische gevolgtrekking)
 als q een [[entailment]] is van p, dan volgt de waarheid van q noodzakelijkerwijs (logisch, semantisch, dwingend) uit de waarheid van p.
@@ -99,7 +95,6 @@ john saw a person
 My wife was kidnapped
 entails
 someone was kidnapped
-
 
 
 [[Entailment]] vergeleken met [[presuppositie]]

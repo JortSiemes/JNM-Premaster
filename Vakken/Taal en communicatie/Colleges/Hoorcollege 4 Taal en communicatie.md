@@ -13,4 +13,4 @@ alle implicaturen zijn relevant
 een uiting de betekenis daarvan is een [[implicatuur]]
 als je iets zegt en je bedoeld iets anders
 
-
+[[explicatuur]]
