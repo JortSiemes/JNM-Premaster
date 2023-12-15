@@ -114,7 +114,3 @@ My wife was not kidnapped presupposes - i have a wife
 
 
 
-
-
-
-
