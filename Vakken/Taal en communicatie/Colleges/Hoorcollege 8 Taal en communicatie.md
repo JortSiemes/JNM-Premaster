@@ -69,3 +69,11 @@ mensen hebben behoefte aan een positief of [[negatief gezicht]]. Je kan een posi
 Door [[taalhandeling]] kan je positieve of negatieve gezicht bedreigen.
 
 je kan dit verzachten met [[positieve beleefdheid]],
+
+
+Polite vs politic
+
+
+Will you shut up man?
+- volgens politeness1 is het beleefd vraagt, ook al ervaar je niet aardig
+- 
