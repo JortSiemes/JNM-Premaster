@@ -1,0 +1,2 @@
+peroon deixis
+temporele deixis
