@@ -62,16 +62,16 @@ Tijdens college:
 
 Eerste NL krant 1618: Courante uyt Italien, Duytslandt, &c.
 
-rotatiepers, stoommachine hebben ervoor gezorgd dat de krant heel veel vellen papier bedrukt worden.
+[[rotatiepers]], stoommachine hebben ervoor gezorgd dat de krant heel veel vellen papier bedrukt worden.
 Houtpulp heeft de materialen om papier te maken veel goedkoper gemaakt.
 
 Morsecode gaf het nieuws door via draden, waardoor je nieuws sneller en makkelijker kan verspreidden. 
 
 Uitvinding: is ontstaan van nieuwe technologie, bijvoorbeeld goedkopere of snellere manier.
-	Telegraaf: 
+	[[Telegraaf]]: 
 
 Innovatie: Nieuwe producten of diensten die voorheen nog niet bestonden.
-	- **[[Dagblad]]**, door de telegraaf kregen kranten de kans dagelijk veel nieuws konden publiceren.
+	- **[[Dagblad]]**, door de [[telegraaf]] kregen kranten de kans dagelijk veel nieuws konden publiceren.
 	- **[[Persbureaus]]:** kranten die samenwerkte om nieuws te delen, bezig met verzamelen van nieuws en vervolgens verspreidden.
 	- **[[Journalistieke objectiviteit]]**, voorheen niet objectief nu stuk neutraler, kop moet duidelijk maken wat het nieuws is, eerste alinea heeft belangrijkste nieuws.
 	- krantenkop
@@ -80,7 +80,7 @@ Persvrijheid pas ontstaan halverwege 19e eeuw
 
 Kranten op broadsheet formaat
 
-penny press, ideologie om krant zo goedkoop mogelijk te maken.
+[[penny press]], ideologie om krant zo goedkoop mogelijk te maken.
 hierdoor kwamen ook meer publiek populaire onderwerpen: misdaad, sport, entertainment
 
 Voorbeelden tentamenvragen:
@@ -106,7 +106,7 @@ tot jaren 70 100% van huishoudens een krant.
 Voor 2006 werden er meer regionale kranten gelezen dan landelijk, daarna meer landelijk.
 
 metro
-spits (eigendom Telegraaf mediagroep)
+spits (eigendom [[Telegraaf]] mediagroep)
 pers
 dag
 
@@ -163,7 +163,7 @@ Journalistieke Code
 4 zuilen
 katholiek, Protestant, Socialistisch, Liberaal
 
-- Spreekbuismodel, vooral informeren binnen eigen zuil.
+- [[Spreekbuismodel]], vooral informeren binnen eigen zuil.
 
 1951: Start televisie in Nederland
 ANP werd ingehuurd om journaal te faciliteren, NTS deed de algemene uitzendingen -> later NOS
@@ -333,7 +333,7 @@ omschrijven wat het maatschappelijke probleem nou eigenlijk is.
 - publiek als consument
 - nieuws als commercieel product
 
-#### Spreekbuismodel
+#### [[Spreekbuismodel]]
 - eigen zuil als drijfveer
 - doel: educatie en socialisatie
 - publiek als lid van de zuil
@@ -376,7 +376,7 @@ Kenmerken van een professie
 1. Maatschappelijke dienstverlening
 2. Gespecialiseerde opleiding
 3. Autonomie
-4. Professionele normen
+4. Professionele [[normen]]
 5. Persoonlijke verantwoordelijkheid
 6. Zelfregulering door beroepsorganisatie
 
@@ -407,14 +407,14 @@ Mark Deuze (2005) What is journalism? Professional identity and ideology of jour
 - ethics
 
 journalistiek is beroepsmatig een = Openbaarmaking op ruime schaal
-- volgens van beroepsethische normen
+- volgens van beroepsethische [[normen]]
 
 Rechter kan rechten op bronbeschermingen aanwijzen door:
 - voorkomen van strafbare feiten en openbare veiligheid
 - bescherming gezondheid en goede zeden
 - nationale veiligheid
 
-# !! Journalistieke objectiviteit
+# !! [[Journalistieke objectiviteit]]
 
 De journalistieke praktijk
 
@@ -453,7 +453,7 @@ David Manning White, zelfstandig onderzoek naar 1 journalist
 
 Socialisatie op redacties
 ## 12 [[nieuwswaarden]]
-1. threshold (drempelwaarde) = nieuws moet drempel over voordat belangrijk is, bijv intensiteit van een nieuwsbericht
+1. threshold (drempelwaarde) = nieuws moet drempel over voordat belangrijk is, bijv intensiteit van een [[nieuwsbericht]]
 2. frequency () = hoe zeldzaam de herhaling is
 3. negativity = negatief nieuws eerder dan positief nieuws
 4. unexpectedness = iets wat plots gebeurd is specialer
@@ -511,7 +511,7 @@ patroon van mediahypes
 
 kenmerken mediahype
 
-# Journalistieke ethiek
+# Journalistieke [[ethiek]]
 Journalistieke [[ethiek]]
 
 Jos B. of Jos Brech?
@@ -626,7 +626,7 @@ op basis van statistiek heel makkelijk om artikel te maken
 
 # Politieke journalistiek
 
-**Van elkaar afhankelijk:** politiek-publicitair complex
+**Van elkaar afhankelijk:** [[politiek-publicitair complex]]
 Politici/politieke partijen hebben journalisten/media nodig om aandacht te krijgen: om een bekende naam te worden, om een bepaald imago te krijgen, om ideeën bekendheid te geven, om proefballon te lanceren, om standpunten duidelijk te maken, etc.
 Journalisten/media hebben politici/politieke partijen nodig om aan nieuws te komen: quotes te krijgen, interviews te krijgen met populaire politici, uitzendingen te vullen, etc.
 
@@ -635,5 +635,5 @@ Journalisten/media hebben politici/politieke partijen nodig om aan nieuws te kom
 Afgelopen jaren regelmatig discussie over en kritiek op de politieke journalistiek en kwaliteit van de politieke berichtgeving. Kritiek richt zich vaak op vier punten: 
 1. Popularisering 
 2. Personalisering 
-3. Horse race reporting 
-4. Mediatisering
+3. [[Horse race reporting]] 
+4. [[Mediatisering]]
