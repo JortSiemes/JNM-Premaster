@@ -327,10 +327,6 @@ Constructieve journalistiek
 
 Activistische journalistiek
 
-
-
-
-
 # De journalistieke professie: wie is journalist?
 
 1, [[verschoningsrecht]] voor journalisten
@@ -382,20 +378,9 @@ Rechter kan rechten op bronbeschermingen aanwijzen door:
 - bescherming gezondheid en goede zeden
 - nationale veiligheid
 
-
-
-
-
-
-
-
-
-# !! Het journalistieke streven naar objectiviteit
+# !! Journalistieke objectiviteit
 
 De journalistieke praktijk
-# Journalistieke ethiek
-
-# Selectie van nieuws
 
 # Publiek rukt op in de journalistiek
 Het publiek rukt op in de journalistiek
@@ -423,7 +408,184 @@ rol journalistiek verandert:
 4, Gebaseerd op betrokkenheid in plaats van juridisch eigendom
 	- Creative Commons, geen auteursrecht is van de gemeenschap
 
+# Selectie van nieuws
+
+### Wat de gatekeepingtheorie inhoudt
+
+Eerst:
+David Manning White, zelfstandig onderzoek naar 1 journalist
+
+Socialisatie op redacties
+## 12 [[nieuwswaarden]]
+1. threshold (drempelwaarde) = nieuws moet drempel over voordat belangrijk is, bijv intensiteit van een nieuwsbericht
+2. frequency () = hoe zeldzaam de herhaling is
+3. negativity = negatief nieuws eerder dan positief nieuws
+4. unexpectedness = iets wat plots gebeurd is specialer
+5. unambiguity = 
+6. personalisation = 
+7. meaningfulness = 
+8. reference to elite nations = belangrijke landen (usa)
+9. reference to elite persons = belangrijke personen
+10. consonance = culturele overeenstemming, landen en mensen die cultureel op ons lijken komen sneller in het nieuws
+11. continuity = 
+12. composition = samenstelling van het nieuws, wil afgewogen selectie van onderwerpen.
+
+Extra [[nieuwswaarden]]
+1. beeld = als er geen goed beeld van is
+
+
+Journaal sluit meestal af met positief nieuws, zodat niet alleen maar depri is
+
+
+Nieuwsselectie online
+- geen deadlines: continue updates
+- oneindige ruimte (geen limieten van fysieke krant)
+- concurrentie
+- real time audience data
+
+Clickthrough rate = doorklikken naar een artikel
+Time spent = hoelang mensen blijven op pagina
+[[Bounce rate]] = hoe snel weer weg van een website
+
+[[Trustee model]]
+[[Market model]]
+
+
+Laten redacties zich meer beïnvloeden door het publiek.
+
+Mediahypes
+- de hoeveelheid aandacht van de media is buitenproportioneel
+- media maken onderwerpen groter dan het daadwerkelijk is
+- er is een mismatch tussen het nieuws en de echte wereld.
+- media creëren nieuws ipv nieuws te verslaan (media doet meer dan alleen vertellen, door dingen erbij te halen)
+- Media jagen elkaar op
+
+
+Termen in discussie over mediahypes
+- overdrijving: **subjectief**
+- vertekening: **niet kenbaar**
+- amplificatie
+- uitvergroting
+
+patroon van mediahypes
+1. sleutelgebeurtenis
+2. nieuwsthema (trefwoord, label)
+3. Lager nieuwsdrempel (nu is al het nieuws over dit thema stuk interessanter)
+4. Feedback loops
+
+kenmerken mediahype
+
+# Journalistieke ethiek
+Journalistieke [[ethiek]]
+
+Jos B. of Jos Brech?
+Hoe bepaal je journalistieke [[ethiek]]?
+
+[[Ethisch dilemma]] kunnen analyseren:
+- onderscheid te maken tussen [[waarden]], [[normen]] en regels
+- belangen af te wegen
+
+[[Ethiek]] = moraliteit
+- bezinning op het juiste handelen
+- nadenken over morele kwesties
+- Het afwegen tussen goed en kwaad en de keuzes daartussenin
+
+[[Ethiek]]:
+- [[Waarden]]: idealen en motieven die een samenleving of groep als ideaal of wenselijk worden beschreven
+- [[Normen]]: nastrevenswaardige grenzen aan het handelen (verdachten niet herkenbaar maken)
+- Regels: Concrete gedragslijn voor correct handelen in concrete situaties
+
+[[Ethisch dilemma]]
+
+Kovach & Rosenstiel:
+"journalists have an obligation to exercise their personal conscience."
+Every journalist must be able to voice their personal sense of ethics and responsibility.
+
+
+Klachten over journalistieke publicaties
+1. Rechter
+2. Raad voor de journalistiek
+3. Ombudsman van een medium
+
+
+vvoj
+
+
+ombudsman
+- transparantie
+- (zelf)reflectie / (zelf)kritiek
+- Hogere kwaliteit
+
+
+Code of Ethics
+- seek truth and report it
+- minimize harm
+- act independently
+- be accountable and transparent
+
+
+# Sportjournalistiek
+
+## Sportjournalistiek
+
+kranten organiseerde sportwedstrijden
+L'auto heeft de tour de france verzonnen 
+
+bij wielrennen, krijg je in de krant een foto in het publiek, daarom ook kleur van papier is kleur van de leider zn shirt. Geel papier = gele trui
+Roze papier = roze trui
+
+
+Commercie:
+- sport is handelswaar
+	- entreekaarten (tickets voor GP zandvoort)
+- sporters zijn handelswaar
+	- verhuren aan merken (adidas marketing)
+- sportjournalistiek is handelswaar
+	- AD sportkrant: SportwereldPro
+
+Sport steeds meer live
+
+Beeldschermjournalistiek
+- verslag achter een beeldscherm, naar wedstrijden word niet gedaan. verslaggevers zitten achter een beeldscherm in een klein kamertje.
+- In hilversum doen verslaggevers nu vooral verslag sinds pandemie
+
+
+Image-management
+- voor sporters is journalistiek als promotie
+	- aandacht
+	- fandom
+	- enthousiasme
+
+- journalistiek als bedreiging
+	- wangedrag
+	- doping
+	- rellen
+	- kritiek
+
+Rol Journalist
+Journalist is fan van de sporters   V
+"going native", teveel verbonden met je onderwerp
+
+Hybride sportjounalistiek
+- contact met belangrijke speler heb je toestemming nodig, je moet onderhandelen met zaakwaarnemer & manager
+- autorisatie, journalistieke productie geeft inzage aan ander voordat je mag publiceren.
+- Chequebook journalism: betalen om iemand te mogen interviewen
+
+
+----
+
+
+[[Robotjournalistiek]]
+al sinds begin 2010, computer programmas die journalistieke teksten schrijven.
+
+op basis van statistiek heel makkelijk om artikel te maken
 
 
 
+- uitleggen wat de relatie is tussen journalistiek, commercie en sport
+- uitleggen wat hybride sportjournalistiek is en welke vormen daarvan bestaan
+- uitleggen hoe [[Robotjournalistiek]] werkt
 
+
+
+# Politieke journalistiek
