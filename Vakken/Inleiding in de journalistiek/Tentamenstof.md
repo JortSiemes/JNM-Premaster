@@ -43,8 +43,10 @@ Wat moet je kunnen:
 
 1. Uitleggen hoe de krant een massamedium werd 
 2. Trends, oorzaken en oplossingen kennen m.b.t. de daling van de papieren oplages
-
-
+1. Korte historie van de Nederlandse internetjournalistiek 
+2. Verdienmodellen voor internetjournalistiek
+1. Korte historie van de Nederlandse internetjournalistiek 
+2. Verdienmodellen voor internetjournalistiek
 
 
 
