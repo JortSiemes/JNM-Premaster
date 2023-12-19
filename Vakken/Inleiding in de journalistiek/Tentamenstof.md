@@ -17,6 +17,15 @@
 		Onderzoeksjournalistiek
 
 ---
+
+Woordenlijst
+
+[[Politiek-publicitair complex]]
+[[spindoctors]]
+[[Horse race reporting]]
+
+
+---
 Medialandschap en -geschiedenis
 # De krant
 
@@ -589,3 +598,15 @@ op basis van statistiek heel makkelijk om artikel te maken
 
 
 # Politieke journalistiek
+
+**Van elkaar afhankelijk:** politiek-publicitair complex
+Politici/politieke partijen hebben journalisten/media nodig om aandacht te krijgen: om een bekende naam te worden, om een bepaald imago te krijgen, om ideeën bekendheid te geven, om proefballon te lanceren, om standpunten duidelijk te maken, etc.
+Journalisten/media hebben politici/politieke partijen nodig om aan nieuws te komen: quotes te krijgen, interviews te krijgen met populaire politici, uitzendingen te vullen, etc.
+
+[[Spindoctors]]
+
+Afgelopen jaren regelmatig discussie over en kritiek op de politieke journalistiek en kwaliteit van de politieke berichtgeving. Kritiek richt zich vaak op vier punten: 
+1. Popularisering 
+2. Personalisering 
+3. Horse race reporting 
+4. Mediatisering

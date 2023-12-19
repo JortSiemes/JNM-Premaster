@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "846128038d8a1fbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 11 Inleiding in de Journalistiek.md",
+                "file": "Horse race reporting.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
+                "file": "Horse race reporting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
+                "file": "Horse race reporting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md"
+                "file": "Horse race reporting.md"
               }
             }
           }
@@ -170,12 +158,15 @@
   },
   "active": "b0d9780aa13e006c",
   "lastOpenFiles": [
+    "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
+    "Horse race reporting.md",
+    "spindoctors.md",
+    "Politiek-publicitair complex.md",
     "Vakken/Inleiding in de journalistiek/Hoorcolleges/Politieke journalistiek.pdf",
     "Vakken/Inleiding in de journalistiek/Hoorcolleges/Politieke journalistiek.pdf.crdownload",
     "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 11 Inleiding in de Journalistiek.md",
     "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 10 Inleiding in de Journalistiek.md",
     "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 9 Inleiding in de Journalistiek.md",
-    "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
     "Vakken/Taal en communicatie/Tentamens/taalencommunicatie_aantekeningenTentamen.docx",
     "Vakken/Inleiding in de journalistiek/psA0FA.tmp",
     "conflict-files-obsidian-git.md",
@@ -197,7 +188,6 @@
     "Vakken/Taal en communicatie/Tentamens/Vragen voor 30-10.md",
     "Vakken/Taal en communicatie/Tentamens/Extra oefening Horn en Relevantietheorie.pdf",
     "Vakken/Inleiding in de journalistiek/Hoorcolleges/Downloads - Shortcut.lnk",
-    "Vakken/Taal en communicatie/Tentamens/~$ntamen Taal en communicatie .docx",
     "Onderwerpen/antecedent.md",
     "Vakken/Taal en communicatie/Colleges/Hoorcollege 5 Taal en communicatie.md",
     "Onderwerpen/taalhandelingen.md",
@@ -205,8 +195,6 @@
     "Vakken/Taal en communicatie/Colleges/Hoorcollege 11 Taal en communicatie.md",
     "Vakken/Taal en communicatie/Colleges/Hoorcollege 9 Taal en communicatie.md",
     "Vakken/Taal en communicatie/Colleges/Hoorcollege 8 Taal en communicatie.md",
-    "Vakken/Taal en communicatie/Colleges/Werkcollege 2 taal en communicatie.md",
-    "Vakken/Taal en communicatie/Colleges/Werkcollege 9 taal en communicatie.md",
     "Vakken/Wetenschapsfilosofie/JortSiemes_Wetenschapfilo_StanleyKubrick.jpg",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/NRC_logo.svg.png",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/Cover_Achtergrondartikel.png",
