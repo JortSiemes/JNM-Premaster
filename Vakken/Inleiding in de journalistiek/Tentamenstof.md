@@ -34,12 +34,22 @@ Woordenlijst
 [[media zuilen]]
 [[spreekbuismodel]]
 [[verschoningsrecht]]
- 
 
 
 
 
 ---
+Wat moet je kunnen:
+
+1. Uitleggen hoe de krant een massamedium werd 
+2. Trends, oorzaken en oplossingen kennen m.b.t. de daling van de papieren oplages
+
+
+
+
+
+
+
 Medialandschap en -geschiedenis
 # De krant
 
