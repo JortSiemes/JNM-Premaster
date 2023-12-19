@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "74140995e7ee8812",
+    "type": "split",
+    "children": [
+      {
+        "id": "a003f842b3515db4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0d9780aa13e006c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "846128038d8a1fbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 9 Inleiding in de Journalistiek.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "15669e7e105c7be8",
+    "type": "split",
+    "children": [
+      {
+        "id": "563e23d44199766b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1600001feb785ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "04ea66dd4c102027",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "antecedent",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93fc385e08f86483",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 267.5
+  },
+  "right": {
+    "id": "7859014a86b170ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "99db599b1727e4e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0814e8448907efcd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7b464230e7192d40",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "529bfa46d73bb647",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ec6f786f046e3111",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "82793ef6cf4a5db3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b0d9780aa13e006c",
+  "lastOpenFiles": [
+    "Vakken/Taal en communicatie/Tentamens/taalencommunicatie_aantekeningenTentamen.docx",
+    "Vakken/Inleiding in de journalistiek/psA0FA.tmp",
+    "conflict-files-obsidian-git.md",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 9 Inleiding in de Journalistiek.md",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 8 Inleiding in de Journalistiek.md",
+    "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 6 Inleiding in de Journalistiek.md",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 5 Inleiding in de Journalistiek.md",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 4 Inleiding in de Journalistiek.md",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 3 Inleiding in de Journalistiek.md",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 2 Inleiding in de Journalistiek.md",
+    "Vakken/Inleiding in de journalistiek/Tijdlijn_Journalistiek.psd",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 1 Inleiding in de Journalistiek.md",
+    "Vakken/Taal en communicatie/Tentamens/Tentamenstof eindtentamen.md",
+    "Vakken/Taal en communicatie/Tentamens/Tentamen 4 nov.md",
+    "Vakken/Taal en communicatie/Tentamens/taal-en-communicatie-samenvatting-oefenvragen-met-antwoorden.pdf",
+    "Vakken/Taal en communicatie/Tentamens/Opnieuw opdrachten.md",
+    "Vakken/Taal en communicatie/Tentamens/Oefententamen final 1 (zonder antwoorden).pdf",
+    "Vakken/Taal en communicatie/Tentamenstof.jpeg",
+    "Vakken/Taal en communicatie/Tentamens/Wat extra hulp om Grice te begrijpen - Copy.pdf",
+    "Vakken/Taal en communicatie/Tentamens/Vragen voor 30-10.md",
+    "Vakken/Taal en communicatie/Tentamens/Extra oefening Horn en Relevantietheorie.pdf",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 11 Inleiding in de Journalistiek.md",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Downloads - Shortcut.lnk",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 10 Inleiding in de Journalistiek.md",
+    "Vakken/Taal en communicatie/Tentamens/~$ntamen Taal en communicatie .docx",
+    "Vakken/Taal en communicatie/Tentamens/Tentamen Taal en communicatie .docx",
+    "Vakken/Taal en communicatie/Tentamens/Niet bevestigd 488842.crdownload",
+    "Onderwerpen/antecedent.md",
+    "Vakken/Taal en communicatie/Colleges/Hoorcollege 5 Taal en communicatie.md",
+    "Onderwerpen/taalhandelingen.md",
+    "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
+    "Vakken/Taal en communicatie/Colleges/Hoorcollege 11 Taal en communicatie.md",
+    "Vakken/Taal en communicatie/Colleges/Hoorcollege 9 Taal en communicatie.md",
+    "Vakken/Taal en communicatie/Colleges/Hoorcollege 8 Taal en communicatie.md",
+    "Vakken/Taal en communicatie/Colleges/Werkcollege 2 taal en communicatie.md",
+    "Vakken/Taal en communicatie/Colleges/Werkcollege 9 taal en communicatie.md",
+    "Vakken/Wetenschapsfilosofie/JortSiemes_Wetenschapfilo_StanleyKubrick.jpg",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/NRC_logo.svg.png",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/Cover_Achtergrondartikel.png",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/1-1631190961.png",
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/US_Yieldcurve.png",
+    "Vakken/Woorden als wapens/Weekopdrachten/Week 11/Screenshot3_controversieel.png",
+    "Vakken/Woorden als wapens/Weekopdrachten/Week 11/Screenshot2.png",
+    "Vakken/Woorden als wapens/Weekopdrachten/Week 11/Screenshot1.png",
+    "Vakken/Woorden als wapens/Weekopdrachten/Week 11/Conversation1.webp"
+  ]
+}
