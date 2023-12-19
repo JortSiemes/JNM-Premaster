@@ -10,9 +10,9 @@ vragen mail: a.r.j.pleijter@hum.leidenuniv.nl
 	wat is journalistiek?
 		Maatschappelijke functies van journalistiek
 		de journalistieke professie: wie is journalist?
-		Het journalistieke streven naar objectiviteit
+		Het journalistieke streven naar [[objectiviteit]]
 	de journalistieke praktijk
-		Wat mag wel en niet? Journalistieke ethiek
+		Wat mag wel en niet? Journalistieke [[ethiek]]
 		Wie bepaalt wat nieuws is? de selectie van nieuws
 		Het publiek rukt op in de journalistiek: publieksparticipatie
 	journalistieke velden
