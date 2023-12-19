@@ -1,0 +1,1 @@
+Het onderzoeken en publiceren van nieuws op een zo objectief mogelijke manier

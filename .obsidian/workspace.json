@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
+                "file": "telegraaf.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
+                "file": "telegraaf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
+                "file": "telegraaf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md"
+                "file": "telegraaf.md"
               }
             }
           }
@@ -158,9 +158,10 @@
   },
   "active": "b0d9780aa13e006c",
   "lastOpenFiles": [
-    "spreekbuismodel.md",
     "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
     "media zuilen.md",
+    "waarheidsvinding.md",
+    "spreekbuismodel.md",
     "penny press.md",
     "telegraaf.md",
     "rotatiepers.md",
@@ -189,7 +190,6 @@
     "Vakken/Taal en communicatie/Tentamens/Tentamenstof eindtentamen.md",
     "Vakken/Taal en communicatie/Tentamens/Tentamen 4 nov.md",
     "Vakken/Taal en communicatie/Tentamens/taal-en-communicatie-samenvatting-oefenvragen-met-antwoorden.pdf",
-    "Vakken/Taal en communicatie/Tentamens/Opnieuw opdrachten.md",
     "Vakken/Taal en communicatie/Tentamens/Oefententamen final 1 (zonder antwoorden).pdf",
     "Vakken/Taal en communicatie/Tentamenstof.jpeg",
     "Vakken/Taal en communicatie/Tentamens/Wat extra hulp om Grice te begrijpen - Copy.pdf",
