@@ -1,15 +1,11 @@
 ### beleefdheid (impoliteness/politeness)
 
-
 Indirectheid
-
 ### 2 soorten beleefdheid
 **[[Negative politeness]]**
 [[Indirecte]] [[taalhandelingen]]
 
 **[[Positive politeness]]**
-
-
 
 ### 2 basic needs
 - [[Positief gezicht]]
@@ -36,10 +32,9 @@ Gezichtsbedreigende [[taalhandelingen]] hebben een gewicht
 4. [[Off record]]
 5. don't do the FTA
 
-
 Conventionele indirect = on-record
 
-- soical distance
+- social distance
 - power distance
 - cultural ranking
 
@@ -50,7 +45,6 @@ Whether or not an utterance is experienced as polite or impolite is dependent on
 - mock impoliteness
 - impoliteness
 may be politic
-
 
 ### Later approaches
 3, b&l cannot deal very well with impoliteness: sometimes face threatening is exactly what the speaker wants to achieve.
@@ -75,3 +69,11 @@ mensen hebben behoefte aan een positief of [[negatief gezicht]]. Je kan een posi
 Door [[taalhandeling]] kan je positieve of negatieve gezicht bedreigen.
 
 je kan dit verzachten met [[positieve beleefdheid]],
+
+
+Polite vs politic
+
+
+Will you shut up man?
+- volgens politeness1 is het beleefd vraagt, ook al ervaar je niet aardig
+- 

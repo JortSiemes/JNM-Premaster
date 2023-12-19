@@ -16,3 +16,5 @@ Soms kost de interpretatie meer moeite (voorbeeld: ironie, [[metafoor]]) maar da
 Relevantie is iets compleet anders dan Grice & Neo-Gricean(Horn)
 Zonder context is het niet mogelijk om te zeggen wat de [[implicatuur]] is.
 
+[[implicatuur]]
+[[explicatuur]]
