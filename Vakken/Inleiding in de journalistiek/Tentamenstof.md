@@ -45,11 +45,12 @@ Wat moet je kunnen:
 1. Uitleggen hoe de krant een massamedium werd 
 door revoluties in het printen door de 'printing press', hierdoor werd de krant niet alleen toegankelijk voor de elite.
 3. Trends, oorzaken en oplossingen kennen m.b.t. de daling van de papieren oplages
-1950 tot 2000 tijd van grote stijging papieren krant
+1950 tot 2000 tijd van grote stijging papieren krant maar in de laatste 10 jaar is het toch afgenomen.
 5. Korte historie van de Nederlandse internetjournalistiek 
-6. Verdienmodellen voor internetjournalistiek
-7. Korte historie van de Nederlandse internetjournalistiek 
-8. Verdienmodellen voor internetjournalistiek
+
+1. Verdienmodellen voor internetjournalistiek
+2. Korte historie van de Nederlandse internetjournalistiek 
+3. Verdienmodellen voor internetjournalistiek
 
 
 
