@@ -41,7 +41,9 @@ Woordenlijst
 [[mediahype]]
 [[injectienaald]]
 [[cognitieve dissonantie]]
-
+[[performatieve discourse]]
+[[descriptieve discours]]
+[[I-pistemology]]
 
 
 ---

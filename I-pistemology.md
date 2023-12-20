@@ -1,0 +1,1 @@
+visie die erkent dat persoonlijke ervaring emoties en overtuigingn een rol spelen in hoe we de werkelijkeheid zien
