@@ -47,10 +47,11 @@ door revoluties in het printen door de 'printing press', hierdoor werd de krant 
 3. Trends, oorzaken en oplossingen kennen m.b.t. de daling van de papieren oplages
 1950 tot 2000 tijd van grote stijging papieren krant maar in de laatste 10 jaar is het toch afgenomen.
 5. Korte historie van de Nederlandse internetjournalistiek 
-
+Het Eindhovens Dagblad was de eerste met een online krant, kort daarna kwam nu.nl in 1999
 1. Verdienmodellen voor internetjournalistiek
-2. Korte historie van de Nederlandse internetjournalistiek 
-3. Verdienmodellen voor internetjournalistiek
+
+3. Korte historie van de Nederlandse internetjournalistiek 
+4. Verdienmodellen voor internetjournalistiek
 
 
 
