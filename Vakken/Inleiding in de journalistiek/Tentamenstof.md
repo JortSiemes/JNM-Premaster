@@ -35,7 +35,9 @@ Woordenlijst
 [[spreekbuismodel]]
 [[verschoningsrecht]]
 [[waarheidsvinding]]
-
+[[Trustee model]]
+[[Market model]]
+[[Code van bordeaux]]
 
 
 
