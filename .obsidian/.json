@@ -4,33 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "6b243a6aa8a6e698",
+        "id": "a003f842b3515db4",
         "type": "tabs",
         "children": [
           {
-            "id": "42d9b12032258403",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Student BS Instructions - USC.pdf"
-              }
-            }
-          },
-          {
-            "id": "37367c81c5fb02c3",
+            "id": "b0d9780aa13e006c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "846128038d8a1fbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 9 Inleiding in de Journalistiek.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "antecedent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md"
               }
             }
           }
@@ -167,52 +168,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37367c81c5fb02c3",
+  "active": "b0d9780aa13e006c",
   "lastOpenFiles": [
-    "Vakken/Taal en communicatie/Tentamens/Student BS Instructions - USC.pdf",
+    "Vakken/Taal en communicatie/Tentamens/taalencommunicatie_aantekeningenTentamen.docx",
+    "Vakken/Inleiding in de journalistiek/psA0FA.tmp",
     "conflict-files-obsidian-git.md",
-    "waarheidsvinding.md",
-    "telegraaf.md",
-    "spreekbuismodel.md",
-    "spindoctors.md",
-    "rotatiepers.md",
-    "penny press.md",
-    "media zuilen.md",
-    "Vakken/Taal en communicatie/Tentamens/tentmen2.docx",
-    "Vakken/Taal en communicatie/Tentamens/Tentamen Taal en communicatie .docx",
-    "Vakken/Taal en communicatie/Tentamens/Oefententamen final 2 (met antwoorden).pdf",
-    "Vakken/Taal en communicatie/Tentamens/Oefententamen final 1 (zonder antwoorden).pdf",
-    "Vakken/Taal en communicatie/Tentamens/BREEKWEEKTENTAMEN ANTWOORDMODEL 23 24 NEDERLANDS.pdf",
-    "Vakken/Taal en communicatie/Colleges/werkcollege3ppt.pdf",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/RedigeerOpdracht/Redigeeropdracht 2023.docx",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/RedigeerOpdracht/Redigeeropdracht 2023 (1).docx",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/RedigeerOpdracht/JortSiemes_4028198_104_Redigeeropdracht2023.docx",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 9 Inleiding in de Journalistiek.md",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 8 Inleiding in de Journalistiek.md",
     "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
-    "Politiek-publicitair complex.md",
-    "Mediatisering.md",
-    "Horse race reporting.md",
-    "Bandwagon-effect.md",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 6 Inleiding in de Journalistiek.md",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 5 Inleiding in de Journalistiek.md",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 4 Inleiding in de Journalistiek.md",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 3 Inleiding in de Journalistiek.md",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 2 Inleiding in de Journalistiek.md",
+    "Vakken/Inleiding in de journalistiek/Tijdlijn_Journalistiek.psd",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 1 Inleiding in de Journalistiek.md",
+    "Vakken/Taal en communicatie/Tentamens/Tentamenstof eindtentamen.md",
+    "Vakken/Taal en communicatie/Tentamens/Tentamen 4 nov.md",
+    "Vakken/Taal en communicatie/Tentamens/taal-en-communicatie-samenvatting-oefenvragen-met-antwoorden.pdf",
     "Vakken/Taal en communicatie/Tentamens/Opnieuw opdrachten.md",
+    "Vakken/Taal en communicatie/Tentamens/Oefententamen final 1 (zonder antwoorden).pdf",
+    "Vakken/Taal en communicatie/Tentamenstof.jpeg",
+    "Vakken/Taal en communicatie/Tentamens/Wat extra hulp om Grice te begrijpen - Copy.pdf",
+    "Vakken/Taal en communicatie/Tentamens/Vragen voor 30-10.md",
+    "Vakken/Taal en communicatie/Tentamens/Extra oefening Horn en Relevantietheorie.pdf",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 11 Inleiding in de Journalistiek.md",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Downloads - Shortcut.lnk",
+    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 10 Inleiding in de Journalistiek.md",
+    "Vakken/Taal en communicatie/Tentamens/~$ntamen Taal en communicatie .docx",
+    "Vakken/Taal en communicatie/Tentamens/Tentamen Taal en communicatie .docx",
+    "Vakken/Taal en communicatie/Tentamens/Niet bevestigd 488842.crdownload",
+    "Onderwerpen/antecedent.md",
+    "Vakken/Taal en communicatie/Colleges/Hoorcollege 5 Taal en communicatie.md",
+    "Onderwerpen/taalhandelingen.md",
+    "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
     "Vakken/Taal en communicatie/Colleges/Hoorcollege 11 Taal en communicatie.md",
-    "Vakken/Taal en communicatie/Colleges/Hoorcollege 7 Taal en communicatie.md",
+    "Vakken/Taal en communicatie/Colleges/Hoorcollege 9 Taal en communicatie.md",
+    "Vakken/Taal en communicatie/Colleges/Hoorcollege 8 Taal en communicatie.md",
     "Vakken/Taal en communicatie/Colleges/Werkcollege 2 taal en communicatie.md",
     "Vakken/Taal en communicatie/Colleges/Werkcollege 9 taal en communicatie.md",
-    "Vakken/Taal en communicatie/Tentamens/Tentamen 4 nov.md",
-    "Vakken/Taal en communicatie/Tentamens/Belangrijke stukken voor tentamen - TC.md",
-    "Vakken/Methoden en theorieen van Journalism Studies/Tentamen/Belangrijke stukken boek + Pagina nummer.md",
-    "Vakken/Taal en communicatie/Tentamens/Tentamenstof eindtentamen.md",
-    "Vakken/Taal en communicatie/Tentamens/Vragen voor 30-10.md",
-    "Vakken/Taal en communicatie/Colleges/Hoorcollege 8 Taal en communicatie.md",
-    "Onderwerpen/Negatief gezicht.md",
     "Vakken/Wetenschapsfilosofie/JortSiemes_Wetenschapfilo_StanleyKubrick.jpg",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/GroceryStore_FantasticmrFoxpixl.png",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/GroceryStore_FantasticmrFox.jpg",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/ECBbuilding2_PIXELATED.png",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/ECBbuilding2.jpg",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/ECBbuilding.jpg",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/NRC_logo.svg.png",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/Cover_Achtergrondartikel.png",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/1-1631190961.png",
-    "Vakken/Taal en communicatie/Tentamenstof.jpeg"
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/US_Yieldcurve.png",
+    "Vakken/Woorden als wapens/Weekopdrachten/Week 11/Screenshot3_controversieel.png",
+    "Vakken/Woorden als wapens/Weekopdrachten/Week 11/Screenshot2.png",
+    "Vakken/Woorden als wapens/Weekopdrachten/Week 11/Screenshot1.png",
+    "Vakken/Woorden als wapens/Weekopdrachten/Week 11/Conversation1.webp"
   ]
 }
