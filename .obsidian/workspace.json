@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "I-pistemology.md",
+                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "I-pistemology.md",
+                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "I-pistemology.md",
+                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "I-pistemology.md"
+                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md"
               }
             }
           }
@@ -158,8 +158,8 @@
   },
   "active": "f8250a47d077bbc7",
   "lastOpenFiles": [
-    "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
     "I-pistemology.md",
+    "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
     "descriptieve discours.md",
     "performatieve discourse.md",
     "Horse race reporting.md",
