@@ -43,11 +43,12 @@ Woordenlijst
 Wat moet je kunnen:
 
 1. Uitleggen hoe de krant een massamedium werd 
-2. Trends, oorzaken en oplossingen kennen m.b.t. de daling van de papieren oplages
-1. Korte historie van de Nederlandse internetjournalistiek 
-2. Verdienmodellen voor internetjournalistiek
-1. Korte historie van de Nederlandse internetjournalistiek 
-2. Verdienmodellen voor internetjournalistiek
+door revoluties in het printen door de 'printing press', hierdoor werd de krant niet alleen toegankelijk voor de elite.
+3. Trends, oorzaken en oplossingen kennen m.b.t. de daling van de papieren oplages
+4. Korte historie van de Nederlandse internetjournalistiek 
+5. Verdienmodellen voor internetjournalistiek
+6. Korte historie van de Nederlandse internetjournalistiek 
+7. Verdienmodellen voor internetjournalistiek
 
 
 

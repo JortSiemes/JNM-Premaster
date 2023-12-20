@@ -11,9 +11,11 @@
             "id": "42d9b12032258403",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Student BS Instructions - USC.pdf"
+                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Student BS Instructions - USC.pdf",
+                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Student BS Instructions - USC.pdf",
+                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Taal en communicatie/Tentamens/Student BS Instructions - USC.pdf"
+                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md"
               }
             }
           }
@@ -156,8 +158,8 @@
   },
   "active": "42d9b12032258403",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Vakken/Taal en communicatie/Tentamens/Student BS Instructions - USC.pdf",
+    "conflict-files-obsidian-git.md",
     "waarheidsvinding.md",
     "telegraaf.md",
     "spreekbuismodel.md",
