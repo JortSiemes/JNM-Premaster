@@ -541,7 +541,7 @@ Every journalist must be able to voice their personal sense of ethics and respon
 
 
 Klachten over journalistieke publicaties
-1. Rechter
+1. Rechtesr
 2. Raad voor de journalistiek
 3. Ombudsman van een medium
 
