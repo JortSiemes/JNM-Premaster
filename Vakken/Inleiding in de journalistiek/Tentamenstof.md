@@ -38,6 +38,7 @@ Woordenlijst
 [[Trustee model]]
 [[Market model]]
 [[Code van bordeaux]]
+[[mediahype]]
 
 
 
@@ -543,7 +544,7 @@ Every journalist must be able to voice their personal sense of ethics and respon
 
 
 Klachten over journalistieke publicaties
-1. Rechtesr
+1. Rechters
 2. Raad voor de journalistiek
 3. Ombudsman van een medium
 
