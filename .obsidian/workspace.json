@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "43c399aa3dedf39f",
+        "id": "a783e8dd20a98783",
         "type": "tabs",
         "children": [
           {
-            "id": "f8250a47d077bbc7",
+            "id": "daea9a13f52dd9db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
+                "file": "Tentamenstof Woorden als wapens.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
+                "file": "Tentamenstof Woorden als wapens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
+                "file": "Tentamenstof Woorden als wapens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md"
+                "file": "Tentamenstof Woorden als wapens.md"
               }
             }
           }
@@ -156,10 +156,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8250a47d077bbc7",
+  "active": "daea9a13f52dd9db",
   "lastOpenFiles": [
-    "I-pistemology.md",
+    "Tentamenstof Woorden als wapens.md",
+    "Vakken/Woorden als wapens/Tentamen",
     "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
+    "I-pistemology.md",
     "descriptieve discours.md",
     "performatieve discourse.md",
     "Horse race reporting.md",
@@ -191,9 +193,7 @@
     "Vakken/Taal en communicatie/Tentamens/BREEKWEEKTENTAMEN ANTWOORDMODEL 23 24 NEDERLANDS.pdf",
     "Vakken/Taal en communicatie/Colleges/werkcollege3ppt.pdf",
     "Vakken/Journalistieke en Redactionele Vaardigheden/RedigeerOpdracht/Redigeeropdracht 2023.docx",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/RedigeerOpdracht/Redigeeropdracht 2023 (1).docx",
     "Vakken/Taal en communicatie/Tentamens/Opnieuw opdrachten.md",
-    "Vakken/Taal en communicatie/Colleges/Hoorcollege 11 Taal en communicatie.md",
     "Vakken/Wetenschapsfilosofie/JortSiemes_Wetenschapfilo_StanleyKubrick.jpg",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/GroceryStore_FantasticmrFoxpixl.png",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/GroceryStore_FantasticmrFox.jpg",
