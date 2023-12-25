@@ -4,26 +4,100 @@ Literatuur:
 - Maris, B. van (2021). [[Er móét een verschil zijn. Waarom echte synoniemen niet bestaan]]. Onze Taal 90(10), 14-16. Beschikbaar via Brightspace. 
 - Sluiter, I. (2005). Maken en breken. Over taal, identiteit en minderheden. Rede (verkort) uitgesproken in de Pieterskerk, ter gelegenheid van de 430e Dies Natalis van de Universiteit Leiden, 8 februari 2005. Beschikbaar via Brightspace.
 
+#### Aantekeningen:
+Frame: een model/kader
+	descriptie & predictie
+	Heeft een 'interne logica' > stuurt aan op bepaalde interpretatie van een verschijnsel in de werkelijkheid.
 
 
 ## Week 2 (effecten formuleringskeuzes)
-Literatuur:
+
+#### Literatuur:
 Mos, M., & Kamoen, N. (2017). Een goede tennisser verliest geen wedstrijden: Twee reactietijdenstudies naar het effect van [[attribuutframing]] in standpunt-argumentparen. Tijdschrift voor Communicatiewetenschap, 45(3), 184-200.
 
 1. Discussiepunt; Mos en Kamoen maken als statement dat [[congruente]] standpuntargumentparen sneller en makkelijker te verwerven zijn dan incongruente paren. Echter denk ik dat dat van de context af hangt, en niet noodzakelijk valide is.
 2. De verschillende bewoording die ze Glennis Grace toeschrijven, zorgt voor een bepaalde [[framing]]. Door te zeggen dat ze er net naast grijpt, wordt men enthousiaster over Glennis Grace. Als er plat wordt gezegd dat ze verloren heeft, zal men de zangeres sneller negatief inschatten. Een positief frame, waar de NRC voor kiest, leidt dus tot een positievere evaluatie van de zangeres, die mee deed aan AGT. De formulering van de [[Telegraaf]] doet precies het tegenovergestelde. 
 
+#### Weekopdracht:
 Verschillende formulering; 
 a. Halsema in brief: ÔMijn zoon heeft een fout begaanÕ. 
 b. Zoon Halsema in juli opgepakt voor inbraak, burgemeester reageert in brief 
 Het effect van het gekozen frame van de [[telegraaf]] is dat het heel persoonlijk op Femke Halsema wordt geplakt. Nu formuleert het reageren van Halsema wat objectiever. Hierdoor heb je als persoon meer de tijd om je eigen oordeel over de situatie te vellen. De [[Telegraaf]] stuurt je door de formulering al in een bepaalde richting, waardoor je sneller op een negatieve manier naar de hele zaak rondom de zoon van Halsema kijkt. Voor de rest van het artikel geldt hetzelfde; NU houdt het iets afstandelijker dan dat de [[Telegraaf]] het houdt. De [[Telegraaf]] begint met hoe Halsema op haar vakantie beschrijft dat haar zoon een fout is begaan. Nu gaat erop in hoe Halsema in haar brief uithaalt naar De [[Telegraaf]]. Er wordt in deze minder aandacht besteed aan het feit dat de brief op vakantie is geschreven. 
 
+#### Aantekeningen:
+[[valence consistent shift]], verschijning die in positief frame word verteld lijdt dat tot een positiever verschil.
+
+AO = [[Argumentatieve Oriëntatie]]
+
+Het idee dat: Sprekers stemmen hun frame af op het standpunt dat zij willen verdedigen.
+
+Hoorders verwachten dit van sprekers: ze 'bewegen in de richting van de spreker'
+
+Voorbeeld:
+Als spreker ervanuit gaan dat de hoorder de standpunten naar afstemt
+
+Als lezers bij de interpretatie van frames daadwerkelijk gebruik maken van AO, dan zou de framekeuze ook gevolgen moeten hebben voor het verwerkingsproces van het frame.
+
+[[Hypotheses]]: [[congruente]] standpunt-argumentparen...
+	... zijn sneller te verwerken
+	... worden makkelijker als waar/onwaar beoordeeld
+
+sneller te beoordelen als [[valentie]] tussen standpunt en argument niet hetzelfde is.
+
+gaat het niet om een [[priming]]-effect = [[Priming]] is een effect dat woorden geassocieerd worden met andere woorden zoals winnen/gewonnen en wedstrijd.
+
+[[Gemarkeerdheid]]? (het benoemen van personen wat het inder onduidelijk maakt)
+
+---
 ## Week 3 (metafoortheorie)
-Literatuur:
+#### Literatuur:
 Lakoff, G., & Johnson, M. (1999). Leven in metaforen. Nijmegen: Uitgeverij SUN. HIERUIT: HOOFDSTUK 1 T/M 7 EN HOOFDSTUK 10 (dus: pp. 11-41 en 53-58). Beschikbaar via Brightspace. - Jansen, M. (2017). Het verleden ligt boven, de toekomst beneden. Kennislink, 23 maart 2017. https://www.nemokennislink.nl/publicaties/het-verledenligt-boven-de-toekomst-beneden/.
 
 1. De auteurs doen meerdere aannames in dit artikel. Het zit vol met stellingen als Òtijd is in onze cultuur een kostbaar goedÓ, waar kritisch naar gekeken kan worden. 	Daarbij wordt het begrip [[ontologische metaforen]] gentroduceerd, wat daarmee precies bedoelt wordt is mij nog niet helemaal duidelijk. 
-2. In deze wordt de oorlogsmetafoor aangehaald namelijk ÒDe ziekte dreigt te winnenÓ. Op deze manier zal er meer geld opgehaald kunnen worden. De vijand zal ons namelijk allemaal aan kunnen vallen, waardoor eerder geld gedoneerd zal worden. Echter wordt op deze manier ook gempliceerd dat je niet hard genoeg hebt gevochten, als je niet ÔwintÕ en dus aan aids/viv (over)lijdt. Dat is niet het geval; er valt in het ergste geval niets te verliezen zoals er in het tweede artikel van deze week werd gezegd. Hierdoor zal iemand met aids/hiv kritiek kunnen hebben op deze reclame. 	De [[metafoor]] die door Nienke Nieuwenhuizen wordt gebruikt is een transport [[metafoor]]. De talige uitdrukking is een verpakking, ideen zijn voorwerpen. Persoonlijk vind ik deze [[metafoor]] goed gekozen. Dementie is een lastig uitlegbaar begrip, omdat het in iemands hoofd gebeurd. Vaak gebeurd er aan de buitenkant niks, waardoor het een vrij abstract begrip kan zijn. Door deze [[metafoor]] wordt het tastbaar. 3. ÒLijkt Ôie nou meer op jou of op mij?Ó - Jumbo (https:// www.instagram.com/p/B0031VNhUxT/). In deze advertentie is er sprake van een personiÞcatie. De groentes worden tot persoon gemaakt, zodat ze op iemand kunnen lijken. Dit is passend bij deze advertentie omdat het de aandacht trekt. 
+2. In deze wordt de oorlogsmetafoor aangehaald namelijk ÒDe ziekte dreigt te winnenÓ. Op deze manier zal er meer geld opgehaald kunnen worden. De vijand zal ons namelijk allemaal aan kunnen vallen, waardoor eerder geld gedoneerd zal worden. Echter wordt op deze manier ook gempliceerd dat je niet hard genoeg hebt gevochten, als je niet ÔwintÕ en dus aan aids/viv (over)lijdt. Dat is niet het geval; er valt in het ergste geval niets te verliezen zoals er in het tweede artikel van deze week werd gezegd. Hierdoor zal iemand met aids/hiv kritiek kunnen hebben op deze reclame. 	
+
+#### Weekopdracht:
+De [[metafoor]] die door Nienke Nieuwenhuizen wordt gebruikt is een transport [[metafoor]]. De talige uitdrukking is een verpakking, ideen zijn voorwerpen. Persoonlijk vind ik deze [[metafoor]] goed gekozen. Dementie is een lastig uitlegbaar begrip, omdat het in iemands hoofd gebeurd. Vaak gebeurd er aan de buitenkant niks, waardoor het een vrij abstract begrip kan zijn. Door deze [[metafoor]] wordt het tastbaar. 3. ÒLijkt Ôie nou meer op jou of op mij?Ó - Jumbo (https:// www.instagram.com/p/B0031VNhUxT/). In deze advertentie is er sprake van een personiÞcatie. De groentes worden tot persoon gemaakt, zodat ze op iemand kunnen lijken. Dit is passend bij deze advertentie omdat het de aandacht trekt. 
+
+#### Aantekeningen:
+
+[[Metafoor]] theorie,
+
+'mapping': aspecten van bron domein, gebruiken als doel domein
+
+**Bron- en [[doeldomein]]**
+	Kennisinhoud en -structuur van het [[brondomein]] wordt overgedragen naar het [[doeldomein]]
+		De EU ([[doeldomein]]) is EEN BODEMLOZE PUT ([[brondomein]])
+		VOETBAL ([[doeldomein]]) IS OORLOG ([[brondomein]])
+
+| OORLOG (bron) | DISCUSSIE (doel)             |
+| ------------- | ---------------------------- |
+| Vijanden      | Deelnemers                   |
+| Aanvallen     | Ergens tegenin gaan          |
+| Verdedigen    | Je eigen standpunt aanhouden |
+| Overgeven     | Je eigen standpunt doorgeven |
+
+**Metaforen 'framen'**
+	Benadrukken en verhullen bepaalde aspecten
+		Voetbal is theater
+		Het ijzeren gordijn
+3. Ons conceptuele systeem is geworteld in onze [[directe]] fysieke en culturele ervaring.
+
+- Gelukkig is Boven; Droevig is Beneden
+	In hogere sferen zijn, opvrolijken, opgewekt humeur, terneergeslagen zijn, de moed zonk hemin de schoenen, ze leeft weer helemaal op
+
+[[Structuurmetaforen]]: gevallen waarin het ene concept een deel van de structuur van het andere concept bepaalt
+- tijd is geld
+
+[[Oriëntatiemetaforen]]: gevallen waarin concepten tot elkaar worden geordend op een manier die te maken heeft met oriëntatie in de ruimte
+- toekomst is vooruit
+
+[[Ontologische metaforen]]: gevallen waarin we kunstmatige begrenzingen opleggen (=> [[gebeurtenissen]], [[handelingen]], emoties, ideeën, etc. als entiteiten en substanties beschouwen)
+	Subtype: personificatie
+	- inflatie is een entiteit
+
+----
+
 ## Week 4 (metaforen en gezondheidscommunicatie)
 Literatuur:
 - Semino, E., Demjén, Z., Demmen, J., Koller, V., Payne, S., Hardie, A. & Rayson, P. (2017). The online use of Violence and Journey metaphors by patients with cancer, as compared with health professionals: a mixed methods study. BMJ Supportive & Palliative Care 7, 60-66. https://spcare.bmj.com/content/bmjspcare/7/1/60.full.pdf. 
@@ -31,14 +105,122 @@ Literatuur:
 - Metaphors and Covid-19. Health Communication 36(1), 50-58. 
 - Reijnierse, G. (2021). De ingewikkelde puzzel die corona heet. In N. van der Sijs, L. Fonteyn & M. van der Meulen (Reds.), Wat gebeurt er in het Nederlands?! Over taal, frequentie en variatie (pp. 211-215). Gorredijk: Sterck & De Vreese.
 
-1. In mijn beleving wordt de crisismetafoor het meest gebruikt in de troonreden, dit terwijl je het volk beter positief kan stemmen dan negatief. Ondanks dat er eufemisme wordt gebruikt, is er vaak een negatieve ondertoon aanwezig in alle metaforen. Is hier onderzoek naar gedaan? Klopt het dat je bij b andere metaforen moet noemen, en de conceptueel [[metafoor]] die niet noodzakelijk een crisismetafoor zijn? In het artikel worden naar mijn inziens enkel crisismetaforen behandeld, en deze moet je bij 2a al bespreken?  2. a. De crisismetaforen die Voituron en de Jong onderscheiden zijn ook terug te vinden in de troonreden van 2019. Ondanks dat het relatief goed gaat met Nederland op dit moment, heerst er een negatief aandoende ondertoon. -ÒVaak voeren we discussies aan de hand van cijfersÓ is de [[crisis]] als excuus, om op de nummers te focussen-ÒGoede voorzieningen kosten nu eenmaal geld, dat eerst moet worden verdiendÓ dit is de [[crisis]] als excuus, maar ook als aanleiding voor maatregelen waardoor men de bekritiseerde hoge belasting moet betalen-ÒDe vooruitzichten voor volgend jaar zijn nog altijd positiefÓ deze strategie is het hoop-frame-ÒMaar de realiteit is ook dat Nederland de komende jaren in een fase van gematigder groei komtÓ is de [[crisis]] als bedreiging, deze ligt op de loer waardoor er maatregelen getroûen moeten worden. b. In de troonrede zijn zeker nog andere metaforen te vinden, die niet terugslaan op de crisismetafoor. Denk aan het inclusief-wij; Nederland. Veel wordt in beeldspraak gedaan, het moet immers voor alle burgers duidelijk kunnen zijn wat er in de Troonrede op prinsjesdag wordt voorgelezen. c. De [[metafoor]] kan strategisch gekozen zijn, omdat het met de troonrede niet de bedoeling is om het volk negatief te stemmen. Een volk wat hoop houdt, daar kan je meer mee dan met een negatief gestemd volk. Een [[metafoor]] is dat Òde spelregels veranderen in snel tempoÓ - de landelijke hi rarchische verhoudingen (dit is een theorie en dus [[brondomein]]) als theorie worden hier gekoppeld aan een spel ([[doeldomein]]). Vrije wereldhandel wordt bedreigt door handelsconßicten, is een [[conceptuele metafoor]] gekoppeld aan onze [[directe]] fysieke ervaring. Wereldhandel staat boven, handelsconßicten beneden. De wereldhandel wordt dus bedreigt door de handelsconßicten. Het verschil tussen broer en [[doeldomein]] en mogelijke mappings is mij nog niet duidelijk. Ik moet dit nog inhalen, waardoor ik deze niet in de tekst kan aanwijzen.  Een [[metafoor]] is een conceptueel fenomeen dat abstracte domeinen (theorieen) koppelt aan concretere domeinen (gebouwen). Mapping is de verbinding tussen deze twee maken. 
+1. In mijn beleving wordt de crisismetafoor het meest gebruikt in de troonreden, dit terwijl je het volk beter positief kan stemmen dan negatief. Ondanks dat er eufemisme wordt gebruikt, is er vaak een negatieve ondertoon aanwezig in alle metaforen. Is hier onderzoek naar gedaan? Klopt het dat je bij b andere metaforen moet noemen, en de conceptueel [[metafoor]] die niet noodzakelijk een crisismetafoor zijn? In het artikel worden naar mijn inziens enkel crisismetaforen behandeld, en deze moet je bij 2a al bespreken?  
+2. a. De crisismetaforen die Voituron en de Jong onderscheiden zijn ook terug te vinden in de troonreden van 2019. Ondanks dat het relatief goed gaat met Nederland op dit moment, heerst er een negatief aandoende ondertoon. -ÒVaak voeren we discussies aan de hand van cijfersÓ is de [[crisis]] als excuus, om op de nummers te focussen-ÒGoede voorzieningen kosten nu eenmaal geld, dat eerst moet worden verdiendÓ dit is de [[crisis]] als excuus, maar ook als aanleiding voor maatregelen waardoor men de bekritiseerde hoge belasting moet betalen-ÒDe vooruitzichten voor volgend jaar zijn nog altijd positiefÓ deze strategie is het hoop-frame-ÒMaar de realiteit is ook dat Nederland de komende jaren in een fase van gematigder groei komtÓ is de [[crisis]] als bedreiging, deze ligt op de loer waardoor er maatregelen getroûen moeten worden. 
+b. In de troonrede zijn zeker nog andere metaforen te vinden, die niet terugslaan op de crisismetafoor. Denk aan het inclusief-wij; Nederland. Veel wordt in beeldspraak gedaan, het moet immers voor alle burgers duidelijk kunnen zijn wat er in de Troonrede op prinsjesdag wordt voorgelezen. 
+c. De [[metafoor]] kan strategisch gekozen zijn, omdat het met de troonrede niet de bedoeling is om het volk negatief te stemmen. Een volk wat hoop houdt, daar kan je meer mee dan met een negatief gestemd volk. Een [[metafoor]] is dat Òde spelregels veranderen in snel tempoÓ - de landelijke hi rarchische verhoudingen (dit is een theorie en dus [[brondomein]]) als theorie worden hier gekoppeld aan een spel ([[doeldomein]]). Vrije wereldhandel wordt bedreigt door handelsconßicten, is een [[conceptuele metafoor]] gekoppeld aan onze [[directe]] fysieke ervaring. Wereldhandel staat boven, handelsconßicten beneden. De wereldhandel wordt dus bedreigt door de handelsconßicten. Het verschil tussen broer en [[doeldomein]] en mogelijke mappings is mij nog niet duidelijk. Ik moet dit nog inhalen, waardoor ik deze niet in de tekst kan aanwijzen.  
 
+Een [[metafoor]] is een conceptueel fenomeen dat abstracte domeinen (theorieen) koppelt aan concretere domeinen (gebouwen). Mapping is de verbinding tussen deze twee maken. 
+
+
+#### Aantekeningen:
+
+[[structuurmetafoor]]
+
+[[oriëntatiemetafoor]]
+
+[[ontologische metafoor]]
+
+Metaforen sturen, framen
+
+Metaforen vs [[framing]]
+
+wat maakt een [[conceptuele metafoor]] effectief?
+a, [[doeldomein]] is abstract en complex
+b, [[brondomein]] is algemeen bekend, helder afgebakend en mensen kunen zich er een concrete en levendige voorstelling van maken.
+c, er zijn heldere, duidelijke mappings mogelijk tussen aspecten van het [[doeldomein]] en aspecten van het [[doeldomein]].
+
+---
 ## Week 5 (Perspectief)
 Literatuur:
 - Krieken, K. van, Sanders, J., & Hoeken, H. (2015). Viewpoint representation in journalistic crime narratives: An analysis of grammatical roles and referential expressions. Journal of Pragmatics, 88, 220-230.
 - Leeuwen, M. van, & Vliet, F. van. (2019). De ‘stem van het volk’: populisme en perspectief. Tijdschrift voor Taalbeheersing 41(1), 173-185.
 
-1. In de tekst wordt gesteld dat werken met enkel een codeur als nadeel heeft dat dit kan leiden tot idiosyncrasien in de analyse. Het is mij niet duidelijk wat hiermee wordt bedoeld, en wat er daadwerkelijk is gedaan om dit te voorkomen. 2. Verwijzingen in de tekst; 2) het land, 3) we, 4) onze medewerkers en fractieleden, 7) Nederland, 8) de mensen, wij, 10) mensen thuis, 11) mijn achterban, 15) we, 16) hij, 17) mensen, 18) ze en hem, 19) ouderen, 20) ze, 21) ze, 22) ze, 23) het kabinet, 24) werkenden, 25) zij, 39) mensen, 42) mensen, 44) ze, 45) mensen, 46) Nederland, 49) ouders, 50) jongeren, 53) ze Krol verwijst meerdere malen naar de kiezer, iedere keer zodra er ÔzeÕ of ÔmensenÕ wordt gezegd, zie bijlage voor de tabel. De kiezers krijgen weinig eigen perspectief. De kiezer worden verwoord als ze, de mensen thuis. Geen enkele keer komen de kiezers in [[directe]] reden zelf aan het woord. Die verantwoordelijkheid voor vorm en inhoud ligt grotendeels bij de verteller, in dit geval Krol. 
+1. In de tekst wordt gesteld dat werken met enkel een codeur als nadeel heeft dat dit kan leiden tot idiosyncrasien in de analyse. Het is mij niet duidelijk wat hiermee wordt bedoeld, en wat er daadwerkelijk is gedaan om dit te voorkomen. 
+2. Verwijzingen in de tekst; 2) het land, 3) we, 4) onze medewerkers en fractieleden, 7) Nederland, 8) de mensen, wij, 10) mensen thuis, 11) mijn achterban, 15) we, 16) hij, 17) mensen, 18) ze en hem, 19) ouderen, 20) ze, 21) ze, 22) ze, 23) het kabinet, 24) werkenden, 25) zij, 39) mensen, 42) mensen, 44) ze, 45) mensen, 46) Nederland, 49) ouders, 50) jongeren, 53) ze Krol verwijst meerdere malen naar de kiezer, iedere keer zodra er ÔzeÕ of ÔmensenÕ wordt gezegd, zie bijlage voor de tabel. De kiezers krijgen weinig eigen perspectief. De kiezer worden verwoord als ze, de mensen thuis. Geen enkele keer komen de kiezers in [[directe]] reden zelf aan het woord. Die verantwoordelijkheid voor vorm en inhoud ligt grotendeels bij de verteller, in dit geval Krol. 
+
+#### Aantekeningen:
+Perspectief
+
+Freek van Vliet: Perspectief
+verschillende invullingen
+1. grammaticale positie & pronominaal verwijzen: het subject van een zin en pronominale verwijzingen vormen resp. de 'lens' en het 'interne veld' van waaruit de informatie die in een zin beschreven staat, primair gerepresenteerd wordt.
+BOAT! - LAND! (perspectief), over wiens schouder kijk je mee 
+Literatuur 1 ()
+
+2. Speech and thought representation: het toeschrijven van gezichtspunten van personages in het discourse.
+	Hoe sprekend worden mensen opgevoerd
+De man zag de boot en was opgelucht. Hij zag iemand. (Impliciet perspectief)
+VS
+De man zag het eiland en was opgelucht: "yes, daar is iemand!"  ([[Directe]] rede)
+Literatuur 2 (populisme)
+##### Perspectief 1 - Van Krieken, Sanders & Hoeken
+'disturbing news events' nieuwe journalistieke trend om te schrijven over ervaringen van betrokkenen.
+Standaard nieuwsberichten: wie, wat, waar, wanneer, waarom
+Journalistieke narratieven:
+- het hoe staat centraal
+	- [[Gebeurtenissen]] in chronologische volgorde
+	- aandacht voor detail
+	- beschreven vanuit het perspectief van een ooggetuige
+- Lezer wordt mediated witness (lezer kan zich inleven en [[gebeurtenissen]] 'meebeleven')
+###### [[Hypotheses]]: Van Krieken, Sanders & Hoeken
+- in journalistieke narratieven verschijnen ooggetuigen van schokkende [[gebeurtenissen]] vaker in subjectpositie dan niet-ooggetuigen
+- in journalistieke narratieven wordt vaker met een voornaamwoord dan een naamwoord naar ooggetuigen verwezen, en naar niet-ooggetuigen vaker met een naamwoord dan een voornaamwoord.
+
+Bevindingen:
+- meer 'human interest' in journalistieke narratieven:
+	- a, aantal verwijzingen naar personen is in journalistieke narratieven significant hoger dan in nieuwsberichten
+	- b, waar in de nieuwsberichten beduidend meer met nomina dan met pronomina wordt verwezen, is die verhouding in journalistieke narratieven ongeveer 50/50
+- Hypothese 1 wordt bevestigd:
+	- a, aantal ooggetuigen in subjectpositie significant hoger
+- Hypothese 2 wordt bevestigd:
+	- a, nieuwsberichten vaker met voornaamwoord naar ooggetuigen verwezen.
+
+Stilistische technieken:
+1,
+2,
+3,
+
+Stilistische technieken
+
+Details; bordeaux rode auto
+Voornaamwoorden triggers de lezer (hierdoor word je in het verhaal gezogen)
+
+1: Perspectief, ze / hij / we (in deze tekst gebruikt de auteur veel ze en hij om over zowel de slachtoffers als de dader te praten. Waardoor je een stuk beter dit verhaal kan meebeleven.) Stilistische techniek 
+2: Emotie, geschrokken (maakt de tekst een stuk persoonlijker omdat we kunnen inleven in de gevoelens van de aanwezigen) Stilistische techniek 
+3: Cognitie, bibberend (lezer kan beter zich de situatie voor zich zien door dit soort extra stukjes informatie)
+
+##### Perspectief 2 - Van Leeuwen & Van Vliet
+Politicologisch onderzoek: 'people centrality' als maat voor populistisch gehalte van een politicus
+
+**conclusie**: je moet ook naar andere indicatoren kijken, zoals mate waarin kiezer eigen perspectief krijgt toegeschreven.
+- perspectief in termen van: 'speech and thought representation'
+
+Speech an thought representation: het toeshcrijven van gezichtspunten aan personages in het discours
+wie is verantwoordelijk voor de inhoud en vorm van de gepresenteerde informatie?
+
+##### Perspectiveringsschaal
+{Meest sterke perspectief, meest stem laten horen} 
+**[[Directe]] rede:** (zeiden tegen mij: we zijn grote tegenstanders van belastingverhoging)
+
+**VrijeIndirecte rede**: parafraseer je met dat zin (zeiden het zelf: ja, ze waren grote tegenstanders van belastingverhoging)
+
+**[[Indirecte]] rede:** (zeiden dat ze: 'grote tegenstanders van belastingverhoging waren')
+
+**impliciet perspectief:** (Henk en Ingrid: willen absoluut geen belastingverhoging)
+{minst sterk perspectief, minst stem laten horen}
+
+kan voorbeeld vinden tussen weekopdracht (dat je kan zien expliciet geformuleerde criteria)
+
+moet duiden naar inwoners!
+
+16 uitingen verwijzen naar de kiezer 44% van uitingen 16/36
+in 9 uitingen krijgt de kiezer een eigen perspectief
+in alle gevallen impliciet perspectief behalve uiting 7
+in het geanalyseerde tekstgedeelte krijgen kiezers (veel) meer een stem dan bij Wilders.
+
+---
+
 ## Week 6 (Taalintensiteit)
 Literatuur:
 Mulken, M. van, & Schellens, P.J. (2012): Over loodzware bassen en wapperende broekspijpen. Gebruik en perceptie van taalintensiverende middelen. Tijdschrift voor Taalbeheersing, 34(1), 26-53.
