@@ -32,6 +32,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tentamenstof Woorden als wapens.md",
+                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 6 Woorden als Wapens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tentamenstof Woorden als wapens.md",
+                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 6 Woorden als Wapens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tentamenstof Woorden als wapens.md"
+                "file": "Vakken/Woorden als wapens/Colleges/Werkcollege 6 Woorden als Wapens.md"
               }
             }
           }
@@ -169,11 +170,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "daea9a13f52dd9db",
+  "active": "363dc8d533dfb6b1",
   "lastOpenFiles": [
+    "Vakken/Woorden als wapens/Colleges/Werkcollege 7 Woorden als Wapens.md",
     "Vakken/Woorden als wapens/Colleges/Werkcollege 6 Woorden als Wapens.md",
-    "Vakken/Woorden als wapens/Colleges/Werkcollege 5 Woorden als Wapens.md",
     "Tentamenstof Woorden als wapens.md",
+    "Vakken/Woorden als wapens/Colleges/Werkcollege 5 Woorden als Wapens.md",
     "Vakken/Woorden als wapens/Colleges/Werkcollege 4 Woorden als Wapens.md",
     "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md",
     "Vakken/Woorden als wapens/Colleges/Werkcollege 2 Woorden als Wapens.md",
@@ -199,7 +201,6 @@
     "Vakken/Journalistieke en Redactionele Vaardigheden/RedigeerOpdracht/~$rtSiemes_4028198_104_Redigeeropdracht2023.docx",
     "Vakken/Taal en communicatie/Tentamens/Student BS Instructions - USC.pdf",
     "conflict-files-obsidian-git.md",
-    "waarheidsvinding.md",
     "Vakken/Taal en communicatie/Tentamens/tentmen2.docx",
     "Vakken/Taal en communicatie/Tentamens/Tentamen Taal en communicatie .docx",
     "Vakken/Taal en communicatie/Tentamens/Oefententamen final 2 (met antwoorden).pdf",
