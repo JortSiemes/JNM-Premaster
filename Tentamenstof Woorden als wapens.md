@@ -51,7 +51,8 @@ gaat het niet om een [[priming]]-effect = [[Priming]] is een effect dat woorden 
 ---
 ## Week 3 (metafoortheorie)
 #### Literatuur:
-Lakoff, G., & Johnson, M. (1999). Leven in metaforen. Nijmegen: Uitgeverij SUN. HIERUIT: HOOFDSTUK 1 T/M 7 EN HOOFDSTUK 10 (dus: pp. 11-41 en 53-58). Beschikbaar via Brightspace. - Jansen, M. (2017). Het verleden ligt boven, de toekomst beneden. Kennislink, 23 maart 2017. https://www.nemokennislink.nl/publicaties/het-verledenligt-boven-de-toekomst-beneden/.
+- Lakoff, G., & Johnson, M. (1999). Leven in metaforen. Nijmegen: Uitgeverij SUN. HIERUIT: HOOFDSTUK 1 T/M 7 EN HOOFDSTUK 10 (dus: pp. 11-41 en 53-58). Beschikbaar via Brightspace. 
+- Jansen, M. (2017). Het verleden ligt boven, de toekomst beneden. Kennislink, 23 maart 2017. https://www.nemokennislink.nl/publicaties/het-verledenligt-boven-de-toekomst-beneden/.
 
 1. De auteurs doen meerdere aannames in dit artikel. Het zit vol met stellingen als Òtijd is in onze cultuur een kostbaar goedÓ, waar kritisch naar gekeken kan worden. 	Daarbij wordt het begrip [[ontologische metaforen]] gentroduceerd, wat daarmee precies bedoelt wordt is mij nog niet helemaal duidelijk. 
 2. In deze wordt de oorlogsmetafoor aangehaald namelijk ÒDe ziekte dreigt te winnenÓ. Op deze manier zal er meer geld opgehaald kunnen worden. De vijand zal ons namelijk allemaal aan kunnen vallen, waardoor eerder geld gedoneerd zal worden. Echter wordt op deze manier ook gempliceerd dat je niet hard genoeg hebt gevochten, als je niet ÔwintÕ en dus aan aids/viv (over)lijdt. Dat is niet het geval; er valt in het ergste geval niets te verliezen zoals er in het tweede artikel van deze week werd gezegd. Hierdoor zal iemand met aids/hiv kritiek kunnen hebben op deze reclame. 	
