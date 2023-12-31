@@ -11,8 +11,12 @@
             "id": "aa83ec471d72cced",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md"
+              }
             }
           }
         ],
@@ -150,6 +158,7 @@
   },
   "active": "aa83ec471d72cced",
   "lastOpenFiles": [
+    "Vakken/Woorden als wapens/COLLECTIE FILE Woorden als wapens.md",
     "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
     "conflict-files-obsidian-git.md",
     "performatieve discourse.md",
@@ -185,7 +194,6 @@
     "spindoctors.md",
     "media zuilen.md",
     "waarheidsvinding.md",
-    "rotatiepers.md",
     "Vakken/Taal en communicatie/Tentamenstof.jpeg",
     "Vakken/Wetenschapsfilosofie/JortSiemes_Wetenschapfilo_StanleyKubrick.jpg",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/NRC_logo.svg.png",
