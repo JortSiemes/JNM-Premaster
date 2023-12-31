@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a003f842b3515db4",
+        "id": "25a8810a43f3e026",
         "type": "tabs",
         "children": [
           {
-            "id": "b0d9780aa13e006c",
+            "id": "aa83ec471d72cced",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -156,10 +148,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0d9780aa13e006c",
+  "active": "aa83ec471d72cced",
   "lastOpenFiles": [
-    "Onderwerpen/Market model.md",
     "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
+    "conflict-files-obsidian-git.md",
+    "performatieve discourse.md",
+    "mediahype.md",
+    "injectienaald.md",
+    "descriptieve discours.md",
+    "cognitieve dissonantie.md",
+    "Vakken/Woorden als wapens/Literatuur/Week 9_Voornaamwoorden/1-s2.0-S0378216611001755-main.pdf",
+    "Vakken/Woorden als wapens/Literatuur/Week 9_Voornaamwoorden",
+    "Vakken/Woorden als wapens/Literatuur/Week 8_Naamwoordstijl/1993_Onrust-Verhagen-Doeve_Formuleren_H5-Naamwoordstijl.pdf",
+    "Vakken/Woorden als wapens/Literatuur/Week 8_Naamwoordstijl/06-A.-Bolt-W.-Spooren-2003-De-complexiteit-van-naamwoordstijl-de-gesubstantiveerde-infinitief-experimenteel-onderzocht-pp.71-82.pdf",
+    "Vakken/Woorden als wapens/Literatuur/Week 8_Naamwoordstijl",
+    "Vakken/Woorden als wapens/Literatuur/Week 7_LijdendeVorm/1993_Onrust-Verhagen-Doeve_Formuleren_H4-LijdendeVorm.pdf",
+    "Vakken/Woorden als wapens/Literatuur/Week 7_LijdendeVorm",
+    "Vakken/Woorden als wapens/Literatuur/Week 6_Taalintensiteit/OverLoodzwareBassenEnWapperendeBroekspijpen.pdf",
+    "Vakken/Woorden als wapens/Literatuur/Week 6_Taalintensiteit",
+    "Vakken/Woorden als wapens/Literatuur/Week 5_Perspectief/Viewpointrepresentationinjournalisticcrimenarratives_Krieken_Sanders_Hoeken.pdf",
+    "Tentamenstof Woorden als wapens.md",
+    "I-pistemology.md",
+    "Code van bordeaux.md",
+    "Onderwerpen/Market model.md",
     "Onderwerpen/Trustee model.md",
     "Onderwerpen/verschoningsrecht.md",
     "spreekbuismodel.md",
@@ -175,26 +186,7 @@
     "media zuilen.md",
     "waarheidsvinding.md",
     "rotatiepers.md",
-    "Bandwagon-effect.md",
-    "Politiek-publicitair complex.md",
-    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Politieke journalistiek.pdf",
-    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Politieke journalistiek.pdf.crdownload",
-    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 11 Inleiding in de Journalistiek.md",
-    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 10 Inleiding in de Journalistiek.md",
-    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 9 Inleiding in de Journalistiek.md",
-    "Vakken/Taal en communicatie/Tentamens/taalencommunicatie_aantekeningenTentamen.docx",
-    "Vakken/Inleiding in de journalistiek/psA0FA.tmp",
-    "conflict-files-obsidian-git.md",
-    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 8 Inleiding in de Journalistiek.md",
-    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 6 Inleiding in de Journalistiek.md",
-    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 5 Inleiding in de Journalistiek.md",
-    "Vakken/Inleiding in de journalistiek/Tijdlijn_Journalistiek.psd",
-    "Vakken/Taal en communicatie/Tentamens/taal-en-communicatie-samenvatting-oefenvragen-met-antwoorden.pdf",
-    "Vakken/Taal en communicatie/Tentamens/Oefententamen final 1 (zonder antwoorden).pdf",
     "Vakken/Taal en communicatie/Tentamenstof.jpeg",
-    "Vakken/Taal en communicatie/Tentamens/Wat extra hulp om Grice te begrijpen - Copy.pdf",
-    "Vakken/Taal en communicatie/Tentamens/Extra oefening Horn en Relevantietheorie.pdf",
-    "Vakken/Inleiding in de journalistiek/Hoorcolleges/Downloads - Shortcut.lnk",
     "Vakken/Wetenschapsfilosofie/JortSiemes_Wetenschapfilo_StanleyKubrick.jpg",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/NRC_logo.svg.png",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/Cover_Achtergrondartikel.png",

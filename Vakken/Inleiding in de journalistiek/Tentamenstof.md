@@ -35,19 +35,28 @@ Woordenlijst
 [[spreekbuismodel]]
 [[verschoningsrecht]]
 [[waarheidsvinding]]
-
-
+[[Trustee model]]
+[[Market model]]
+[[Code van bordeaux]]
+[[mediahype]]
+[[injectienaald]]
+[[cognitieve dissonantie]]
+[[performatieve discourse]]
+[[descriptieve discours]]
+[[I-pistemology]]
 
 
 ---
 Wat moet je kunnen:
 
 1. Uitleggen hoe de krant een massamedium werd 
-2. Trends, oorzaken en oplossingen kennen m.b.t. de daling van de papieren oplages
-1. Korte historie van de Nederlandse internetjournalistiek 
-2. Verdienmodellen voor internetjournalistiek
-1. Korte historie van de Nederlandse internetjournalistiek 
-2. Verdienmodellen voor internetjournalistiek
+door revoluties in het printen door de 'printing press', hierdoor werd de krant niet alleen toegankelijk voor de elite.
+3. Trends, oorzaken en oplossingen kennen m.b.t. de daling van de papieren oplages
+1950 tot 2000 tijd van grote stijging papieren krant maar in de laatste 10 jaar is het toch afgenomen.
+5. Korte historie van de Nederlandse internetjournalistiek 
+Het Eindhovens [[Dagblad]] was de eerste met een online krant, kort daarna kwam nu.nl in 1999
+1. Verdienmodellen voor internetjournalistiek
+Advertenties, abonnement, pay per view,
 
 
 
@@ -71,12 +80,12 @@ Uitvinding: is ontstaan van nieuwe technologie, bijvoorbeeld goedkopere of snell
 	[[Telegraaf]]: 
 
 Innovatie: Nieuwe producten of diensten die voorheen nog niet bestonden.
-	- **[[Dagblad]]**, door de [[telegraaf]] kregen kranten de kans dagelijk veel nieuws konden publiceren.
+	- **[[Dagblad]]**, door de [[telegraaf]] kregen kranten de kans dagelijks veel nieuws konden publiceren.
 	- **[[Persbureaus]]:** kranten die samenwerkte om nieuws te delen, bezig met verzamelen van nieuws en vervolgens verspreidden.
 	- **[[Journalistieke objectiviteit]]**, voorheen niet objectief nu stuk neutraler, kop moet duidelijk maken wat het nieuws is, eerste alinea heeft belangrijkste nieuws.
 	- krantenkop
 
-Persvrijheid pas ontstaan halverwege 19e eeuw
+**Persvrijheid pas ontstaan halverwege 19e eeuw**
 
 Kranten op broadsheet formaat
 
@@ -133,6 +142,7 @@ Krantuitgevers landelijk:
 	DPG Media 
 	Mediahuis
 	FD Mediagroep
+- weinig concurrentie hierdoor
 
 Krantuitgevers regionaal:
 	DPG Media 
@@ -509,7 +519,7 @@ patroon van mediahypes
 3. Lager nieuwsdrempel (nu is al het nieuws over dit thema stuk interessanter)
 4. Feedback loops
 
-kenmerken mediahype
+kenmerken [[mediahype]]
 
 # Journalistieke [[ethiek]]
 Journalistieke [[ethiek]]
@@ -539,7 +549,7 @@ Every journalist must be able to voice their personal sense of ethics and respon
 
 
 Klachten over journalistieke publicaties
-1. Rechter
+1. Rechters
 2. Raad voor de journalistiek
 3. Ombudsman van een medium
 

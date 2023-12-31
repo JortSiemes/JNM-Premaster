@@ -1,0 +1,1 @@
+publiek kan beinvloed direct worden door media
