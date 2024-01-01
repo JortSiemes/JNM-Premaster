@@ -359,11 +359,11 @@ _Ik ben ‘weer’ alleen_ _à je bent als eens eerder alleen geweest_
 
 Zit vast aan de waarheidsvoorwaarden van een uiting à is in 100% van de gevallen waar
 
-Als uiting X waar is en Y is de [[entailment]] van X, dan is Y noodzakelijkerwijs ook altijd waar.
+Als uiting X waar is en Y is de [[Entailment]] van X, dan is Y noodzakelijkerwijs ook altijd waar.
 
 Kan niet geannuleerd worden
 
-_John ate 3 cookies_ _à [[entailment]]: hij heeft er ook 1 en 2 gegeten. + Someone ate 3 cookies_
+_John ate 3 cookies_ _à [[Entailment]]: hij heeft er ook 1 en 2 gegeten. + Someone ate 3 cookies_
 
 _àAnnuleren dat John geen 1 en 2 koekjes heeft gegeven is onmogelijk_
 
@@ -371,7 +371,7 @@ Overleeft negatie niet.
 
 _John didn’t eat 3 cookies_
 
-_à [[entailment]] (1,2 koekjes) komt te vervallen_
+_à [[Entailment]] (1,2 koekjes) komt te vervallen_
 
 Beleefdheidstheorie
 

@@ -77,7 +77,7 @@ Houtpulp heeft de materialen om papier te maken veel goedkoper gemaakt.
 Morsecode gaf het nieuws door via draden, waardoor je nieuws sneller en makkelijker kan verspreidden. 
 
 Uitvinding: is ontstaan van nieuwe technologie, bijvoorbeeld goedkopere of snellere manier.
-	[[Telegraaf]]: 
+	[[telegraaf]]: 
 
 Innovatie: Nieuwe producten of diensten die voorheen nog niet bestonden.
 	- **[[Dagblad]]**, door de [[telegraaf]] kregen kranten de kans dagelijks veel nieuws konden publiceren.
@@ -115,7 +115,7 @@ tot jaren 70 100% van huishoudens een krant.
 Voor 2006 werden er meer regionale kranten gelezen dan landelijk, daarna meer landelijk.
 
 metro
-spits (eigendom [[Telegraaf]] mediagroep)
+spits (eigendom [[telegraaf]] mediagroep)
 pers
 dag
 
@@ -173,7 +173,7 @@ Journalistieke Code
 4 zuilen
 katholiek, Protestant, Socialistisch, Liberaal
 
-- [[Spreekbuismodel]], vooral informeren binnen eigen zuil.
+- [[spreekbuismodel]], vooral informeren binnen eigen zuil.
 
 1951: Start televisie in Nederland
 ANP werd ingehuurd om journaal te faciliteren, NTS deed de algemene uitzendingen -> later NOS
@@ -343,7 +343,7 @@ omschrijven wat het maatschappelijke probleem nou eigenlijk is.
 - publiek als consument
 - nieuws als commercieel product
 
-#### [[Spreekbuismodel]]
+#### [[spreekbuismodel]]
 - eigen zuil als drijfveer
 - doel: educatie en socialisatie
 - publiek als lid van de zuil
@@ -636,11 +636,11 @@ op basis van statistiek heel makkelijk om artikel te maken
 
 # Politieke journalistiek
 
-**Van elkaar afhankelijk:** [[politiek-publicitair complex]]
+**Van elkaar afhankelijk:** [[Politiek-publicitair complex]]
 Politici/politieke partijen hebben journalisten/media nodig om aandacht te krijgen: om een bekende naam te worden, om een bepaald imago te krijgen, om ideeën bekendheid te geven, om proefballon te lanceren, om standpunten duidelijk te maken, etc.
 Journalisten/media hebben politici/politieke partijen nodig om aan nieuws te komen: quotes te krijgen, interviews te krijgen met populaire politici, uitzendingen te vullen, etc.
 
-[[Spindoctors]]
+[[spindoctors]]
 
 Afgelopen jaren regelmatig discussie over en kritiek op de politieke journalistiek en kwaliteit van de politieke berichtgeving. Kritiek richt zich vaak op vier punten: 
 1. Popularisering 

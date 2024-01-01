@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aa83ec471d72cced",
+            "id": "e1ab7eb5ca05640d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md",
+                "file": "Vakken/Woorden als wapens/Tentamenstof Woorden als wapens.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md",
+                "file": "Vakken/Woorden als wapens/Tentamenstof Woorden als wapens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md",
+                "file": "Vakken/Woorden als wapens/Tentamenstof Woorden als wapens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md"
+                "file": "Vakken/Woorden als wapens/Tentamenstof Woorden als wapens.md"
               }
             }
           }
@@ -156,44 +156,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa83ec471d72cced",
+  "active": "e1ab7eb5ca05640d",
   "lastOpenFiles": [
+    "Vakken/Woorden als wapens/Literatuur/Week 7_LijdendeVorm/Slides college 7 (lijdende vorm).pdf",
+    "Vakken/Woorden als wapens/Literatuur/Week 7_LijdendeVorm/Slides college 7 (lijdende vorm).pdf.crdownload",
+    "Vakken/Woorden als wapens/Literatuur/Week 6_Taalintensiteit/Slides college 6 (Taalintensiteit).pdf",
+    "Vakken/Woorden als wapens/Literatuur/Week 6_Taalintensiteit/Slides college 6 (Taalintensiteit).pdf.crdownload",
+    "Vakken/Woorden als wapens/Literatuur/Week 5_Perspectief/Slides college 5 (Perspectief).pdf",
+    "Vakken/Woorden als wapens/Literatuur/Week 5_Perspectief/Slides college 5 (Perspectief).pdf.crdownload",
+    "Vakken/Woorden als wapens/Literatuur/Week4_Metaforen_Gezondheidscommunicatie/Slides college 4 (metaforen & gezondheidscommunicatie).pdf",
+    "Vakken/Woorden als wapens/Literatuur/Week4_Metaforen_Gezondheidscommunicatie/Slides college 4 (metaforen & gezondheidscommunicatie).pdf.crdownload",
+    "Vakken/Woorden als wapens/Literatuur/Week4_Metaforen_Gezondheidscommunicatie",
+    "Vakken/Woorden als wapens/Literatuur/New folder",
+    "Vakken/Woorden als wapens/Literatuur/Week 3_Metafoortheorie/03 Slides college 3 (Metaforentheorie).pdf",
+    "Onderwerpen/waarheidsvinding.md",
+    "Onderwerpen/Bandwagon-effect.md",
+    "Vakken/Woorden als wapens/Tentamenstof Woorden als wapens.md",
+    "Vakken/Woorden als wapens/Untitled.md",
     "Vakken/Woorden als wapens/COLLECTIE FILE Woorden als wapens.md",
+    "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md",
     "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
     "conflict-files-obsidian-git.md",
-    "performatieve discourse.md",
-    "mediahype.md",
-    "injectienaald.md",
-    "descriptieve discours.md",
-    "cognitieve dissonantie.md",
-    "Vakken/Woorden als wapens/Literatuur/Week 9_Voornaamwoorden/1-s2.0-S0378216611001755-main.pdf",
-    "Vakken/Woorden als wapens/Literatuur/Week 9_Voornaamwoorden",
-    "Vakken/Woorden als wapens/Literatuur/Week 8_Naamwoordstijl/1993_Onrust-Verhagen-Doeve_Formuleren_H5-Naamwoordstijl.pdf",
-    "Vakken/Woorden als wapens/Literatuur/Week 8_Naamwoordstijl/06-A.-Bolt-W.-Spooren-2003-De-complexiteit-van-naamwoordstijl-de-gesubstantiveerde-infinitief-experimenteel-onderzocht-pp.71-82.pdf",
-    "Vakken/Woorden als wapens/Literatuur/Week 8_Naamwoordstijl",
-    "Vakken/Woorden als wapens/Literatuur/Week 7_LijdendeVorm/1993_Onrust-Verhagen-Doeve_Formuleren_H4-LijdendeVorm.pdf",
-    "Vakken/Woorden als wapens/Literatuur/Week 7_LijdendeVorm",
-    "Vakken/Woorden als wapens/Literatuur/Week 6_Taalintensiteit/OverLoodzwareBassenEnWapperendeBroekspijpen.pdf",
-    "Vakken/Woorden als wapens/Literatuur/Week 6_Taalintensiteit",
-    "Vakken/Woorden als wapens/Literatuur/Week 5_Perspectief/Viewpointrepresentationinjournalisticcrimenarratives_Krieken_Sanders_Hoeken.pdf",
-    "Tentamenstof Woorden als wapens.md",
-    "I-pistemology.md",
-    "Code van bordeaux.md",
+    "Onderwerpen/performatieve discourse.md",
+    "Onderwerpen/mediahype.md",
+    "Onderwerpen/injectienaald.md",
+    "Onderwerpen/descriptieve discours.md",
+    "Onderwerpen/cognitieve dissonantie.md",
+    "Onderwerpen/I-pistemology.md",
+    "Onderwerpen/Code van bordeaux.md",
     "Onderwerpen/Market model.md",
     "Onderwerpen/Trustee model.md",
     "Onderwerpen/verschoningsrecht.md",
-    "spreekbuismodel.md",
+    "Onderwerpen/spreekbuismodel.md",
     "Notities Dagelijk/September/2023-09-18.md",
-    "penny press.md",
+    "Onderwerpen/penny press.md",
     "Onderwerpen/Journalistieke objectiviteit.md",
     "Onderwerpen/Persbureaus.md",
     "Onderwerpen/Dagblad.md",
-    "Mediatisering.md",
-    "telegraaf.md",
-    "Horse race reporting.md",
-    "spindoctors.md",
-    "media zuilen.md",
-    "waarheidsvinding.md",
+    "Onderwerpen/Mediatisering.md",
     "Vakken/Taal en communicatie/Tentamenstof.jpeg",
     "Vakken/Wetenschapsfilosofie/JortSiemes_Wetenschapfilo_StanleyKubrick.jpg",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/NRC_logo.svg.png",
