@@ -102,8 +102,7 @@ De [[metafoor]] die door Nienke Nieuwenhuizen wordt gebruikt is een transport [[
 ## Week 4 (metaforen en gezondheidscommunicatie)
 Literatuur:
 - Semino, E., Demjén, Z., Demmen, J., Koller, V., Payne, S., Hardie, A. & Rayson, P. (2017). The online use of Violence and Journey metaphors by patients with cancer, as compared with health professionals: a mixed methods study. BMJ Supportive & Palliative Care 7, 60-66. https://spcare.bmj.com/content/bmjspcare/7/1/60.full.pdf. 
-- Semino, E. (2021). “Not Soldiers but Fire Fighters” 
-- Metaphors and Covid-19. Health Communication 36(1), 50-58. 
+- Semino, E. (2021). “Not Soldiers but Fire Fighters” - Metaphors and Covid-19. Health Communication 36(1), 50-58. 
 - Reijnierse, G. (2021). De ingewikkelde puzzel die corona heet. In N. van der Sijs, L. Fonteyn & M. van der Meulen (Reds.), Wat gebeurt er in het Nederlands?! Over taal, frequentie en variatie (pp. 211-215). Gorredijk: Sterck & De Vreese.
 
 1. In mijn beleving wordt de crisismetafoor het meest gebruikt in de troonreden, dit terwijl je het volk beter positief kan stemmen dan negatief. Ondanks dat er eufemisme wordt gebruikt, is er vaak een negatieve ondertoon aanwezig in alle metaforen. Is hier onderzoek naar gedaan? Klopt het dat je bij b andere metaforen moet noemen, en de conceptueel [[metafoor]] die niet noodzakelijk een crisismetafoor zijn? In het artikel worden naar mijn inziens enkel crisismetaforen behandeld, en deze moet je bij 2a al bespreken?  
