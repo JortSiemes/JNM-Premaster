@@ -231,6 +231,10 @@ Mulken, M. van, & Schellens, P.J. (2012): Over loodzware bassen en wapperende br
 Literatuur:
 - Onrust, M., Verhagen, A., & Doeve, R. (1993). Formuleren. Houten [etc.]: Bohn Stafleu Van Loghum. HIERUIT: hoofdstuk 4, pp. 83-110. Beschikbaar via https://www.arieverhagen.nl/nederlands/nederlandstalige-publicaties/#1993.
 
+Hulpwerkwoord + Voltooid deelwoord
+ik heb ook heel veel
+
+
 1. In de conclusie wordt gesteld dat de herschreven tekst duidelijk en directer is geworden, echter wordt er daarvoor in de tekst omschreven hoe niet direct de [[lijdende vorm]] is. Dit spreekt elkaar dus tegen. Daarbij wordt gesuggereerd dat het een zakelijk karakter heeft behouden, of versterkt. Dit lijkt een vrij bot standpunt te zijn, waarover een discussie gestart kan worden aangezien dit op gevoel is gezegd en weinig is onderbouwt met tekstuele voorbeelden.
 2. Het tasje werd gepakt en er werd in gekeken. Toen verdween er een hand in het tasje. Hij Kwan eruit met een aardappel. De aardappel werd bekeken. Het tasje werd omgekeerd op het bed. De hand met de aardappel werd opgetild en naar de muur bewogen.
 - Dit is allemaal in de [[lijdende vorm]] geschreven. Het effect hiervan is dat de vrouw niet toerekeningsvatbaar wordt geacht, daarbij geeft het ook de absurdheid van het tafereel aan. Er zijn ook andere taalmiddelen in deze passage die bijdragen aan hetzelfde effect als de [[lijdende vorm]], dit is dat het in de verleden tijd is geschreven waardoor het verder van je afstaat alsof iemand erop terug blikt. De plaatsen in de tekst waar het begint is in regel 66, het eindigt bij regel 84. Dit is de gehele scene van de vrouw met de aardappel, en welk effect dit heeft. Deze plaats zal hierdoor wellicht als functioneel kunnen worden gezien. 
