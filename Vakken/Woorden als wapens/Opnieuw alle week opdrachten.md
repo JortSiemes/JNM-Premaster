@@ -177,6 +177,27 @@ De opstelling van Marijnissen en Ploumen in de APB van 2021
 In de bijlagen is een deel van de bijdragen van Lilian Marijnissen (SP) en Lilianne Ploumen (PvdA) tijdens de Algemene Politieke Beschouwingen van 2021 opgenomen. Maak een stilistische analyse van beide toespraken. 
 a. Maak een lijstje van stijlmiddelen die Van Leeuwen (2015) onderscheidt. 
 
+Inclusief/exclusief 'we'
+
+**Kiezers centraal stellen**
+kiezer als subject
+grammaticale positie kiezer
+wel/niet verwijzen naar kiezer
+
+**Toegankelijk taalgebruik**
+Jargon
+inferenties expliciteren
+concreet taalgebruik
+- concrete/abstracte naamwoorden
+- individuen opvoeren als representatief voor grotere groep
+- veelzeggende details
+- citaten
+
+**Negatieve bejegening**
+Pejoratieve metaforen en vergelijkingen
+werkwoorden met negatieve connotatie
+verkleinwoorden met pejoratief effect
+aanspreken bij voornaam
 
 
 b. Welk van deze stijlmiddelen zie je terugkomen in onderstaande passages van Marijnissen en Ploumen? Geef steeds concrete voorbeelden (verwijs naar specifieke regelnummers). 
