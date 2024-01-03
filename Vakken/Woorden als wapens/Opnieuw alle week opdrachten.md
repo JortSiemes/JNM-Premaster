@@ -108,7 +108,7 @@ effect lijdende vorm hier: in dit stuk worden de acties van de handelende person
 
 b) Zijn er ook andere taalmiddelen in deze passage die bijdragen aan hetzelfde effect als de lijdende vorm? Zo ja, welke? 
 
-
+ 
 
 
 
