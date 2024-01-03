@@ -152,4 +152,22 @@ Huisregels van de SHR
 [8] Het gebruik van mobiele telefoons is niet toegestaan. a. Maak in de tekst gevallen van naamwoordstijl groen, en maak de lijdende vormen geel. b. Beoordeel de verschillende gevallen van naamwoordstijl en lijdende vorm: in hoeverre zijn deze strategisch te noemen? Leg uit.
 
 
+Week 9:
+
+Voornaamwoorden in de Kersttoespraak van koning Willem-Alexander (2017) 
+Onderstaande fragmenten zijn afkomstig uit de kersttoespraak van koning Willem- Alexander uit 2017 (25 december 2017). 
+a) Maakt de koning in onderstaande fragmenten strategisch gebruik van voornaamwoorden? Zo ja, hoe precies? Leg uit. 
+
+De koning maakt twee belangrijke strategische keuzes met voornaamwoorden
+- het gebruik van ik, dit maakt de tekst een heel stuk persoonlijker
+- het gebruik van inclusief we, de koning spreekt Nederland toe maar door het gebruik van we en ons krijgen we het gevoel meer een grote groep te zijn wat ook samenhorigheid kan bevorderen. 
+
+b) In de eerste zin maakt de koning gebruik van naamwoordstijl, terwijl hij eigenlijk zijn eigen situatie beschrijft (zoals blijkt uit zin 2). Waar in de openingszin zie je precies naamwoordstijl? Leg kort uit. En hoe zou je dit gebruik van de naamwoordstijl kunnen verklaren? Betrek in de beantwoording van deze laatste vraag inzichten uit Onrust, Doeve en Verhagen (1993) (zie het college over naamwoordstijl). 
+
+is een geschenk
+
+Kersttoespraak koning Willem Alexander (fragmenten) Gezond vijftig worden en dat met heel veel mensen samen mogen vieren **is** een fantastisch **geschenk**. **Ik** ben dankbaar dat **ik** dat dit jaar heb mogen beleven. […] Het kleine en persoonlijke raakt met Kerstmis aan het grote en gemeenschappelijke. Dit zijn dagen waarin **we** beschutting zoeken, thuis of bij familie en vrienden. Voor even de onzekere wereld buitensluiten. Even niets anders aan het hoofd dan Stille Nacht of de Top 2000. Maar hoezeer **we ons** ook behaaglijk terugtrekken in eigen kring, de buitenwereld roert zich achter de ruiten. De grote wereld achter de gordijnen is altijd hoorbaar en voelbaar en dringt zich aan **ons** op, soms beangstigend, soms uitnodigend. ‘**Ik** verkondig U grote blijdschap die heel het volk ten deel zal vallen’, zegt de engel tegen de herders. Een verkondiging aan ‘heel het volk’… Kerstmis verbindt ons nadrukkelijk met elkaar. Dat zet aan tot nadenken over hoe we zelf in het leven staan. Is het: ieder voor zich en God voor **ons** allen? Of hebben **we** zelf een actieve rol in een groter geheel? En zo ja: welke dan? Het valt niet altijd mee om te blijven geloven in de gemeenschap die **we** samen vormen. Helemaal niet in een land met zoveel verscheidenheid als het **onze**. Een land van vrije mensen waarin het antwoord op de vraag ‘wie ben **ik**?’ nooit volledig samenvalt met het antwoord op de vraag ‘wie zijn **wij**?’. […] Bron: https://www.koninklijkhuis.nl/documenten/toespraken/2017/12/25/kersttoespraakvan-zijne-majesteit-de-koning-25-december-2017. 
+
+Voornaamwoorden in slogans Voor de Tweede Kamerverkiezingen van 2021 voerde de partij DENK campagne met de slogan ‘Samen zijn wij Nederland’ terwijl de PVV claimde dat ‘Nederland weer van ons’ moest worden. Zoek zelf een (politieke of commerciële) slogan op waarin gebruik wordt gemaakt van inclusief ‘wij’. Analyseer wie er geïncludeerd wordt en beargumenteer of er in jouw ogen sprake is van een strategisch gebruik van inclusief ‘wij’.
+
 
