@@ -16,3 +16,11 @@ Tussen de twee koppen zit een ander frame, In de kop van NOS is de handelende in
 De [[valentie]] tussen sturen en duiken is ook hiervoor duidelijk.
 
 Ook kan je het verschil tussen recordaantal en tientallen duidelijk voelen. Een recordaantal voelt aan als heel erg veel terwijl dat hetzelfde is als tientallen. Dit geeft ook een [[attribuutframing]] aan net zoals een glas halfvol / halfleeg
+
+Week 3:
+
+
+
+Week 4:
+
+
