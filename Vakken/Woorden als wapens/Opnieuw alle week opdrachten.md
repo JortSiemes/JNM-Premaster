@@ -27,7 +27,10 @@ Doeldomein: Kabinet-Rutte III
 
 b. [[metafoor]] is strategisch gekozen wanneer een abstracte betekenis een duidelijker beeld krijgt door een [[brondomein]]. Door deze tekst krijg ik met weinig politieke kennis toch een beter beeld door de verhoudingen te zien door de structuur van een planeet. Hierdoor vind ik deze metafoor strategisch gekozen. Dingen zoals dat alles om planeet rutte draait en verwijzingen naar planeten werkt goed in samenwerking met planeten.
 
-c. 
+c. "Dat klimaatkonijn komt straks uit de hoge hoed bij de kabinetsformatie. En ik kan u garanderen dat dat konijn een heel duur prijskaartje om z'n nek heeft hangen."
+- Ed Nijpels
+
+Voor deze metafoor heb je ook pragmatiek nodig, namelijk dat je moet begrijpen wat een standaard goochelact is. Dit is namelijk waarom de metafoor een konijn en een hoge hoed bij elkaar brengt. Maar niet iedereen begrijpt dat Mr. Nijpels het heeft over een grote verrassing. En hij gaat verder met deze metafoor om vervolgens ideeën als organismen te gebruiken. Ik denk dat hij dit heeft gedaan om het klimaatprobleem meer 'personificatie' te geven.
 
 
 Week 4:
