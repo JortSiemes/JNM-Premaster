@@ -68,6 +68,25 @@ D.
 - internal-field position
 - quotes
 - veel gebruik van voornaamwoorden
-- 
+
+
+
+**Week 6:**
+Onderstaande tekst is een advertentie, afkomstig van de website wijnvoordeel.nl: 
+
+Villa Gracchio Rosso Puglia Een gouden medaille behalen in de **wereldberoemde** wijngids Gilbert & Gaillard, **kom er maar eens om**. Het is het Italiaanse wijnhuis Villa Gracchio gelukt met de **adembenemend** lekkere Rosso Puglia. Een **dijk van een** wijn uit de hak van Italië, waar de druif Negroamaro **de dienst uitmaakt**. Samen met de bijzondere Malvasia Nera vormt de druif een **klassiek** duo, dat **internationale faam** geniet dankzij de **intense en complexe** aroma’s. **Een kruidige knaap**, voor de liefhebber van grote Italiaanse wijnen **!** **Harmonieus en intens duo **Prachtige** robijnrode wijn met een paarse rand. De Negroamaro **tekent ** voor de **intense** geuren van zwarte bessen, zoete kersen en bramen. De Malvasia Nera voegt daar een **heerlijk** vleugje pruim en tabak aan toe. **Complexe en krachtige** aroma’s die in de mond terugkomen, aangevuld met zoet bijna jamachtig fruit. De krachtige en kruidige afdronk is eindeloos. **Fantastisch** om zo van te genieten, **perfect** bij geroosterd vlees, lam en een lekker blokje pittige kaas. Bron: https://www.wijnvoordeel.nl/villa-gracchio-rosso-puglia 
+
+a. Maak in de tekst alle taalintensiverende middelen geel. Maak daarvoor gebruik van het instructieschema van Van Mulken en Schellens (2012). (NB Je hoeft de intensiveerders niet naar hun soort te benoemen, het markeren van intensiverende middelen volstaat.) 
+
+b. Hoeveel gevallen van taalintensivering tel je? (NB Het is niet nodig om de intensiveerders naar type uit te splitsen – een concreet getal noemen dat het totaal aantal gevallen van taalintensivering in de tekst benoemt is voldoende.) 
+
+18 gevallen
+
+c. Vergelijk je bevindingen met die van een medestudent en bereken het percentage overeenkomstige observaties. Geef duidelijk aan met wie je hebt samengewerkt (voor- en achternaam) en laat met een berekening zien hoe je tot het percentage overeenkomstige observaties bent gekomen. (Voorbeeldberekening: student A en B vinden 21 intensiveerders hetzelfde, A vindt er 3 die B niet gevonden heeft en B vindt er 6 die A niet gevonden heeft. Dan hebben A en B 70% overeenkomst (21 van de 30 gevallen)). d. Geef twee voorbeelden van formuleringskeuzes uit de tekst waarvan jullie het er niet over eens waren of er sprake is van een intensiveerder of niet (geef daarbij expliciet aan waar je de voorbeelden hebt gevonden). Beschrijf kort op basis waarvan je hebt besloten de formuleringskeuzes in kwestie wel/niet als intensiveerder te tellen.
+
+
+
+
+
 
 
