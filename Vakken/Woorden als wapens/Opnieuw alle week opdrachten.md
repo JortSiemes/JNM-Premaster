@@ -108,11 +108,29 @@ effect lijdende vorm hier: in dit stuk worden de acties van de handelende person
 
 b) Zijn er ook andere taalmiddelen in deze passage die bijdragen aan hetzelfde effect als de lijdende vorm? Zo ja, welke? 
 
- 
+ Het word verteld vanuit de perspectief van de zoon. De tekst bevat bijna alleen maar voornaamwoorden, het is erg subjectief. Dit helpt veel bij het effect van de lijdende vorm omdat de jongen de handeling van zijn moeder minder persoonlijk maakt. Dit verhaal word ook bijna helemaal verteld in de directe rede.
 
 
 
-c) Stel zo nauwkeurig mogelijk vast wat de plaatsen zijn in de tekst waar het gevonden effect begint en waar het eindigt. Zijn deze plaatsen functioneel? d) Leg een verband tussen het gebruik van de lijdende vorm en de titel van het verhaal.
+c) Stel zo nauwkeurig mogelijk vast wat de plaatsen zijn in de tekst waar het gevonden effect begint en waar het eindigt. Zijn deze plaatsen functioneel? 
+
+---
 
 
+d) Leg een verband tussen het gebruik van de lijdende vorm en de titel van het verhaal.
+
+Dit verhaal gaat over de moeder maar net zoals bij het gebruik van de lijdende vorm word de moeder weggehaald van de handelingen. Hiervoor is het verband tussen de titel "aardappels" sterk sinds dit eigenlijk ook niet is waar de tekst over gaat. 
+
+
+Week 8:
+
+Naamwoordstijl in ironisch bericht van Speld.nl 
+
+Hieronder vind je een bericht van de ironische website Speld.nl van 27 maart 2014, waarin Poetins expansiedrang (jegens Oekraïne / de Krim) op de hak wordt genomen. In het artikel wordt geregeld gebruikgemaakt van naamwoordstijl. 
+
+a) Maak in onderstaand tekstkader de gevallen van naamwoordstijl groen. 
+b) Wat is in deze tekst het effect van het gebruik van naamwoordstijl op de voorstelling van zaken? Motiveer je antwoord. 
+c) Zijn er nog andere stilistische keuzes die eveneens aan dit effect bijdragen? Zo ja, benoem deze (en markeer ze met rood in de tekst) en leg uit hoe ze aan dat effect bijdragen. 
+
+Annexeria nervosa treft Russische leiders Nieuwe anti-oppresiva getest (…) Het is een groeiend probleem onder Russische wereldleiders: annexeria nervosa. De veroveringsstoornis treft vooral staatshoofden met een negatief zelfbeeld en angst voor het verlies van geopolitieke invloedssfeer. De belangrijkste symptomen zijn het inlijven van schiereilanden, het bezetten van soevereine staten en het organiseren van Winterspelen. Sommige patiënten zetten punkzangeressen gevangen in Siberië. Ljoedmila Poetina (56) maakte de stoornis van dichtbij mee. Jarenlang was ze getrouwd met een annexeriapatiënt, tot ze vorig jaar een scheiding aanvroeg. Ze kon het niet langer aan: “In het begin had ik niets in de gaten, maar op een gegeven moment begon hij Georgische deelrepublieken binnen te vallen. Eigenlijk had ik toen al argwaan moeten krijgen.” Ljoedmila kwam meer dan eens in gênante situaties terecht: “Als we ergens in een restaurant zaten te eten, kon hij uit het niets de onafhankelijkheid van Abchazië erkennen. Dan zag ik natuurlijk de blikken richting onze tafel en kon ik wel door de grond zakken.” Igor Tirmanov is psychiater in Sint-Petersburg. Volgens hem is er bij de internationale gemeenschap weinig kennis van de oorzaken van annexeria: “Veel veroveringsstoornissen komen voort uit een traumatische jeugdervaring, zoals het uiteenvallen van een communistisch imperium of het verliezen van een Koude Oorlog.” De behandelmethoden zijn vooralsnog beperkt. “Met economische sancties en het bevriezen van tegoeden kunnen we de symptomen hooguit afremmen. Een echt medicijn voor annexeria is nog ver weg. Daarvoor is nog veel meer bewustwording en onderzoek nodig. Wel is men op dit moment bezig met het testen van het nieuwe anti-oppressiva.” De internationale gemeenschap organiseert praatgroepen als de G8, waar annexeriapatiënten hun dreigende taal kwijt kunnen. Dit zorgt niet altijd voor begrip: het probleem van veel annexeriapatiënten is het niet erkennen van lotgenoten. Bron: http://speld.nl/2014/03/27/annexeria-nervosa-treft-russische-leiders/ 3. Naamwoordstijl en lijdende vorm in huisregels van een huisartsenpost De volgende tekst is afkomstig uit de wachtkamer van de spoedeisende hulp van het Rijnland Ziekenhuis te Leiderdorp (‘SHR’ staat voor ‘Samenwerkende Huisartsendiensten Rijnland’; de zinnen zijn gemakshalve genummerd). Huisregels van de SHR [1] Volgorde van behandeling gebeurt op binnenkomst van urgentie en niet op binnenkomst. [2] Per patiënt mogen maximaal 2 begeleiders meekomen. [3] Roken of het gebruik van alcohol of drugs is verboden op de huisartsenpost. [4] Fysiek en verbaal geweld zijn niet toegestaan. Bij overtreding wordt aangifte bij de politie gedaan. [5] De SHR is niet aansprakelijk voor schade, verlies of diefstal van eigendommen van patiënten of begeleiders. [6] Aanwijzingen van medewerkers op de huisartsenpost moeten gevolgd worden. [7] Het overtreden van regels of het niet opvolgen van aanwijzingen kan leiden tot het ontzeggen van de toegang tot de huisartsenpost. [8] Het gebruik van mobiele telefoons is niet toegestaan. a. Maak in de tekst gevallen van naamwoordstijl groen, en maak de lijdende vormen geel. b. Beoordeel de verschillende gevallen van naamwoordstijl en lijdende vorm: in hoeverre zijn deze strategisch te noemen? Leg uit.
 
