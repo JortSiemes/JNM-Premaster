@@ -85,8 +85,20 @@ b. Hoeveel gevallen van taalintensivering tel je? (NB Het is niet nodig om de in
 c. Vergelijk je bevindingen met die van een medestudent en bereken het percentage overeenkomstige observaties. Geef duidelijk aan met wie je hebt samengewerkt (voor- en achternaam) en laat met een berekening zien hoe je tot het percentage overeenkomstige observaties bent gekomen. (Voorbeeldberekening: student A en B vinden 21 intensiveerders hetzelfde, A vindt er 3 die B niet gevonden heeft en B vindt er 6 die A niet gevonden heeft. Dan hebben A en B 70% overeenkomst (21 van de 30 gevallen)). d. Geef twee voorbeelden van formuleringskeuzes uit de tekst waarvan jullie het er niet over eens waren of er sprake is van een intensiveerder of niet (geef daarbij expliciet aan waar je de voorbeelden hebt gevonden). Beschrijf kort op basis waarvan je hebt besloten de formuleringskeuzes in kwestie wel/niet als intensiveerder te tellen.
 
 
+Week 7:
+
+Lijdende vormen in Oberski’s Kinderjaren (1984) Op de volgende pagina’s vind je een fragment afkomstig uit een verhaal van Jona Oberski (het speelt zich af tijdens en kort na de Tweede Wereldoorlog). Een bepaald gedeelte van deze tekst bevat een opvallend gebruik van de lijdende vorm. 
+
+a) Spoor dit gedeelte op, benoemd de gevallen van de lijdende vorm in deze passage en bespreek het effect dat de lijdende vorm hier heeft. 
 
 
+
+
+b) Zijn er ook andere taalmiddelen in deze passage die bijdragen aan hetzelfde effect als de lijdende vorm? Zo ja, welke? 
+
+
+
+c) Stel zo nauwkeurig mogelijk vast wat de plaatsen zijn in de tekst waar het gevonden effect begint en waar het eindigt. Zijn deze plaatsen functioneel? d) Leg een verband tussen het gebruik van de lijdende vorm en de titel van het verhaal.
 
 
 
