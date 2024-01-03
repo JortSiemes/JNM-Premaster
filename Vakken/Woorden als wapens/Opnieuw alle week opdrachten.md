@@ -103,9 +103,12 @@ a) Spoor dit gedeelte op, benoemd de gevallen van de lijdende vorm in deze passa
 72: werd opgetild
 78: werd gegild
 
+effect lijdende vorm hier: in dit stuk worden de acties van de handelende personage de moeder minder persoonlijk gemaakt. waarschijnlijk omdat de zoon in de acties de moeder niet herkend of wil herkennen. 
 
 
 b) Zijn er ook andere taalmiddelen in deze passage die bijdragen aan hetzelfde effect als de lijdende vorm? Zo ja, welke? 
+
+
 
 
 
