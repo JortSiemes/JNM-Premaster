@@ -33,6 +33,8 @@ c. "Dat klimaatkonijn komt straks uit de hoge hoed bij de kabinetsformatie. En i
 Voor deze metafoor heb je ook pragmatiek nodig, namelijk dat je moet begrijpen wat een standaard goochelact is. Dit is namelijk waarom de metafoor een konijn en een hoge hoed bij elkaar brengt. Maar niet iedereen begrijpt dat Mr. Nijpels het heeft over een grote verrassing. En hij gaat verder met deze metafoor om vervolgens ideeën als organismen te gebruiken. Ik denk dat hij dit heeft gedaan om het klimaatprobleem meer 'personificatie' te geven.
 
 
-Week 4:
+Week 4: Conceptuele metafoor = AIDS is Moordenaar
+Brondomein = Moordenaar
+Doeldomein = AIDS
 
 
