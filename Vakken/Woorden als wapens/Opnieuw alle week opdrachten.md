@@ -20,9 +20,12 @@ Ook kan je het verschil tussen recordaantal en tientallen duidelijk voelen. Een 
 Week 3:
 Nou, voorzitter, daar zitten ze dan. Het heeft even geduurd, maar dan heb je ook wat. Maar liefst 24 ministers en staatssecretarissen van het kabinet-Rutte III. Net zoveel zoals in de gemiddelde bananenrepubliek. Iedereen en zijn moeder heeft een baantje gekregen. Sommige ministeries hebben zelfs twee ministers. Je hebt ministers ‘van’ en ministers ‘voor’. Ze noemen dat stukje van de plenaire zaal ook wel ‘Vak K’. Maar een betere naam is: ‘Planeet Rutte’. In hun eigen zonnestelsel. Een planeet losgezongen van de werkelijkheid van miljoenen Nederlanders. Met hun gelijk van de helft plus 1. Zie ze zitten. Beetje rondkijken, beetje lachen, beetje op hun telefoon. Eindelijk op het felbegeerde pluche. Altijd netjes in de maat gelopen. Altijd koffie gehaald voor Halbe, altijd gelachen om de grapjes van Pechtold. En dan nu de beloning voor al die slaafsheid. Aangevoerd door die man daar in het midden, Mark Rutte, de grootste politieke leugenaar van de afgelopen 10 jaar maar in vak K De Zonnekoning, de baas van de planeet.
 
-a.
+a. Conceptuele metafoor:
+Brondomein: 
+Doeldomein:
 
-b. [[metafoor]] is strategisch gekozen wanneer een abstracte betekenis een duidelijker beeld krijgt door een [[brondomein]]. Door deze tekst krijg ik met weinig politieke kennis toch een beter beeld door de verhoudingen in de structuur van een ruimte. Hierdoor 
+
+b. [[metafoor]] is strategisch gekozen wanneer een abstracte betekenis een duidelijker beeld krijgt door een [[brondomein]]. Door deze tekst krijg ik met weinig politieke kennis toch een beter beeld door de verhoudingen in de structuur van een ruimte. Hierdoor vind ik deze metafoor strategisch gekozen
 
 c.
 
