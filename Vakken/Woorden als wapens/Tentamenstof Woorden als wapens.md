@@ -100,6 +100,7 @@ De [[metafoor]] die door Nienke Nieuwenhuizen wordt gebruikt is een transport [[
 ----
 
 ## Week 4 (metaforen en gezondheidscommunicatie)
+
 Literatuur:
 - Semino, E., Demjén, Z., Demmen, J., Koller, V., Payne, S., Hardie, A. & Rayson, P. (2017). The online use of Violence and Journey metaphors by patients with cancer, as compared with health professionals: a mixed methods study. BMJ Supportive & Palliative Care 7, 60-66. https://spcare.bmj.com/content/bmjspcare/7/1/60.full.pdf. 
 - Semino, E. (2021). “Not Soldiers but Fire Fighters” - Metaphors and Covid-19. Health Communication 36(1), 50-58. 
@@ -177,7 +178,7 @@ Bevindingen:
 	- a, nieuwsberichten vaker met voornaamwoord naar ooggetuigen verwezen.
 
 Stilistische technieken:
-1,
+1, 
 2,
 3,
 
