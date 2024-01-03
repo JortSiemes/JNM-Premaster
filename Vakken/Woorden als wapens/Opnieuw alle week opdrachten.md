@@ -171,3 +171,5 @@ Kersttoespraak koning Willem Alexander (fragmenten) Gezond vijftig worden en dat
 Voornaamwoorden in slogans Voor de Tweede Kamerverkiezingen van 2021 voerde de partij DENK campagne met de slogan ‘Samen zijn wij Nederland’ terwijl de PVV claimde dat ‘Nederland weer van ons’ moest worden. Zoek zelf een (politieke of commerciële) slogan op waarin gebruik wordt gemaakt van inclusief ‘wij’. Analyseer wie er geïncludeerd wordt en beargumenteer of er in jouw ogen sprake is van een strategisch gebruik van inclusief ‘wij’.
 
 
+Week 10:
+
