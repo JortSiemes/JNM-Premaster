@@ -91,6 +91,17 @@ Lijdende vormen in Oberski’s Kinderjaren (1984) Op de volgende pagina’s vind
 
 a) Spoor dit gedeelte op, benoemd de gevallen van de lijdende vorm in deze passage en bespreek het effect dat de lijdende vorm hier heeft. 
 
+56: werd geschreeuwd
+58: Moesten worden
+59: werd gelegd
+62: werd gedronken
+64: werd geschreeuwd
+69: werd gepakt
+69: werd  gekeken
+71: werd bekeken
+71: werd omgekeerd
+72: werd opgetild
+78: werd gegild
 
 
 
