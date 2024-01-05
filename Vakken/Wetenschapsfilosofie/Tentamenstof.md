@@ -1,4 +1,10 @@
 Wetenschapsfilosofie - curriculum geesteswetenschappen
+
+Doel:
+- in staat te zijn met een aantal medestudenten te reflecteren op en te discussiëren over de aard van geesteswetenschappelijk onderzoek; 
+ - inzicht te hebben verworven in de aard van wetenschap in het algemeen en van de geesteswetenschappen in het bijzonder; 
+-  vertrouwd te zijn geraakt met de belangrijkste stromingen die in de debatten over de geesteswetenschappen een rol spelen of gespeeld hebben.
+
 # Cursusboek: Philosophy for the humanities
 ### 2. methodology: an introduction
 Science seen as reliable way to gain knowledge.
@@ -17,7 +23,7 @@ Main question: When are we justified in believing a scientific theory?
 
 ### 3. methodology: confirmation en falsification
 ### 4. methodology: Kuhn and paradigms
-### 5. Interlude: Michel Foucault
+### 5. Interlude: [[Michel Foucault]]
 ### 6. Objectivity
 
 
