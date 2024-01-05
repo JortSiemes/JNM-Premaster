@@ -4,6 +4,8 @@ Wetenschapsfilosofie - curriculum geesteswetenschappen
 Science seen as reliable way to gain knowledge.
 **What makes science reliable?** = [[Scientific method]]
 
+#### 2.1 Discovery and justification
+
 
 
 ### 3. methodology: confirmation en falsification
