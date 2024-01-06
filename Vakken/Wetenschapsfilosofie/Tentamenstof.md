@@ -38,6 +38,8 @@ Only by answering both questions can we arrive at a coherent story of how we get
 
 Logic is the study of: [[argumentation]]
 
+
+
 ### 3. methodology: confirmation en falsification
 ### 4. methodology: Kuhn and paradigms
 ### 5. Interlude: [[Michel Foucault]]
