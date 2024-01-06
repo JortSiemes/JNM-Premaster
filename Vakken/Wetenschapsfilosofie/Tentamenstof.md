@@ -38,9 +38,22 @@ Only by answering both questions can we arrive at a coherent story of how we get
 
 Logic is the study of: [[argumentation]]
 
+any argument with the following form is valid:
+- Everything that has property X, also has property Y .
+- a does not have property Y .
+------
+- a does not have property X.
+
+**[[Deductive]] and [[inductive]] arguments**
+[[Deductive]] = when the [[conclusion]] necessarily follows from the [[premises]], if the [[premises]] are true, than it must be the case that the [[conclusion]] is also true.
+[[inductive]] = is argument that is not [[deductive]] but where the [[premises]] do to some degree support the [[conclusion]]. (can have [[premises]] true but lead to false [[conclusion]])
 
 
-### 3. methodology: confirmation en falsification
+
+
+
+
+### 3. methodology: [[confirmation]] en falsification
 ### 4. methodology: Kuhn and paradigms
 ### 5. Interlude: [[Michel Foucault]]
 ### 6. Objectivity
@@ -58,7 +71,7 @@ Logic is the study of: [[argumentation]]
 
 
 
-# Kennisclips:
+# [[Kennisclips]]:
 
 
 

@@ -1,0 +1,1 @@
+ is argument that is not [[deductive]] but where the [[premises]] do to some degree support the [[conclusion]]. (can have [[premises]] true but lead to false [[conclusion]])

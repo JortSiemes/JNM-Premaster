@@ -1,0 +1,1 @@
+hen the [[conclusion]] necessarily follows from the [[premises]], if the [[premises]] are true, than it must be the case that the [[conclusion]] is also true.
