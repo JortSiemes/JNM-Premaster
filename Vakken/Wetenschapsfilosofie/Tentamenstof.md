@@ -10,7 +10,6 @@ Doel:
 Science seen as reliable way to gain knowledge.
 **What makes science reliable?** = [[Scientific method]]
 
-#### 2.1 Discovery and justification
 Main question: When are we justified in believing a scientific theory?
 
 **Logic** (study of reasoning)
