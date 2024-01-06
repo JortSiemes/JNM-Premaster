@@ -22,7 +22,12 @@ Aim of methodology: to tell us how scientists should act
 - which ways of scientific reasoning are correct
 - know about the norms of science
 
+Contradiction (always incorrect)
+Tautologie (always correct, but never informative)
 
+When is scientific theory a good theory?
+- a theory should not contradict itself.
+- 
 
 
 
