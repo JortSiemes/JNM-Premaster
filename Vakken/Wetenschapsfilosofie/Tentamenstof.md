@@ -18,6 +18,11 @@ Main question: When are we justified in believing a scientific theory?
 
 - **Context of discovery** (Contains everything relevant to the origin and conception of a scientific theory)
 - **Context of justification** (Contains everything relevant to judging, as objectively as possible, whether or not a theory is believable)
+Aim of methodology: to tell us how scientists should act
+- which ways of scientific reasoning are correct
+- know about the norms of science
+
+
 
 
 

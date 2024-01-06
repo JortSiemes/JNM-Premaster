@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a06f54ff3515c039",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 1 wetenschapsfilosofie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e1ab7eb5ca05640d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Vakken/Wetenschapsfilosofie/Tentamenstof.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a06f54ff3515c039",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 1 wetenschapsfilosofie.md",
                 "mode": "source",
                 "source": false
               }
