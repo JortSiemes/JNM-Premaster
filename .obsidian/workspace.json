@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Tentamenstof.md",
+                "file": "argumentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Tentamenstof.md",
+                "file": "argumentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Tentamenstof.md",
+                "file": "argumentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Tentamenstof.md"
+                "file": "argumentation.md"
               }
             }
           }
@@ -170,8 +170,10 @@
   },
   "active": "e1ab7eb5ca05640d",
   "lastOpenFiles": [
-    "confirmation.md",
     "Vakken/Wetenschapsfilosofie/Tentamenstof.md",
+    "argumentation.md",
+    "theory-ladenness of observations.md",
+    "confirmation.md",
     "empirical basis.md",
     "empirical content.md",
     "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf",
@@ -197,8 +199,6 @@
     "Vakken/Woorden als wapens/Colleges/Werkcollege 12 Woorden als Wapens.md",
     "Vakken/Woorden als wapens/Colleges/Werkcollege 11 Woorden als Wapens.md",
     "Vakken/Woorden als wapens/Colleges/Werkcollege 9 Woorden als Wapens.md",
-    "Vakken/Woorden als wapens/Colleges/Werkcollege 8 Woorden als Wapens.md",
-    "Vakken/Woorden als wapens/Colleges/Werkcollege 7 Woorden als Wapens.md",
     "Vakken/Woorden als wapens/Literatuur/Week 10_StijlmiddelenPoliticiAfstandenNabijheid/03_TVT2015.1.LEEU.pdf",
     "Vakken/Woorden als wapens/Literatuur/Week 10_StijlmiddelenPoliticiAfstandenNabijheid/03_TVT2015.1.LEEU.pdf.crdownload",
     "Vakken/Woorden als wapens/Literatuur/Week4_Metaforen_Gezondheidscommunicatie/Not Soldiers but Fire-fighters    Metaphors and Covid-19.pdf",
