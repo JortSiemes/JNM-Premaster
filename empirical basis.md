@@ -1,0 +1,1 @@
+It asks what the statements are for which we can perform direct empirical tests. They must form the basis on which all our empirical knowledge of the world is based.

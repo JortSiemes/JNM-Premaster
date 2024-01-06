@@ -29,6 +29,11 @@ When is scientific theory a good theory?
 - the better a theory is at telling us how our world is different from other worlds, the more [[empirical content]] that theory possesses.
 - 
 
+Two basic questions of empiricism:
+1. Which statements can we test directly (question of the [[empirical basis]])
+2. How do we get from such statements to statements that cannot be tested directly? (question of the [[confirmation]])
+Only by answering both questions can we arrive at a coherent story of how we get from observation to theory.
+
 
 ### 3. methodology: confirmation en falsification
 ### 4. methodology: Kuhn and paradigms
