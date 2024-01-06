@@ -23,12 +23,12 @@ Aim of methodology: to tell us how scientists should act
 - know about the norms of science
 
 Contradiction (always incorrect)
-Tautologie (always correct, but never informative)
+Tautologie (always correct, but never informative) (wiskunde is ook tautologisch)
 
 When is scientific theory a good theory?
 - a theory should not contradict itself.
+- the better a theory is at telling us how our world is different from other worlds, the more [[empirical content]] that theory possesses.
 - 
-
 
 
 ### 3. methodology: confirmation en falsification
