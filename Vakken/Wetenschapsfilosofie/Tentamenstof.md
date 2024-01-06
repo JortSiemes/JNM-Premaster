@@ -45,8 +45,12 @@ any argument with the following form is valid:
 - a does not have property X.
 
 **[[Deductive]] and [[inductive]] arguments**
-[[Deductive]] = when the [[conclusion]] necessarily follows from the [[premises]], if the [[premises]] are true, than it must be the case that the [[conclusion]] is also true.
-[[inductive]] = is argument that is not [[deductive]] but where the [[premises]] do to some degree support the [[conclusion]]. (can have [[premises]] true but lead to false [[conclusion]])
+[[Deductive]] = show that if the premises are true, than the conclusion
+must be true as well. when the [[conclusion]] necessarily follows from the [[premises]], if the [[premises]] are true, than it must be the case that the [[conclusion]] is also true.
+
+[[inductive]] = shows that if the premises
+are true, the conclusion is likely to be true { as long as no counterarguments
+could be brought forward. is argument that is not [[deductive]] but where the [[premises]] do to some degree support the [[conclusion]]. (can have [[premises]] true but lead to false [[conclusion]])
 
 
 
