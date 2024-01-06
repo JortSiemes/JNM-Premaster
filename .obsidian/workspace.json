@@ -8,17 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e1ab7eb5ca05640d",
+            "id": "a06f54ff3515c039",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf"
+                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 1 wetenschapsfilosofie.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "a06f54ff3515c039",
+            "id": "e1ab7eb5ca05640d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -167,9 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a06f54ff3515c039",
+  "active": "e1ab7eb5ca05640d",
   "lastOpenFiles": [
     "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf",
+    "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 1 wetenschapsfilosofie.md",
     "Vakken/Wetenschapsfilosofie/Tentamenstof.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Michel Foucault.md",
     "Scientific method.md",
@@ -196,7 +198,6 @@
     "Vakken/Woorden als wapens/Colleges/Werkcollege 7 Woorden als Wapens.md",
     "Vakken/Woorden als wapens/Colleges/Werkcollege 6 Woorden als Wapens.md",
     "Vakken/Woorden als wapens/Colleges/Werkcollege 3 Woorden als Wapens.md",
-    "Vakken/Woorden als wapens/Colleges/Werkcollege 2 Woorden als Wapens.md",
     "Vakken/Woorden als wapens/Literatuur/Week 10_StijlmiddelenPoliticiAfstandenNabijheid/03_TVT2015.1.LEEU.pdf",
     "Vakken/Woorden als wapens/Literatuur/Week 10_StijlmiddelenPoliticiAfstandenNabijheid/03_TVT2015.1.LEEU.pdf.crdownload",
     "Vakken/Woorden als wapens/Literatuur/Week4_Metaforen_Gezondheidscommunicatie/Not Soldiers but Fire-fighters    Metaphors and Covid-19.pdf",
