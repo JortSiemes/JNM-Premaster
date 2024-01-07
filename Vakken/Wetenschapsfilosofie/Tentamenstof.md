@@ -55,9 +55,12 @@ could be brought forward. is argument that is not [[deductive]] but where the [[
 observations turn out to be theory-dependent. That makes it difficult to hold that they form a complete objective basis that will always lead to consensus.
 
 
-
-
 ### 3. methodology: [[confirmation]] en falsification
+
+
+
+
+
 ### 4. methodology: Kuhn and paradigms
 ### 5. Interlude: [[Michel Foucault]]
 ### 6. Objectivity
