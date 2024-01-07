@@ -14,4 +14,4 @@ could be disproven. When a theory is disproven, we say that it has been
 falsied.
 
 Popper claims
-that unfalsiable theories aren't scientic but pseudo-scientic.
+that unfalsiable theories aren't scientic but pseudo-scientic. 
