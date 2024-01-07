@@ -52,7 +52,7 @@ must be true as well. when the [[conclusion]] necessarily follows from the [[pre
 are true, the conclusion is likely to be true { as long as no counterarguments
 could be brought forward. is argument that is not [[deductive]] but where the [[premises]] do to some degree support the [[conclusion]]. (can have [[premises]] true but lead to false [[conclusion]])
 
-
+observations turn out to be theory-dependent. That makes it difficult to hold that they form a complete objective basis that will always lead to consensus.
 
 
 
