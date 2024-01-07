@@ -61,11 +61,15 @@ observations turn out to be theory-dependent. That makes it difficult to hold th
 a theory that tells us when and to what extent scientific theories are supported by the observations. 
 
 Factors to determine whether we require a lot of evidence or only a little for any given general statement:
-1. The expected amount of uniformity (we know that some things tend to resemble each other: for example, the judgements of native speakers about whether or not a certain sentence is grammatically correct)
-2. The scope of the general statement
-3. How representative the instan
+1. **The expected amount of uniformity** (we know that some things tend to resemble each other: for example, the judgements of native speakers about whether or not a certain sentence is grammatically correct)
+2. **The scope of the general statement**
+3. **How representative the instances are**
+4. **The probability of the general statement**
 
-falsification
+
+
+[[falsificatie]] ([[Karl Popper]])
+
 
 
 
