@@ -13,18 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Karl Popper.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a06f54ff3515c039",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 1 wetenschapsfilosofie.md",
                 "mode": "source",
                 "source": false
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Karl Popper.md",
+                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 1 wetenschapsfilosofie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Karl Popper.md",
+                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 1 wetenschapsfilosofie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Onderwerpen/Karl Popper.md"
+                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 1 wetenschapsfilosofie.md"
               }
             }
           }
@@ -170,9 +158,9 @@
   },
   "active": "e1ab7eb5ca05640d",
   "lastOpenFiles": [
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/Karl Popper.md",
     "Vakken/Wetenschapsfilosofie/Tentamenstof.md",
     "Onderwerpen/Falsificatie.md",
-    "Vakken/Wetenschapsfilosofie/Onderwerpen/Karl Popper.md",
     "inductive.md",
     "Deductive.md",
     "argumentation.md",
