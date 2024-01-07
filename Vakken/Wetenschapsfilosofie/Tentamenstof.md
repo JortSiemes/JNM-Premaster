@@ -69,6 +69,15 @@ Factors to determine whether we require a lot of evidence or only a little for a
 
 
 [[falsificatie]] ([[Karl Popper]])
+For popper to be actual scientific theory needs predictions that are testable.  
+- good scientists should actively search for falsifications.
+	(a good scientist tries to disprove her theory)
+
+Logical argument for falsification is:
+- if theory T is true, we should observe W
+- we do not observe W
+---
+- Theory T is false
 
 
 
