@@ -107,7 +107,46 @@ Volgens popper neemt Empirische inhoud van theorie toe naarmate zij:
 
 Vraag 18:
 Volgens popper is het principe van falsificatie superieur aan het principe van verificatie omdat:
-- universele uitspraken, die een grote rol spelen in de natuurwetenschappen, 
+- universele uitspraken, die een grote rol spelen in de natuurwetenschappen, wel kunnen worden gefalsificeerd, maar niet kunnen worden geverifeerd.
+
+Vraag 19:
+Lakatos is net zoals Popper van mening dat het principe van falsificatie een leidend principe moet zijn van de wetenschappelijke methode.
+Net zoals kuhn van mening dat de ontwikkeling van wetenschap verloopt via paradigmawisselen.
+
+Vraag 20:
+Volgens de Duhem-Quinestelling:
+Kunnen empirische hypotheses niet geïsoleerd van elkaar worden onderworpen aan cruciale tests.
+
+Vraag 21:
+Kuhn onderscheidt
+1, normale wetenschap - 2, revoluties - 3, oplossen van puzzels
+
+Vraag 22:
+Belangrijke verschil tussen hegel en kant is dat:
+-Kant a historisch over de menselijke geest nadenkt en hegel historisch
+-Kant de nadruk legt op het individuele bewustzijn, terwijl Hegel juist ook kunst filosofie en religie analyseert.
+
+Vraag 23:
+Postmoderne historicus Hayden White, wordt geschiedschrijving vooral gestuurd door:
+-conventies en gewoonten
+
+Vraag 24:
+Claim van Karl Marx:
+Als iemand een bepaald soort literatuur schrijft moet de verklaring daarvoor gezocht worden in economische omstandigheden.
+
+Vraag 25:
+Paradigmatische relatie is bij uitstek een structuralistisch begrip omdat:
+het aangeeft dat bij de keuze van een woord andere daarmee geassocieerde woorden binnen de taalstructuur ook altijd een rol spelen.
+
+Vraag 26:
+Structuralistische literatuurtheoretici (leezenberg en de vries)
+Staan samen een benadering van literatuur...
+- het achterhalen van de bedoelingen en ideeen van de auteur van de tekst
+
+Vraag 27:
+Onder welke omstandigheden is het volgens Kuhn mogelijk dat een wetenschappelijke revolutie plaatsvindt = Wanneer er een wijdverbreid gevoel ontstaat dat veel puzzels van de op dat moment geldende normale wetenschap niet bin
+
+
 
 
 Logisch-positivisten (verklaring in de natuurwetenschappen wetten/ geesteswetenschappen)
