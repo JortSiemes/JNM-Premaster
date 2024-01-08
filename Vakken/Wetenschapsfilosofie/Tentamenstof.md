@@ -216,7 +216,7 @@ Thought requires language, if you dont have words other than bread, you cant rea
 
 Different languages can have different concepts
 
-**Vladimir Propp**:
+**[[Vladimir Propp]]**:
 Structure that you can find in stories
 Fairytales have very standard structure
 
@@ -231,13 +231,13 @@ Structuralism in fairytales: (every role has to be a part of the structure)
 -False hero
 
 ---
-### 7. Postmodernisme en objectiviteit
+### 7. [[Postmodernisme]] en [[objectiviteit]]
 Postmodernism: 
 - attack on foundations
 - attack on the idea that truth is one
 
 
-**Friedrich Nietzsche**:
+**[[Friedrich Nietzsche]]**:
 attack on foundations: (foundation justifies some claims, but doesn't need justification itself)
 It is bad to kill people!
 How do you know that?
@@ -260,7 +260,7 @@ He believes that no truths are the same (cannot be combined into one big truths)
 We project our concepts on the world, this is our language. Truth cannot be the same for the world and our language. 
 
 **Jackques Derrida**:
-Traditional belief of language is wrong, based on De Saussure. 
+Traditional belief of language is wrong, based on [[De Saussure]]. 
 Meaning of a concept is by relations by lots of other concepts within a language.
 Cultural fenomeen, cultural meaning of Ford Focus is not only made up by showing it. You have to show a different car. Less fancy than ferrari but more special than fiat. 
 
@@ -308,7 +308,7 @@ Hempel verschil goed en volledige verklaring
 >??
 
 Vraag 2:
-De Saussure is het zonder taal onmogelijk om duidelijke, onderscheiden en constante ideeen en begrippen te hebben
+[[De Saussure]] is het zonder taal onmogelijk om duidelijke, onderscheiden en constante ideeen en begrippen te hebben
 > goed
 
 Vraag 3:
@@ -322,7 +322,7 @@ Met "god is dood" bedoelt Nietzsche dat er geen vaste door iedereen gedeelde gro
 > goed
 
 Vraag 6:
-Volgens De Saussure (taal)
+Volgens [[De Saussure]] (taal)
 
 Vraag 7:
 Bourdieu is de goede smaak van de hogere klasse een vorm van kapitaal
@@ -419,7 +419,7 @@ Vraag 31:
 Het algemene proces van de geschiedenis dient begrepen te worden als de logische ontwikkeling van concepten.
 
 Vraag 32:
-Derrida accepteert de taal/theorie van De Saussure welke conclusie trekt hij daar niet uit:
+Derrida accepteert de taal/theorie van [[De Saussure]] welke conclusie trekt hij daar niet uit:
 - taal heeft geen beschrijvende maar alleen een expressieve functie
 
 Vraag 33:
@@ -452,7 +452,7 @@ Vraag 39:
 
 Logisch-positivisten (verklaring in de natuurwetenschappen wetten/ geesteswetenschappen)
 Nietzsche "god is dood",
-De Saussure (taal)
+[[De Saussure]] (taal)
 Rorty (waarheid vinden we niet waarheid maken we)
 Popper (toename empirische inhoud)
 Leezenberg en de Vries (structurlistische literatuurtheoretici)
