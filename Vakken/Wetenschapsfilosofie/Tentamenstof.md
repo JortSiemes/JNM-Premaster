@@ -84,6 +84,9 @@ Science so superior that only its result is knowledge.
 - New ways of thinking to replace old ways to think of things, humanities is engaged in this. New ways of conceptualizing things which is also very important
 - Humanities should enrich the experience of culture/literature, this allows us to read books/ watch books which will enrich this. 
 
+### 4. Kuhn en Foucault
+
+
 
 
 ## Tentamen vragen + antwoord:
