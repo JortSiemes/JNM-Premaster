@@ -77,7 +77,10 @@ arguments in favor:
 
 What about humanities; not really to a certain extent humanities share with sciences, trying to find facts through observations. 
 
-
+AGAINST SCIENTISM
+Science so superior that only its result is knowledge.
+- Science asks a very specific questions (only anwser that science asks can only be answered by observations) There are a lot of questions that are not asked by science because they can't be observed than answered.
+- 
 
 
 
