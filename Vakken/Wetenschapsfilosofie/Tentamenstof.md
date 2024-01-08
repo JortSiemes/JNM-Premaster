@@ -57,7 +57,58 @@ Vraag 3:
 Logisch-positivisten
 
 Vraag 4:
-Feyerabend geloofwaardigheid
+Feyerabend geloofwaardigheid van wetenschap
+
+Vraag 5:
+Met "god is dood" bedoelt Nietzsche dat er geen vaste door iedereen gedeelde grond meer is waarop we onze kennis en onze moraal kunnen bouwen.
+> goed
+
+Vraag 6:
+Volgens De Saussure (taal)
+
+Vraag 7:
+Bourdieu is de goede smaak van de hogere klasse een vorm van kapitaal
+> goed
+
+Vraag 8:
+Contraverlichting vraag
+
+Vraag 9:
+Aristoteles is geen voorstander van experimenten
+
+Vraag 10:
+Frankfurter Schule, ivoren toren
+
+Vraag 11:
+Hegel en Marx leggen grote nadruk op wetten maar hiermee niet causale natuurwetten bedoelen.
+
+Vraag 12:
+Iemand die in het verificatiecriterium van het logisch empirisme geloofd:
+- de betekenis van een uitspraak bestaat uit zijn methode van verificatie
+- de betekenis van een uitspraak wordt volledig gevat in zijn empirische waarheidscondities
+
+Vraag 13:
+Waarheid vinden we niet waarheid maken we Rorty: Waarheid bestaat alleen binnen een taal, en talen worden door mensen gemaakt.
+
+Vraag 14:
+Logisch empiristen in psychologie en behaviouristen volgens volgende sterke bond:
+- menselijk gedrag, introspectie en computer-simulaties de aard van het menselijk cognitief vermogen samen verklaren.
+
+Vraag 15:
+Verschil tussen Kant en de logisch empiristen is dat:
+- de logisch empiristen zich verzetten tegen het idee van synthetische a priori uitspraken
+
+vraag 16:
+
+
+Vraag 17:
+Volgens popper neemt Empirische inhoud van theorie toe naarmate zij:
+- een groter aantal mogelijke basiszinnen uitsluit (meer potentiele falsificatoren heeft)
+
+Vraag 18:
+Volgens popper is het principe van falsificatie superieur aan het principe van verificatie omdat:
+- universele uitspraken, die een grote rol spelen in de natuurwetenschappen, 
+
 
 Logisch-positivisten (verklaring in de natuurwetenschappen wetten/ geesteswetenschappen)
 Nietzsche "god is dood",
