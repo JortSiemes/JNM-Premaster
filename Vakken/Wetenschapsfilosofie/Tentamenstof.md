@@ -134,10 +134,22 @@ most influential GWF Hegel, he completely agreed that nobody can escape from his
 Philosophy is its own time captured in thought
 beliefs in patterns in history, describe an clarify these laws in history (every stage is unique, why do these stages follow each other)
 Societies underlying concepts = 
-History of Politics: (logical development of freedom)
-1, lawlessness without states (not really freedom)
-2, strict hierarchical states ()
+History of Politics: (logical development of freedom), a contradiction pushes history forward
+1, lawlessness without states (not really freedom), next stage will be the opposite 
+2, strict hierarchical states (strict laws is also not really freedom), next stage will be the average
 3, democracy/rechtsstaat
+
+1, thesis (contradiction)
+2, antithesis (opposite of contradiction)
+3, syntheses (contradiction resolved)
+We can find it in underlying ideas of human society, history is about development of ideas this pushes history forward.
+
+**Karl Marx**:
+dialectical materialism:
+Dialectics: development following the pattern of thesis - antithesis - syntheses
+Marx believes that humans are concerned with material needs, any society needs to ensure these means are available.
+Struggle between classes, which is a specific role in the production and ownership of material goods. (bourgouisie and proletariat), he believes that the struggle between these classes moves history forward.
+
 
 
 
