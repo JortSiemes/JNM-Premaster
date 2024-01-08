@@ -201,12 +201,12 @@ Hermeneutic circle, meaning is holistic
 The whole is more than the sum of its parts
 
 **[[Wilhelm Dilthey]]**:
-humanities study = erlebnis, human-experience
+humanities study = erlebnis, human-experience, you need human senses like Wisdom and Experience!
 [[verstehen]] = understanding, being able really understand someones expression
 
 [[Structuralisme]] (algemene structuur tonen waar de individuele elementen hun plaats hebben)
 Central idea of structuralism, identity is defined not by intrinsic properties, but by the larger structure that it is part of.
-**[[De Saussure]]**: studies linguistics, it studies the structure of language itself.
+**[[De Saussure]]**: studies linguistics, it studies the structure of language itself. (he believes that our languages determine how we categorise the world into kinds)
 Linguistic sound = phonemes
 Different languages have different phonemes.
 
@@ -220,13 +220,18 @@ Different languages can have different concepts
 Structure that you can find in stories
 Fairytales have very standard structure
 
--Hero
--Princess
+Structuralism in fairytales: (every role has to be a part of the structure)
+-Hero (he struggles against the villain to rescue princess)
+-Princess 
 -Villain
 
 -Dispatcher
 -Helper
--Dono
+-Donor
+-False hero
+
+
+
 
 
 ### 7. 
