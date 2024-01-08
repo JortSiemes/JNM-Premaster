@@ -159,8 +159,16 @@ Stalin is a result of believing that communism is inevetable.
 Past does not exist, it used to exist but not anymore, future does also not exist.
 Only present is real, what does the historian than study?
 current things are able to construct history. 
-History idea constructed by historian, create a story which makes maximal sense
+History idea constructed by historian, create a story which makes maximal sense of historical traces.
+Collingwood, destinction between events (can be explained by cause) and action (can be explained by reason). 
 
+| cause           | reason             |
+| --------------- | ------------------ |
+| just is there   | good or bad reason |
+| subject to laws | subject to decisions                   |
+
+Historian study human actions, it always looking for reasons to construct a narrative.
+Re-enactment: place yourself in the shoes of the historical person in such a way that you can recreate th
 
 
 
