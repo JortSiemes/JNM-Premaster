@@ -43,11 +43,35 @@ Opkomst moderne wetenschap (+/- 15e/19e eeuw)
 
 ### 2. Logisch positivisme en Popper
 
+
+## Tentamen vragen + antwoord:
+Vraag 1:
+Hempel verschil goed en volledige verklaring
+>??
+
+Vraag 2:
+De Saussure is het zonder taal onmogelijk om duidelijke, onderscheiden en constante ideeen en begrippen te hebben
+> goed
+
+Vraag 3:
+Logisch-positivisten
+
+Vraag 4:
+Feyerabend geloofwaardigheid
+
 Logisch-positivisten (verklaring in de natuurwetenschappen wetten/ geesteswetenschappen)
 Nietzsche "god is dood",
 De Saussure (taal)
 Rorty (waarheid vinden we niet waarheid maken we)
 Popper (toename empirische inhoud)
+Leezenberg en de Vries (structurlistische literatuurtheoretici)
+Kuhn (1 = normale wetenschap, 2 = revoluties, 3 = oplossen van puzzels)
+Collingwood (gebeurtenissen/handelingen)
+Foucault (taalkunde)
+Dilthey (verstehen/erklaaren)
+Derrida/simon blackburn
+Hegelianse (these-antithese-synthese)
+Marx (dialectisch materialisme)
 
 # Cursusboek: Philosophy for the humanities
 ### 2. methodology: an introduction
