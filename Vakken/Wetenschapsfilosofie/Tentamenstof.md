@@ -101,6 +101,9 @@ Clear pattern in history of science
 
 incommensurabiliteit (moeilijk om theorieen uit verschillende [[paradigma]]'s met elkaar te vergelijken)
 
+Kuhn onderscheidt
+1, normale wetenschap - 2, revoluties - 3, oplossen van puzzels
+
 **[[Michel Foucault]]**
 -[[gezichtloosheid]]
 	altijd word je in een keurslijf gedrongen, je bent nooit jezelf
@@ -113,8 +116,11 @@ begrijpen van het systeem is belangrijker dan het begrijpen van specifieke indiv
 repressieve macht = macht die jou op een bepaalde manier laat handelen door dwang straf of dreigement
 Normaliserend macht = macht die jou op een bepaalde manier laat handelen door jou te vormen tot iemand die het normaal vindt om zo te handelen.
 
-Kuhn onderscheidt
-1, normale wetenschap - 2, revoluties - 3, oplossen van puzzels
+Internalist history of science = exlusively factors internal to science, at scientific developments
+externalist history of science = if non scientific factors play an important role we speak of
+
+
+### 5. Denken over geschiedenis
 
 
 
