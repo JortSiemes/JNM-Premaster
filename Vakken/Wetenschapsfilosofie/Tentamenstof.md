@@ -79,8 +79,10 @@ What about humanities; not really to a certain extent humanities share with scie
 
 AGAINST SCIENTISM
 Science so superior that only its result is knowledge.
-- Science asks a very specific questions (only anwser that science asks can only be answered by observations) There are a lot of questions that are not asked by science because they can't be observed than answered.
-- 
+- Science asks a very specific questions (only answer that science asks can only be answered by observations) There are a lot of questions that are not asked by science because they can't be observed than answered.
+- knowledge is not the same as understanding (understanding hamlet, if you fail this you cant just look up more facts) Science is knowledge of facts.
+- New ways of thinking to replace old ways to think of things, humanities is engaged in this. New ways of conceptualizing things which is also very important
+- Humanities should enrich the experience of culture/literature, this allows us to read books/ watch books which will enrich this. 
 
 
 
