@@ -46,6 +46,18 @@ Valid argument (conclusion follows from premises)
 -[[Deductive argument]]
 -[[Inductive argument]]
 
+Karl Popper:
+Falsificatie (altijd deductief)
+Als T dan P
+Niet-P
+ERGO niet-T
+
+Wetenschappers zijn constant bezig met het falsificeren
+
+Carl Hempel
+Logisch empirisme
+
+
 ### 3. Scientisme en de geesteswetenschappen
 
 
