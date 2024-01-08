@@ -251,6 +251,14 @@ Nietzsche believes that everyone believing in foundations is wrong, and bound to
 Truth is the kind of error without which a certain species of life could not live.
 No two things are identical
 
+NIETZSCHE = perspective
+He believes that no truths are the same (cannot be combined into one big truths)
+
+{The world can't contradict itself?}
+
+**Richart Rorty**:
+
+
 
 
 
