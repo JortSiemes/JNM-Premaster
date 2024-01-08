@@ -24,21 +24,30 @@ Drie takken:
 Confirmation bias, je neigt altijd meer naar data en onderzoeken te zoeken die jouw resultaat bevestigen.
 
 Voor wetenschappelijke revolutie:
-- **Aristoteles**
+- **Aristoteles** (teleologische benadering)
 	- Keek op verschillende manieren nar verschillende disciplines
 	- waarnemen -> op kwalitatieve manier bestuderen
-	- ontwikkelde analytische filosofie
+	- ontwikkelde analytische filosofie: 
+	- Natuurlijke beweging
+		- Vieroorzaken (werkoorzaak (enige wat we nog gebruiken), doeloorzaak)
+
 Aristoteles (expirements dont reveal nature)
 Galileo (more [[experiment]] based)
 
 **Wetenschappelijke revolutie**
+
+Opkomst moderne wetenschap (+/- 15e/19e eeuw)
 
 
 
 
 ### 2. Logisch positivisme en Popper
 
-
+Logisch-positivisten (verklaring in de natuurwetenschappen wetten/ geesteswetenschappen)
+Nietzsche "god is dood",
+De Saussure (taal)
+Rorty (waarheid vinden we niet waarheid maken we)
+Popper (toename empirische inhoud)
 
 # Cursusboek: Philosophy for the humanities
 ### 2. methodology: an introduction
