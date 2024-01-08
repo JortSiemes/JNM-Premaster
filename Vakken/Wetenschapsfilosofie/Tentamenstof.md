@@ -259,6 +259,8 @@ He believes that no truths are the same (cannot be combined into one big truths)
 **Richart Rorty**:
 We project our concepts on the world, this is our language. Truth cannot be the same for the world and our language. 
 
+Jackques Derrida:
+Traditional belief of language is wrong, based on De Sausseur 
 
 
 Correspondence theory of truth: sentence is true if and only if it describes what is really the case in the world.
