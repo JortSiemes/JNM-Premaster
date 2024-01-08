@@ -99,6 +99,20 @@ Clear pattern in history of science
 - crises (critical of paradigm)
 - [[Scientific revolution]] (new paradigm)
 
+incommensurabiliteit (moeilijk om theorieen uit verschillende [[paradigma]]'s met elkaar te vergelijken)
+
+**[[Michel Foucault]]**
+-[[gezichtloosheid]]
+	altijd word je in een keurslijf gedrongen, je bent nooit jezelf
+	Jezelf uitdrukken zijn gedefinieerd door de maatschappij
+begrijpen van het systeem is belangrijker dan het begrijpen van specifieke individuen
+- Volgens foucault moet de nadruk vooral liggen op de onbewuste regels die bepaalden wat er uberhaupt gedacht, gewenst en berargumenteerd kan worden.
+[[Episteme]] = onbewuste regels die het denken in een bepaalde tijd en cultuur bepalen
+- Zeldzaam en extreem radicaal
+
+repressieve macht = macht die jou op een bepaalde manier laat handelen door dwang straf of dreigement
+Normaliserend macht = macht die jou op een bepaalde manier laat handelen door jou te vormen tot iemand die het normaal vindt om zo te handelen.
+
 
 
 ## Tentamen vragen + antwoord:
