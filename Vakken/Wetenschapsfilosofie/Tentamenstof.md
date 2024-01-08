@@ -233,6 +233,9 @@ Structuralism in fairytales: (every role has to be a part of the structure)
 ---
 ### 7. Postmodernisme en objectiviteit
 Postmodernism: 
+- attack on foundations
+- attack on the idea that truth is one
+
 
 **Friedrich Nietzsche**:
 attack on foundations: (foundation justifies some claims, but doesn't need justification itself)
@@ -243,8 +246,10 @@ How do you know that your conscious is right?
 All healthy people know their conscious is right!
 
 Nietzsche believes that everyone believing in foundations is wrong, and bound to fail.
-Genealogy: an investigation into the origins of our values that shows that those values are the results of events that are not worthy of our respect.
+**Genealogy**: an investigation/story into the origins of our values that shows that those values are the results of events that are not worthy of our respect.
 
+Truth is the kind of error without which a certain species of life could not live.
+No two things are identical
 
 
 
