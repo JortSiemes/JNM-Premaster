@@ -113,6 +113,9 @@ begrijpen van het systeem is belangrijker dan het begrijpen van specifieke indiv
 repressieve macht = macht die jou op een bepaalde manier laat handelen door dwang straf of dreigement
 Normaliserend macht = macht die jou op een bepaalde manier laat handelen door jou te vormen tot iemand die het normaal vindt om zo te handelen.
 
+Kuhn onderscheidt
+1, normale wetenschap - 2, revoluties - 3, oplossen van puzzels
+
 
 
 ## Tentamen vragen + antwoord:
