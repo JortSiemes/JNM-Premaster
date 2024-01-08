@@ -10,16 +10,31 @@ Doel:
 ### 1. Wetenschappelijke revolutie
 Goal of wetenschap is het vinden van verschillen tussen waar en onware theorien, dit kan door middel van het verschil van bijvoorbeeld een goed argument / slecht argument te vinden. 
 
-Aristoteles (expirements dont reveal nature)
-Galileo (more [[experiment]] based)
-
 Valid argument (conclusion follows from premises)
 -[[Deductive argument]]
 -[[Inductive argument]]
 
+Drie takken:
+- ontologie (zijnsleer, aard van bestaan, realiteit wereld om ons heen.)
+- epistemologie (kennisleer,  wat weten we over onszelf, de wereld om ons heen, wat kunnen wij als subject kennen over de wereld om ons heen)
+- methodologie (methoden. welke werkwijze moeten we volgen om kennis te vergaren. Hoe gaan we het doen, met welke methodes.)
+
 -Empirical = tested directly by observations
 
 Confirmation bias, je neigt altijd meer naar data en onderzoeken te zoeken die jouw resultaat bevestigen.
+
+Voor wetenschappelijke revolutie:
+- **Aristoteles**
+	- Keek op verschillende manieren nar verschillende disciplines
+	- waarnemen -> op kwalitatieve manier bestuderen
+	- ontwikkelde analytische filosofie
+Aristoteles (expirements dont reveal nature)
+Galileo (more [[experiment]] based)
+
+**Wetenschappelijke revolutie**
+
+
+
 
 ### 2. Logisch positivisme en Popper
 
