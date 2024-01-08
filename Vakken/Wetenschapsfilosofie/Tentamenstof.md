@@ -210,8 +210,28 @@ Central idea of structuralism, identity is defined not by intrinsic properties, 
 Linguistic sound = phonemes
 Different languages have different phonemes.
 
+**Ludwig Wittgenstein**:
+Thought requires language, if you dont have words other than bread, you cant really think about other things than bread.
+"The limits of my languages mean the limits of my world" - Wittgenstein
 
- 
+Different languages can have different concepts
+
+**Vladimir Propp**:
+Structure that you can find in stories
+Fairytales have very standard structure
+
+-Hero
+-Princess
+-Villain
+
+-Dispatcher
+-Helper
+-Dono
+
+
+### 7. 
+
+
 
 ---
 
