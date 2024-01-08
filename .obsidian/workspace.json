@@ -147,17 +147,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "ebd21590f25df297",
   "lastOpenFiles": [
+    "Vakken/Wetenschapsfilosofie/college3.pdf",
+    "Vakken/Wetenschapsfilosofie/college3.pdf.crdownload",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/normal science.md",
     "Vakken/Wetenschapsfilosofie/Tentamenstof.md",
     "Onderwerpen/Conclusion.md",
@@ -185,7 +187,6 @@
     "confirmation.md",
     "empirical basis.md",
     "empirical content.md",
-    "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Michel Foucault.md",
     "Scientific method.md",
     "Vakken/Wetenschapsfilosofie/Groepsopdracht.md",
@@ -193,7 +194,6 @@
     "Vakken/Wetenschapsfilosofie/Aantekeningen Kennisclips wetenschapsfilosofie.md",
     "Vakken/Wetenschapsfilosofie/Aantekeningen cursusboek Wetenschapsfilosofie.md",
     "Vakken/Wetenschapsfilosofie/Reader notities Wetenschapsfilosofie.md",
-    "Vakken/Woorden als wapens/Opnieuw alle week opdrachten.md",
     "Vakken/Woorden als wapens/Literatuur/Week 3_Metafoortheorie/Het verleden ligt boven, de toekomst beneden - NEMO Kennislink_files/medium.png",
     "Vakken/Woorden als wapens/Literatuur/Week 3_Metafoortheorie/Het verleden ligt boven, de toekomst beneden - NEMO Kennislink_files/2721507697_d93bd00a7b_z.jpg",
     "Vakken/Woorden als wapens/Literatuur/Week 3_Metafoortheorie/Het verleden ligt boven, de toekomst beneden - NEMO Kennislink_files/klaslokaal.jpeg",

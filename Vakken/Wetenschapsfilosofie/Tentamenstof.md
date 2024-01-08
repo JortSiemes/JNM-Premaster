@@ -140,6 +140,7 @@ History of Politics: (logical development of freedom), a contradiction pushes hi
 2, strict hierarchical states (strict laws is also not really freedom), next stage will be the average
 3, democracy/rechtsstaat
 
+Dilectiek
 1, thesis (contradiction)
 2, antithesis (opposite of contradiction)
 3, syntheses (contradiction resolved)
