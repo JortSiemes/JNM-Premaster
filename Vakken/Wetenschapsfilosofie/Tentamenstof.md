@@ -125,11 +125,13 @@ externalist history of science = if non scientific factors play an important rol
 **Hempel**: Causale samenhang door middel van wetmatigheden
 Deductive-nomological model: 
 
-
-
 **Hegel & Marx**: logische samenhang door middel van dialectiek
 Collingwood: logische samenhang van handelingen en de redenen voor die handelingen
 White: narratieve samenhang door middel van een veelheid aan vertelstructuren
+
+Hegel: to understand something, you have to know its history. 
+
+Kant: enlightenment is to become a mature person, ability to use own understanding (think for yourself)
 
 
 
