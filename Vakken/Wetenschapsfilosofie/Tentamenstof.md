@@ -275,6 +275,19 @@ post-modernism (multiple truths, no neutral truth) has been more practical as we
 One culture can not hold the correct view, we need all the different perspetives to get best perspective.
 Different perspectives have not been equally heard.
 
+Universalism is that all people/groups are equal, it therefore doesn't matter who you are.
+- could be flawed, because this could mean like becoming the dominant group.
+
+Universalism implies that there is a neutral perspective on truths, this is rejected by post-modernism.
+If women bring the feminiene perspective, that is also sexist, there is diversity within group of women.
+
+Paradox:
+Little to no difference between people = universalism, so group that is not diverse can do exactly the same as group that is very diverse.
+Big difference between people = post-modernism, means that there is something as the female experience, which is also sexist.
+
+Essense, is what makes something what it is.
+
+
 
  
 ---
