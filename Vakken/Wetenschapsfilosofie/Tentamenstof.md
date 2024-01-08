@@ -8,13 +8,20 @@ Doel:
 ## Overzicht stof:
 
 ### 1. Wetenschappelijke revolutie
+Goal of wetenschap is het vinden van verschillen tussen waar en onware theorien, dit kan door middel van het verschil van bijvoorbeeld een goed argument / slecht argument te vinden. 
+
 Aristoteles (expirements dont reveal nature)
 Galileo (more [[experiment]] based)
 
+Valid argument (conclusion follows from premises)
 -[[Deductive argument]]
 -[[Inductive argument]]
 
+-Empirical = tested directly by observations
 
+Confirmation bias, je neigt altijd meer naar data en onderzoeken te zoeken die jouw resultaat bevestigen.
+
+### 2. Logisch positivisme en Popper
 
 
 
