@@ -205,8 +205,13 @@ humanities study = erlebnis, human-experience
 [[verstehen]] = understanding, being able really understand someones expression
 
 [[Structuralisme]] (algemene structuur tonen waar de individuele elementen hun plaats hebben)
+Central idea of structuralism, identity is defined not by intrinsic properties, but by the larger structure that it is part of.
 **[[De Saussure]]**: studies linguistics, it studies the structure of language itself.
+Linguistic sound = phonemes
+Different languages have different phonemes.
 
+
+ 
 
 ---
 
