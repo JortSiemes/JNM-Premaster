@@ -10,10 +10,6 @@ Doel:
 ### 1. Wetenschappelijke revolutie
 Goal of wetenschap is het vinden van verschillen tussen waar en onware theorien, dit kan door middel van het verschil van bijvoorbeeld een goed argument / slecht argument te vinden. 
 
-Valid argument (conclusion follows from premises)
--[[Deductive argument]]
--[[Inductive argument]]
-
 Drie takken:
 - ontologie (zijnsleer, aard van bestaan, realiteit wereld om ons heen.)
 - epistemologie (kennisleer,  wat weten we over onszelf, de wereld om ons heen, wat kunnen wij als subject kennen over de wereld om ons heen)
@@ -38,10 +34,24 @@ Galileo (more [[experiment]] based)
 
 Opkomst moderne wetenschap (+/- 15e/19e eeuw)
 
-
-
-
 ### 2. Logisch positivisme en Popper
+Standaardbeeld (wetenschappers hebben autoriteit)
+Stap 1. Waarneming
+Stap 2. Theorie
+Wetenschappers bereiken vrije consensus door middel van kritiek en discussie.
+
+Vragen over standaardbeeld
+
+Valid argument (conclusion follows from premises)
+-[[Deductive argument]]
+-[[Inductive argument]]
+
+### 3. Scientisme en de geesteswetenschappen
+
+
+
+
+
 
 
 ## Tentamen vragen + antwoord:
@@ -173,13 +183,21 @@ Vraag 34:
 Postmodernist Lyotard gelooft over huidige wetenschap:
 met name de informatisering van kennis laat zien hoe nauw wetenschap verbonden is met politiek en economie.
 
-
 Vraag 35:
 Aristoteles heeft een teleologische opvatting van verklaringen. Teleologisch is:
 Verklaringen van dingen in termen van het doel waar ze op gericht zijn. (alles heeft een doel, zaad tot appel)
 
-
 Vraag 36:
+Horkheimer en Adorno wijten opkomst van fascisme aan de verlichting heeft de mythe niet echt overwonnen doordat ook de verlichting een noodlot poneert dat de mens zijn vrijheid ontneemt.
+
+Vraag 37:
+Richard Rorty, waarheid is een kwestie van nut en niet van correspondentie
+
+Vraag 38:
+Dilthey, verschil tussen erklaren en verstehen:
+er is fundmenteel verschil tussen externe waarnemingen van dingen buiten ons en interne waarnemingen van onze eigen emoties gedachtes en gemoedstoestanden
+
+Vraag 39:
 
 
 
