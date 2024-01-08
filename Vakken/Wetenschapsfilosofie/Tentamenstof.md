@@ -123,13 +123,25 @@ externalist history of science = if non scientific factors play an important rol
 ### 5. Denken over geschiedenis
 
 **Hempel**: Causale samenhang door middel van wetmatigheden
-Deductive-nomological model: 
+Deductive-nomological model: When A happens B will happen (repeatable)
 
 **Hegel & Marx**: logische samenhang door middel van dialectiek
 Collingwood: logische samenhang van handelingen en de redenen voor die handelingen
 White: narratieve samenhang door middel van een veelheid aan vertelstructuren
 
-Hegel: to understand something, you have to know its history. 
+**Hegel**: to understand something, you have to know its history. 
+most influential GWF Hegel, he completely agreed that nobody can escape from his own time. 
+Philosophy is its own time captured in thought
+beliefs in patterns in history, describe an clarify these laws in history (every stage is unique, why do these stages follow each other)
+Societies underlying concepts = 
+History of Politics: (logical development of freedom)
+1, lawlessness without states (not really freedom)
+2, strict hierarchical states ()
+3, democracy/rechtsstaat
+
+
+
+
 
 Kant: enlightenment is to become a mature person, ability to use own understanding (think for yourself)
 
