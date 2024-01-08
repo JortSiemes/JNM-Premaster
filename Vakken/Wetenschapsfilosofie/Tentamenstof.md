@@ -257,7 +257,12 @@ He believes that no truths are the same (cannot be combined into one big truths)
 {The world can't contradict itself?}
 
 **Richart Rorty**:
+We project our concepts on the world, this is our language. Truth cannot be the same for the world and our language. 
 
+
+
+Correspondence theory of truth: sentence is true if and only if it describes what is really the case in the world.
+ 
 
 
 
