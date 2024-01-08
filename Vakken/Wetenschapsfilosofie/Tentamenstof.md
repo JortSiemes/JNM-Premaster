@@ -192,6 +192,18 @@ White: no way of writing history is more realistic than the others
 Kant: enlightenment is to become a mature person, ability to use own understanding (think for yourself)
 
 
+### 6. Hermeneutiek en structuralisme
+interpretations (humanities)
+
+Hermeneutiek = study of interpretation(door middel van interpretatie de betekenis van individuele zaken achterhalen)
+Structuralisme (algemene structuur tonen waar de individuele elementen hun plaats hebben)
+
+Hermeneutic circle, meaning is holistic
+The whole is more than the sum of its parts
+
+
+
+
 
 ## Tentamen vragen + antwoord:
 Vraag 1:
