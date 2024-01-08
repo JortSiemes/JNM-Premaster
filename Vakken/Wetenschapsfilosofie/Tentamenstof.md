@@ -259,15 +259,25 @@ He believes that no truths are the same (cannot be combined into one big truths)
 **Richart Rorty**:
 We project our concepts on the world, this is our language. Truth cannot be the same for the world and our language. 
 
-Jackques Derrida:
-Traditional belief of language is wrong, based on De Sausseur 
+**Jackques Derrida**:
+Traditional belief of language is wrong, based on De Saussure. 
+Meaning of a concept is by relations by lots of other concepts within a language.
+Cultural fenomeen, cultural meaning of Ford Focus is not only made up by showing it. You have to show a different car. Less fancy than ferrari but more special than fiat. 
 
+Cant be true that hearing word automatically makes that concept present in your mind. Meaning of concept is by the place in the structure. you have to know the rest of the structure. 
+
+Language project structure into the world, tree does not carry the concept tree.
 
 Correspondence theory of truth: sentence is true if and only if it describes what is really the case in the world.
+
+#### Universalism:
+post-modernism (multiple truths, no neutral truth) has been more practical as well (diversity)
+One culture can not hold the correct view, we need all the different perspetives to get best perspective.
+Different perspectives have not been equally heard.
+
+
  
-
-
-
+---
 
 ### 8. De wetenschappelijke praktijk
 
