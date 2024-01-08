@@ -184,6 +184,8 @@ Romance: good triumphs over evil
 Comedy: opposing forces are reconciliated
 Tragedy: high ideals fail, but we learn to accept our limitations (more wisdom less happynes)
 
+White: no way of writing history is more realistic than the others
+
 
 
 Kant: enlightenment is to become a mature person, ability to use own understanding (think for yourself)
