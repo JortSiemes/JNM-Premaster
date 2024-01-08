@@ -1,0 +1,1 @@
+The most straightforward and common answer is that scientists have a special way of developing and testing theories, a way called the scientic method.

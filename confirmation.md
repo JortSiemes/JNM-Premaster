@@ -1,0 +1,1 @@
+when and to what extent are other statements supported by statements from the empirical basis? (We say that a statement is confirmed by observations when these observations make the statement more likely to be true; and that it is disconfirmed by observations when they make the statement less likely to be true.)

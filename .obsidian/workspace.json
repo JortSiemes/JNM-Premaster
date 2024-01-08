@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "25a8810a43f3e026",
+        "id": "6c9f0ddfbb3ddc9d",
         "type": "tabs",
         "children": [
           {
-            "id": "aa83ec471d72cced",
+            "id": "ebd21590f25df297",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md",
+                "file": "Vakken/Wetenschapsfilosofie/Tentamenstof.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md",
+                "file": "Vakken/Wetenschapsfilosofie/Tentamenstof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md",
+                "file": "Vakken/Wetenschapsfilosofie/Tentamenstof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md"
+                "file": "Vakken/Wetenschapsfilosofie/Tentamenstof.md"
               }
             }
           }
@@ -143,66 +144,65 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 309.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aa83ec471d72cced",
+  "active": "ebd21590f25df297",
   "lastOpenFiles": [
-    "Vakken/Woorden als wapens/COLLECTIE FILE Woorden als wapens.md",
-    "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
-    "conflict-files-obsidian-git.md",
-    "performatieve discourse.md",
-    "mediahype.md",
-    "injectienaald.md",
-    "descriptieve discours.md",
-    "cognitieve dissonantie.md",
-    "Vakken/Woorden als wapens/Literatuur/Week 9_Voornaamwoorden/1-s2.0-S0378216611001755-main.pdf",
-    "Vakken/Woorden als wapens/Literatuur/Week 9_Voornaamwoorden",
-    "Vakken/Woorden als wapens/Literatuur/Week 8_Naamwoordstijl/1993_Onrust-Verhagen-Doeve_Formuleren_H5-Naamwoordstijl.pdf",
-    "Vakken/Woorden als wapens/Literatuur/Week 8_Naamwoordstijl/06-A.-Bolt-W.-Spooren-2003-De-complexiteit-van-naamwoordstijl-de-gesubstantiveerde-infinitief-experimenteel-onderzocht-pp.71-82.pdf",
-    "Vakken/Woorden als wapens/Literatuur/Week 8_Naamwoordstijl",
-    "Vakken/Woorden als wapens/Literatuur/Week 7_LijdendeVorm/1993_Onrust-Verhagen-Doeve_Formuleren_H4-LijdendeVorm.pdf",
-    "Vakken/Woorden als wapens/Literatuur/Week 7_LijdendeVorm",
-    "Vakken/Woorden als wapens/Literatuur/Week 6_Taalintensiteit/OverLoodzwareBassenEnWapperendeBroekspijpen.pdf",
-    "Vakken/Woorden als wapens/Literatuur/Week 6_Taalintensiteit",
-    "Vakken/Woorden als wapens/Literatuur/Week 5_Perspectief/Viewpointrepresentationinjournalisticcrimenarratives_Krieken_Sanders_Hoeken.pdf",
-    "Tentamenstof Woorden als wapens.md",
-    "I-pistemology.md",
-    "Code van bordeaux.md",
-    "Onderwerpen/Market model.md",
-    "Onderwerpen/Trustee model.md",
-    "Onderwerpen/verschoningsrecht.md",
-    "spreekbuismodel.md",
-    "Notities Dagelijk/September/2023-09-18.md",
-    "penny press.md",
-    "Onderwerpen/Journalistieke objectiviteit.md",
-    "Onderwerpen/Persbureaus.md",
-    "Onderwerpen/Dagblad.md",
-    "Mediatisering.md",
-    "telegraaf.md",
-    "Horse race reporting.md",
-    "spindoctors.md",
-    "media zuilen.md",
-    "waarheidsvinding.md",
+    "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf",
+    "Vakken/Wetenschapsfilosofie/Tentamenstof.md",
+    "De Saussure.md",
+    "Onderwerpen/Structuralisme.md",
+    "Onderwerpen/Wilhelm Dilthey.md",
+    "Onderwerpen/Hermeneutiek.md",
+    "Onderwerpen/Holisme.md",
+    "Vakken/Wetenschapsfilosofie/college3.pdf",
+    "Vakken/Wetenschapsfilosofie/college3.pdf.crdownload",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/normal science.md",
+    "Onderwerpen/Conclusion.md",
+    "Onderwerpen/Premises.md",
+    "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 1 wetenschapsfilosofie.md",
+    "Vakken/Wetenschapsfilosofie/wetenschapsfilosofie-hoorcollege-aantekeningen.pdf",
+    "Vakken/Wetenschapsfilosofie/wetenschapsfilosofie-hoorcollege-aantekeningen.pdf.crdownload",
+    "Vakken/Wetenschapsfilosofie/Hoorcolleges/~$tenschapfiloCol1tot4.docx",
+    "Vakken/Wetenschapsfilosofie/Hoorcolleges/~WRD0001.tmp",
+    "Vakken/Wetenschapsfilosofie/Hoorcolleges/~WRD0000.tmp",
+    "Vakken/Wetenschapsfilosofie/Hoorcolleges/WetenschapfiloCol1tot4.docx",
+    "Vakken/Wetenschapsfilosofie/Hoorcolleges/College 1tot4_Wetenschapsfilosofie.pdf",
+    "Onderwerpen/Deductive argument.md",
+    "Onderwerpen/Inductive argument.md",
+    "Onderwerpen/vrije consensus.md",
+    "Onderwerpen/experiment.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/Karl Popper.md",
+    "Onderwerpen/Falsificatie.md",
+    "inductive.md",
+    "Deductive.md",
+    "argumentation.md",
+    "theory-ladenness of observations.md",
+    "confirmation.md",
+    "empirical basis.md",
+    "empirical content.md",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/Michel Foucault.md",
+    "Scientific method.md",
+    "Vakken/Woorden als wapens/Literatuur/Week 3_Metafoortheorie/Het verleden ligt boven, de toekomst beneden - NEMO Kennislink_files/medium.png",
+    "Vakken/Woorden als wapens/Literatuur/Week 3_Metafoortheorie/Het verleden ligt boven, de toekomst beneden - NEMO Kennislink_files/2721507697_d93bd00a7b_z.jpg",
+    "Vakken/Woorden als wapens/Literatuur/Week 3_Metafoortheorie/Het verleden ligt boven, de toekomst beneden - NEMO Kennislink_files/klaslokaal.jpeg",
+    "Vakken/Woorden als wapens/Literatuur/Week 3_Metafoortheorie/Het verleden ligt boven, de toekomst beneden - NEMO Kennislink_files/klaslokaal(1).jpeg",
+    "Vakken/Woorden als wapens/Literatuur/Week 3_Metafoortheorie/Het verleden ligt boven, de toekomst beneden - NEMO Kennislink_files/cirkel-afbeelding-50352328a97e722e9e1507431acef43cab3c5a8a1e10bdf09cb8936ab4ce951.png",
     "Vakken/Taal en communicatie/Tentamenstof.jpeg",
     "Vakken/Wetenschapsfilosofie/JortSiemes_Wetenschapfilo_StanleyKubrick.jpg",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/NRC_logo.svg.png",
     "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/Cover_Achtergrondartikel.png",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/1-1631190961.png",
-    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/US_Yieldcurve.png",
-    "Vakken/Woorden als wapens/Weekopdrachten/Week 11/Screenshot3_controversieel.png",
-    "Vakken/Woorden als wapens/Weekopdrachten/Week 11/Screenshot2.png",
-    "Vakken/Woorden als wapens/Weekopdrachten/Week 11/Screenshot1.png",
-    "Vakken/Woorden als wapens/Weekopdrachten/Week 11/Conversation1.webp"
+    "Vakken/Journalistieke en Redactionele Vaardigheden/Achtergrondverhaal/1-1631190961.png"
   ]
 }

@@ -1,0 +1,5 @@
+var DISQUSWIDGETS;
+
+if (typeof DISQUSWIDGETS != 'undefined') {
+    DISQUSWIDGETS.displayCount({"text":{"and":"en","comments":{"zero":"0","multiple":"{num}","one":"1"}},"counts":[{"id":"https:\/\/www.nemokennislink.nl\/publicaties\/het-verleden-ligt-boven-de-toekomst-beneden\/","comments":0}]});
+}

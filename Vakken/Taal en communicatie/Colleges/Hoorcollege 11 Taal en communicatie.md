@@ -3,7 +3,7 @@
 | ---------------------------------- | -------------------------------------------- | -------------------------------------- | ---------- |
 | What is said                       | gegenaraliseerde [[conversationele implicatuur]] | particuliere [[conventionele implicatuur]] | hint       |
 | [[conventionele implicatuur]]          | conventionele [[indirecte]] [[taalhandeling]]        | indirect beleefdheidstrategie          | suggestie  |
-| [[semantiek]] (logical) [[entailment]]     | conventeionele [[indirecte]] (beleefdheid)       | stereotypes (CDA)                      | Connotatie |
+| [[semantiek]] (logical) [[Entailment]]     | conventeionele [[indirecte]] (beleefdheid)       | stereotypes (CDA)                      | Connotatie |
 | [[explicatuur]]                        | [[presuppositie]]                                | [[metafoor]]                               |  insinuatie          |
 tabel 1
 
