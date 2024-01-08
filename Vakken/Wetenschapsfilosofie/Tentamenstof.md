@@ -230,11 +230,28 @@ Structuralism in fairytales: (every role has to be a part of the structure)
 -Donor
 -False hero
 
+---
+### 7. Postmodernisme en objectiviteit
+Postmodernism: 
+
+**Friedrich Nietzsche**:
+attack on foundations: (foundation justifies some claims, but doesn't need justification itself)
+It is bad to kill people!
+How do you know that?
+You're conscious will tell you that!
+How do you know that your conscious is right?
+All healthy people know their conscious is right!
+
+Nietzsche believes that everyone believing in foundations is wrong, and bound to fail.
+Genealogy: an investigation into the origins of our values that shows that those values are the results of events that are not worthy of our respect.
 
 
 
 
-### 7. 
+
+### 8. De wetenschappelijke praktijk
+
+
 
 
 
