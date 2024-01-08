@@ -72,9 +72,10 @@ Dit onderwerp leent zich bij uitstek voor discussie. Vandaar dat Victor Gijsbers
 PRO SCIENTISM
 "Scientism is the idea that science is the only source of knowledge"
 arguments in favor:
-	- It is the extreme succes of science, our entire way of living has been totally transformed by the science we developed. Science has given us a continual growth for 100erds of years of knowledge. We have learned more and more and more. We have been able to do things, modern medicine modern technology. It gives us practical knowledge, nothing comes close to science (for example )
-	
-	
+	- It is the extreme succes of science, our entire way of living has been totally transformed by the science we developed. Science has given us a continual growth for 100erds of years of knowledge. We have learned more and more and more. We have been able to do things, modern medicine modern technology. It gives us practical knowledge, nothing comes close to science (for example religion, people are not progressing the same like science) Only scientist base their findings on observations and draw correct reasoning. That is why scientists agree, because they describe real structure of reality.
+	- What is the world like, science has shown this to us. Tiny particles described by science. everything else is built up by these particles, (this thinking is better than what we used to believe before this) Everything that exists is a physical that and everything that is needed to explain this can be done by knowing the universal laws.   
+
+What about humanities; not really to a certain extent humanities share with sciences, trying to find facts through observations. 
 
 
 
