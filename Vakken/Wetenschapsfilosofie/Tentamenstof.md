@@ -200,14 +200,12 @@ interpretations (humanities)
 Hermeneutic circle, meaning is holistic
 The whole is more than the sum of its parts
 
-**Wilhelm Dilthey**:
+**[[Wilhelm Dilthey]]**:
 humanities study = erlebnis, human-experience
-verstehen = understanding, being able really understand someones expression
-
-
-
+[[verstehen]] = understanding, being able really understand someones expression
 
 [[Structuralisme]] (algemene structuur tonen waar de individuele elementen hun plaats hebben)
+**[[De Saussure]]**: studies linguistics, it studies the structure of language itself.
 
 
 ---
