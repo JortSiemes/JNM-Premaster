@@ -17,7 +17,7 @@ Drie takken:
 
 -Empirical = tested directly by observations
 
-Confirmation bias, je neigt altijd meer naar data en onderzoeken te zoeken die jouw resultaat bevestigen.
+[[Confirmation]] bias, je neigt altijd meer naar data en onderzoeken te zoeken die jouw resultaat bevestigen.
 
 Voor wetenschappelijke revolutie:
 - **Aristoteles** (teleologische benadering)
@@ -35,19 +35,19 @@ Galileo (more [[experiment]] based)
 Opkomst moderne wetenschap (+/- 15e/19e eeuw)
 
 ### 2. Logisch positivisme en Popper
-Standaardbeeld (wetenschappers hebben autoriteit)
+[[Standaardbeeld]] (wetenschappers hebben autoriteit)
 Stap 1. Waarneming
 Stap 2. Theorie
-Wetenschappers bereiken vrije consensus door middel van kritiek en discussie.
+Wetenschappers bereiken [[vrije consensus]] door middel van kritiek en discussie.
 
-Vragen over standaardbeeld
+Vragen over [[standaardbeeld]]
 
-Valid argument (conclusion follows from premises)
+Valid argument ([[conclusion]] follows from [[premises]])
 -[[Deductive argument]]
 -[[Inductive argument]]
 
-**Karl Popper:**
-Falsificatie (altijd deductief)
+**[[Karl Popper]]:**
+[[Falsificatie]] (altijd [[deductief]])
 Als T dan P
 Niet-P
 ERGO niet-T
@@ -56,7 +56,7 @@ Wetenschappers zijn constant bezig met het falsificeren
 Problemen voor Popper: achtergrondinfo nodig voor falsificeren
 Er is een neutrale wetenschap
 
-**Carl Hempel**
+**[[Carl Hempel]]**
 Logisch empirisme
 
 
@@ -73,7 +73,7 @@ PRO SCIENTISM
 "Scientism is the idea that science is the only source of knowledge"
 arguments in favor:
 	- It is the extreme succes of science, our entire way of living has been totally transformed by the science we developed. Science has given us a continual growth for 100erds of years of knowledge. We have learned more and more and more. We have been able to do things, modern medicine modern technology. It gives us practical knowledge, nothing comes close to science (for example religion, people are not progressing the same like science) Only scientist base their findings on observations and draw correct reasoning. That is why scientists agree, because they describe real structure of reality.
-	- What is the world like, science has shown this to us. Tiny particles described by science. everything else is built up by these particles, (this thinking is better than what we used to believe before this) Everything that exists is a physical that and everything that is needed to explain this can be done by knowing the universal laws.   
+	- What is the world like, science has shown this to us. Tiny particles described by science. everything else is built up by [[these]] particles, (this thinking is better than what we used to believe before this) Everything that exists is a physical that and everything that is needed to explain this can be done by knowing the universal laws.   
 
 What about humanities; not really to a certain extent humanities share with sciences, trying to find facts through observations. 
 
@@ -86,6 +86,18 @@ Science so superior that only its result is knowledge.
 
 ### 4. Kuhn en Foucault
 
+Wetenschapsmethodologie
+[[Prescriptief]] = hoe wetenschappers te werk moeten gaan
+[[Descriptief]] = feitelijke manier van werken van wetenschappers
+
+Exemplarisch
+
+**[[Thomas Kuhn]]**
+Clear pattern in history of science
+- [[pre-paradigmatic phase]]
+- [[normal science]] (trust in paradigm)
+- crises (critical of paradigm)
+- [[Scientific revolution]] (new paradigm)
 
 
 
@@ -119,13 +131,13 @@ Vraag 8:
 Contraverlichting vraag
 
 Vraag 9:
-Aristoteles is geen voorstander van experimenten
+Aristoteles is geen voorstander van [[experimenten]]
 
 Vraag 10:
 Frankfurter Schule, ivoren toren
 
 Vraag 11:
-Hegel en Marx leggen grote nadruk op wetten maar hiermee niet causale natuurwetten bedoelen.
+[[Hegel]] en Marx leggen grote nadruk op wetten maar hiermee niet causale natuurwetten bedoelen.
 
 Vraag 12:
 Iemand die in het verificatiecriterium van het logisch empirisme geloofd:
@@ -151,32 +163,32 @@ Volgens popper neemt Empirische inhoud van theorie toe naarmate zij:
 - een groter aantal mogelijke basiszinnen uitsluit (meer potentiele falsificatoren heeft)
 
 Vraag 18:
-Volgens popper is het principe van falsificatie superieur aan het principe van verificatie omdat:
+Volgens popper is het principe van [[falsificatie]] superieur aan het principe van verificatie omdat:
 - universele uitspraken, die een grote rol spelen in de natuurwetenschappen, wel kunnen worden gefalsificeerd, maar niet kunnen worden geverifeerd.
 
 Vraag 19:
-Lakatos is net zoals Popper van mening dat het principe van falsificatie een leidend principe moet zijn van de wetenschappelijke methode.
+Lakatos is net zoals Popper van mening dat het principe van [[falsificatie]] een leidend principe moet zijn van de wetenschappelijke methode.
 Net zoals kuhn van mening dat de ontwikkeling van wetenschap verloopt via paradigmawisselen.
 
 Vraag 20:
 Volgens de Duhem-Quinestelling:
-Kunnen empirische hypotheses niet geïsoleerd van elkaar worden onderworpen aan cruciale tests.
+Kunnen empirische [[hypotheses]] niet geïsoleerd van elkaar worden onderworpen aan cruciale tests.
 
 Vraag 21:
 Kuhn onderscheidt
 1, normale wetenschap - 2, revoluties - 3, oplossen van puzzels
 
 Vraag 22:
-Belangrijke verschil tussen hegel en kant is dat:
--Kant a historisch over de menselijke geest nadenkt en hegel historisch
--Kant de nadruk legt op het individuele bewustzijn, terwijl Hegel juist ook kunst filosofie en religie analyseert.
+Belangrijke verschil tussen [[hegel]] en kant is dat:
+-Kant a historisch over de menselijke geest nadenkt en [[hegel]] historisch
+-Kant de nadruk legt op het individuele bewustzijn, terwijl [[Hegel]] juist ook kunst filosofie en religie analyseert.
 
 Vraag 23:
-Postmoderne historicus Hayden White, wordt geschiedschrijving vooral gestuurd door:
+Postmoderne historicus [[Hayden White]], wordt geschiedschrijving vooral gestuurd door:
 -conventies en gewoonten
 
 Vraag 24:
-Claim van Karl Marx:
+Claim van [[Karl Marx]]:
 Als iemand een bepaald soort literatuur schrijft moet de verklaring daarvoor gezocht worden in economische omstandigheden.
 
 Vraag 25:
@@ -192,17 +204,17 @@ Vraag 27:
 Onder welke omstandigheden is het volgens Kuhn mogelijk dat een wetenschappelijke revolutie plaatsvindt = Wanneer er een wijdverbreid gevoel ontstaat dat veel puzzels van de op dat moment geldende normale wetenschap niet binnen die normale wetenschap zullen worden opgelost.
 
 Vraag 28:
-Je moet volgens Kuhn denken binnen paradigma's en je kan dus 2 begrippen uit verschillende paradigma's niet met elkaar vergelijken omdat ze totaal anders zijn.
+Je moet volgens Kuhn denken binnen [[paradigma]]'s en je kan dus 2 begrippen uit verschillende [[paradigma]]'s niet met elkaar vergelijken omdat ze totaal anders zijn.
 
 Vraag 29:
-Collingwood maakt onderscheid tussen gebeurtenissen en handelingen waarin ligt het verschil: Gebeurtenissen hebben alleen oorzaken, maar handelingen hebben ook redenen en zijn door logische connecties met elkaar verbonden
+[[Collingwood]] maakt onderscheid tussen [[gebeurtenissen]] en [[handelingen]] waarin ligt het verschil: [[Gebeurtenissen]] hebben alleen oorzaken, maar [[handelingen]] hebben ook redenen en zijn door logische connecties met elkaar verbonden
 
 Vraag 30:
 Wat hoopt Foucault te bereiken met zijn latere methode die hij "genealogie" noemt:
-Hij hoopt aan te tonen dat de menswetenschappen eigenlijk gebaseerd zijn op politieke en ethische waarden.
+Hij hoopt aan te tonen dat de menswetenschappen eigenlijk gebaseerd zijn op politieke en ethische [[waarden]].
 
 Vraag 31:
-"Dat wat is, is de rede" Hegel moet je interpreteren als:
+"Dat wat is, is de rede" [[Hegel]] moet je interpreteren als:
 Het algemene proces van de geschiedenis dient begrepen te worden als de logische ontwikkeling van concepten.
 
 Vraag 32:
@@ -226,10 +238,10 @@ Vraag 36:
 Horkheimer en Adorno wijten opkomst van fascisme aan de verlichting heeft de mythe niet echt overwonnen doordat ook de verlichting een noodlot poneert dat de mens zijn vrijheid ontneemt.
 
 Vraag 37:
-Richard Rorty, waarheid is een kwestie van nut en niet van correspondentie
+[[Richard Rorty]], waarheid is een kwestie van nut en niet van correspondentie
 
 Vraag 38:
-Dilthey, verschil tussen erklaren en verstehen:
+Dilthey, verschil tussen erklaren en [[verstehen]]:
 er is fundmenteel verschil tussen externe waarnemingen van dingen buiten ons en interne waarnemingen van onze eigen emoties gedachtes en gemoedstoestanden
 
 Vraag 39:
@@ -244,11 +256,11 @@ Rorty (waarheid vinden we niet waarheid maken we)
 Popper (toename empirische inhoud)
 Leezenberg en de Vries (structurlistische literatuurtheoretici)
 Kuhn (1 = normale wetenschap, 2 = revoluties, 3 = oplossen van puzzels)
-Collingwood (gebeurtenissen/handelingen)
+[[Collingwood]] ([[gebeurtenissen]]/[[handelingen]])
 Foucault (taalkunde)
-Dilthey (verstehen/erklaaren)
+Dilthey ([[verstehen]]/erklaaren)
 Derrida/simon blackburn
-Hegelianse (these-antithese-synthese)
+Hegelianse ([[these]]-[[antithese]]-[[synthese]])
 Marx (dialectisch materialisme)
 
 # Cursusboek: Philosophy for the humanities
