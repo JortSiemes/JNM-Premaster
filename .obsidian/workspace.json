@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "25a8810a43f3e026",
+        "id": "6c9f0ddfbb3ddc9d",
         "type": "tabs",
         "children": [
           {
-            "id": "e1ab7eb5ca05640d",
+            "id": "ebd21590f25df297",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 1 wetenschapsfilosofie.md",
+                "file": "Onderwerpen/Deductive argument.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 1 wetenschapsfilosofie.md",
+                "file": "Onderwerpen/Deductive argument.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 1 wetenschapsfilosofie.md",
+                "file": "Onderwerpen/Deductive argument.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 1 wetenschapsfilosofie.md"
+                "file": "Onderwerpen/Deductive argument.md"
               }
             }
           }
@@ -156,10 +156,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1ab7eb5ca05640d",
+  "active": "ebd21590f25df297",
   "lastOpenFiles": [
-    "Vakken/Wetenschapsfilosofie/Onderwerpen/Karl Popper.md",
     "Vakken/Wetenschapsfilosofie/Tentamenstof.md",
+    "Onderwerpen/Deductive argument.md",
+    "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 1 wetenschapsfilosofie.md",
+    "Onderwerpen/vrije consensus.md",
+    "Onderwerpen/experiment.md",
+    "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf",
+    "Vakken/Wetenschapsfilosofie/Onderwerpen/Karl Popper.md",
     "Onderwerpen/Falsificatie.md",
     "inductive.md",
     "Deductive.md",
@@ -169,7 +174,6 @@
     "empirical basis.md",
     "empirical content.md",
     "Vakken/Wetenschapsfilosofie/syllabus 2023-2024 semester 1.pdf",
-    "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 1 wetenschapsfilosofie.md",
     "Vakken/Wetenschapsfilosofie/Onderwerpen/Michel Foucault.md",
     "Scientific method.md",
     "Vakken/Wetenschapsfilosofie/Groepsopdracht.md",
@@ -184,16 +188,12 @@
     "Vakken/Woorden als wapens/COLLECTIE FILE Woorden als wapens.md",
     "Vakken/Woorden als wapens/Aantekeningen Woorden als Wapens leesopdracht.md",
     "Vakken/Woorden als wapens/Onderwerpen/Naamwoordstijl.md",
-    "Vakken/Woorden als wapens/Onderwerpen/Conceptuele metafoor.md",
-    "Vakken/Woorden als wapens/Onderwerpen/doeldomein.md",
-    "Vakken/Woorden als wapens/Onderwerpen/structuurmetafoor.md",
     "Vakken/Woorden als wapens/Literatuur/Week 10_StijlmiddelenPoliticiAfstandenNabijheid/03_TVT2015.1.LEEU.pdf",
     "Vakken/Woorden als wapens/Literatuur/Week 10_StijlmiddelenPoliticiAfstandenNabijheid/03_TVT2015.1.LEEU.pdf.crdownload",
     "Vakken/Woorden als wapens/Literatuur/Week4_Metaforen_Gezondheidscommunicatie/Not Soldiers but Fire-fighters    Metaphors and Covid-19.pdf",
     "Vakken/Woorden als wapens/Literatuur/Week 3_Metafoortheorie/Het verleden ligt boven, de toekomst beneden - NEMO Kennislink_files/application-d91f4ad271f88b9badd544cccd7ea7d22d1b649629580ca6f7728225a4a5c297.css",
     "Vakken/Woorden als wapens/Literatuur/Week 3_Metafoortheorie/Het verleden ligt boven, de toekomst beneden - NEMO Kennislink_files/destination",
     "Vakken/Woorden als wapens/Literatuur/Week 3_Metafoortheorie/Het verleden ligt boven, de toekomst beneden - NEMO Kennislink_files/uwt.js.download",
-    "Vakken/Woorden als wapens/Literatuur/Week 3_Metafoortheorie/Het verleden ligt boven, de toekomst beneden - NEMO Kennislink_files/gtm.js.download",
     "Vakken/Woorden als wapens/Literatuur/Week 3_Metafoortheorie/Het verleden ligt boven, de toekomst beneden - NEMO Kennislink_files/medium.png",
     "Vakken/Woorden als wapens/Literatuur/Week 3_Metafoortheorie/Het verleden ligt boven, de toekomst beneden - NEMO Kennislink_files/2721507697_d93bd00a7b_z.jpg",
     "Vakken/Woorden als wapens/Literatuur/Week 3_Metafoortheorie/Het verleden ligt boven, de toekomst beneden - NEMO Kennislink_files/klaslokaal.jpeg",

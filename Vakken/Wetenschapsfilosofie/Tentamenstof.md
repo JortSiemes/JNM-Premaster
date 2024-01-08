@@ -5,6 +5,19 @@ Doel:
  - inzicht te hebben verworven in de aard van wetenschap in het algemeen en van de geesteswetenschappen in het bijzonder; 
 -  vertrouwd te zijn geraakt met de belangrijkste stromingen die in de debatten over de geesteswetenschappen een rol spelen of gespeeld hebben.
 
+## Overzicht stof:
+
+### 1. Wetenschappelijke revolutie
+Aristoteles (expirements dont reveal nature)
+Galileo (more [[experiment]] based)
+
+-[[Deductive argument]]
+-[[Inductive argument]]
+
+
+
+
+
 # Cursusboek: Philosophy for the humanities
 ### 2. methodology: an introduction
 Science seen as reliable way to gain knowledge.
