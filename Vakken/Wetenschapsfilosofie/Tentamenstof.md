@@ -46,21 +46,35 @@ Valid argument (conclusion follows from premises)
 -[[Deductive argument]]
 -[[Inductive argument]]
 
-Karl Popper:
+**Karl Popper:**
 Falsificatie (altijd deductief)
 Als T dan P
 Niet-P
 ERGO niet-T
 
 Wetenschappers zijn constant bezig met het falsificeren
+Problemen voor Popper: achtergrondinfo nodig voor falsificeren
+Er is een neutrale wetenschap
 
-Carl Hempel
+**Carl Hempel**
 Logisch empirisme
 
 
 ### 3. Scientisme en de geesteswetenschappen
 
+"Scientism is the idea that science is the only source of knowledge"
 
+Deze week kijken we naar het sciëntisme, ruwweg het idee dat de wetenschappen **het monopolie op kennis hebben**. 
+Zoals de vorige zin al aangeeft is er een ambiguïteit aanwezig, waarbij de geesteswetenschappen soms als onderdeel van de wetenschap worden gezien, maar vaak ook als in zekere zin minderwaardig of in ieder geval afhankelijk van de natuurwetenschappen. We zijn allemaal wel bekend met het idee dat de natuurwetenschappen 'speciaal', 'beter' of 'belangrijker' zouden zijn; sciëntisme is een poging om dat idee helder te verwoorden. Dit is trouwens niet alleen een theoretische discussie; het budget dat naar de natuurwetenschappen gaat is vele malen hoger dan het budget dat naar de geesteswetenschappen gaat!
+
+Dit onderwerp leent zich bij uitstek voor discussie. Vandaar dat Victor Gijsbers twee video's heeft opgenomen: één waarin hij het sciëntisme verdedigt en één waarin hij zich ertegen verzet. Ook de tekst voor deze week is wat meer 'opinie'-achtig; Roger Scruton probeert de eigen aard van de geesteswetenschappen te verdedigen.
+
+PRO SCIENTISM
+"Scientism is the idea that science is the only source of knowledge"
+arguments in favor:
+	- It is the extreme succes of science, our entire way of living has been totally transformed by the science we developed. Science has given us a continual growth for 100erds of years of knowledge. We have learned more and more and more. We have been able to do things, modern medicine modern technology. It gives us practical knowledge, nothing comes close to science (for example )
+	
+	
 
 
 
