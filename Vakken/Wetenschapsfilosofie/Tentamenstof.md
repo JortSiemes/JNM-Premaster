@@ -113,7 +113,7 @@ begrijpen van het systeem is belangrijker dan het begrijpen van specifieke indiv
 [[Episteme]] = onbewuste regels die het denken in een bepaalde tijd en cultuur bepalen
 - Zeldzaam en extreem radicaal
 
-repressieve macht = macht die jou op een bepaalde manier laat handelen door dwang straf of dreigement
+[[repressieve macht]] = macht die jou op een bepaalde manier laat handelen door dwang straf of dreigement
 Normaliserend macht = macht die jou op een bepaalde manier laat handelen door jou te vormen tot iemand die het normaal vindt om zo te handelen.
 
 Internalist history of science = exlusively factors internal to science, at scientific developments
@@ -123,16 +123,17 @@ externalist history of science = if non scientific factors play an important rol
 ### 5. Denken over geschiedenis
 
 **Hempel**: Causale samenhang door middel van wetmatigheden
-Deductive-nomological model: When A happens B will happen (repeatable)
+[[Deductive]]-nomological model: When A happens B will happen (repeatable)
+History follows strict set of laws.
 
-**Hegel & Marx**: logische samenhang door middel van dialectiek
-**Collingwood**: logische samenhang van handelingen en de redenen voor die handelingen
+**[[Hegel]] & Marx**: logische samenhang door middel van dialectiek
+**[[Collingwood]]**: logische samenhang van [[handelingen]] en de redenen voor die [[handelingen]]
 White: narratieve samenhang door middel van een veelheid aan vertelstructuren
 
-**Hegel**: to understand something, you have to know its history. 
-most influential GWF Hegel, he completely agreed that nobody can escape from his own time. 
+**[[Hegel]]**: to understand something, you have to know its history. 
+most influential GWF [[Hegel]], he completely agreed that nobody can escape from his own time. 
 Philosophy is its own time captured in thought
-beliefs in patterns in history, describe an clarify these laws in history (every stage is unique, why do these stages follow each other)
+beliefs in patterns in history, describe an clarify [[these]] laws in history (every stage is unique, why do [[these]] stages follow each other)
 Societies underlying concepts = 
 History of Politics: (logical development of freedom), a contradiction pushes history forward
 1, lawlessness without states (not really freedom), next stage will be the opposite 
@@ -144,23 +145,23 @@ History of Politics: (logical development of freedom), a contradiction pushes hi
 3, syntheses (contradiction resolved)
 We can find it in underlying ideas of human society, history is about development of ideas this pushes history forward.
 
-**Karl Marx**:
+**[[Karl Marx]]**:
 dialectical materialism:
 Dialectics: development following the pattern of thesis - antithesis - syntheses
-Marx believes that humans are concerned with material needs, any society needs to ensure these means are available.
-Struggle between classes, which is a specific role in the production and ownership of material goods. (bourgouisie and proletariat), he believes that the struggle between these classes moves history forward.
+Marx believes that humans are concerned with material needs, any society needs to ensure [[these]] means are available.
+Struggle between classes, which is a specific role in the production and ownership of material goods. (bourgouisie and proletariat), he believes that the struggle between [[these]] classes moves history forward.
 
 Communism is society without class. (end of history/goal of history)
 Freedom or inevetable in future
 Stalin is a result of believing that communism is inevetable.
 
-**Collingwood**: 
+**[[Collingwood]]**: 
 ##### history doesn't exist
 Past does not exist, it used to exist but not anymore, future does also not exist.
 Only present is real, what does the historian than study?
 current things are able to construct history. 
 History idea constructed by historian, create a story which makes maximal sense of historical traces.
-Collingwood, destinction between events (can be explained by cause) and action (can be explained by reason). 
+[[Collingwood]], destinction between events (can be explained by cause) and action (can be explained by reason). 
 
 | cause           | reason             |
 | --------------- | ------------------ |
@@ -168,9 +169,20 @@ Collingwood, destinction between events (can be explained by cause) and action (
 | subject to laws | subject to decisions                   |
 
 Historian study human actions, it always looking for reasons to construct a narrative.
-Re-enactment: place yourself in the shoes of the historical person in such a way that you can recreate th
+Re-enactment: place yourself in the shoes of the historical person in such a way that you can recreate their thought processes in your own mind.
 
 
+**[[Hayden White]]**:
+Narrative choices of historian are most important.
+Sort of structure in narrative choice, selection of facts and ordenend.
+
+narrative needs: clear beginning, middle and end
+
+4 literary genres:
+Satire: Nothing has a deeper meaning
+Romance: good triumphs over evil
+Comedy: opposing forces are reconciliated
+Tragedy: high ideals fail, but we learn to accept our limitations (more wisdom less happynes)
 
 
 
