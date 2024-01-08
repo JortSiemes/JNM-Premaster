@@ -144,7 +144,42 @@ Staan samen een benadering van literatuur...
 - het achterhalen van de bedoelingen en ideeen van de auteur van de tekst
 
 Vraag 27:
-Onder welke omstandigheden is het volgens Kuhn mogelijk dat een wetenschappelijke revolutie plaatsvindt = Wanneer er een wijdverbreid gevoel ontstaat dat veel puzzels van de op dat moment geldende normale wetenschap niet bin
+Onder welke omstandigheden is het volgens Kuhn mogelijk dat een wetenschappelijke revolutie plaatsvindt = Wanneer er een wijdverbreid gevoel ontstaat dat veel puzzels van de op dat moment geldende normale wetenschap niet binnen die normale wetenschap zullen worden opgelost.
+
+Vraag 28:
+Je moet volgens Kuhn denken binnen paradigma's en je kan dus 2 begrippen uit verschillende paradigma's niet met elkaar vergelijken omdat ze totaal anders zijn.
+
+Vraag 29:
+Collingwood maakt onderscheid tussen gebeurtenissen en handelingen waarin ligt het verschil: Gebeurtenissen hebben alleen oorzaken, maar handelingen hebben ook redenen en zijn door logische connecties met elkaar verbonden
+
+Vraag 30:
+Wat hoopt Foucault te bereiken met zijn latere methode die hij "genealogie" noemt:
+Hij hoopt aan te tonen dat de menswetenschappen eigenlijk gebaseerd zijn op politieke en ethische waarden.
+
+Vraag 31:
+"Dat wat is, is de rede" Hegel moet je interpreteren als:
+Het algemene proces van de geschiedenis dient begrepen te worden als de logische ontwikkeling van concepten.
+
+Vraag 32:
+Derrida accepteert de taal/theorie van De Saussure welke conclusie trekt hij daar niet uit:
+- taal heeft geen beschrijvende maar alleen een expressieve functie
+
+Vraag 33:
+Dilthey vind dat:
+- Tot het onderwerp van de natuurwetenschappen hebben wij minder direct toegang dan tot het onderwerp van geesteswetenschappen. Dit laatste kunnen we namelijk ook vanuit onze innerlijke ervaring begrijpen
+- Voor het beoefenen van de geesteswetenschappen is meer nodig dan voor het beoefenen van de natuurwetenschappen. Bij die laaatste heb je aan zuivere denkkracht eigenlijk genoeg, terwijl bij de eerste de ontwikkeling van de hele persoonlijkheid komt kijken.
+
+Vraag 34:
+Postmodernist Lyotard gelooft over huidige wetenschap:
+met name de informatisering van kennis laat zien hoe nauw wetenschap verbonden is met politiek en economie.
+
+
+Vraag 35:
+Aristoteles heeft een teleologische opvatting van verklaringen. Teleologisch is:
+Verklaringen van dingen in termen van het doel waar ze op gericht zijn. (alles heeft een doel, zaad tot appel)
+
+
+Vraag 36:
 
 
 
