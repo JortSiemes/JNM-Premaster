@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Tentamenstof.md",
+                "file": "Vakken/Inleiding in de journalistiek/Herkansing/vragen.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Tentamenstof.md",
+                "file": "Vakken/Inleiding in de journalistiek/Herkansing/vragen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Tentamenstof.md",
+                "file": "Vakken/Inleiding in de journalistiek/Herkansing/vragen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Wetenschapsfilosofie/Tentamenstof.md"
+                "file": "Vakken/Inleiding in de journalistiek/Herkansing/vragen.md"
               }
             }
           }
@@ -159,10 +159,12 @@
   },
   "active": "ebd21590f25df297",
   "lastOpenFiles": [
+    "Vakken/Wetenschapsfilosofie/Tentamenstof.md",
+    "Vakken/Inleiding in de journalistiek/Herkansing/vragen.md",
+    "Vakken/Inleiding in de journalistiek/Herkansing",
     "Vakken/Wetenschapsfilosofie/b20ffc6aef297c0aac4f6d67214c1783.pdf",
     "Vakken/Wetenschapsfilosofie/b20ffc6aef297c0aac4f6d67214c1783.pdf.crdownload",
     "Vakken/Wetenschapsfilosofie/weekoverzicht.pdf",
-    "Vakken/Wetenschapsfilosofie/Tentamenstof.md",
     "De Saussure.md",
     "Onderwerpen/Structuralisme.md",
     "Onderwerpen/Wilhelm Dilthey.md",
@@ -178,8 +180,6 @@
     "Vakken/Wetenschapsfilosofie/wetenschapsfilosofie-hoorcollege-aantekeningen.pdf.crdownload",
     "Vakken/Wetenschapsfilosofie/Hoorcolleges/~$tenschapfiloCol1tot4.docx",
     "Vakken/Wetenschapsfilosofie/Hoorcolleges/~WRD0001.tmp",
-    "Vakken/Wetenschapsfilosofie/Hoorcolleges/~WRD0000.tmp",
-    "Vakken/Wetenschapsfilosofie/Hoorcolleges/WetenschapfiloCol1tot4.docx",
     "Onderwerpen/Deductive argument.md",
     "Onderwerpen/Inductive argument.md",
     "Onderwerpen/vrije consensus.md",

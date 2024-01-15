@@ -1,4 +1,4 @@
-ffWetenschapsfilosofie - curriculum geesteswetenschappen
+Wetenschapsfilosofie - curriculum geesteswetenschappen
 
 Doel:
 - in staat te zijn met een aantal medestudenten te reflecteren op en te discussiëren over de aard van geesteswetenschappelijk onderzoek; 
