@@ -54,13 +54,13 @@ College 1:
 
 door meerdere uitvindingen: 
 - de 'printing press', hiermee kon je de krant sneller drukken en dus toegankelijker maken.
-- De telegraaf, door de nieuwe connectie tussen informatiebronnen die de telegraaf meebracht kon informatie sneller doorgegeven worden, dit leidde vooral tot de mogelijkheid voor dagelijks nieuws.
+- De [[telegraaf]], door de nieuwe connectie tussen informatiebronnen die de [[telegraaf]] meebracht kon informatie sneller doorgegeven worden, dit leidde vooral tot de mogelijkheid voor dagelijks nieuws.
 - Houtpulp voor papier, dit heeft ervoor gezorgd dat al het papier een stuk goedkoper is geworden.
 
 En hierdoor kwamen er innovaties die het massamedium maakte:
-- dagblad (krant voor dagelijks nieuws)
-	- Penny press (krant zelf ook goedkoop)
-- journalistieke objectiviteit
+- [[dagblad]] (krant voor dagelijks nieuws)
+	- [[Penny press]] (krant zelf ook goedkoop)
+- [[journalistieke objectiviteit]]
 - persbureau's
 - persvrijheid
 - meer mensen kunnen lezen (niet alleen maar voor elite)
@@ -422,7 +422,7 @@ Kenmerken van een professie
 Zelfregulering in de journalistiek
 1. Raad voor de journalistiek
 2. Gedragscode
-	1. Code van Bordeaux
+	1. [[Code van Bordeaux]]
 	2. Leidraad voor Journalistiek Handelen (RvdJ)
 	3. Code voor de Journalistiek (Genootschap van Hoofdredacteuren)
 3. Redactiecode
