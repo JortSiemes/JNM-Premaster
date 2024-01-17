@@ -56,7 +56,7 @@ door meerdere uitvindingen:
 - de 'printing press', hiermee kon je de krant sneller drukken en dus toegankelijker maken.
 - De telegraaf, door de nieuwe connectie tussen informatiebronnen die de telegraaf meebracht kon informatie sneller doorgegeven worden, dit leidde vooral tot de mogelijkheid voor dagelijks nieuws.
 - Houtpulp voor papier, dit heeft ervoor gezorgd dat al het papier een stuk goedkoper is geworden.
-aa
+
 En hierdoor kwamen er innovaties die het massamedium maakte:
 - dagblad (krant voor dagelijks nieuws)
 	- Penny press (krant zelf ook goedkoop)
@@ -70,8 +70,15 @@ En hierdoor kwamen er innovaties die het massamedium maakte:
 2. **Trends, oorzaken en oplossingen kennen m.b.t. de daling van de papieren oplages**
 
 
-3. Persfotografie vragen
-sssssssssssssssssssssssssssssssssssssssssxddxsaz
+3. **Persfotografie vragen**
+
+19e eeuw opkomst fotografie, pas begin 20e eeuw pas in journalistiek.
+4 factoren speelden een rol:
+- technologische vernieuwingen
+- ontwikkelingen in de perssector en de journalistieke cultuur
+- toegankelijkheid tot en populariteit van de fotografie
+- professionalisering van het beroep van persfotograaf of fotojournalist
+
 
 5. Trends, oorzaken en oplossingen kennen m.b.t. de daling van de papieren oplages
 1950 tot 2000 tijd van grote stijging papieren krant maar in de laatste 10 jaar is het toch afgenomen.
