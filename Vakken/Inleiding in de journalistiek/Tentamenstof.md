@@ -49,7 +49,7 @@ Woordenlijst
 ---
 Wat moet je kunnen:
 
-College 1:
+College 2: Krant
 1. **Uitleggen hoe de krant een massamedium werd** 
 
 door meerdere uitvindingen: 
@@ -68,7 +68,12 @@ En hierdoor kwamen er innovaties die het massamedium maakte:
 - geen dagbladzegel (geen dure belasting op kranten)
 
 2. **Trends, oorzaken en oplossingen kennen m.b.t. de daling van de papieren oplages**
-
+1950 tot 2000 tijd van grote stijging papieren krant maar in de laatste 10 jaar is het toch afgenomen.
+	Oorzaken:
+	- Internet
+	- Media consumptie > meer tv
+	- immigratie
+	- bezorging problemen
 
 3. **Persfotografie vragen**
 
@@ -80,9 +85,14 @@ En hierdoor kwamen er innovaties die het massamedium maakte:
 - professionalisering van het beroep van persfotograaf of fotojournalist
 
 
-5. Trends, oorzaken en oplossingen kennen m.b.t. de daling van de papieren oplages
-1950 tot 2000 tijd van grote stijging papieren krant maar in de laatste 10 jaar is het toch afgenomen.
-5. Korte historie van de Nederlandse internetjournalistiek 
+
+
+College 4: Internetjournalistiek
+1. Een schets geven van de beginjaren van de Nederlandse internetjournalistiek 
+2. Uitleggen waardoor NU.nl de best bezochte nieuwssite van Nederland kon worden 
+3. Uitleg geven over defensieve innovatiecultuur
+
+4. Korte historie van de Nederlandse internetjournalistiek 
 Het Eindhovens [[Dagblad]] was de eerste met een online krant, kort daarna kwam nu.nl in 1999
 1. Verdienmodellen voor internetjournalistiek
 Advertenties, abonnement, pay per view,
