@@ -49,9 +49,29 @@ Woordenlijst
 ---
 Wat moet je kunnen:
 
-1. Uitleggen hoe de krant een massamedium werd 
-door revoluties in het printen door de 'printing press', hierdoor werd de krant niet alleen toegankelijk voor de elite.
-3. Trends, oorzaken en oplossingen kennen m.b.t. de daling van de papieren oplages
+College 1:
+1. **Uitleggen hoe de krant een massamedium werd** 
+
+door meerdere uitvindingen: 
+- de 'printing press', hiermee kon je de krant sneller drukken en dus toegankelijker maken.
+- De telegraaf, door de nieuwe connectie tussen informatiebronnen die de telegraaf meebracht kon informatie sneller doorgegeven worden, dit leidde vooral tot de mogelijkheid voor dagelijks nieuws.
+- Houtpulp voor papier, dit heeft ervoor gezorgd dat al het papier een stuk goedkoper is geworden.
+
+En hierdoor kwamen er innovaties die het massamedium maakte:
+- dagblad (krant voor dagelijks nieuws)
+	- Penny press (krant zelf ook goedkoop)
+- journalistieke objectiviteit
+- persbureau's
+- persvrijheid
+- meer mensen kunnen lezen (niet alleen maar voor elite)
+	- Populaire onderwerpen in kranten (niet alleen politiek en economie)
+- geen dagbladzegel (geen dure belasting op kranten)
+
+2. **Trends, oorzaken en oplossingen kennen m.b.t. de daling van de papieren oplages**
+
+
+
+4. Trends, oorzaken en oplossingen kennen m.b.t. de daling van de papieren oplages
 1950 tot 2000 tijd van grote stijging papieren krant maar in de laatste 10 jaar is het toch afgenomen.
 5. Korte historie van de Nederlandse internetjournalistiek 
 Het Eindhovens [[Dagblad]] was de eerste met een online krant, kort daarna kwam nu.nl in 1999
