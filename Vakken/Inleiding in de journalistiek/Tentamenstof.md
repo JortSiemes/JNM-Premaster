@@ -92,10 +92,16 @@ College 4: Internetjournalistiek
 2. Uitleggen waardoor NU.nl de best bezochte nieuwssite van Nederland kon worden 
 3. Uitleg geven over defensieve innovatiecultuur
 4. Welke factoren ervoor zorgden dat het moeilijk is om geld te verdienen met internetjournalistiek
-	- Verdwenen inkomen
-1. welke verdienmodellen er zijn voor journalistiek op internet
+	- Verdwenen inkomsten
+		- Rubrieksadvertenties > marktplaats
+		- vacatures > linkedIn
+		- Huizen > Funda
+		- Dating > Tinder
+	- Lagere tarieven (ad in krant duurder dan internet)
+5. welke verdienmodellen er zijn voor journalistiek op internet
 
-2. Korte historie van de Nederlandse internetjournalistiek 
+
+7. Korte historie van de Nederlandse internetjournalistiek 
 Het Eindhovens [[Dagblad]] was de eerste met een online krant, kort daarna kwam nu.nl in 1999
 1. Verdienmodellen voor internetjournalistiek
 Advertenties, abonnement, pay per view,
