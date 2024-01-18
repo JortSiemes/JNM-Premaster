@@ -91,8 +91,11 @@ College 4: Internetjournalistiek
 1. Een schets geven van de beginjaren van de Nederlandse internetjournalistiek 
 2. Uitleggen waardoor NU.nl de best bezochte nieuwssite van Nederland kon worden 
 3. Uitleg geven over defensieve innovatiecultuur
+4. Welke factoren ervoor zorgden dat het moeilijk is om geld te verdienen met internetjournalistiek
+	- Verdwenen inkomen
+1. welke verdienmodellen er zijn voor journalistiek op internet
 
-4. Korte historie van de Nederlandse internetjournalistiek 
+2. Korte historie van de Nederlandse internetjournalistiek 
 Het Eindhovens [[Dagblad]] was de eerste met een online krant, kort daarna kwam nu.nl in 1999
 1. Verdienmodellen voor internetjournalistiek
 Advertenties, abonnement, pay per view,
