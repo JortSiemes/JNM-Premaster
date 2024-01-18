@@ -99,10 +99,14 @@ College 4: Internetjournalistiek
 		- Dating > Tinder
 	- Lagere tarieven (ad in krant duurder dan internet)
 	- Adblockers online
-1. welke verdienmodellen er zijn voor journalistiek op internet
+5. welke verdienmodellen er zijn voor journalistiek op internet
+		Branded content: betaalde
+		Native advertising
+		Sponsored content
+		
 
 
-2. Korte historie van de Nederlandse internetjournalistiek 
+7. Korte historie van de Nederlandse internetjournalistiek 
 Het Eindhovens [[Dagblad]] was de eerste met een online krant, kort daarna kwam nu.nl in 1999
 1. Verdienmodellen voor internetjournalistiek
 Advertenties, abonnement, pay per view,
