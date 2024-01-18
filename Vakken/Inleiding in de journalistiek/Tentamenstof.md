@@ -49,7 +49,7 @@ Woordenlijst
 ---
 Wat moet je kunnen:
 
-College 2: Krant
+## College 2: Krant
 1. **Uitleggen hoe de krant een massamedium werd** 
 
 door meerdere uitvindingen: 
@@ -84,10 +84,10 @@ En hierdoor kwamen er innovaties die het massamedium maakte:
 - toegankelijkheid tot en populariteit van de fotografie
 - professionalisering van het beroep van persfotograaf of fotojournalist
 
+## Colleg
 
 
-
-College 4: Internetjournalistiek
+## College 4: Internetjournalistiek
 **1, Een schets geven van de beginjaren van de Nederlandse internetjournalistiek**
 		Eerste krant online: Eindhovens dagblad (1995)
 			NU.nl (1999)
@@ -104,13 +104,11 @@ College 4: Internetjournalistiek
 	- Adblockers online
 5, welke verdienmodellen er zijn voor journalistiek op internet
 		Branded content: betaalde
-		Native advertising
-		Sponsored content
 	Normale producten - inferieur product
 		Meer geld uitgeven - minder geld uitgeven bij meer verdienen
-	Metered paywall
-	freemium
-	micropayments
+	Metered paywall (beperkte artikelen gratis daarna betalen, 20 artikel per maand)
+	freemium (Deel gratis, andere deel betaald)
+	micropayments (allemaal kleine losse betalingen zoals Itunes)
 		
 
 College 5 
