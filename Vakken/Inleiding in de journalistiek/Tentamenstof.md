@@ -103,6 +103,11 @@ College 4: Internetjournalistiek
 		Branded content: betaalde
 		Native advertising
 		Sponsored content
+	Normale producten - inferieur product
+		Meer geld uitgeven - minder geld uitgeven bij meer verdienen
+	Metered paywall
+	freemium
+	micropayments
 		
 
 
