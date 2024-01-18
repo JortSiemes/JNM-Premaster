@@ -88,10 +88,13 @@ En hierdoor kwamen er innovaties die het massamedium maakte:
 
 
 College 4: Internetjournalistiek
-1. Een schets geven van de beginjaren van de Nederlandse internetjournalistiek 
-2. Uitleggen waardoor NU.nl de best bezochte nieuwssite van Nederland kon worden 
-3. Uitleg geven over defensieve innovatiecultuur
-4. Welke factoren ervoor zorgden dat het moeilijk is om geld te verdienen met internetjournalistiek
+1. Een schets geven van de beginjaren van de Nederlandse internetjournalistiek
+		Eerste krant online: Eindhovens dagblad (1995)
+			NU.nl (1999)
+		
+1. Uitleggen waardoor NU.nl de best bezochte nieuwssite van Nederland kon worden 
+2. Uitleg geven over defensieve innovatiecultuur
+3. Welke factoren ervoor zorgden dat het moeilijk is om geld te verdienen met internetjournalistiek
 	- Verdwenen inkomsten
 		- Rubrieksadvertenties > marktplaats
 		- vacatures > linkedIn
@@ -99,7 +102,7 @@ College 4: Internetjournalistiek
 		- Dating > Tinder
 	- Lagere tarieven (ad in krant duurder dan internet)
 	- Adblockers online
-5. welke verdienmodellen er zijn voor journalistiek op internet
+4. welke verdienmodellen er zijn voor journalistiek op internet
 		Branded content: betaalde
 		Native advertising
 		Sponsored content
