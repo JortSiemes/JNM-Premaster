@@ -148,6 +148,22 @@ En hierdoor kwamen er innovaties die het massamedium maakte:
 **2, Uitleggen waarom journalistiek eerder een semi-professie dan een echte professie is**
 **3, Uitleggen hoe journalisten hun vak afbakenen**
 **4, Uitleggen wat zelfregulering inhoudt en hoe het plaatsvindt in de journalistiek**
+	**Zelfregulering in de journalistiek:**
+	- raad voor de journalistiek (kunnen alleen waarschuwen)
+	- gedragscode
+		- Code van bordeaux
+		- Leidraad voor journalistiek handelen
+		- code voor de journalistiek
+	- Redactiecode
+	- Redactiestatuut (afbakenen van redactie van mediahuis)
+	- Ombudsman
+	- Rectificaties
+	- lezers brieven
+	Nut van zelfregulering
+	- bevorderen maatschappelijk vertrouwen
+	- voorkomen van wettelijke maatregelen (overheid mee bemoeien)
+	- Effectiviteit (beter zelf als journalisten regels maken dan anderen)
+	- Cohesie binnen beroepsgroep (discussie binnen beroepsgroep, meer eens)
 
 
 
