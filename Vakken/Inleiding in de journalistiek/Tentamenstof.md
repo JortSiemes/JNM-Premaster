@@ -84,7 +84,8 @@ En hierdoor kwamen er innovaties die het massamedium maakte:
 - toegankelijkheid tot en populariteit van de fotografie
 - professionalisering van het beroep van persfotograaf of fotojournalist
 
-## Colleg
+## College 3: Omroep
+
 
 
 ## College 4: Internetjournalistiek
@@ -92,9 +93,12 @@ En hierdoor kwamen er innovaties die het massamedium maakte:
 		Eerste krant online: Eindhovens dagblad (1995)
 			NU.nl (1999)
 		
-2, Uitleggen waardoor NU.nl de best bezochte nieuwssite van Nederland kon worden 
-3, Uitleg geven over defensieve innovatiecultuur
-4, Welke factoren ervoor zorgden dat het moeilijk is om geld te verdienen met internetjournalistiek
+**2, Uitleggen waardoor NU.nl de best bezochte nieuwssite van Nederland kon worden** 
+	- Snel nieuws (laatste nieuws als eerste op nu.nl)
+	- voorzichtig met veranderen
+	- voorpagina van elise
+**3, Uitleg geven over defensieve innovatiecultuur**
+**4, Welke factoren ervoor zorgden dat het moeilijk is om geld te verdienen met internetjournalistiek**
 	- Verdwenen inkomsten
 		- Rubrieksadvertenties > marktplaats
 		- vacatures > linkedIn
@@ -102,7 +106,7 @@ En hierdoor kwamen er innovaties die het massamedium maakte:
 		- Dating > Tinder
 	- Lagere tarieven (ad in krant duurder dan internet)
 	- Adblockers online
-5, welke verdienmodellen er zijn voor journalistiek op internet
+**5, welke verdienmodellen er zijn voor journalistiek op internet**
 		Branded content: betaalde
 	Normale producten - inferieur product
 		Meer geld uitgeven - minder geld uitgeven bij meer verdienen
