@@ -130,6 +130,8 @@ En hierdoor kwamen er innovaties die het massamedium maakte:
 		4. 5. ambtenarij (tot stand wetten) / journalistiek (agenda van bevolking bepalen) ZIJN GEEN FORMELE MACHTEN want staat niks vast is geen formele positie
 	Theorie van vrije pers, kan je als burger je eigen visie ontwikkelen, en zelfreinigend vermogen van journalistiek. Media gaat dan elkaar corrigeren.
 	**Debatfunctie:** laat mensen met verstand van zaken opiniestukken schrijven
+	**Vermaakfunctie**: niet alleen informeren maar ook vermaken van burgers
+	**definitiefunctie**: De media kan ook maatschappelijke onderwerpen definiëren (bvb framen)
 	
 
 **2, Uitleggen welke benaderingen er zijn van de maatschappelijke rol die journalistiek zou moeten vervullen**
