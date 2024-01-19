@@ -146,6 +146,12 @@ En hierdoor kwamen er innovaties die het massamedium maakte:
 	
 **2, Uitleggen waarom journalistiek eerder een semi-professie dan een echte professie is**
 **3, Uitleggen hoe journalisten hun vak afbakenen**
+	Journalistieke beroepsideologie:
+		1, Public service
+		2, Objectivity
+		3, Autonomy
+		4, Immediacy
+		5, Ethics
 **4, Uitleggen wat zelfregulering inhoudt en hoe het plaatsvindt in de journalistiek**
 	**Zelfregulering in de journalistiek:**
 	- raad voor de journalistiek (kunnen alleen waarschuwen)
@@ -172,7 +178,11 @@ Het Eindhovens [[Dagblad]] was de eerste met een online krant, kort daarna kwam 
 Advertenties, abonnement, pay per view,
 
 ## College 7: streven objectiviteit
+**1, uitleggen historie van journalistieke objectiviteit**
 
+
+**2, Twee benaderingen van journalistieke objectiviteit (descriptief versus performatief discours)**
+**3, Het idee van subjectieve journalistiek toelichten**
 
 
 
