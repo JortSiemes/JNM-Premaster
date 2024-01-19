@@ -91,6 +91,7 @@ En hierdoor kwamen er innovaties die het massamedium maakte:
 ## College 4: Internetjournalistiek
 **1, Een schets geven van de beginjaren van de Nederlandse internetjournalistiek**
 		Eerste krant online: Eindhovens dagblad (1995)
+		Kranten online vooral pdf'jes van de papieren krant tot:	
 			NU.nl (1999)
 		
 **2, Uitleggen waardoor NU.nl de best bezochte nieuwssite van Nederland kon worden** 
@@ -115,7 +116,20 @@ En hierdoor kwamen er innovaties die het massamedium maakte:
 	micropayments (allemaal kleine losse betalingen zoals Itunes)
 		
 
-College 5 
+## College 5 
+**1, Uitleggen welke maatschappelijke functies de journalistiek vervult**
+	Four theories of the press (siebert, peterson, schramm)
+		1. Autoritaire theorie (dictatuur, censuur, kritiek als misdaad, niet vrij)
+		2. marxistische theorie (in dienst van proletariaat, geen bedrijven, censuur, niet vrij)
+		3. theorie van de vrije pers ()
+		4. theorie van de sociale
+	Trias politica
+		1. wetgevende macht
+		2. uitvoerende macht
+		3. rechtsprekende macht
+		4. 5. ambtenarij (tot stand wetten) / journalistiek (agenda van bevolking bepalen) ZIJN GEEN FORMELE MACHTEN want staat niks vast is geen formele positie
+
+**2, Uitleggen welke benaderingen er zijn van de maatschappelijke rol die journalistiek zou moeten vervullen**
 
 
 7. Korte historie van de Nederlandse internetjournalistiek 
