@@ -12,9 +12,8 @@
 		Wie bepaalt wat nieuws is? de selectie van nieuws
 		Het publiek rukt op in de journalistiek: publieksparticipatie
 	journalistieke velden
-		Buitenlandjournalistiek
 		Sportjournalistiek
-		Onderzoeksjournalistiek
+		Politiekejournalistiek
 
 ---
 
@@ -116,7 +115,7 @@ En hierdoor kwamen er innovaties die het massamedium maakte:
 	micropayments (allemaal kleine losse betalingen zoals Itunes)
 		
 
-## College 5 
+## College 5: Maatschappelijke functies journalistiek
 **1, Uitleggen welke maatschappelijke functies de journalistiek vervult**
 	**Debatfunctie:** laat mensen met verstand van zaken opiniestukken schrijven
 	**Vermaakfunctie**: niet alleen informeren maar ook vermaken van burgers
@@ -142,7 +141,7 @@ En hierdoor kwamen er innovaties die het massamedium maakte:
 **2, Uitleggen welke benaderingen er zijn van de maatschappelijke rol die journalistiek zou moeten vervullen**
 
 
-## College 6
+## College 6: wie is journalist?
 **1, Uitleggen wat het verschoningsrecht voor journalisten in Nederland inhoudt**
 	
 **2, Uitleggen waarom journalistiek eerder een semi-professie dan een echte professie is**
@@ -172,8 +171,7 @@ Het Eindhovens [[Dagblad]] was de eerste met een online krant, kort daarna kwam 
 1. Verdienmodellen voor internetjournalistiek
 Advertenties, abonnement, pay per view,
 
-
-## College 7
+## College 7: streven objectiviteit
 
 
 
