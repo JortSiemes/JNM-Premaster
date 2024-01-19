@@ -142,11 +142,22 @@ En hierdoor kwamen er innovaties die het massamedium maakte:
 **2, Uitleggen welke benaderingen er zijn van de maatschappelijke rol die journalistiek zou moeten vervullen**
 
 
+## College 6
+**1, Uitleggen wat het verschoningsrecht voor journalisten in Nederland inhoudt**
+	
+**2, Uitleggen waarom journalistiek eerder een semi-professie dan een echte professie is**
+**3, Uitleggen hoe journalisten hun vak afbakenen**
+**4, Uitleggen wat zelfregulering inhoudt en hoe het plaatsvindt in de journalistiek**
+
+
+
 7. Korte historie van de Nederlandse internetjournalistiek 
 Het Eindhovens [[Dagblad]] was de eerste met een online krant, kort daarna kwam nu.nl in 1999
 1. Verdienmodellen voor internetjournalistiek
 Advertenties, abonnement, pay per view,
 
+
+## College 7
 
 
 
