@@ -224,9 +224,15 @@ Objectieve versus subjectieve journalistiek
 **2, wat zijn Nieuwswaardes** 
 **3, wat zijn Mediahypes**
 
+Kenmerken mediahype: zie slide
+- Agenderende rol media
+- Oorsprong in één specifieke gebeurtenis
+- Uitvergroting door elkaar versterkende media
+- Media die nieuws maken i.p.v. nieuws verslaan
+- Media stimuleren maatschappelijke reacties (5e fase)
 
 ## College 10: 
-
+1, 
 
 
 
