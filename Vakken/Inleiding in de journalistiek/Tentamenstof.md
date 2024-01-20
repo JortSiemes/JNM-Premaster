@@ -179,7 +179,9 @@ Advertenties, abonnement, pay per view,
 
 ## College 7: streven objectiviteit
 **1, uitleggen historie van journalistieke objectiviteit**
-
+	1. telegraaf zelfde periode omdat nu persbureaus werden opgericht die informatie makkelijk konden uitwisselen en hun nieuws zo objectief mogelijk voor hun klanten wilde verkopen.
+	2. De ontwikkelingen van: vrijheid van meningsuiting, persvrijheid, verdwijnen dagzegel, onderwijs.
+	3. 
 
 **2, Twee benaderingen van journalistieke objectiviteit (descriptief versus performatief discours)**
 	Nieuws als descriptief discours (werkelijkheid staat vast)
