@@ -217,9 +217,8 @@ Objectieve versus subjectieve journalistiek
 	Goed voorbeeld is de foto gemaakt van het neergestorte vliegtuig in de Hudson waar een Twittergebruiker dit nieuws verspreidde met een zelfgemaakte foto.
 	De opkomt van de Web2.0 revolutie, maakte het makkelijk voor iedereen om op het internet te publiceren. (eigen website, social media, bloggen, youtube)
 
-
-
 2, 
+3, de verandering in de rol van journalistiek
 
 
 
