@@ -212,7 +212,12 @@ Objectieve versus subjectieve journalistiek
 	2. decentring journalism = bestaat helemaal geen waarheid meer, alles is subjectief
 
 ## College 8: het publiek in de journalistiek
-1, 
+**1, uitleggen historie van publiek in de journalistiek**
+	Mensen met toegang tot het internet en uitvindingen zoals de digitale fotocamera kunnen heel makkelijk toevoegen aan het journalistieke process.
+	Goed voorbeeld is de foto gemaakt van het neergestorte vliegtuig in de Hudson waar een Twittergebruiker dit nieuws verspreidde met een zelfgemaakte foto.
+	De opkomt van de Web2.0 revolutie, maakte het makkelijk voor iedereen om op het internet te publiceren.
+
+2, 
 
 
 Medialandschap en -geschiedenis
