@@ -135,8 +135,6 @@ En hierdoor kwamen er innovaties die het massamedium maakte:
 		4. 5. ambtenarij (tot stand wetten) / journalistiek (agenda van bevolking bepalen) ZIJN GEEN FORMELE MACHTEN want staat niks vast is geen formele positie
 	Theorie van vrije pers, kan je als burger je eigen visie ontwikkelen, en zelfreinigend vermogen van journalistiek. Media gaat dan elkaar corrigeren.
 	
-	
-	
 
 **2, Uitleggen welke benaderingen er zijn van de maatschappelijke rol die journalistiek zou moeten vervullen**
 
@@ -169,13 +167,6 @@ En hierdoor kwamen er innovaties die het massamedium maakte:
 	- voorkomen van wettelijke maatregelen (overheid mee bemoeien)
 	- Effectiviteit (beter zelf als journalisten regels maken dan anderen)
 	- Cohesie binnen beroepsgroep (discussie binnen beroepsgroep, meer eens)
-
-
-
-7. Korte historie van de Nederlandse internetjournalistiek 
-Het Eindhovens [[Dagblad]] was de eerste met een online krant, kort daarna kwam nu.nl in 1999
-1. Verdienmodellen voor internetjournalistiek
-Advertenties, abonnement, pay per view,
 
 ## College 7: streven objectiviteit
 **1, uitleggen historie van journalistieke objectiviteit**
@@ -215,10 +206,20 @@ Objectieve versus subjectieve journalistiek
 **1, uitleggen historie van publiek in de journalistiek**
 	Mensen met toegang tot het internet en uitvindingen zoals de digitale fotocamera kunnen heel makkelijk toevoegen aan het journalistieke process.
 	Goed voorbeeld is de foto gemaakt van het neergestorte vliegtuig in de Hudson waar een Twittergebruiker dit nieuws verspreidde met een zelfgemaakte foto.
-	De opkomt van de Web2.0 revolutie, maakte het makkelijk voor iedereen om op het internet te publiceren. (eigen website, social media, bloggen, youtube)
+	De opkomt van de Web 2.0 revolutie, maakte het makkelijk voor iedereen om op het internet te publiceren. (eigen website, social media, bloggen, youtube)
 
 2, 
 3, de verandering in de rol van journalistiek
+4,
+**5, Journalistieke proces fases**
+	Volgorde van het process van nieuws:
+	1. access and observation (zien), mensen kunnen nieuws meemaken en foto maken
+	2. selection and filtering (kiezen), mensen kunnen zelf verhaal kiezen
+	3. Proces and editing (samenstellen), mensen kunnen mbv crowdsourcing meewerken
+	4. Distribution (publicatie), mensen sturen nieuws door op social media
+	5. Interpretation (debat), mensen kunnen reacties onder nieuws zetten
+
+## College 9: 
 
 
 
@@ -228,15 +229,7 @@ Objectieve versus subjectieve journalistiek
 
 
 
-
-
-
-
-
-
-
-
-
+---
 
 Medialandschap en -geschiedenis
 # De krant
