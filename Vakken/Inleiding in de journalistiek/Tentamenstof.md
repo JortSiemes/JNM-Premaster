@@ -182,7 +182,17 @@ Advertenties, abonnement, pay per view,
 
 
 **2, Twee benaderingen van journalistieke objectiviteit (descriptief versus performatief discours)**
+	Nieuws als descriptief discours (werkelijkheid staat vast)
+		1. Nieuws moet waarheidsgetrouwe afspiegeling zijn van de werkelijkheid
+		2. de werkelijkheid bestaat uit feiten
+		3. Doel journalisten, werkelijkheid zo goed mogelijk beschrijven
+	Nieuws als performatief discours (werkelijkheid word geconstrueerd)
+		1. Nieuws is constructie van werkelijkheid
+		2. feiten zijn menselijke constructies
+		3. doel, publiek overtuigen dat hun versie van de werkelijkheid betrouwbaar is
+
 **3, Het idee van subjectieve journalistiek toelichten**
+
 
 
 
