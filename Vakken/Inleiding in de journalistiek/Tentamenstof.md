@@ -219,8 +219,13 @@ Objectieve versus subjectieve journalistiek
 	4. Distribution (publicatie), mensen sturen nieuws door op social media
 	5. Interpretation (debat), mensen kunnen reacties onder nieuws zetten
 
-## College 9: 
+## College 9: Wie of wat bepaalt het nieuws?
+**1, wat is Gatewatching/gatekeeping**
+**2, wat zijn Nieuwswaardes** 
+**3, wat zijn Mediahypes**
 
+
+## College 10: 
 
 
 
