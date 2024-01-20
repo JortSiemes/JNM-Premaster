@@ -192,6 +192,21 @@ Advertenties, abonnement, pay per view,
 		3. doel, publiek overtuigen dat hun versie van de werkelijkheid betrouwbaar is
 
 **3, Het idee van subjectieve journalistiek toelichten**
+	Joris Luyendijk had kritiek op de journalistiek toen hij als buitenland correspondent zijn informatie uit hilversum kreeg
+		1. journalisten miskennen complexiteit van de werkelijkheid
+		2. journalisten miskennen invloed van subjectiviteit
+		3. journalisten miskennen invloed praktische belemmeringen of werkwijze
+	oorzaak = opkomst i-pestimology (iedereen heeft recht op een visie en mening)
+		De krant; Correspondent heeft dit als model waarbij je transparant de journalist kan volgen en veel meer subjectief de journalistiek meekrijgt.
+	Transparantie als de nieuwe objectiviteit:
+	1. Journalisten aanwezig als verteller
+	2. Journalist verklaart zijn/haar werkwijze
+	3. Journalist neemt standpunt in
+	4. Journalist denkt mee over oplossingen
+	5. Journalist heeft interactie met publiek
+Objectieve versus subjectieve journalistiek
+	1. unifying journalism =
+	2. decentring journalism = bestaat helemaal geen waarheid meer, alles is subjectief
 
 
 
