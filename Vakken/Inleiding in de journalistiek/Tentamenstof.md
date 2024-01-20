@@ -205,7 +205,7 @@ Advertenties, abonnement, pay per view,
 	4. Journalist denkt mee over oplossingen
 	5. Journalist heeft interactie met publiek
 Objectieve versus subjectieve journalistiek
-	1. unifying journalism =
+	1. unifying journalism = gemeenschappelijke waarheidsvinding
 	2. decentring journalism = bestaat helemaal geen waarheid meer, alles is subjectief
 
 
