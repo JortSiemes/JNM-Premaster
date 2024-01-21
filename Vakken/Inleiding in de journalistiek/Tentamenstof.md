@@ -47,7 +47,7 @@ College 3:
 [[Objectiviteitsregime]]
 [[nieuwsgolf]]
 [[paradigm repair]]
-commissariaat van de media
+[[commissariaat van de media]]
 [[scannen]]
 [[snacken]]
 [[monitoren]]

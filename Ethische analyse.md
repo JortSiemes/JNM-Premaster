@@ -1,5 +1,5 @@
 voor een [[ethisch dilemma]] kan je een ethische analyse uitvoeren
-	de stappen van een ethische analyse: Row
+	de stappen van een ethische analyse: ROWB
 
 1. afvragen of het rechtvaardig is?
 2. welke opties zijn er?
