@@ -168,16 +168,33 @@ Spreekbuismodel = zuil laten bepalen welk nieuws er nodig is
 trusteemodel = journalistiek bepaalt namens publiek
 
 Aktive offentlichkeit (mensen die invloed hebben op wetten, politici, wetgevers)
-V (kritiekfu)                                     ^                                                      |
+V (kritiekfunctie)             ^                                                      |
 Massamedien (media)     |     expressiefunctie                        | informatiefunctie
 ^                                      |                                                      V
 Passive offentlichkeit (mensen die geen tot weinig invloed hebben, samenleving)
 
+Agenda-settingtheorie:
+De politieke agenda en de publieke agenda en de media agenda worden door elkaar beinvloed door verschilllende manieren van agenda-setting en agenda-building.
+
+
 
 ## College 6: wie is journalist?
 **1, Uitleggen wat het verschoningsrecht voor journalisten in Nederland inhoudt**
-	
+	Verschoningsrecht is het recht van een getuige om geen antwoord te geven. Dit betekend dat je niet verplicht bent om je bron te vermelden ook al hebben journalisten niet iets zoals een vertrouwensfunctie of familierelatie met de bron.
+	Wel:
+		Verschijningsplicht (moet op komen dagen voor rechter)
+		Antwoordplicht (moet altijd met waarheid antwoorden)
 **2, Uitleggen waarom journalistiek eerder een semi-professie dan een echte professie is**
+	Kenmerken professie:
+		1. maatschappelijke dienstverlening
+		2. Gespecialiseerde opleiding X
+		3. Autonomie
+		4. Prof. normen
+		5. Persoonlijke verantwoordelijkheid
+		6. zelfregulering beroepsorganisatie  (lijst) X
+			- geen lijst met journalisten zoals bij bvb artsen
+	Journalistiek heeft sommige van deze eigenschappen maar niet allemaal vandaar is het een semi-professie. Journalisten hoeven zich nergens te registreren om officieel journalist te zijn, er zijn ook geen verplichtingen rondom verplichte opleidingen. Wel is het zelfregulerende aspect van journalisten erg toepasselijk. Dit zorgt ervoor dat journalisten hun betrouwbaarheid zo goed mogelijk proberen te houden door ook goed op elkaar te letten. Ook zijn veel mensen het erover eens dat journalisten een belangrijke taak in de samenleving vervullen wat ook tekenend is voor een professie.
+
 **3, Uitleggen hoe journalisten hun vak afbakenen**
 	Journalistieke beroepsideologie:
 		1, Public service
@@ -185,6 +202,7 @@ Passive offentlichkeit (mensen die geen tot weinig invloed hebben, samenleving)
 		3, Autonomy
 		4, Immediacy
 		5, Ethics
+		
 **4, Uitleggen wat zelfregulering inhoudt en hoe het plaatsvindt in de journalistiek**
 	**Zelfregulering in de journalistiek:**
 	- raad voor de journalistiek (kunnen alleen waarschuwen)
@@ -279,13 +297,22 @@ Kenmerken mediahype: zie slide SNLFI
 - Interactieve mediamomenten: Media stimuleren maatschappelijke reacties (5e fase)
 
 ## College 10: 
-1, volgorde van ethische analyse
+**1, volgorde van ethische analyse** (ROWB)
+1. Rechtvaardig?
+2. Opties?
+3. Waarden normen regels
+4. Beslissing, argumentatie
+
+2, Waar kan je terecht met klachten over journalistiek
+Bij de rechter (enige die straf kan opleggen), raad voor de journalistiek en ombudsman (geen straf)
 
 
+## College 11:
 
 
-
-
+## College 12:
+1, wat mediatisering is en hoe politiek en journalistiek steeds meer verwikkeld raken
+Mediatisering is het gebeuren dat politiek en journalistiek 
 
 
 ---
