@@ -19,17 +19,21 @@
 
 Woordenlijst
 
-[[Politiek-publicitair complex]]
-[[spindoctors]]
-[[Horse race reporting]]
-[[Bandwagon-effect]]
-[[Mediatisering]]
+**College 2:**
 [[rotatiepers]]
 [[telegraaf]]
 [[dagblad]]
 [[persbureaus]]
 [[journalistieke objectiviteit]]
 [[penny press]]
+[[burgerjournalistiek]]
+[[uitgevers]]
+
+
+
+
+
+College 3:
 [[media zuilen]]
 [[spreekbuismodel]]
 [[verschoningsrecht]]
@@ -43,6 +47,29 @@ Woordenlijst
 [[performatieve discourse]]
 [[descriptieve discours]]
 [[I-pistemology]]
+Objectiviteitsregime
+nieuwsgolf
+paradigm repair
+commissariaat van de media
+verschoningsrecht
+scannen
+snacken
+monitoren
+clicken
+Civiele journalistiek
+'People formerly known as the audience'
+Normen
+Waarden
+Nieuwsaggregatie
+Principles of journalism
+Ethische analyse
+
+**College 12:**
+[[Politiek-publicitair complex]]
+[[spindoctors]]
+[[Horse race reporting]]
+[[Bandwagon-effect]]
+[[Mediatisering]]
 
 
 ---

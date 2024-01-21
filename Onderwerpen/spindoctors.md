@@ -1,1 +1,1 @@
-Media-adviseurs van politic, ze geven communicatiestrategieën
+Media-adviseurs van politici, ze geven communicatiestrategieën

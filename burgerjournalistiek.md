@@ -1,0 +1,1 @@
+Een ontwikkeling waarin burgers toegang kregen tot de productie van journalistiek. Mensen kunnen zelf nieuws vergaren en hun kennis delen.
