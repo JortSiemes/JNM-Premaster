@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ebd21590f25df297",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "2ea5a27ec5a03717",
             "type": "leaf",
             "state": {
@@ -103,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md"
+              }
             }
           }
         ],
@@ -161,7 +157,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ebd21590f25df297",
+  "active": "2ea5a27ec5a03717",
   "lastOpenFiles": [
     "Vakken/Inleiding in de journalistiek/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf",
     "Vakken/Wetenschapsfilosofie/Tentamenstof.md",
