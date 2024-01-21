@@ -1,0 +1,1 @@
+Objectiviteit is een filosofisch begrip dat in de journalistiek en bij de rechtspraak van wezenlijk belang is. Het betekent dat iets onafhankelijk is van de waarneming of voorkeuren van mensen, en er geen interpretatie bij nodig is. Het staat tegenover subjectief.

@@ -44,7 +44,7 @@ College 3:
 [[performatieve discourse]]
 [[descriptieve discours]]
 [[I-pistemology]]
-Objectiviteitsregime
+[[Objectiviteitsregime]]
 nieuwsgolf
 paradigm repair
 commissariaat van de media
