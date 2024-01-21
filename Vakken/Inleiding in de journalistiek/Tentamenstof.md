@@ -48,18 +48,17 @@ College 3:
 [[nieuwsgolf]]
 [[paradigm repair]]
 commissariaat van de media
-verschoningsrecht
 [[scannen]]
 [[snacken]]
 [[monitoren]]
 [[clicken]]
 [[Civiele journalistiek]]
-'People formerly known as the audience'
-Normen
-Waarden
+[['People formerly known as the audience']]
+[[Normen]]
+[[Waarden]]
 [[Nieuwsaggregatie]]
-Principles of journalism
-Ethische analyse
+[[Principles of journalism]]
+[[Ethische analyse]]
 [[participatory journalism]]
 [[massamediale journalistiek]]
 

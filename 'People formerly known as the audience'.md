@@ -1,0 +1,1 @@
+Mensen zijn niet langer een passief publiek maar ook actieve producten
