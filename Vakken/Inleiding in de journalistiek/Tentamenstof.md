@@ -30,9 +30,6 @@ Woordenlijst
 [[uitgevers]]
 
 
-
-
-
 College 3:
 [[media zuilen]]
 [[spreekbuismodel]]
@@ -63,6 +60,8 @@ Waarden
 Nieuwsaggregatie
 Principles of journalism
 Ethische analyse
+[[participatory journalism]]
+[[massamediale journalistiek]]
 
 **College 12:**
 [[Politiek-publicitair complex]]
