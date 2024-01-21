@@ -11,12 +11,9 @@
             "id": "2ea5a27ec5a03717",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Vakken/Inleiding in de journalistiek/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf"
               }
             }
           }
@@ -95,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
+                "file": "Vakken/Inleiding in de journalistiek/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
+                "file": "Vakken/Inleiding in de journalistiek/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md"
+                "file": "Vakken/Inleiding in de journalistiek/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf"
               }
             }
           }
@@ -159,8 +156,10 @@
   },
   "active": "2ea5a27ec5a03717",
   "lastOpenFiles": [
-    "commissariaat van de media.md",
+    "Vakken/Inleiding in de journalistiek/Inleiding in de journalistiek.md",
+    "Vakken/Inleiding in de journalistiek/COLLECTIE FILE inleiding in de journalistiek.md",
     "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
+    "commissariaat van de media.md",
     "Ethische analyse.md",
     "Principles of journalism.md",
     "Onderwerpen/Waarden.md",
@@ -184,8 +183,6 @@
     "uitgevers.md",
     "burgerjournalistiek.md",
     "Onderwerpen/spreekbuismodel.md",
-    "Onderwerpen/Mediatisering.md",
-    "Onderwerpen/Bandwagon-effect.md",
     "Vakken/Inleiding in de journalistiek/Herkansing/inleiding-in-de-journalistiek en.pdf",
     "Vakken/Inleiding in de journalistiek/Herkansing/inleiding-in-de-journalistiek en.pdf.crdownload",
     "Vakken/Inleiding in de journalistiek/Herkansing/~$inleiding-in-de-journalistiek.pptx",
