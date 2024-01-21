@@ -57,7 +57,7 @@ verschoningsrecht
 'People formerly known as the audience'
 Normen
 Waarden
-Nieuwsaggregatie
+[[Nieuwsaggregatie]]
 Principles of journalism
 Ethische analyse
 [[participatory journalism]]
@@ -247,18 +247,31 @@ Objectieve versus subjectieve journalistiek
 
 ## College 9: Wie of wat bepaalt het nieuws?
 **1, wat is Gatewatching/gatekeeping**
+	Media bepalen wat nieuwswaardig is
+
 **2, wat zijn Nieuwswaardes** 
+Er zijn 12 nieuwswaardes die bepalen of nieuws nieuwswaardig is.
+Dit zijn: threshold, Frequency, negativity, unambiguity, meaningfulness, consonance, unexpectedness, personalisation, elite nations, elite persons, continuity, composition
+
 **3, wat zijn Mediahypes**
 
-Kenmerken mediahype: zie slide
+Mediahypes patroon: SNLFI
+1. sleutelgebeurtenis
+2. Nieuwsthema
+3. Lage nieuwsdrempel
+4. Feedbackloop
+5. Interactieve mediamomenten
+
+Kenmerken mediahype: zie slide SNLFI
 - Agenderende rol media
 - Oorsprong in één specifieke gebeurtenis
 - Uitvergroting door elkaar versterkende media
 - Media die nieuws maken i.p.v. nieuws verslaan
-- Media stimuleren maatschappelijke reacties (5e fase)
+- Interactieve mediamomenten: Media stimuleren maatschappelijke reacties (5e fase)
 
 ## College 10: 
-1, 
+1, volgorde van ethische analyse
+
 
 
 
