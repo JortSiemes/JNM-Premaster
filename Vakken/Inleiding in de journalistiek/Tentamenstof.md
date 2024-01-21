@@ -49,10 +49,10 @@ nieuwsgolf
 paradigm repair
 commissariaat van de media
 verschoningsrecht
-scannen
-snacken
-monitoren
-clicken
+[[scannen]]
+[[snacken]]
+[[monitoren]]
+[[clicken]]
 Civiele journalistiek
 'People formerly known as the audience'
 Normen

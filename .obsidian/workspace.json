@@ -11,10 +11,8 @@
             "id": "ebd21590f25df297",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf"
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -23,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "massamediale journalistiek.md",
+                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -31,7 +29,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -106,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "massamediale journalistiek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "massamediale journalistiek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "massamediale journalistiek.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -168,9 +161,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2ea5a27ec5a03717",
+  "active": "ebd21590f25df297",
   "lastOpenFiles": [
+    "Vakken/Inleiding in de journalistiek/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf",
+    "Vakken/Wetenschapsfilosofie/Tentamenstof.md",
     "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
+    "clicken.md",
+    "monitoren.md",
+    "snacken.md",
+    "scannen.md",
     "massamediale journalistiek.md",
     "uitgevers.md",
     "burgerjournalistiek.md",
@@ -189,9 +188,7 @@
     "Vakken/Wetenschapsfilosofie/toelichting.pdf",
     "Vakken/Wetenschapsfilosofie/toelichting.pdf.crdownload",
     "Vakken/Wetenschapsfilosofie/uitslag anoniem.pdf",
-    "Vakken/Wetenschapsfilosofie/uitslag anoniem.pdf.crdownload",
     "Vakken/Inleiding in de journalistiek/Herkansing/vragen.md",
-    "Vakken/Wetenschapsfilosofie/Tentamenstof.md",
     "De Saussure.md",
     "Onderwerpen/Structuralisme.md",
     "Onderwerpen/Wilhelm Dilthey.md",
@@ -201,11 +198,6 @@
     "Onderwerpen/Conclusion.md",
     "Onderwerpen/Premises.md",
     "Vakken/Wetenschapsfilosofie/Hoorcolleges/Hoorcollege 1 wetenschapsfilosofie.md",
-    "Onderwerpen/Deductive argument.md",
-    "Onderwerpen/Inductive argument.md",
-    "Onderwerpen/vrije consensus.md",
-    "Onderwerpen/experiment.md",
-    "Vakken/Wetenschapsfilosofie/Onderwerpen/Karl Popper.md",
     "Vakken/Woorden als wapens/Literatuur/Week 3_Metafoortheorie/Het verleden ligt boven, de toekomst beneden - NEMO Kennislink_files/medium.png",
     "Vakken/Woorden als wapens/Literatuur/Week 3_Metafoortheorie/Het verleden ligt boven, de toekomst beneden - NEMO Kennislink_files/2721507697_d93bd00a7b_z.jpg",
     "Vakken/Woorden als wapens/Literatuur/Week 3_Metafoortheorie/Het verleden ligt boven, de toekomst beneden - NEMO Kennislink_files/klaslokaal.jpeg",
