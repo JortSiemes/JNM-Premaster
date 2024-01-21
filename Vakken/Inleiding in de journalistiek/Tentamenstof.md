@@ -163,6 +163,16 @@ En hierdoor kwamen er innovaties die het massamedium maakte:
 
 **2, Uitleggen welke benaderingen er zijn van de maatschappelijke rol die journalistiek zou moeten vervullen**
 
+Marktmodel = markt laten bepalen wat voor nieuws er nodig is
+Spreekbuismodel = zuil laten bepalen welk nieuws er nodig is
+trusteemodel = journalistiek bepaalt namens publiek
+
+Aktive offentlichkeit (mensen die invloed hebben op wetten, politici, wetgevers)
+V (kritiekfu)                                     ^                                                      |
+Massamedien (media)     |     expressiefunctie                        | informatiefunctie
+^                                      |                                                      V
+Passive offentlichkeit (mensen die geen tot weinig invloed hebben, samenleving)
+
 
 ## College 6: wie is journalist?
 **1, Uitleggen wat het verschoningsrecht voor journalisten in Nederland inhoudt**

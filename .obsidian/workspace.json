@@ -11,9 +11,12 @@
             "id": "2ea5a27ec5a03717",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf"
+                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -92,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf",
+                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf",
+                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Inleiding in de journalistiek/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf"
+                "file": "Vakken/Inleiding in de journalistiek/Tentamenstof.md"
               }
             }
           }
@@ -156,6 +159,7 @@
   },
   "active": "2ea5a27ec5a03717",
   "lastOpenFiles": [
+    "Vakken/Inleiding in de journalistiek/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf",
     "Vakken/Inleiding in de journalistiek/Inleiding in de journalistiek.md",
     "Vakken/Inleiding in de journalistiek/COLLECTIE FILE inleiding in de journalistiek.md",
     "Vakken/Inleiding in de journalistiek/Tentamenstof.md",
@@ -174,7 +178,6 @@
     "paradigm repair.md",
     "nieuwsgolf.md",
     "Objectiviteitsregime.md",
-    "Vakken/Inleiding in de journalistiek/Journalistieke Cultuur in Nederland _ Jo Bardoel_Huub Wijfjes.pdf",
     "Vakken/Wetenschapsfilosofie/Tentamenstof.md",
     "clicken.md",
     "monitoren.md",
@@ -182,7 +185,6 @@
     "scannen.md",
     "uitgevers.md",
     "burgerjournalistiek.md",
-    "Onderwerpen/spreekbuismodel.md",
     "Vakken/Inleiding in de journalistiek/Herkansing/inleiding-in-de-journalistiek en.pdf",
     "Vakken/Inleiding in de journalistiek/Herkansing/inleiding-in-de-journalistiek en.pdf.crdownload",
     "Vakken/Inleiding in de journalistiek/Herkansing/~$inleiding-in-de-journalistiek.pptx",
