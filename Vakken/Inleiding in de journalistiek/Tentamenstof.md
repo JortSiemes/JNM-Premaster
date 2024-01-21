@@ -45,15 +45,15 @@ College 3:
 [[descriptieve discours]]
 [[I-pistemology]]
 [[Objectiviteitsregime]]
-nieuwsgolf
-paradigm repair
+[[nieuwsgolf]]
+[[paradigm repair]]
 commissariaat van de media
 verschoningsrecht
 [[scannen]]
 [[snacken]]
 [[monitoren]]
 [[clicken]]
-Civiele journalistiek
+[[Civiele journalistiek]]
 'People formerly known as the audience'
 Normen
 Waarden
