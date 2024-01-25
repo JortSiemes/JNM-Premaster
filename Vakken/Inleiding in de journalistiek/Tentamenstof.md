@@ -309,10 +309,27 @@ Bij de rechter (enige die straf kan opleggen), raad voor de journalistiek en omb
 
 ## College 11:
 
+**1, uitleggen wat de relatie tussen sport en journalistiek is**
+Vroeger organiseerde kranten zelf wedstrijden om iets te hebben waar ze over konden schrijven en konden opvallen tussen de concurrenten. Bijvoorbeeld de franse krant die de tour de france heeft opgericht.
+Journalistiek zorgt ook voor enorme aandacht voor spelers en organisaties die hiervolgens op kunnen kapitaliseren door van sportjournalistiek een handelswaar te maken
+- met merchandise
+- sportkrant abonnementen
+- TV (ziggo sport)
+
+**2, verschil van sportjournalistiek en normale journalistiek**
+Bij sportjournalistiek is het best normaal om helemaal partijdig te zijn bijvoorbeeld bij een nationale wedstrijd mag je hard juichen. Dit heet ook wel going native, waar journalisten zich heel veel gaan identificeren met spelers
 
 ## College 12:
-1, wat mediatisering is en hoe politiek en journalistiek steeds meer verwikkeld raken
-Mediatisering is het gebeuren dat politiek en journalistiek 
+**1, wat mediatisering is en hoe politiek en journalistiek steeds meer verwikkeld raken**
+Mediatisering is het gebeuren dat politiek en journalistiek steeds meer invloed op elkaar hebben
+
+**2, Het verschil tussen popularisering en personalisering**
+bij een nabespreking heb je het tijdens popularisering over de boodschap van een politicus en bij personalisering over het optreden van het individu zelf
+
+3, uitleggen wat het politiek-publicitaire complex is
+Dit is dat journalistiek en politiek steeds afhankelijker aan het worden zijn van elkaar, misschien al te veel.
+De journalisten hebben politiek nodig om hun media te voorzien van onderwerpen, interviews en quotes
+De politiek hebben journalisten nodig voor het verspreiden van nieuwe plannen, naamsbekendheid en aandacht
 
 
 ---
