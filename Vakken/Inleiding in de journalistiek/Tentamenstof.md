@@ -12,25 +12,25 @@
 		Wie bepaalt wat nieuws is? de selectie van nieuws
 		Het publiek rukt op in de journalistiek: publieksparticipatie
 	journalistieke velden
-		Buitenlandjournalistiek
 		Sportjournalistiek
-		Onderzoeksjournalistiek
+		Politiekejournalistiek
 
 ---
 
 Woordenlijst
 
-[[Politiek-publicitair complex]]
-[[spindoctors]]
-[[Horse race reporting]]
-[[Bandwagon-effect]]
-[[Mediatisering]]
+**College 2:**
 [[rotatiepers]]
 [[telegraaf]]
 [[dagblad]]
 [[persbureaus]]
 [[journalistieke objectiviteit]]
 [[penny press]]
+[[burgerjournalistiek]]
+[[uitgevers]]
+
+
+College 3:
 [[media zuilen]]
 [[spreekbuismodel]]
 [[verschoningsrecht]]
@@ -44,23 +44,295 @@ Woordenlijst
 [[performatieve discourse]]
 [[descriptieve discours]]
 [[I-pistemology]]
+[[Objectiviteitsregime]]
+[[nieuwsgolf]]
+[[paradigm repair]]
+[[commissariaat van de media]]
+[[scannen]]
+[[snacken]]
+[[monitoren]]
+[[clicken]]
+[[Civiele journalistiek]]
+[['People formerly known as the audience']]
+[[Normen]]
+[[Waarden]]
+[[Nieuwsaggregatie]]
+[[Principles of journalism]]
+[[Ethische analyse]]
+[[participatory journalism]]
+[[massamediale journalistiek]]
+
+**College 12:**
+[[Politiek-publicitair complex]]
+[[spindoctors]]
+[[Horse race reporting]]
+[[Bandwagon-effect]]
+[[Mediatisering]]
 
 
 ---
 Wat moet je kunnen:
 
-1. Uitleggen hoe de krant een massamedium werd 
-door revoluties in het printen door de 'printing press', hierdoor werd de krant niet alleen toegankelijk voor de elite.
-3. Trends, oorzaken en oplossingen kennen m.b.t. de daling van de papieren oplages
+## College 2: Krant
+1. **Uitleggen hoe de krant een massamedium werd** 
+
+door meerdere uitvindingen: 
+- de 'printing press', hiermee kon je de krant sneller drukken en dus toegankelijker maken.
+- De [[telegraaf]], door de nieuwe connectie tussen informatiebronnen die de [[telegraaf]] meebracht kon informatie sneller doorgegeven worden, dit leidde vooral tot de mogelijkheid voor dagelijks nieuws.
+- Houtpulp voor papier, dit heeft ervoor gezorgd dat al het papier een stuk goedkoper is geworden.
+
+En hierdoor kwamen er innovaties die het massamedium maakte:
+- [[dagblad]] (krant voor dagelijks nieuws)
+	- [[Penny press]] (krant zelf ook goedkoop)
+- [[journalistieke objectiviteit]]
+- persbureau's
+- persvrijheid
+- meer mensen kunnen lezen (niet alleen maar voor elite)
+	- Populaire onderwerpen in kranten (niet alleen politiek en economie)
+- geen dagbladzegel (geen dure belasting op kranten)
+
+2. **Trends, oorzaken en oplossingen kennen m.b.t. de daling van de papieren oplages**
 1950 tot 2000 tijd van grote stijging papieren krant maar in de laatste 10 jaar is het toch afgenomen.
-5. Korte historie van de Nederlandse internetjournalistiek 
-Het Eindhovens [[Dagblad]] was de eerste met een online krant, kort daarna kwam nu.nl in 1999
-1. Verdienmodellen voor internetjournalistiek
-Advertenties, abonnement, pay per view,
+	Oorzaken:
+	- Internet
+	- Media consumptie > meer tv
+	- immigratie
+	- bezorging problemen
+
+3. **Persfotografie vragen**
+
+19e eeuw opkomst fotografie, pas begin 20e eeuw pas in journalistiek.
+4 factoren speelden een rol:
+- technologische vernieuwingen
+- ontwikkelingen in de perssector en de journalistieke cultuur
+- toegankelijkheid tot en populariteit van de fotografie
+- professionalisering van het beroep van persfotograaf of fotojournalist
+
+## College 3: Omroep
 
 
 
+## College 4: Internetjournalistiek
+**1, Een schets geven van de beginjaren van de Nederlandse internetjournalistiek**
+		Eerste krant online: Eindhovens dagblad (1995)
+		Kranten online vooral pdf'jes van de papieren krant tot:	
+			NU.nl (1999)
+		
+**2, Uitleggen waardoor NU.nl de best bezochte nieuwssite van Nederland kon worden** 
+	- Snel nieuws (laatste nieuws als eerste op nu.nl)
+	- voorzichtig met veranderen
+	- voorpagina van elise
+**3, Uitleg geven over defensieve innovatiecultuur**
+**4, Welke factoren ervoor zorgden dat het moeilijk is om geld te verdienen met internetjournalistiek**
+	- Verdwenen inkomsten
+		- Rubrieksadvertenties > marktplaats
+		- vacatures > linkedIn
+		- Huizen > Funda
+		- Dating > Tinder
+	- Lagere tarieven (ad in krant duurder dan internet)
+	- Adblockers online
+**5, welke verdienmodellen er zijn voor journalistiek op internet**
+		Branded content: betaalde
+	Normale producten - inferieur product
+		Meer geld uitgeven - minder geld uitgeven bij meer verdienen
+	Metered paywall (beperkte artikelen gratis daarna betalen, 20 artikel per maand)
+	freemium (Deel gratis, andere deel betaald)
+	micropayments (allemaal kleine losse betalingen zoals Itunes)
+		
 
+## College 5: Maatschappelijke functies journalistiek
+**1, Uitleggen welke maatschappelijke functies de journalistiek vervult**
+	**Debatfunctie:** laat mensen met verstand van zaken opiniestukken schrijven
+	**Vermaakfunctie**: niet alleen informeren maar ook vermaken van burgers
+	**Informatiefunctie:**
+	**Kritiekfunctie:**
+	**Agendafunctie:** media zet de agenda dit gaan mensen belangrijk vinden
+	**definitiefunctie**: De media kan ook maatschappelijke onderwerpen definiëren (bvb framen)
+		Four theories of the press (siebert, peterson, schramm)
+		1. Autoritaire theorie (dictatuur, censuur, kritiek als misdaad, niet vrij)
+		2. marxistische theorie (in dienst van proletariaat, geen bedrijven, censuur, niet vrij)
+		3. theorie van de vrije pers ()
+		4. theorie van de sociale
+	Trias politica
+		1. wetgevende macht
+		2. uitvoerende macht
+		3. rechtsprekende macht
+		4. 5. ambtenarij (tot stand wetten) / journalistiek (agenda van bevolking bepalen) ZIJN GEEN FORMELE MACHTEN want staat niks vast is geen formele positie
+	Theorie van vrije pers, kan je als burger je eigen visie ontwikkelen, en zelfreinigend vermogen van journalistiek. Media gaat dan elkaar corrigeren.
+	
+
+**2, Uitleggen welke benaderingen er zijn van de maatschappelijke rol die journalistiek zou moeten vervullen**
+
+Marktmodel = markt laten bepalen wat voor nieuws er nodig is
+Spreekbuismodel = zuil laten bepalen welk nieuws er nodig is
+trusteemodel = journalistiek bepaalt namens publiek
+
+Aktive offentlichkeit (mensen die invloed hebben op wetten, politici, wetgevers)
+V (kritiekfunctie)             ^                                                      |
+Massamedien (media)     |     expressiefunctie                        | informatiefunctie
+^                                      |                                                      V
+Passive offentlichkeit (mensen die geen tot weinig invloed hebben, samenleving)
+
+Agenda-settingtheorie:
+De politieke agenda en de publieke agenda en de media agenda worden door elkaar beinvloed door verschilllende manieren van agenda-setting en agenda-building.
+
+
+
+## College 6: wie is journalist?
+**1, Uitleggen wat het verschoningsrecht voor journalisten in Nederland inhoudt**
+	Verschoningsrecht is het recht van een getuige om geen antwoord te geven. Dit betekend dat je niet verplicht bent om je bron te vermelden ook al hebben journalisten niet iets zoals een vertrouwensfunctie of familierelatie met de bron.
+	Wel:
+		Verschijningsplicht (moet op komen dagen voor rechter)
+		Antwoordplicht (moet altijd met waarheid antwoorden)
+**2, Uitleggen waarom journalistiek eerder een semi-professie dan een echte professie is**
+	Kenmerken professie:
+		1. maatschappelijke dienstverlening
+		2. Gespecialiseerde opleiding X
+		3. Autonomie
+		4. Prof. normen
+		5. Persoonlijke verantwoordelijkheid
+		6. zelfregulering beroepsorganisatie  (lijst) X
+			- geen lijst met journalisten zoals bij bvb artsen
+	Journalistiek heeft sommige van deze eigenschappen maar niet allemaal vandaar is het een semi-professie. Journalisten hoeven zich nergens te registreren om officieel journalist te zijn, er zijn ook geen verplichtingen rondom verplichte opleidingen. Wel is het zelfregulerende aspect van journalisten erg toepasselijk. Dit zorgt ervoor dat journalisten hun betrouwbaarheid zo goed mogelijk proberen te houden door ook goed op elkaar te letten. Ook zijn veel mensen het erover eens dat journalisten een belangrijke taak in de samenleving vervullen wat ook tekenend is voor een professie.
+
+**3, Uitleggen hoe journalisten hun vak afbakenen**
+	Journalistieke beroepsideologie:
+		1, Public service
+		2, Objectivity
+		3, Autonomy
+		4, Immediacy
+		5, Ethics
+		
+**4, Uitleggen wat zelfregulering inhoudt en hoe het plaatsvindt in de journalistiek**
+	**Zelfregulering in de journalistiek:**
+	- raad voor de journalistiek (kunnen alleen waarschuwen)
+	- gedragscode
+		- Code van bordeaux
+		- Leidraad voor journalistiek handelen
+		- code voor de journalistiek
+	- Redactiecode
+	- Redactiestatuut (afbakenen van redactie van mediahuis)
+	- Ombudsman
+	- Rectificaties
+	- lezers brieven
+	Nut van zelfregulering
+	- bevorderen maatschappelijk vertrouwen
+	- voorkomen van wettelijke maatregelen (overheid mee bemoeien)
+	- Effectiviteit (beter zelf als journalisten regels maken dan anderen)
+	- Cohesie binnen beroepsgroep (discussie binnen beroepsgroep, meer eens)
+
+## College 7: streven objectiviteit
+**1, uitleggen historie van journalistieke objectiviteit**
+	1. telegraaf zelfde periode omdat nu persbureaus werden opgericht die informatie makkelijk konden uitwisselen en hun nieuws zo objectief mogelijk voor hun klanten wilde verkopen.
+	2. De ontwikkelingen van: vrijheid van meningsuiting, persvrijheid, verdwijnen dagzegel, onderwijs.
+	3. Journalistiek is een echt vak
+	4. Commercieel principe naar professioneel principe
+
+**2, Twee benaderingen van journalistieke objectiviteit (descriptief versus performatief discours)**
+	Nieuws als descriptief discours (werkelijkheid staat vast)
+		1. Nieuws moet waarheidsgetrouwe afspiegeling zijn van de werkelijkheid
+		2. de werkelijkheid bestaat uit feiten
+		3. Doel journalisten, werkelijkheid zo goed mogelijk beschrijven
+	Nieuws als performatief discours (werkelijkheid word geconstrueerd)
+		1. Nieuws is constructie van werkelijkheid
+		2. feiten zijn menselijke constructies
+		3. doel, publiek overtuigen dat hun versie van de werkelijkheid betrouwbaar is
+
+**3, Het idee van subjectieve journalistiek toelichten**
+	Joris Luyendijk had kritiek op de journalistiek toen hij als buitenland correspondent zijn informatie uit hilversum kreeg
+		1. journalisten miskennen complexiteit van de werkelijkheid
+		2. journalisten miskennen invloed van subjectiviteit
+		3. journalisten miskennen invloed praktische belemmeringen of werkwijze
+	oorzaak = opkomst i-pestimology (iedereen heeft recht op een visie en mening)
+		De krant; Correspondent heeft dit als model waarbij je transparant de journalist kan volgen en veel meer subjectief de journalistiek meekrijgt.
+	Transparantie als de nieuwe objectiviteit:
+	1. Journalisten aanwezig als verteller
+	2. Journalist verklaart zijn/haar werkwijze
+	3. Journalist neemt standpunt in
+	4. Journalist denkt mee over oplossingen
+	5. Journalist heeft interactie met publiek
+Objectieve versus subjectieve journalistiek
+	1. unifying journalism = gemeenschappelijke waarheidsvinding
+	2. decentring journalism = bestaat helemaal geen waarheid meer, alles is subjectief
+
+## College 8: het publiek in de journalistiek
+**1, uitleggen historie van publiek in de journalistiek**
+	Mensen met toegang tot het internet en uitvindingen zoals de digitale fotocamera kunnen heel makkelijk toevoegen aan het journalistieke process.
+	Goed voorbeeld is de foto gemaakt van het neergestorte vliegtuig in de Hudson waar een Twittergebruiker dit nieuws verspreidde met een zelfgemaakte foto.
+	De opkomt van de Web 2.0 revolutie, maakte het makkelijk voor iedereen om op het internet te publiceren. (eigen website, social media, bloggen, youtube)
+
+2, 
+3, de verandering in de rol van journalistiek
+4,
+**5, Journalistieke proces fases**
+	Volgorde van het process van nieuws:
+	1. access and observation (zien), mensen kunnen nieuws meemaken en foto maken
+	2. selection and filtering (kiezen), mensen kunnen zelf verhaal kiezen
+	3. Proces and editing (samenstellen), mensen kunnen mbv crowdsourcing meewerken
+	4. Distribution (publicatie), mensen sturen nieuws door op social media
+	5. Interpretation (debat), mensen kunnen reacties onder nieuws zetten
+
+## College 9: Wie of wat bepaalt het nieuws?
+**1, wat is Gatewatching/gatekeeping**
+	Media bepalen wat nieuwswaardig is
+
+**2, wat zijn Nieuwswaardes** 
+Er zijn 12 nieuwswaardes die bepalen of nieuws nieuwswaardig is.
+Dit zijn: threshold, Frequency, negativity, unambiguity, meaningfulness, consonance, unexpectedness, personalisation, elite nations, elite persons, continuity, composition
+
+**3, wat zijn Mediahypes**
+
+Mediahypes patroon: SNLFI
+1. sleutelgebeurtenis
+2. Nieuwsthema
+3. Lage nieuwsdrempel
+4. Feedbackloop
+5. Interactieve mediamomenten
+
+Kenmerken mediahype: zie slide SNLFI
+- Agenderende rol media
+- Oorsprong in één specifieke gebeurtenis
+- Uitvergroting door elkaar versterkende media
+- Media die nieuws maken i.p.v. nieuws verslaan
+- Interactieve mediamomenten: Media stimuleren maatschappelijke reacties (5e fase)
+
+## College 10: 
+**1, volgorde van ethische analyse** (ROWB)
+1. Rechtvaardig?
+2. Opties?
+3. Waarden normen regels
+4. Beslissing, argumentatie
+
+2, Waar kan je terecht met klachten over journalistiek
+Bij de rechter (enige die straf kan opleggen), raad voor de journalistiek en ombudsman (geen straf)
+
+
+## College 11:
+
+**1, uitleggen wat de relatie tussen sport en journalistiek is**
+Vroeger organiseerde kranten zelf wedstrijden om iets te hebben waar ze over konden schrijven en konden opvallen tussen de concurrenten. Bijvoorbeeld de franse krant die de tour de france heeft opgericht.
+Journalistiek zorgt ook voor enorme aandacht voor spelers en organisaties die hiervolgens op kunnen kapitaliseren door van sportjournalistiek een handelswaar te maken
+- met merchandise
+- sportkrant abonnementen
+- TV (ziggo sport)
+
+**2, verschil van sportjournalistiek en normale journalistiek**
+Bij sportjournalistiek is het best normaal om helemaal partijdig te zijn bijvoorbeeld bij een nationale wedstrijd mag je hard juichen. Dit heet ook wel going native, waar journalisten zich heel veel gaan identificeren met spelers
+
+## College 12:
+**1, wat mediatisering is en hoe politiek en journalistiek steeds meer verwikkeld raken**
+Mediatisering is het gebeuren dat politiek en journalistiek steeds meer invloed op elkaar hebben
+
+**2, Het verschil tussen popularisering en personalisering**
+bij een nabespreking heb je het tijdens popularisering over de boodschap van een politicus en bij personalisering over het optreden van het individu zelf
+
+3, uitleggen wat het politiek-publicitaire complex is
+Dit is dat journalistiek en politiek steeds afhankelijker aan het worden zijn van elkaar, misschien al te veel.
+De journalisten hebben politiek nodig om hun media te voorzien van onderwerpen, interviews en quotes
+De politiek hebben journalisten nodig voor het verspreiden van nieuwe plannen, naamsbekendheid en aandacht
+
+
+---
 
 Medialandschap en -geschiedenis
 # De krant
@@ -393,7 +665,7 @@ Kenmerken van een professie
 Zelfregulering in de journalistiek
 1. Raad voor de journalistiek
 2. Gedragscode
-	1. Code van Bordeaux
+	1. [[Code van Bordeaux]]
 	2. Leidraad voor Journalistiek Handelen (RvdJ)
 	3. Code voor de Journalistiek (Genootschap van Hoofdredacteuren)
 3. Redactiecode

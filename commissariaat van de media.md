@@ -1,0 +1,1 @@
+Het bestuursorgaan dat in Nederland de overheid toetst of omroepen en zenders zich houden aan wettelijke regels
