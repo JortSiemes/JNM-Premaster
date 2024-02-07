@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/AenO/Opdracht 1 Syllabus AenO.md",
+                "file": "Vakken/AenO/Aantekeningen Argumenteren boek.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/AenO/Opdracht 1 Syllabus AenO.md",
+                "file": "Vakken/AenO/Aantekeningen Argumenteren boek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/AenO/Opdracht 1 Syllabus AenO.md",
+                "file": "Vakken/AenO/Aantekeningen Argumenteren boek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/AenO/Opdracht 1 Syllabus AenO.md"
+                "file": "Vakken/AenO/Aantekeningen Argumenteren boek.md"
               }
             }
           }
@@ -170,8 +170,9 @@
   },
   "active": "18dbadf329fa6d21",
   "lastOpenFiles": [
+    "Vakken/AenO/Opdracht 1 Syllabus AenO.md",
+    "Vakken/AenO/Aantekeningen Argumenteren boek.md",
     "Vakken/AenO/Argumentatie_Samenvatting.pdf.crdownload",
-    "Vakken/AenO/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
-    "Vakken/AenO/Opdracht 1 Syllabus AenO.md"
+    "Vakken/AenO/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf"
   ]
 }
