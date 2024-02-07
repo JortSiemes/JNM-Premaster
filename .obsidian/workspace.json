@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Internetjournalistiek.md",
+                "file": "Vakken/InternetJ/Internetjournalistiek.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Internetjournalistiek.md",
+                "file": "Vakken/InternetJ/Internetjournalistiek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Internetjournalistiek.md",
+                "file": "Vakken/InternetJ/Internetjournalistiek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Internetjournalistiek.md"
+                "file": "Vakken/InternetJ/Internetjournalistiek.md"
               }
             }
           }
@@ -157,10 +157,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18dbadf329fa6d21",
+  "active": "6e4a466c78ed8120",
   "lastOpenFiles": [
+    "Vakken/InternetJ",
     "Vakken/AenO/Aantekeningen Argumenteren boek.md",
-    "Vakken/Internetjournalistiek.md",
+    "Vakken/InternetJ/Internetjournalistiek.md",
     "Impliciet meningsverschil.md",
     "Expliciet meningsverschil.md",
     "Meningsverschil.md",
