@@ -1,0 +1,1 @@
+bij een meningsverschil word het standpunt niet gedeeld. Altijd 2 partijen zijn er betrokken
