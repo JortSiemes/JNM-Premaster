@@ -32,4 +32,15 @@ Formele discussie, dit is een formele discussie sinds het allebei de partijen de
 f) Wordt deze discussie opgelost of beslecht?
 Beslecht, er is geen resolutie waarin een van de partijen in het andere propositie gaat geloven.
 
-en het standpunt en de argumenten? Sorry, beste rokers Toen ik dinsdag het artikel over de heksenjacht op rokers van Henry Sturman las (Podium), kreeg ik plotseling medelijden met al die rokers in Nederland. Wat zijn ze in de minderheid, en wat hebben wij, niet-rokers, het ze de afgelopen jaren moeilijk gemaakt. Sorry beste rokers, dat jullie niet meer mogen roken in de trein, de meerderheid die niet rookt heeft zich vreselijk aangesteld. Wat maakt het nu uit om twee uur in iemand anders’ rook te zitten? Gelukkig weten we nu ook dat het helemaal niet slecht voor onze gezondheid is om mee te roken, dus ook daar mogen we niet langer over zeuren. Alleen je kleren stinken zo naar rook, maar een kniesoor die daar over valt. Wij niet-rokers zijn aanstellers. Sorry rokers dat jullie niet meer mochten roken in restaurants en tijdens vergaderingen of werkoverleg. Wij hebben jullie vrijheid beperkt en dat hoort natuurlijk niet. Dat wij in een vieze rooklucht moeten zitten, nemen we graag voor lief.
+**en het standpunt en de argumenten?** 
+Sorry, beste rokers Toen ik dinsdag het artikel over de heksenjacht op rokers van Henry Sturman las (Podium), kreeg ik plotseling medelijden met al die rokers in Nederland. Wat zijn ze in de minderheid, en wat hebben wij, niet-rokers, het ze de afgelopen jaren moeilijk gemaakt. Sorry beste rokers, dat jullie niet meer mogen roken in de trein, de meerderheid die niet rookt heeft zich vreselijk aangesteld. Wat maakt het nu uit om twee uur in iemand anders’ rook te zitten? Gelukkig weten we nu ook dat het helemaal niet slecht voor onze gezondheid is om mee te roken, dus ook daar mogen we niet langer over zeuren. Alleen je kleren stinken zo naar rook, maar een kniesoor die daar over valt. Wij niet-rokers zijn aanstellers. Sorry rokers dat jullie niet meer mochten roken in restaurants en tijdens vergaderingen of werkoverleg. Wij hebben jullie vrijheid beperkt en dat hoort natuurlijk niet. Dat wij in een vieze rooklucht moeten zitten, nemen we graag voor lief.
+
+Standpunt = Roken is geen recht en samenleving hoeft dit niet te faciliteren.
+Argumenten:
+- Rokers zijn in de minderheid
+- Slecht voor gezondheid (om mee te roken)
+- Kleren gaan stinken naar rook
+- Roken geeft een vieze rooklucht
+
+
+
