@@ -30,4 +30,15 @@ Een geschil kan niet-gemeng of gemengd zijn: stuit het standpunt enkel op twijfe
 - Omdat diegene het oneens is en tegenovergesteld standpunt inneemt -> wordt dan zelf ook protagonist
 
 
+[[Expliciete discussie]]: Twee discussianten komen aan het woord en reageren op elkaars discussiebijdragen. Beide partijen aan het woord.
+[[impliciete discussie]]: monoloog betoog waarin iemand argumenten aanvoert voor een standpunt, 1 persoon
+
+[[Analytische functie]]: hulpmiddel om onderdelen van discussie in kaart te brengen
+[[kritische functie]]: regels voor het handhaven van de redelijkheid
+
+## 4 fases:
+[[confrontatiefase]]: vaststellen verschil van mening
+[[openingsfase]]: bepalen uitgangspunten voor de te voeren discussie, zowel materieel als procedureel
+[[argumentatiefase]]: argumentatie ter verdediging van het standpunt
+[[afsluitingsfase]]: vaststelling tot in hoeverre het vvm is opgelost/beslecht
 
