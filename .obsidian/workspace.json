@@ -4,26 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "536a57fa9b59e87d",
+        "id": "aa1d0b70912d3267",
         "type": "tabs",
         "children": [
           {
-            "id": "0f50a7b187e85dcd",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Vakken/AenO/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.11 (1).jpeg"
-              }
-            }
-          },
-          {
-            "id": "d20707890f866dc3",
+            "id": "37f12776f759f6e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/AenO/Werkcollege 1.md",
+                "file": "College 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -31,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -106,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/AenO/Werkcollege 1.md",
+                "file": "College 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/AenO/Werkcollege 1.md",
+                "file": "College 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/AenO/Werkcollege 1.md"
+                "file": "College 1.md"
               }
             }
           }
@@ -167,8 +156,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d20707890f866dc3",
+  "active": "37f12776f759f6e2",
   "lastOpenFiles": [
+    "College 1.md",
+    "Vakken/Wetenschapjournalist",
+    "Vakken/AenO/Werkcollege 1.md",
     "Vakken/InternetJ/Datavisualiseren/95ugG-aantal-nederlanders-dat-stopt-met-alcoholgebruik.png",
     "Vakken/InternetJ/Datavisualiseren/95ugG-aantal-nederlanders-dat-stopt-met-alcoholgebruik.png.crdownload",
     "Vakken/InternetJ/Datavisualiseren/M16UP-alcoholconsumptie-nederlanders-in-hectoliters.png",
@@ -180,9 +172,7 @@
     "Vakken/InternetJ/Datavisualiseren/bierconsumptiecijfers_2016.pdf",
     "Vakken/InternetJ/Datavisualiseren/bierconsumptiecijfers_2016.pdf.crdownload",
     "Vakken/InternetJ/Datavisualiseren/infographic_biercijfers_2018_nederlandse_brouwers_13_april_2019.pdf",
-    "Vakken/InternetJ/Datavisualiseren/infographic_biercijfers_2018_nederlandse_brouwers_13_april_2019.pdf.crdownload",
     "Vakken/AenO/Opdracht 1 Syllabus AenO.md",
-    "Vakken/AenO/Werkcollege 1.md",
     "afsluitingsfase.md",
     "argumentatiefase.md",
     "openingsfase.md",
