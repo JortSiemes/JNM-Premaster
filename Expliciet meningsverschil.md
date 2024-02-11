@@ -1,0 +1,1 @@
+Zowel standpunt als de kritiek worden uitdrukkelijk onder woorden gebracht
