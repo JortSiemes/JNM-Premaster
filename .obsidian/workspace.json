@@ -11,8 +11,13 @@
             "id": "37f12776f759f6e2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Agenda/TO DO 2024.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Agenda/TO DO 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Agenda/TO DO 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Agenda/TO DO 2024.md"
+              }
             }
           }
         ]
@@ -149,6 +158,11 @@
   },
   "active": "37f12776f759f6e2",
   "lastOpenFiles": [
+    "Vakken/Blok 2/Wetenschapsjournalistiek/Pitch Nieuwsbericht.pdf",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/Pitch Nieuwsbericht.pdf.crdownload",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/instructie voor pitchen van onderwerpen.pdf",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/instructie voor pitchen van onderwerpen.pdf.crdownload",
+    "Agenda/TO DO 2024.md",
     "Vakken/Blok 2/Wetenschapsjournalistiek/Het_dier_als_donor_Rapport_Rathenau_Instituut.pdf",
     "Vakken/Blok 2/Wetenschapsjournalistiek/Het_dier_als_donor_Rapport_Rathenau_Instituut.pdf.crdownload",
     "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/M16UP-alcoholconsumptie-nederlanders-in-hectoliters.png",
@@ -159,9 +173,6 @@
     "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/95ugG-aantal-nederlanders-dat-stopt-met-alcoholgebruik.png",
     "Vakken/Blok 2/Internetjournalistiek/Opdracht1.docx",
     "Vakken/Blok 2/Internetjournalistiek/Internetjournalistiek.md",
-    "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren",
-    "Vakken/Blok 2/Internetjournalistiek",
-    "Vakken/Blok 2/InternetJ/Opdracht1.docx",
     "Vakken/Blok 2/Wetenschapsjournalistiek/College 1.md",
     "College 1.md",
     "Onderwerpen/uitgevers.md",
@@ -185,13 +196,11 @@
     "Onderwerpen/massamediale journalistiek.md",
     "Onderwerpen/kritische functie.md",
     "Onderwerpen/inductive.md",
-    "Onderwerpen/impliciete discussie.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.11.jpeg",
     "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.12.jpeg",
     "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.11 (1).jpeg",
     "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.10.jpeg",
     "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.10 (1).jpeg",
-    "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22",
     "Vakken/Blok 2/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.12.jpeg",
     "Vakken/Blok 2/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.11.jpeg",
     "Vakken/Blok 2/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.11 (1).jpeg"
