@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agenda/TO DO 2024.md",
+                "file": "Vakken/Blok 2/Wetenschapsjournalistiek/Pitch Achtergrondartikel.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "4c7bc70db5741083",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Vakken/Blok 2/Wetenschapsjournalistiek/Pitch achtergrondartikel.pdf"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -95,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Agenda/TO DO 2024.md",
+                "file": "Vakken/Blok 2/Wetenschapsjournalistiek/Pitch achtergrondartikel.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Agenda/TO DO 2024.md",
+                "file": "Vakken/Blok 2/Wetenschapsjournalistiek/Pitch achtergrondartikel.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Agenda/TO DO 2024.md"
+                "file": "Vakken/Blok 2/Wetenschapsjournalistiek/Pitch achtergrondartikel.pdf"
               }
             }
           }
@@ -156,21 +167,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37f12776f759f6e2",
+  "active": "4c7bc70db5741083",
   "lastOpenFiles": [
+    "Vakken/Blok 2/Wetenschapsjournalistiek/Pitch Achtergrondartikel.md",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/Pitch achtergrondartikel.pdf",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/Pitch achtergrondartikel.pdf.crdownload",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/Pitch Nieuwsbericht.pdf",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/instructie voor pitchen van onderwerpen.pdf",
+    "Agenda/TO DO 2024.md",
     "Vakken/Blok 2/Internetjournalistiek/Planning_GROEPB.pdf",
     "Vakken/Blok 2/Internetjournalistiek/Planning_GROEPB.pdf.crdownload",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/Pitch Nieuwsbericht.pdf",
     "Vakken/Blok 2/Wetenschapsjournalistiek/Pitch Nieuwsbericht.pdf.crdownload",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/instructie voor pitchen van onderwerpen.pdf",
     "Vakken/Blok 2/Wetenschapsjournalistiek/instructie voor pitchen van onderwerpen.pdf.crdownload",
-    "Agenda/TO DO 2024.md",
     "Vakken/Blok 2/Wetenschapsjournalistiek/Het_dier_als_donor_Rapport_Rathenau_Instituut.pdf",
     "Vakken/Blok 2/Wetenschapsjournalistiek/Het_dier_als_donor_Rapport_Rathenau_Instituut.pdf.crdownload",
     "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/M16UP-alcoholconsumptie-nederlanders-in-hectoliters.png",
-    "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/kerncijfers_ned_brouwers_2012-2013 (1).pdf",
-    "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/kerncijfers_ned_brouwers_2012-2013.pdf",
-    "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/infographic_biercijfers_2018_nederlandse_brouwers_13_april_2019.pdf",
     "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/95ugG-aantal-nederlanders-dat-stopt-met-alcoholgebruik.png",
     "Vakken/Blok 2/Internetjournalistiek/Internetjournalistiek.md",
     "Vakken/Blok 2/Wetenschapsjournalistiek/College 1.md",
@@ -195,7 +206,6 @@
     "Onderwerpen/Meningsverschil.md",
     "Onderwerpen/massamediale journalistiek.md",
     "Onderwerpen/kritische functie.md",
-    "Onderwerpen/inductive.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.11.jpeg",
     "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.12.jpeg",
     "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.11 (1).jpeg",
