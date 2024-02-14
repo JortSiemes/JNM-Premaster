@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Blok 2/Wetenschapsjournalistiek/Pitch Achtergrondartikel.md",
+                "file": "Vakken/Blok 2/Scriptie/Lezen - LeidenGazet.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "3c85d5fbf51a57e7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Vakken/Blok 2/Scriptie/Gazet van Leiden compleet low res.pdf"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -95,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Blok 2/Wetenschapsjournalistiek/Pitch Achtergrondartikel.md",
+                "file": "Vakken/Blok 2/Scriptie/Gazet van Leiden compleet low res.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Blok 2/Wetenschapsjournalistiek/Pitch Achtergrondartikel.md",
+                "file": "Vakken/Blok 2/Scriptie/Gazet van Leiden compleet low res.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Blok 2/Wetenschapsjournalistiek/Pitch Achtergrondartikel.md"
+                "file": "Vakken/Blok 2/Scriptie/Gazet van Leiden compleet low res.pdf"
               }
             }
           }
@@ -143,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,8 +168,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37f12776f759f6e2",
+  "active": "a3143ed78c6cb3da",
   "lastOpenFiles": [
+    "Vakken/Blok 2/Scriptie/Lezen - LeidenGazet.md",
+    "Agenda/TO DO 2024.md",
+    "Agenda/planners/2023-Planner.pdf",
+    "Agenda/planners/Agenda_Uitdrukken_2023.pdf",
+    "Agenda/planners",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/Pitch Achtergrondartikel.md",
     "Vakken/Blok 2/Wetenschapsjournalistiek/PitchAchtergrondartikel_JortSiemes_4028198_Fotonica.pdf",
     "Vakken/Blok 2/Wetenschapsjournalistiek/mso43D4.tmp",
     "Vakken/Blok 2/Wetenschapsjournalistiek/~WRL0940.tmp",
@@ -165,11 +183,6 @@
     "Vakken/Blok 2/Wetenschapsjournalistiek/~WRL3793.tmp",
     "Vakken/Blok 2/Wetenschapsjournalistiek/~WRD3770.tmp",
     "Vakken/Blok 2/Wetenschapsjournalistiek/~WRL1749.tmp",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/~WRD1729.tmp",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/~WRL3369.tmp",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/~WRD3349.tmp",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/~WRL0354.tmp",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/Pitch Achtergrondartikel.md",
     "Vakken/Blok 2/Wetenschapsjournalistiek/College 1.md",
     "College 1.md",
     "Vakken/Blok 2/Internetjournalistiek/Internetjournalistiek.md",
@@ -202,7 +215,6 @@
     "Vakken/Blok 1/Woorden als wapens/Onderwerpen/Conceptuele metafoor.md",
     "Vakken/Blok 1/Woorden als wapens/Onderwerpen/brondomein.md",
     "Vakken/Blok 1/Woorden als wapens/Colleges/Werkcollege 9 Woorden als Wapens.md",
-    "Vakken/Blok 1/Woorden als wapens/Colleges/Werkcollege 8 Woorden als Wapens.md",
-    "Vakken/Blok 1/Woorden als wapens/Colleges/Werkcollege 7 Woorden als Wapens.md"
+    "Vakken/Blok 1/Woorden als wapens/Colleges/Werkcollege 8 Woorden als Wapens.md"
   ]
 }
