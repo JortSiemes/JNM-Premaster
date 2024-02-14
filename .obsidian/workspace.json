@@ -31,6 +31,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Blok 2/Scriptie/College 1 - Schakelscriptie.md",
+                "file": "Vakken/Blok 2/Scriptie/Gazet van Leiden compleet low res.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Blok 2/Scriptie/College 1 - Schakelscriptie.md",
+                "file": "Vakken/Blok 2/Scriptie/Gazet van Leiden compleet low res.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Blok 2/Scriptie/College 1 - Schakelscriptie.md"
+                "file": "Vakken/Blok 2/Scriptie/Gazet van Leiden compleet low res.pdf"
               }
             }
           }
@@ -167,10 +168,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37f12776f759f6e2",
+  "active": "3c85d5fbf51a57e7",
   "lastOpenFiles": [
-    "Agenda/TO DO 2024.md",
     "Vakken/Blok 2/Scriptie/College 1 - Schakelscriptie.md",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/Pitch Achtergrondartikel.md",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/instructie voor pitchen van onderwerpen.pdf",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/College 1.md",
+    "Untitled.canvas",
+    "Agenda/TO DO 2024.md",
     "Vakken/Blok 2/Scriptie/Gazet van Leiden compleet low res.pdf",
     "Vakken/Blok 2/Scriptie/Schakelscriptie_Opgave14Feb_JortSiemes.pdf",
     "Vakken/Blok 2/Scriptie/mso7E47.tmp",
@@ -181,9 +186,6 @@
     "Vakken/Blok 2/Scriptie/~WRD0004.tmp",
     "Vakken/Blok 2/Scriptie/Schakelscriptie_Opgave14Feb.docx",
     "Vakken/Blok 2/Scriptie/Lezen - LeidenGazet.md",
-    "Agenda/planners/2023-Planner.pdf",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/Pitch Achtergrondartikel.md",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/College 1.md",
     "College 1.md",
     "Vakken/Blok 2/Internetjournalistiek/Internetjournalistiek.md",
     "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/Unsplash_Sergio Alves Santos.jpg.png",
@@ -213,7 +215,6 @@
     "Vakken/Blok 1/Woorden als wapens/Onderwerpen/Metafoor.md",
     "Vakken/Blok 1/Woorden als wapens/Onderwerpen/doeldomein.md",
     "Vakken/Blok 1/Woorden als wapens/Onderwerpen/Conceptuele metafoor.md",
-    "Vakken/Blok 1/Woorden als wapens/Onderwerpen/brondomein.md",
-    "Vakken/Blok 1/Woorden als wapens/Colleges/Werkcollege 9 Woorden als Wapens.md"
+    "Vakken/Blok 1/Woorden als wapens/Onderwerpen/brondomein.md"
   ]
 }
