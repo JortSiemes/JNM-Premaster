@@ -26,7 +26,7 @@ meervoudige argumentatie:
 1b, de argumenten structuur betreft een standpunt met twee losse argumenten. Ze zijn allebei antagonistisch en niet nevenschikkend sinds het losse punten zijn.
 
 1c. Niemand heeft je toch gedwongen is twijfel sinds hij vraagt toch?
-hardwerkende nederlander is niet thuis overdag is kritiek.
+hardwerkende Nederlander is niet thuis overdag is kritiek.
 
 
 ---
