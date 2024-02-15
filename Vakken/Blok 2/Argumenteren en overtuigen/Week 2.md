@@ -48,7 +48,7 @@ waarom is blootleggen van argumentatie belangrijk?
 Analytisch overzicht maken
 
 Onderschikkend argumentatie = inhoud van het vorige argument wordt niet aanvaard
-Nevenschikkende argumentatie = rechtvaardigingskracht van hetvorige argument wordt niet aanvaard
+Nevenschikkende argumentatie = rechtvaardigingskracht van het vorige argument wordt niet aanvaard
 Meervoudige argumentatie = de vorige argumentatielijn wordt niet aanvaard
 
 
