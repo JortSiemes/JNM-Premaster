@@ -13,6 +13,10 @@ Hoofdstuk 5 + opdracht
 [[analytisch overzicht]]
 
 
+begrippen die veel op elkaar lijken
+[[maximaal argumentatieve interpretatie]]
+[[maximaal argumentatieve analyse]]
+
 Opdracht 1a
 meervoudige argumentatie:
 1 Het is onzin om je te beklagen over kindergeschreeuw als je naast een kinderspeelplaats woont
@@ -49,5 +53,6 @@ Meervoudige argumentatie = de vorige argumentatielijn wordt niet aanvaard
 
 
 
+maximaal argumentatieve analyse
 
 
