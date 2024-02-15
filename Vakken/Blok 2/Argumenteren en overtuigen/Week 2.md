@@ -10,6 +10,7 @@ Hoofdstuk 5 + opdracht
 [[complexe argumentatie]]
 [[maximaal argumentatieve analyse]]
 [[verzwegen argumenten]]
+[[analytisch overzicht]]
 
 
 Opdracht 1a
@@ -36,7 +37,14 @@ stop maar met swipen
 1.1.1 Argument
 Ze verdienen meer als je blijft swipen
 
-waarom is blootleggen 
+waarom is blootleggen van argumentatie belangrijk?
+- descriptieve dimensie (analyseren)
+- normatieve dimensie (beoordelen)
 
+Analytisch overzicht maken
+
+Onderschikkend argumentatie = argument voor je argument
+Nevenschikkende argumentatie = alleen samen kunnen ze standpunt rechtvaardigen
+Meervoudige argumentatie = houden los van elkaar stand
 
 
