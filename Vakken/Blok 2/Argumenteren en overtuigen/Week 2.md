@@ -56,18 +56,14 @@ Meervoudige argumentatie = de vorige argumentatielijn wordt niet aanvaard
 maximaal argumentatieve analyse
 
 
+standpunt:
+1 koop optimel en doe mee aan de 2 weken test
 
-
-
-standpunt;
-1 koop optimel
-
-argumenten:
-1.1 minder eten zonder te diëten
-1.1.1 een zuiveldrank met natuurlijke plantenextracten die je verzadigingsmechanisme activeert
-1.1.1a waardoor je tussendoor minder gaat eten
-1.1.1b waardoor je tijdens de volgende maaltijd minder gaat eten
-1.2 het ingredient werkt na enkele uren
-1.
-
-
+argument:
+1.1a een flesje optimel control per dag helpt je minder te eten zonder te dieten.
+1.1a.1 door optimel control ga je tussendoor of tijdens de volgende maatlijd minder gaat eten
+1.1a.1.1a optimel control is een zuiveldrank met natuurlijke planten extracten die je zerzadigingsmechanisme activeert
+1.1a.1.1b het ingredient werkt na enkele uren
+1.1b de werking van optimel control is wetenschappelijk bewezen
+1.2 (je hebt niets te verliezen)
+1.2.1 niet goed, geld terug
