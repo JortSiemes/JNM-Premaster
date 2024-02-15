@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "6e1f3ff28bb42c0d",
@@ -167,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0fdd4e2da3542d0f",
+  "active": "6e4a466c78ed8120",
   "lastOpenFiles": [
     "maximaal argumentatieve analyse.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 2.md",
