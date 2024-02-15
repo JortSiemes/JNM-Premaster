@@ -56,3 +56,18 @@ Meervoudige argumentatie = de vorige argumentatielijn wordt niet aanvaard
 maximaal argumentatieve analyse
 
 
+
+
+
+standpunt;
+1 koop optimel
+
+argumenten:
+1.1 minder eten zonder te diëten
+1.1.1 een zuiveldrank met natuurlijke plantenextracten die je verzadigingsmechanisme activeert
+1.1.1a waardoor je tussendoor minder gaat eten
+1.1.1b waardoor je tijdens de volgende maaltijd minder gaat eten
+1.2 het ingredient werkt na enkele uren
+1.
+
+
