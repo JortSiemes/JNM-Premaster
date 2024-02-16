@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agenda/TO DO 2024.md",
+                "file": "Vakken/Blok 2/Wetenschapsjournalistiek/College 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Agenda/TO DO 2024.md",
+                "file": "Vakken/Blok 2/Wetenschapsjournalistiek/College 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Agenda/TO DO 2024.md",
+                "file": "Vakken/Blok 2/Wetenschapsjournalistiek/College 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Agenda/TO DO 2024.md"
+                "file": "Vakken/Blok 2/Wetenschapsjournalistiek/College 2.md"
               }
             }
           }
@@ -143,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,6 +159,7 @@
   },
   "active": "885df021b925df69",
   "lastOpenFiles": [
+    "Agenda/TO DO 2024.md",
     "Vakken/Blok 2/Wetenschapsjournalistiek/College 1.md",
     "Vakken/Blok 2/Wetenschapsjournalistiek/PitchAchtergrondartikel_JortSiemes_4028198.pdf",
     "Vakken/Blok 2/Wetenschapsjournalistiek/instructie voor pitchen van onderwerpen.pdf",
@@ -178,7 +180,6 @@
     "Vakken/Blok 2/Argumenteren en overtuigen/Frans H. van Eemeren, Rob Grootendorst, A. Francisca Sn Henkemans - Argumentation_ Analysis, Evaluation-Routledge (2002).pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.10 (1).jpeg",
     "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.10.jpeg",
-    "Agenda/TO DO 2024.md",
     "Vakken/Blok 2/Wetenschapsjournalistiek/Tegenvoorbeeld.md",
     "Vakken/Blok 2/Wetenschapsjournalistiek/Pitch achtergrondartikel.pdf",
     "Vakken/Blok 2/Wetenschapsjournalistiek/Pitch Nieuwsbericht.pdf",
