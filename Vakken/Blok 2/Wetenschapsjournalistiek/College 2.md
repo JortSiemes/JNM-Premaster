@@ -34,3 +34,9 @@ Weinig over bronnen, methoden, discussie
 ....behalve bij gezondheidsnieuws
 weinig waakhonden buiten de grote kranten
 
+
+
+Aandachtspunten:
+
+Invalshoek:
+Wat is de invalshoek?
