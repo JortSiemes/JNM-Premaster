@@ -28,3 +28,9 @@ nieuwsmedia belangrijkste bron van kennis over wetenschap
 3. waakhond
 4. weetjes
 5. lifestyle-advies
+Maar groter bereik = minder wetenschap
+Op tv: natuurwetenschap, proefjes; andere media diverser
+Weinig over bronnen, methoden, discussie
+....behalve bij gezondheidsnieuws
+weinig waakhonden buiten de grote kranten
+
