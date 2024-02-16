@@ -34,9 +34,11 @@ Weinig over bronnen, methoden, discussie
 ....behalve bij gezondheidsnieuws
 weinig waakhonden buiten de grote kranten
 
-
-
 Aandachtspunten:
 
 Invalshoek:
 Wat is de invalshoek?
+
+
+Wat te doen als geïnterviewde niet blij is met het interview:
+
