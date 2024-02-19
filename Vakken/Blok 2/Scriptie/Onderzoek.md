@@ -1,4 +1,5 @@
 Het Kontakt - De Zenderstreek (IJsselstein)
+https://www.zenderstreeknieuws.nl/
 
 1ste versie onderzoeksvraag:
 
