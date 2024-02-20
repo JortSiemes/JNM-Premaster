@@ -2,11 +2,7 @@ Het Kontakt - De Zenderstreek (IJsselstein)
 https://www.zenderstreeknieuws.nl/
 
 #### 1ste versie onderzoeksvraag:
-"In hoeverre beïnvloeden advertenties en commerciële belangen de redactionele inhoud en onafhankelijkheid van een lokale krant?"
-
-**of**
-
-"Hoe verschilt de redactionele inhoud, berichtgeving en gemeenschapsbetrokkenheid tussen de lokale regionale krant en andere regionale kranten binnen hetzelfde mediabedrijf, en in hoeverre beïnvloedt dit de lokale identiteit en samenhang van de gemeenschappen die ze bedienen?"
+Wat zijn de implicaties van de consolidatie van kleine regionale kranten, zoals de Zenderstreek van IJsselstein, binnen een grotere entiteit zoals Het Kontakt, waarbij 20 andere regionale kranten betrokken zijn, voor de inhoudelijke samenstelling en berichtgeving van de krant?
 
 #### Inleiding:
 
