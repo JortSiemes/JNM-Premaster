@@ -9,5 +9,11 @@ Nog geen interview
 
 Waarom je beter peter kan heten:
 - Bron toevoegen van eerste claim: **In Nederland zijn er meer CEO’s die Peter heten dan dat er vrouwelijke bestuurders zijn.** (https://www.nrc.nl/nieuws/2022/01/25/factcheck-in-nederland-zijn-er-meer-ceos-die-peter-heten-dan-ceos-die-vrouw-zijn-a4083151)
-- 
+- massa's van peter aan de top zou ik zelf veranderen (die studie gaat namelijk over 4 peters)
+- 67% van de vrouwen werkt parttime, bij de mannen is dat slechts 18%.
+- Interessant stukje: mannenquotum in sector zoals educatie
+- Grafiek: ### Benoemde en afgetreden vrouwen tussen augustus 2019 en 2023
+	- Veel tekst maar voor mijzelf nog niet helemaal duidelijk
+- Leuke titel en onderwerp
+
 
