@@ -15,6 +15,7 @@ POST BIJ ASSIGNMENTS
 
 a.van.t.hoog@hum.leidenuniv.nl
 
+---
 ### Feedback
 
 basis goed uitgewerkt
@@ -37,4 +38,10 @@ Quote is goed
 Tekst aangeven dat grafiek ik pas campagne
 (aantal deelnemers van ikpas campagne)
 
-plaatje 
+plaatje verwijderen (voor beter CC free)
+
+Jaar op jaar stijging tussen 2019 en 2021, net iets concreter
+
+Alcoholarm verder uitleggen.
+
+Laatste quote nog duiden
