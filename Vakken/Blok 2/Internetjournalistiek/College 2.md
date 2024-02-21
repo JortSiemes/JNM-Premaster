@@ -45,3 +45,15 @@ Jaar op jaar stijging tussen 2019 en 2021, net iets concreter
 Alcoholarm verder uitleggen.
 
 Laatste quote nog duiden
+
+----
+Te doen
+
+Jort:
+interviewen JC over geen alc
+
+
+Isabel:
+interviewen: ...
+Wat is overmatig drinken?
+- meer dan ... glazen per week
