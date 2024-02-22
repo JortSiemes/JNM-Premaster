@@ -19,6 +19,26 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e1561cd40f99ac5b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf"
+              }
+            }
+          },
+          {
+            "id": "7e46a9bec2ded3b5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Modus ponens en modus tollens.pdf"
+              }
+            }
           }
         ],
         "stacked": true
@@ -144,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,14 +180,15 @@
   },
   "active": "885df021b925df69",
   "lastOpenFiles": [
-    "Vakken/Blok 2/Argumenteren en overtuigen/Week 2.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 3.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Modus ponens en modus tollens.pdf",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Week 2.md",
     "verzwegen argumenten.md",
     "onderschikkende argumentatie.md",
     "complexe argumentatie.md",
     "Enkelvoudige argumentatie.md",
     "Vakken/Blok 2/Internetjournalistiek/College 2.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Modus ponens en modus tollens.pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/Modus ponens en modus tollens.pdf.crdownload",
     "Vakken/Blok 2/Argumenteren en overtuigen/Scan boek deel 1.pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/Scan boek deel 1.pdf.crdownload",
@@ -184,7 +206,6 @@
     "Vakken/Blok 2/Wetenschapsjournalistiek/PitchAchtergrondartikel_JortSiemes_4028198.pdf",
     "Vakken/Blok 2/Wetenschapsjournalistiek/instructie voor pitchen van onderwerpen.pdf",
     "Vakken/Blok 2/Wetenschapsjournalistiek/Pitch Achtergrondartikel.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
     "maximaal argumentatieve analyse.md",
     "maximaal argumentatieve interpretatie.md",
     "analytisch overzicht.md",
@@ -204,7 +225,6 @@
     "Vakken/Blok 1/Woorden als wapens/Weekopdrachten/Weekopdracht Week 9 (Jort Siemes, s4028198).md",
     "Vakken/Blok 1/Woorden als wapens/Weekopdrachten/Weekopdracht Week 8 (Jort Siemes, s4028198).md",
     "Vakken/Blok 1/Woorden als wapens/Weekopdrachten/Weekopdracht Week 7 (Jort Siemes, s4028198).md",
-    "Vakken/Blok 1/Woorden als wapens/Weekopdrachten/Weekopdracht Week 6 (Jort Siemes, s4028198).md",
-    "Vakken/Blok 1/Woorden als wapens/Weekopdrachten/Weekopdracht Week 5 (Jort Siemes, s4028198) 1.md"
+    "Vakken/Blok 1/Woorden als wapens/Weekopdrachten/Weekopdracht Week 6 (Jort Siemes, s4028198).md"
   ]
 }
