@@ -21,4 +21,21 @@ A
 6, premisse: je stelt een vraag
   conclusie: je hebt niet goed opgelet
 
-B;
+2, Het is niet gemakkelijk om onvolledige redeneringen te herschrijven en dit is een onvolledige redenering. 1. deze redenering is niet makkelijk te herschrijven 
+1.1 dit is een onvolledige redenering
+1.1’ ...
+
+3, John is een Amerikaan, dus hij zal wel Engels spreken.
+1.john kan engels spreken (q, conclusie)
+1.1Jon is een amerikaan (p, premisse)
+1.1' alle amerikanen (p) kunnen engels (q)
+
+4, Als Sharon Justin Bieber had gezien op Pinkpop, zou ze dat zeker verteld hebben. Ze zal hem dus wel niet hebben gezien
+1.Sharon heeft justin bieber niet gezien op pinkpop (q, conclusie)
+1.1Sharon was op pinkpop (p, premisse)
+1.1'Sharon heeft er niks over gezegd (p) dus ze heeft hem niet gezien (q)
+
+5, Vader tegen zoon: ‘Ik ben arts, mijn vader was arts en mijn opa was ook arts. Ik kan dus geen enkele reden bedenken waarom jij geen arts zou worden
+1.zoon moet arts worden
+1.1 hele familie waren artsen
+1.1' als je hele famil
