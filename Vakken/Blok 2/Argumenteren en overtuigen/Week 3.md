@@ -7,7 +7,33 @@ verzwegen standpunt
 
 verzwegen oordelen
 
-logische geldigheid
+[[logische geldigheid]] (logica)
+**[[Modus ponens]]**
+als p (antecedent), dan q (consequent)
+p
+dus q
+
+**[[modus tollens]]**
+als p, dan q
+niet-q
+dus niet-p
+
+[[geldigheidsregel]]:
+redeneringen die in de argumentatie als logische geldig worden voorgesteld, mogen geen logische fouten bevatten.
+
+El
+
+ONGELDIG!
+als p dan q: als iemand uit amerika komt dan spreekt hij engels
+q: john spreekt engels
+dus p: dus john is een amerikaan
+
+DROGREDEN! ontkenning van het antecedent
+als p dan q: als iemand uit amerika komt dan spreekt hij engels
+niet-p: dus john is niet een amerikaan
+dus niet-: john spreekt geen engels
+
+
 enkelvoudige argumentatie (basisstructuur)
 1 standpunt
 1.1 argument
