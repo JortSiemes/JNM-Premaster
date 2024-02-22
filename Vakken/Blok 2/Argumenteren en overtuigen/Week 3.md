@@ -5,5 +5,9 @@ ik denk niet aan een andere baan, want bij andere banen kan ik Sherry, mijn hond
 
 verzwegen standpunt
 
-   
+verzwegen oordelen
+
+4.2
+indirect taalgebruik
+
 
