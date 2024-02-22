@@ -66,6 +66,15 @@ A
 1.1' als annie misselijk is dan heeft ze bedorven vlees gegeten
 
 11, Als je bedorven vlees eet word je misselijk, dus Annie moet wel bedorven vlees hebben gegeten
-1.
-1.1
-1.1' als p dan q 
+1.annie is misselijk
+1.1 van bedorven vlees word je misselijk
+1.1' als annie bedorven vlees heeft gegeten dan word ze misselijk
+
+4.4 
+1 
+3
+
+4.5 
+a
+b
+c
