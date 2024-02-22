@@ -121,12 +121,12 @@ dus q: jan is de moordenaar
 6, Ik zou niet weten waarom jij geen fietsvakantie in de Pyreneeën zou kunnen doen. Je hebt vorig jaar toch ook in de Alpen gefietst?
 1.je kan een fietsvakantie in de pyreneeen doen
 1.1 je hebt vorig jaar in de alpen gefietst
-1.1' als je vorig jaar in de alpen hebt gefietst dan kan je ook een fietsvakantie in de pyreneeen doen
+1.1' als je vorig jaar in de alpen hebt gefietst dan kan je ook een fietsvakantie in de pyreneeen doen (alpen en pyreneeen zijn zelfde)
 
 7, Het onderwerp van het college zal ze wel aangesproken hebben, want als het ze niets lijkt, dan komen ze gewoon niet
-1.er zijn studenten naar het college gekomen
-1.1Studenten komen als het onderwerp ze aanspreekt
-1.1' als het onderwerp van het college niet studenten aanspreekt dan komen ze niet
+1.het onderwerp heeft ze aangesproken
+1.1want ze zijn gekomen
+1.1' als ze komen dan spreekt het ze aan
 
 8, The bigger the burger the better the burger, the burgers are bigger at Burger King.
 1.als de burger van burger king is dan is die beter
