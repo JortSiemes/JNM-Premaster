@@ -7,6 +7,16 @@ verzwegen standpunt
 
 verzwegen oordelen
 
+logische geldigheid
+enkelvoudige argumentatie (basisstructuur)
+1 standpunt
+1.1 argument
+1.1'brugargument (verbinding tussen argument en te verdedigen standpunt)
+
+impliciet standpunt (niet genoemd)
+expliciet (staat in de uiting)
+indirect (is een verborgen uiting)
+
 4.2
 indirect taalgebruik
 
