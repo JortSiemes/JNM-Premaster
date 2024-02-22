@@ -10,6 +10,14 @@ verzwegen oordelen
 4.2
 indirect taalgebruik
 
+descriptieve dimensie (analyseren)
+normatieve dimensie (beoordelen)
+
+10 discussieregels:
+- verzwegen-argumentregel
+- geldigheidsregel
+
+
 
 Opdrachten
 syllabus college 3
