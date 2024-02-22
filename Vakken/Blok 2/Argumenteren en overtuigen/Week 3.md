@@ -61,6 +61,21 @@ normatieve dimensie (beoordelen)
 - geldigheidsregel
 
 
+### notatiewijzen
+logische vorm (logica)
+(majorpremisse) als p, dan q
+(minorpremisse) p
+(conclusie) dus; q
+
+argumentatiestructuur (argumentatietheorie)
+(standpunt) 1  q
+(argument) 1.1  p
+(brugargument) 1.1'  als p, an q
+
+logisch minimum
+pragmatisch optimum
+
+
 
 Opdrachten
 syllabus college 3
@@ -76,11 +91,13 @@ dus niet voltooid
 4, premisse: als je gezakt bent voor je tentamens dan heb je niet gestudeerd
 of als tollens: als je hebt gestudeerd dan haal je je tentamens
 
+5, premisse: modus ponens, als p dan q
+als er bloed op je broek zit dan heb je iemand vermoord
+p: er zat bloed op jans broek
+dus q: jan is de moordenaar
 
-
-5, premisse: De moordenaar krijgt altijd bloed van het slachtoffer op zijn kleren
-6, premisse: je stelt een vraag
-  conclusie: je hebt niet goed opgelet
+6, premisse: je stelt de vraag
+  conclusie: je hebt niet opgelet
 
 2, Het is niet gemakkelijk om onvolledige redeneringen te herschrijven en dit is een onvolledige redenering. 1. deze redenering is niet makkelijk te herschrijven 
 1.1 dit is een onvolledige redenering
