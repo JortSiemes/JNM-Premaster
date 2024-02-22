@@ -66,8 +66,18 @@ Opdrachten
 syllabus college 3
 A
 2, premisse: studenten kunnen niet in 4 jaar afstuderen
+niet-q
+niet-p
+
 3, conclusie: vrouwenemancipatie is niet voltooid
-4, premisse: als je studeert voor je vakken dan haal je je tentamens
+niet evenveel
+dus niet voltooid
+
+4, premisse: als je gezakt bent voor je tentamens dan heb je niet gestudeerd
+of als tollens: als je hebt gestudeerd dan haal je je tentamens
+
+
+
 5, premisse: De moordenaar krijgt altijd bloed van het slachtoffer op zijn kleren
 6, premisse: je stelt een vraag
   conclusie: je hebt niet goed opgelet
