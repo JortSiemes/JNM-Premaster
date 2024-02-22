@@ -21,7 +21,13 @@ dus niet-p
 [[geldigheidsregel]]:
 redeneringen die in de argumentatie als logische geldig worden voorgesteld, mogen geen logische fouten bevatten.
 
-El
+### Met dit testen:
+GELDIG:
+Elke wasbeer heeft een staart
+maar niet elke staart heeft een wasbeer
+
+ONGELDIG:
+elke staart heeft een wasbeer
 
 ONGELDIG!
 als p dan q: als iemand uit amerika komt dan spreekt hij engels
@@ -33,6 +39,7 @@ als p dan q: als iemand uit amerika komt dan spreekt hij engels
 niet-p: dus john is niet een amerikaan
 dus niet-: john spreekt geen engels
 
+### een geldige redenering in niet perse een deugdelijke redenering
 
 enkelvoudige argumentatie (basisstructuur)
 1 standpunt
