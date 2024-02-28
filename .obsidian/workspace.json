@@ -13,38 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 3.md",
+                "file": "Vakken/Blok 2/Scriptie/College 2 - schakelscriptie.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "e1d9bcc06e96ea33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Blok 2/Scriptie/Onderzoek.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1561cd40f99ac5b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf"
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -119,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Blok 2/Scriptie/Onderzoek.md",
+                "file": "Vakken/Blok 2/Scriptie/College 2 - schakelscriptie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Blok 2/Scriptie/Onderzoek.md",
+                "file": "Vakken/Blok 2/Scriptie/College 2 - schakelscriptie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Blok 2/Scriptie/Onderzoek.md"
+                "file": "Vakken/Blok 2/Scriptie/College 2 - schakelscriptie.md"
               }
             }
           }
@@ -182,8 +158,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1d9bcc06e96ea33",
+  "active": "885df021b925df69",
   "lastOpenFiles": [
+    "Vakken/Blok 2/Scriptie/Onderzoek.md",
+    "Vakken/Blok 2/Scriptie/College 2 - schakelscriptie.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Week 3.md",
     "Vakken/Blok 2/Scriptie/~WRL0005.tmp",
     "Vakken/Blok 2/Scriptie/~WRD0004.tmp",
     "Vakken/Blok 2/Scriptie/~WRL0003.tmp",
@@ -192,7 +171,6 @@
     "Vakken/Blok 2/Scriptie/~WRD0000.tmp",
     "Vakken/Blok 2/Scriptie/Onderzoeksvraag en Inleiding.docx",
     "verzwegen argumenten.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Week 3.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/Modus ponens en modus tollens.pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 2.md",
@@ -201,13 +179,11 @@
     "Enkelvoudige argumentatie.md",
     "Vakken/Blok 2/Internetjournalistiek/College 2.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Modus ponens en modus tollens.pdf.crdownload",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Scan boek deel 1.pdf",
     "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/AlcoholFreeArea_Matthew Paul Argall.jpg",
     "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/2048x1152.jpg",
     "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/95ugG-aantal-nederlanders-dat-stopt-met-alcoholgebruik.png",
     "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/Feedback 21_02.md",
     "Vakken/Blok 2/Wetenschapsjournalistiek/College 2.md",
-    "Vakken/Blok 2/Scriptie/Onderzoek.md",
     "Agenda/TO DO 2024.md",
     "Vakken/Blok 2/Wetenschapsjournalistiek/College 1.md",
     "Vakken/Blok 2/Wetenschapsjournalistiek/Pitch Achtergrondartikel.md",
