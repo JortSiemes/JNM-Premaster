@@ -22,12 +22,34 @@ dit gaat vooral makkelijk bij feitelijke statements en basis morele oordelen of 
 #### 6.3 geldigheid van redeneringen
 [[geldig]] 
 
-6.4 deugdelijkheid van argumentatieschemas
-het feit dat een enkelvoudige argumentatie op een geldige redenering gebaseerd is wil nog niet automatisch zeggen dat de argumentatie als rechtvaardigingspoging of 
+#### 6.4 deugdelijkheid van argumentatieschemas
+het feit dat een enkelvoudige argumentatie op een geldige redenering gebaseerd is wil nog niet automatisch zeggen dat de argumentatie als rechtvaardigingspoging volledig geslaagd is
 
+drie hoofdklassen van argumentatieschemas
+1: argumentatie in verband gebracht met het standpunt
+	bvb: herman is een echte jongen - herman is stoer (stoerheid is kenmerkend voor echte jongens)
+2: vergelijking getrokken tussen het een (sport) en het ander (universiteit)
+	bvb: loting voor toelating op de universiteit is absurd - er wordt ook niet bij loting bepaald wie naar de olympische spelen gaat
+3: het een word als oorzaak gepresenteerd van het ander
+	bvb: mariekes hoofdpijn zal nu wel verdwijnen - zij heeft net twee aspirines genomen (aspirines helpen tegen hoofdpijn)
 
-6.5 argumentatie gebaseerd op een kentekenrelatie
-6.6 argumentatie gebaseerd op een vergelijkingsrelatie
+#### 6.5 argumentatie gebaseerd op een kentekenrelatie
+hierin wordt een standpunt verdedigd door in het argument een bepaald kenmerk, kenteken of symptoom te noemen vna hetgeen in het standpunt beweerd wordt. 
+
+voor: X geldt Y
+want: Voor X geldt Z
+en: Z is kenmerkend voor Y
+
+De algemene kritische vraag bij argumentatie die gebaseerd is op een kentekenrelatie is:
+- is Z wel kenmerkend voor Y?
+
+Hiervoor kan je de volgende 2 kritische vragen stellen:
+1. zijn er niet ook Y's die niet kenmerk Z hebben?
+2. Zijn er niet ook niet-Y's die evenzeer kenmerk Z hebben?
+
+#### 6.6 argumentatie gebaseerd op een vergelijkingsrelatie
+argumenten waarin het standpunt is gebaseerd op wat de 
+
 6.7 argumentatie gebaseerd op een causale relatie
 6.8 de presentatie van verschillende typen argumentatie
 
