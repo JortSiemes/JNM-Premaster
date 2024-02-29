@@ -31,6 +31,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -94,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 318.5
   },
   "right": {
     "id": "6e1f3ff28bb42c0d",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf"
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 4.md"
               }
             }
           }
@@ -181,14 +182,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "633cd4703a5c3ef7",
+  "active": "f81131938f0a8d5d",
   "lastOpenFiles": [
+    "Vakken/Blok 2/Argumenteren en overtuigen/Week 2.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 4.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Week 3.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Week 3.md",
     "aanvaardbaarheid.md",
     "verzwegen argumenten.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Week 2.md",
     "Vakken/Blok 2/Scriptie/Onderzoek.md",
     "Vakken/Blok 2/Scriptie/College 2 - schakelscriptie.md",
     "Vakken/Blok 2/Scriptie/~WRL0005.tmp",
