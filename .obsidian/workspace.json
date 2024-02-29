@@ -31,7 +31,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 4.md",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 4.md",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 4.md"
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf"
               }
             }
           }
@@ -182,13 +181,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f81131938f0a8d5d",
+  "active": "633cd4703a5c3ef7",
   "lastOpenFiles": [
-    "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 4.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Week 3.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
     "aanvaardbaarheid.md",
     "verzwegen argumenten.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Week 3.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 2.md",
     "Vakken/Blok 2/Scriptie/Onderzoek.md",
     "Vakken/Blok 2/Scriptie/College 2 - schakelscriptie.md",
