@@ -79,3 +79,18 @@ Hiervoor kunnen 2 kritische vragen worden gesteld:
 
 #### 6.8 de presentatie van verschillende typen argumentatie
 zie boek
+
+
+
+
+kentekenargumentatie
+1. typering
+2. autoriteitsargumentatie
+3. voorbeeldargumentatei
+4. argumentatie op basis van een definitie
+
+vergelijkingsargumentatie
+1. globale vergelijking
+2. figuurlijke v
+
+causale argumentatie
