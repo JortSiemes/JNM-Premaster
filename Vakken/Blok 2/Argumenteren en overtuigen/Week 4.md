@@ -34,7 +34,7 @@ drie hoofdklassen van argumentatieschemas
 	bvb: mariekes hoofdpijn zal nu wel verdwijnen - zij heeft net twee aspirines genomen (aspirines helpen tegen hoofdpijn)
 
 #### 6.5 argumentatie gebaseerd op een kentekenrelatie
-hierin wordt een standpunt verdedigd door in het argument een bepaald kenmerk, kenteken of symptoom te noemen vna hetgeen in het standpunt beweerd wordt. 
+hierin wordt een standpunt verdedigd door in het argument een bepaald kenmerk, kenteken of symptoom te noemen van het geen in het standpunt beweerd wordt. 
 
 voor: X geldt Y
 want: Voor X geldt Z

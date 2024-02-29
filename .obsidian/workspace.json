@@ -8,7 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "29fcecb61ce1a4dd",
+            "id": "633cd4703a5c3ef7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf"
+              }
+            }
+          },
+          {
+            "id": "f81131938f0a8d5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,6 +31,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -65,6 +76,19 @@
             "state": {
               "type": "bookmarks",
               "state": {}
+            }
+          },
+          {
+            "id": "29fcecb61ce1a4dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 4.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -158,10 +182,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29fcecb61ce1a4dd",
+  "active": "f81131938f0a8d5d",
   "lastOpenFiles": [
-    "verzwegen argumenten.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 4.md",
+    "aanvaardbaarheid.md",
+    "verzwegen argumenten.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 3.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 2.md",
     "Vakken/Blok 2/Scriptie/Onderzoek.md",
@@ -173,7 +199,6 @@
     "Vakken/Blok 2/Scriptie/~$derzoeksvraag en Inleiding.docx",
     "Vakken/Blok 2/Scriptie/~WRD0000.tmp",
     "Vakken/Blok 2/Scriptie/Onderzoeksvraag en Inleiding.docx",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/Modus ponens en modus tollens.pdf",
     "onderschikkende argumentatie.md",
     "complexe argumentatie.md",
@@ -204,8 +229,6 @@
     "Untitled.canvas",
     "College 1.md",
     "Vakken/Blok 2/Internetjournalistiek/Internetjournalistiek.md",
-    "Vakken/Blok 1/Woorden als wapens/Weekopdrachten/Weekopdracht Week 9 (Jort Siemes, s4028198).md",
-    "Vakken/Blok 1/Woorden als wapens/Weekopdrachten/Weekopdracht Week 8 (Jort Siemes, s4028198).md",
-    "Vakken/Blok 1/Woorden als wapens/Weekopdrachten/Weekopdracht Week 7 (Jort Siemes, s4028198).md"
+    "Vakken/Blok 1/Woorden als wapens/Weekopdrachten/Weekopdracht Week 9 (Jort Siemes, s4028198).md"
   ]
 }
