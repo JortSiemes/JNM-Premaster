@@ -16,6 +16,7 @@ Hoofdstuk 5 + opdracht
 begrippen die veel op elkaar lijken
 [[maximaal argumentatieve interpretatie]]
 [[maximaal argumentatieve analyse]]
+argumentatie schema =x=> argumentatiestructuur
 
 Opdracht 1a
 meervoudige argumentatie:
