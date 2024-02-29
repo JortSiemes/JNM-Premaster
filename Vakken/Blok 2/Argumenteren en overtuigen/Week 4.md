@@ -26,11 +26,11 @@ dit gaat vooral makkelijk bij feitelijke statements en basis morele oordelen of 
 het feit dat een enkelvoudige argumentatie op een geldige redenering gebaseerd is wil nog niet automatisch zeggen dat de argumentatie als rechtvaardigingspoging volledig geslaagd is
 
 drie hoofdklassen van argumentatieschemas
-1: argumentatie in verband gebracht met het standpunt
+1: Kentekenrelatie: argumentatie in verband gebracht met het standpunt
 	bvb: herman is een echte jongen - herman is stoer (stoerheid is kenmerkend voor echte jongens)
-2: vergelijking getrokken tussen het een (sport) en het ander (universiteit)
+2: Vergelijkingsrelatie: vergelijking getrokken tussen het een (sport) en het ander (universiteit)
 	bvb: loting voor toelating op de universiteit is absurd - er wordt ook niet bij loting bepaald wie naar de olympische spelen gaat
-3: het een word als oorzaak gepresenteerd van het ander
+3: Causale relatie: het een word als oorzaak gepresenteerd van het ander
 	bvb: mariekes hoofdpijn zal nu wel verdwijnen - zij heeft net twee aspirines genomen (aspirines helpen tegen hoofdpijn)
 
 #### 6.5 argumentatie gebaseerd op een kentekenrelatie
@@ -48,8 +48,34 @@ Hiervoor kan je de volgende 2 kritische vragen stellen:
 2. Zijn er niet ook niet-Y's die evenzeer kenmerk Z hebben?
 
 #### 6.6 argumentatie gebaseerd op een vergelijkingsrelatie
-argumenten waarin het standpunt is gebaseerd op wat de 
+argumentatieschema dat gebaseerd is op een vergelijkingsrelatie. Volgens deze presentatie zijn de gevallen vergelijkbaar en gaat wat in het ene geval geldt ook voor het andere op.
 
-6.7 argumentatie gebaseerd op een causale relatie
-6.8 de presentatie van verschillende typen argumentatie
+Voor X geldt Y
+want: voor Z geldt Y
+en: Z is vergelijkbaar met X
 
+De kritische vraag bij deze argumentatie:
+- Zijn er geen significante verschillen tussen Z en X?
+
+Op twee manieren worden aangewezen
+1. door te stellen dat Z een bepaalde eigenschap heeft die X niet heeft
+2. of andersom
+
+#### 6.7 argumentatie gebaseerd op een causale relatie
+Word een standpunt verdedigd door een zodanig oorzakelijk verband te leggen tussen het argument en het standpunt, dat het standpunt, gegeven het argument, op grond van dit verband aanvaard moet worden
+
+Volgens deze presentatie leidt het een als het ware vanzelf tot het ander
+
+Voor X geldt Y
+Want: voor X geldt Z
+en: Z leidt tot Y
+
+De algemene kritische vraag bij argumentatie die gebaseerd is op een causale relatie is:
+- Leidt Z wel tot Y?
+
+Hiervoor kunnen 2 kritische vragen worden gesteld:
+1. Zijn er gevallen waarin Z niet tot Y leidt?
+2. Kan Y niet ook door iets anders dan Z veroorzaakt zijn?
+
+#### 6.8 de presentatie van verschillende typen argumentatie
+zie boek
