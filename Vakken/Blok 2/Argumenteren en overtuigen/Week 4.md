@@ -91,6 +91,8 @@ kentekenargumentatie
 
 vergelijkingsargumentatie
 1. globale vergelijking
-2. figuurlijke v
+2. figuurlijke vergelijking
 
 causale argumentatie
+1. pragmatische argumentatie
+	1. substype waar je prescriptief standpunt kan vertegenwoordigen, en dat standpunt word ondersteund met een bepaald gevolg van dat handelen. Je moet veel brocolli eten want daar krijg je glanzend haar van
