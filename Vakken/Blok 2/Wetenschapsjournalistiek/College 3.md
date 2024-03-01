@@ -49,3 +49,5 @@ Volgorde van de aanpak:
 
 
 
+Literatuur voor volgende week
+- sociale constructie en framing van psychische stoornissen
