@@ -41,9 +41,11 @@ Staalkaart van theorieen en concepten
 *onderwerp van een van volgende colleges
 
 
-
-
-
+Volgorde van de aanpak:
+1. experts en anderen vinden voor interview
+2. 18e eerste versie
+3. meer literatuur nodig/gevonden
+4. 02/04 achtergrond def
 
 
 
