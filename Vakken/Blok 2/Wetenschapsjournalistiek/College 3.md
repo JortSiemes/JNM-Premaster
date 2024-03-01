@@ -29,7 +29,19 @@ Bonus: zeggen wat er ontbreekt (simpel dit is nog niet onderzocht in Nederland) 
 Staalkaart van theorieen en concepten
 - nieuwscriteria
 - sociale constructie *
-- *
+	- Wat voor ideeën over wetenschap en beleid hebben mensen?
+- risicomaatschappij *
+- Agendabuilding
+- Framing * 
+- Mediatisering
+- Medialogica
+	- 
+- Issue-attention cycle
+- Claims-makers*
+*onderwerp van een van volgende colleges
+
+
+
 
 
 
