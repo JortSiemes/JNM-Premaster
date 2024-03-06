@@ -9,15 +9,15 @@ Hoofdstuk 7 aantekeningen
 #### 1. vrijheidsregel (Regel 1)
 **Discussianten mogen elkaar niet beletten standpunten of twijfel naar voren te brengen.**
 deelnemers mogen elkaar niet beperken in hun vrijheid om standpunten en argumenten naar voren te brengen of in twijfel te trekken. 
-Bijvoorbeeld: Het heilig verklaren van een standpunt (zodat het niet ter discussie kan worden gesteld) 
+Bijvoorbeeld: Het heilig verklaren van een [[standpunt]] (zodat het niet ter discussie kan worden gesteld) 
 - Standpunten die taboe worden verklaard
 Twee soorten pogingen:
-1. door de discussiepartner onder druk te zetten een bepaald standpunt niet naar voren te brengen of in twijfel te trekken
+1. door de discussiepartner onder druk te zetten een bepaald [[standpunt]] niet naar voren te brengen of in twijfel te trekken
 2. Door zijn/haar deskundigheid, integriteit of geloofwaardigheid in diskrediet te brengen en deze daardoor in de ogen van het publiek onmogelijk te maken
 
 - Goed voorbeeld is met fysiek geweld dreigen om tegenstander uit te schakelen
 - Dreigen met sancties is ook een voorbeeld
-Dit zijn dreigementen dat als doel heeft de andere  partij te beletten vrijelijk zijn standpunt naar voren te brengen of twijfel te uiten. (Argumentum ad bacalum)
+Dit zijn dreigementen dat als doel heeft de andere  partij te beletten vrijelijk zijn [[standpunt]] naar voren te brengen of twijfel te uiten. (Argumentum ad bacalum)
 (kan voorkomen als direct dreigement of subtieler, mogelijk verkeerde gevolgen bvb)
 
 Op gevoel inspelen: "Hoe kan je me een onvoldoende geven voor mijn scriptie ik heb hier de hele nacht aan gewerkt" (argumentum ad misericordiam)
@@ -25,8 +25,23 @@ Op gevoel inspelen: "Hoe kan je me een onvoldoende geven voor mijn scriptie ik h
 - dreigementen
 - morele chantage
 - neerzetten van tegenstander als dom/onbetrouwbaar/bevoordeeld of ongeloofwaardig
-- 
+	- hiermee maak je iemand monddood
+
+Algemeen kenmerk van een persoonlijke aanval is dat hij niet op de inhoudelijke merites van iemands [[standpunt]] of twijfel gericht is, maar op diens persoon: (argumentum ad hominem)
+##### Soorten persoonlijke aanvallen
+1.1 directe persoonlijke aanval (abusive-variant)
+	er word op de man gespeeld ipv de bal, er wordt gedaan alsof iemand dom of slecht is en hierdoor nooit een juist [[standpunt]] kan innemen of terecht twijfel kan hebben.
+1.2 indirect persoonlijke aanval (circumstantial-variant)
+	worden de motieven die de tegenpartij tot zijn standpunt of twijfel gebracht hebben verdacht gemaakt. "hij heeft er persoonlijk belang bij"
+	*iemands mening terruggebracht tot een onzuiver persoonlijk motief en argumenten "ontmaskerd" als rationalisaties*
+1.3 tegenstrijdigheid aan het licht brengen (tu quoque-variant)
+	geloofwaardigheid van tegenpartij ondermijnen door een tegenstrijdigheid aan het licht te brengen in zijn woorden of daden.
+	
+
 #### 2. verdegingsplichtregel
 standpuntregel
 relevantieregel
 Verzwegen-argumentregel
+
+
+
