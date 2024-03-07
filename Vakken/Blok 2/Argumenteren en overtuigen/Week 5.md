@@ -84,5 +84,16 @@ verzwegen argumentregel: de ene partij mag de andere niet ten onrecht [[verzwege
 niet passend schema
 incorrect toegepast schema
 
-Tu quoque / jij-bakken
+Tu quoque / jij-bakken:
+Het moet niet want je deed het eerder ook niet
 
+8.1
+ad consequentiam
+
+Syllabus A.1
+ad populum
+
+A.2
+ad verecundiam
+
+A
