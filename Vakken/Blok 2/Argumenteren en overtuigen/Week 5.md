@@ -57,3 +57,9 @@ er wordt een ander standpunt aangevallen dan door de tegenparij naar voren is ge
 
 
 
+
+Drogredenen 
+1 nee
+2 nee
+3 
+
