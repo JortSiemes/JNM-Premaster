@@ -20,14 +20,14 @@ Twee soorten pogingen:
 Dit zijn dreigementen dat als doel heeft de andere  partij te beletten vrijelijk zijn [[standpunt]] naar voren te brengen of twijfel te uiten. (Argumentum ad bacalum)
 (kan voorkomen als direct dreigement of subtieler, mogelijk verkeerde gevolgen bvb)
 
-Op gevoel inspelen: "Hoe kan je me een onvoldoende geven voor mijn scriptie ik heb hier de hele nacht aan gewerkt" (argumentum ad misericordiam)
+Op gevoel inspelen: "Hoe kan je me een onvoldoende geven voor mijn scriptie ik heb hier de hele nacht aan gewerkt" ([[argumentum ad misericordiam]])
 
 - dreigementen
 - morele chantage
 - neerzetten van tegenstander als dom/onbetrouwbaar/bevoordeeld of ongeloofwaardig
 	- hiermee maak je iemand monddood
 
-Algemeen kenmerk van een persoonlijke aanval is dat hij niet op de inhoudelijke merites van iemands [[standpunt]] of twijfel gericht is, maar op diens persoon: (argumentum ad hominem)
+Algemeen kenmerk van een persoonlijke aanval is dat hij niet op de inhoudelijke merites van iemands [[standpunt]] of twijfel gericht is, maar op diens persoon: ([[argumentum ad hominem]])
 ##### Soorten persoonlijke aanvallen
 1.1 directe persoonlijke aanval (abusive-variant)
 	er word op de man gespeeld ipv de bal, er wordt gedaan alsof iemand dom of slecht is en hierdoor nooit een juist [[standpunt]] kan innemen of terecht twijfel kan hebben.
@@ -96,4 +96,23 @@ ad populum
 A.2
 ad verecundiam
 
-A
+A.3
+
+A.7
+mogelijk ondeugdelijke (positieve) pragmatische argumentatie
+
+B.1
+indirecte ad hominem
+
+B.4
+[[Stroman]]
+
+B.5
+Argumentum ad consequentiam
++ genoemde gevolgen hebben wat weg van hellend vlak
+
+B.9
+
+
+
+
