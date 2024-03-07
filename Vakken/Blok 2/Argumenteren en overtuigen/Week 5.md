@@ -64,7 +64,13 @@ Drogredenen
 3 nee
 4 ja
 5 
-6 Dit zijn dreigementen dat als doel heeft de andere  partij te beletten vrijelijk zijn [[standpunt]] naar voren te brengen of twijfel te uiten. 
+Argumentum ad miscericordiam (alleen negatieve gevoelens aanspreken)
+- beroep op medelijden
+Pathetische drogreden (kan verschillende gevoelens aanspreken ook positief)
+- emoties als ondersteuning
+- emoties van 3e partij (kan leuk/boos/schattig zijn)
+
+6 Dit zijn dreigementen dat als doel heeft de andere partij te beletten vrijelijk zijn [[standpunt]] naar voren te brengen of twijfel te uiten. 
 
 
 Tu quoque / jij-bakken
