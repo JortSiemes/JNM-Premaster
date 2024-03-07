@@ -72,6 +72,17 @@ Pathetische drogreden (kan verschillende gevoelens aanspreken ook positief)
 
 6 Dit zijn dreigementen dat als doel heeft de andere partij te beletten vrijelijk zijn [[standpunt]] naar voren te brengen of twijfel te uiten. 
 
+**Vrijheidsregel:**
+- [[argumentum ad misericordiam]]
+- [[argumentum ad hominem]]
+- [[argumentum ad baculum]]
+[[ignoratio elenchi]]: [[argument]] is irrelevant voor conclusie
+verzwegen argumentregel: de ene partij mag de andere niet ten onrecht [[verzwegen argumenten]] toeschrijven.
+
+[[argumentatieschemaregel]]: een door een logisch geldige redenering verdedigd standpunt mag niet als voldoende verdedig worden beschouwd als er in de verdediging geen passend argumentatieschema is gebruikt dat correct is toegepast
+
+niet passend schema
+incorrect toegepast schema
 
 Tu quoque / jij-bakken
 
