@@ -39,6 +39,13 @@ Algemeen kenmerk van een persoonlijke aanval is dat hij niet op de inhoudelijke 
 	
 
 #### 2. verdegingsplichtregel
+**Een discussiant die een standpunt naar voren brengt, mag niet weigeren dit standpunt desgevraagd te verdedigen**
+Iemand die een standpunt naar voren brengt moet ook zijn standpunt verdedigen en iemand die het standpunt in twijfel heeft getrokken, moet bereid zijn het aan te vallen
+
+Niet iedereen die een standpunt uit, is er niet altijd zo op gebrand dit ook te verdedigen.
+
+
+
 standpuntregel
 relevantieregel
 Verzwegen-argumentregel
