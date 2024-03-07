@@ -59,7 +59,9 @@ er wordt een ander standpunt aangevallen dan door de tegenparij naar voren is ge
 
 
 Drogredenen 
-1 nee
-2 nee
-3 
-
+1 nee (zwakargument =/= drogreden)
+2 nee ()
+3 nee
+4 ja
+5 
+6 Dit zijn dreigementen dat als doel heeft de andere  partij te beletten vrijelijk zijn [[standpunt]] naar voren te brengen of twijfel te uiten. 
