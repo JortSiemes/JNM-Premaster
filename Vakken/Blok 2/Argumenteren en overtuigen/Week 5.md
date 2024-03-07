@@ -87,6 +87,8 @@ incorrect toegepast schema
 Tu quoque / jij-bakken:
 Het moet niet want je deed het eerder ook niet
 
+proctor hoc
+
 8.1
 ad consequentiam
 
@@ -112,6 +114,10 @@ Argumentum ad consequentiam
 + genoemde gevolgen hebben wat weg van hellend vlak
 
 B.9
+proctor hoc
+
+B.10
+bevestiging van de consequent
 
 
 
