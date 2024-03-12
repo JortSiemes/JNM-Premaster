@@ -1,0 +1,1 @@
+iemand een standpunt in de schoenen schuiven
