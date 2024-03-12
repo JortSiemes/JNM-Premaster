@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4a0da194a2e9e714",
+        "id": "20e823dd28e096bf",
         "type": "tabs",
         "children": [
           {
-            "id": "885df021b925df69",
+            "id": "1e863dd99e93bcd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 3.md",
+                "file": "Agenda/TO DO 2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,16 +21,17 @@
             }
           },
           {
-            "id": "e1561cd40f99ac5b",
+            "id": "bc615544a3136b0d",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf"
+                "file": "Vakken/Blok 2/Wetenschapsjournalistiek/Pitch Nieuwsbericht.pdf"
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 3.md",
+                "file": "Vakken/Blok 2/Wetenschapsjournalistiek/Pitch Nieuwsbericht.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 3.md",
+                "file": "Vakken/Blok 2/Wetenschapsjournalistiek/Pitch Nieuwsbericht.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 3.md"
+                "file": "Vakken/Blok 2/Wetenschapsjournalistiek/Pitch Nieuwsbericht.pdf"
               }
             }
           }
@@ -168,34 +169,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "885df021b925df69",
+  "active": "bc615544a3136b0d",
   "lastOpenFiles": [
-    "verzwegen argumenten.md",
+    "Agenda/TO DO 2024.md",
+    "Vakken/Blok 2/Scriptie/ppt93C9.tmp",
+    "Vakken/Blok 2/Scriptie/~$The Rhetoric of Trust in Local News Media.pptx",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/Pitch Nieuwsbericht.md",
+    "Vakken/Blok 2/Scriptie/The Rhetoric of Trust in Local News Media.pptx",
+    "Vakken/Blok 2/Scriptie/Issue-55-April-2023-Koetsenruijter-de-Jong.pdf",
+    "Vakken/Blok 2/Scriptie/Issue-55-April-2023-Koetsenruijter-de-Jong.pdf.crdownload",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/PitchNieuwsartikel_JortSiemes_4028198_UFOs.pdf",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/msoB4C5.tmp",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/~WRL0004.tmp",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/~WRD0003.tmp",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/~WRL0002.tmp",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/Pitch Achtergrondartikel.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 3.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Modus ponens en modus tollens.pdf",
+    "verzwegen argumenten.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 2.md",
     "onderschikkende argumentatie.md",
     "complexe argumentatie.md",
     "Enkelvoudige argumentatie.md",
     "Vakken/Blok 2/Internetjournalistiek/College 2.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Modus ponens en modus tollens.pdf.crdownload",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Scan boek deel 1.pdf",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Scan boek deel 1.pdf.crdownload",
-    "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/bierconsumptiecijfers_2016.pdf",
     "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/AlcoholFreeArea_Matthew Paul Argall.jpg",
     "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/2048x1152.jpg",
     "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/95ugG-aantal-nederlanders-dat-stopt-met-alcoholgebruik.png",
     "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/Feedback 21_02.md",
     "Vakken/Blok 2/Wetenschapsjournalistiek/College 2.md",
     "Vakken/Blok 2/Scriptie/Onderzoek.md",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/PitchAchtergrondartikel_JortSiemes_4028198_Feedback.pdf",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/PitchAchtergrondartikel_JortSiemes_4028198_Feedback.pdf.crdownload",
-    "Agenda/TO DO 2024.md",
     "Vakken/Blok 2/Wetenschapsjournalistiek/College 1.md",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/PitchAchtergrondartikel_JortSiemes_4028198.pdf",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/instructie voor pitchen van onderwerpen.pdf",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/Pitch Achtergrondartikel.md",
     "maximaal argumentatieve analyse.md",
     "maximaal argumentatieve interpretatie.md",
     "analytisch overzicht.md",
@@ -214,7 +216,6 @@
     "Vakken/Blok 2/Internetjournalistiek/Internetjournalistiek.md",
     "Vakken/Blok 1/Woorden als wapens/Weekopdrachten/Weekopdracht Week 9 (Jort Siemes, s4028198).md",
     "Vakken/Blok 1/Woorden als wapens/Weekopdrachten/Weekopdracht Week 8 (Jort Siemes, s4028198).md",
-    "Vakken/Blok 1/Woorden als wapens/Weekopdrachten/Weekopdracht Week 7 (Jort Siemes, s4028198).md",
-    "Vakken/Blok 1/Woorden als wapens/Weekopdrachten/Weekopdracht Week 6 (Jort Siemes, s4028198).md"
+    "Vakken/Blok 1/Woorden als wapens/Weekopdrachten/Weekopdracht Week 7 (Jort Siemes, s4028198).md"
   ]
 }
