@@ -64,4 +64,26 @@ Opdrachten syllabus:
 Divisiedrogreden
 
 2. uitgangspuntregel
-3. 
+
+
+
+
+
+
+
+
+
+
+
+[[verdedigingsplichtregel]]
+
+
+
+
+
+
+
+
+
+
+

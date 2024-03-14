@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 6.md",
+                "file": "verdedigingsplichtregel.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 6.md",
+                "file": "verdedigingsplichtregel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 6.md",
+                "file": "verdedigingsplichtregel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 6.md"
+                "file": "verdedigingsplichtregel.md"
               }
             }
           }
@@ -172,12 +172,22 @@
   },
   "active": "02e944456a2032d1",
   "lastOpenFiles": [
-    "geldig.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 6.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Week 5.md",
+    "verdedigingsplichtregel.md",
+    "conflict-files-obsidian-git.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/PitchNieuwsartikel_JortSiemes_4028198_UFOs.pdf",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/PitchNieuwsartikel_JortSiemes_4028198_UFOs.docx",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/Pitch Nieuwsbericht.md",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/Nieuwsartikel (UFOs)/Go_Fast_Official_USG_Footage_of_UAP_for_Public_Release.webm",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/Nieuwsartikel (UFOs)/Gimbal_The_First_Official_UAP_Footage_from_the_USG_for_Public_Release.webm",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/Nieuwsartikel (UFOs)/FLIR1_Official_UAP_Footage_from_the_USG_for_Public_Release.webm",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/Nieuwsartikel (UFOs)",
+    "geldig.md",
     "cirkelredenering.md",
     "drogreden van de meervoudige vraag.md",
     "discussieregels.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
     "Vakken/Blok 2/Scriptie/interview college maarten koop.md",
     "Vakken/Blok 2/Wetenschapsjournalistiek/College 4.md",
     "Vakken/Blok 2/Wetenschapsjournalistiek/College 3.md",
@@ -185,7 +195,6 @@
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 4.md",
     "Vakken/Blok 2/Wetenschapsjournalistiek/3466_KBS_PUB_Psychische-problemen_V3-1.pdf",
     "Vakken/Blok 2/Wetenschapsjournalistiek/3466_KBS_PUB_Psychische-problemen_V3-1.pdf.crdownload",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Week 5.md",
     "Stroman.md",
     "ignoratio elenchi.md",
     "argumentum ad baculum.md",
@@ -195,19 +204,10 @@
     "Onderwerpen/Directe.md",
     "Drogredenen.md",
     "Vakken/Blok 2/Internetjournalistiek/Explainer/Internetjournalistiek_Draaiboek.pdf",
-    "Vakken/Blok 2/Internetjournalistiek/Explainer/Internetjournalistiek_Draaiboek.pdf.crdownload",
     "logische inconsistentie.md",
     "pragmatische inconsistentie.md",
     "deugdelijkheid.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 2.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Week 3.md",
-    "aanvaardbaarheid.md",
-    "verzwegen argumenten.md",
-    "Vakken/Blok 2/Scriptie/~WRL0005.tmp",
-    "Vakken/Blok 2/Scriptie/~WRD0004.tmp",
-    "Vakken/Blok 2/Scriptie/~WRL0003.tmp",
-    "Vakken/Blok 2/Scriptie/~WRD0002.tmp",
-    "Vakken/Blok 2/Scriptie/~$derzoeksvraag en Inleiding.docx",
     "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/AlcoholFreeArea_Matthew Paul Argall.jpg",
     "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/2048x1152.jpg",
     "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/95ugG-aantal-nederlanders-dat-stopt-met-alcoholgebruik.png",
