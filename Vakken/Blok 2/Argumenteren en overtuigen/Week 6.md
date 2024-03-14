@@ -61,11 +61,11 @@ DUS: de kerk is straatarm
 
 Opdrachten syllabus:
 1. [[argument]]: als ik thuis iets doe, betekend dat niet meteen dat ik dat overal ook moet doen.
-[[Divisiedrogreden]]
+[[divisiedrogreden]]
 
 2. [[uitgangspuntregel]]
 
-
+8. 
 
 
 

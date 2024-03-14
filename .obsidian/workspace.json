@@ -13,19 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uitgangspuntregel.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e812b7cdce018ce5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 6.md",
                 "mode": "source",
                 "backlinks": true,
@@ -44,7 +31,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -108,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 200
   },
   "right": {
     "id": "6e1f3ff28bb42c0d",
@@ -194,18 +180,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e812b7cdce018ce5",
+  "active": "02e944456a2032d1",
   "lastOpenFiles": [
-    "compositiedrogreden.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Week 6.md",
-    "divisiedrogreden.md",
-    "ontkenning van het antecedent.md",
-    "bevestiging van de consequent.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 5.md",
-    "uitgangspuntregel.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Week 6.md",
+    "Onderwerpen/uitgangspuntregel.md",
+    "Onderwerpen/aanvaardbaarheid.md",
+    "Vakken/Vakken.md",
+    "Onderwerpen/compositiedrogreden.md",
+    "Onderwerpen/divisiedrogreden.md",
+    "Onderwerpen/ontkenning van het antecedent.md",
+    "Onderwerpen/bevestiging van de consequent.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
-    "drogreden van de meervoudige vraag.md",
-    "verdedigingsplichtregel.md",
+    "Onderwerpen/drogreden van de meervoudige vraag.md",
+    "Onderwerpen/verdedigingsplichtregel.md",
     "conflict-files-obsidian-git.md",
     "Vakken/Blok 2/Wetenschapsjournalistiek/PitchNieuwsartikel_JortSiemes_4028198_UFOs.pdf",
     "Vakken/Blok 2/Wetenschapsjournalistiek/PitchNieuwsartikel_JortSiemes_4028198_UFOs.docx",
@@ -214,9 +202,9 @@
     "Vakken/Blok 2/Wetenschapsjournalistiek/Nieuwsartikel (UFOs)/Gimbal_The_First_Official_UAP_Footage_from_the_USG_for_Public_Release.webm",
     "Vakken/Blok 2/Wetenschapsjournalistiek/Nieuwsartikel (UFOs)/FLIR1_Official_UAP_Footage_from_the_USG_for_Public_Release.webm",
     "Vakken/Blok 2/Wetenschapsjournalistiek/Nieuwsartikel (UFOs)",
-    "geldig.md",
-    "cirkelredenering.md",
-    "discussieregels.md",
+    "Onderwerpen/geldig.md",
+    "Onderwerpen/cirkelredenering.md",
+    "Onderwerpen/discussieregels.md",
     "Vakken/Blok 2/Scriptie/interview college maarten koop.md",
     "Vakken/Blok 2/Wetenschapsjournalistiek/College 4.md",
     "Vakken/Blok 2/Wetenschapsjournalistiek/College 3.md",
@@ -224,13 +212,11 @@
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 4.md",
     "Vakken/Blok 2/Wetenschapsjournalistiek/3466_KBS_PUB_Psychische-problemen_V3-1.pdf",
     "Vakken/Blok 2/Wetenschapsjournalistiek/3466_KBS_PUB_Psychische-problemen_V3-1.pdf.crdownload",
-    "Stroman.md",
-    "ignoratio elenchi.md",
-    "argumentum ad baculum.md",
-    "argumentum ad hominem.md",
-    "argumentum ad misericordiam.md",
-    "argumentatieschemaregel.md",
-    "Onderwerpen/Directe.md",
+    "Onderwerpen/Stroman.md",
+    "Onderwerpen/ignoratio elenchi.md",
+    "Onderwerpen/argumentum ad baculum.md",
+    "Onderwerpen/argumentum ad hominem.md",
+    "Onderwerpen/argumentum ad misericordiam.md",
     "Vakken/Blok 2/Internetjournalistiek/Explainer/Internetjournalistiek_Draaiboek.pdf",
     "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/AlcoholFreeArea_Matthew Paul Argall.jpg",
     "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/2048x1152.jpg",
