@@ -13,14 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "verdedigingsplichtregel.md",
+                "file": "uitgangspuntregel.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "e812b7cdce018ce5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 6.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15a35e4e147155fc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -108,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "verdedigingsplichtregel.md",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "verdedigingsplichtregel.md",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "verdedigingsplichtregel.md"
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 6.md"
               }
             }
           }
@@ -170,13 +194,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "02e944456a2032d1",
+  "active": "e812b7cdce018ce5",
   "lastOpenFiles": [
+    "compositiedrogreden.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 6.md",
+    "divisiedrogreden.md",
+    "ontkenning van het antecedent.md",
+    "bevestiging van de consequent.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 5.md",
+    "uitgangspuntregel.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
+    "drogreden van de meervoudige vraag.md",
     "verdedigingsplichtregel.md",
     "conflict-files-obsidian-git.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
     "Vakken/Blok 2/Wetenschapsjournalistiek/PitchNieuwsartikel_JortSiemes_4028198_UFOs.pdf",
     "Vakken/Blok 2/Wetenschapsjournalistiek/PitchNieuwsartikel_JortSiemes_4028198_UFOs.docx",
     "Vakken/Blok 2/Wetenschapsjournalistiek/Pitch Nieuwsbericht.md",
@@ -186,7 +216,6 @@
     "Vakken/Blok 2/Wetenschapsjournalistiek/Nieuwsartikel (UFOs)",
     "geldig.md",
     "cirkelredenering.md",
-    "drogreden van de meervoudige vraag.md",
     "discussieregels.md",
     "Vakken/Blok 2/Scriptie/interview college maarten koop.md",
     "Vakken/Blok 2/Wetenschapsjournalistiek/College 4.md",
@@ -202,12 +231,7 @@
     "argumentum ad misericordiam.md",
     "argumentatieschemaregel.md",
     "Onderwerpen/Directe.md",
-    "Drogredenen.md",
     "Vakken/Blok 2/Internetjournalistiek/Explainer/Internetjournalistiek_Draaiboek.pdf",
-    "logische inconsistentie.md",
-    "pragmatische inconsistentie.md",
-    "deugdelijkheid.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Week 2.md",
     "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/AlcoholFreeArea_Matthew Paul Argall.jpg",
     "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/2048x1152.jpg",
     "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/95ugG-aantal-nederlanders-dat-stopt-met-alcoholgebruik.png",

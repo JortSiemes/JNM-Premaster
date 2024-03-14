@@ -4,7 +4,7 @@ H8 aantekeningen
 
 
 
-#### uitgangspuntregel (regel 6)
+#### [[uitgangspuntregel]] (regel 6)
 iemand mag niet ten onrechte iets als gemeenschappelijk uitgangspunt presenteren of ten onrechte ontkennen dat iets een gemeenschappelijk uitgangspunt is.
 
 partijen moeten ten minste om [[meningsverschil]] op te lossen als minimum gemeen hebben:
@@ -60,10 +60,10 @@ DUS: de kerk is straatarm
 
 
 Opdrachten syllabus:
-1. argument: als ik thuis iets doe, betekend dat niet meteen dat ik dat overal ook moet doen.
-Divisiedrogreden
+1. [[argument]]: als ik thuis iets doe, betekend dat niet meteen dat ik dat overal ook moet doen.
+[[Divisiedrogreden]]
 
-2. uitgangspuntregel
+2. [[uitgangspuntregel]]
 
 
 
