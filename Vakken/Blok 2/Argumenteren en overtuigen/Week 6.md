@@ -20,7 +20,7 @@ overtreding houdt in dat ten onrechte gedaan wordt alsof iets tot de gemeenschap
 
 [[cirkelredenering]] (petito principii)
 
-#### geldigheidsregel (regel 7)
+#### [[geldigheidsregel]] (regel 7)
 
 de redeneringen die in de argumentatie als formeel [[geldig]] worden voorgesteld mogen geen logische fouten bevatten.
 
@@ -54,6 +54,15 @@ DUS: de kerk is straatarm
 
 #### [[argumentatieschemaregel]]
 #### afsluitingsregel
+een onvoldoende verdediging van ene standpunt mag niet leiden tot het handhaven van dit standpunt en 2) een voldoende verdediging vna een standpunt mag niet leiden tot het handhaven van twijfel aan het standpunt.
+
+Protagonismedrogreden (standpunt handhaven dat onvoldoende verdedigd is)
+antagonismedrogreden (twijfel handhaven bij een standpunt dat afdoende verdedigd is)
+Argumentum ad ignorantiam ()
+vals dilemma ()
+
+
+
 #### taalgebruikregel
 
 
@@ -77,6 +86,10 @@ Opdrachten syllabus:
 
 [[verdedigingsplichtregel]]
 
+
+
+[[overhaaste generalisatie]]
+- klein aantal waarnemingen nu geldt dit voor geheel
 
 
 
