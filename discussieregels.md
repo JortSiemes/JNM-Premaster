@@ -3,3 +3,8 @@ verdegingsplichtregel
 standpuntregel
 relevantieregel
 Verzwegen-argumentregel
+uitgangspuntregel
+geldigheidsregel
+argumentatieschemaregel
+afsluitingsregel
+taalgebruikregel
