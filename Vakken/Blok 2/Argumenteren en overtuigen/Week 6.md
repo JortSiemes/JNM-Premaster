@@ -56,15 +56,17 @@ DUS: de kerk is straatarm
 #### afsluitingsregel
 een onvoldoende verdediging van ene standpunt mag niet leiden tot het handhaven van dit standpunt en 2) een voldoende verdediging vna een standpunt mag niet leiden tot het handhaven van twijfel aan het standpunt.
 
-Protagonismedrogreden (standpunt handhaven dat onvoldoende verdedigd is)
-antagonismedrogreden (twijfel handhaven bij een standpunt dat afdoende verdedigd is)
-Argumentum ad ignorantiam ()
-vals dilemma ()
+[[Protagonismedrogreden]] (standpunt handhaven dat onvoldoende verdedigd is)
+[[antagonismedrogreden]] (twijfel handhaven bij een standpunt dat afdoende verdedigd is)
+[[Argumentum ad ignorantiam]] (iets is waar, wanneer de verdediging van het tegenovergestelde standpunt is mislukt)
+[[vals dilemma]] (p of q; niet p, dus q / niet q, dus p)
+
+
 
 
 
 #### taalgebruikregel
-
+het taalgebruik in de discussie mag geen inconsistenties bevatten of onvoldoende duidelijk of verwarrend meerduidig zijn en het mag niet slordig of opzettelijk verkeerd worden geinterpreteerd.
 
 
 
