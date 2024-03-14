@@ -65,8 +65,14 @@ een onvoldoende verdediging van ene standpunt mag niet leiden tot het handhaven 
 
 
 
-#### taalgebruikregel
-het taalgebruik in de discussie mag geen inconsistenties bevatten of onvoldoende duidelijk of verwarrend meerduidig zijn en het mag niet slordig of opzettelijk verkeerd worden geinterpreteerd.
+#### [[taalgebruikregel]]
+het taalgebruik in de discussie mag geen inconsistenties bevatten of onvoldoende duidelijk of verwarrend meerduidig zijn en het mag niet slordig of opzettelijk verkeerd worden geïnterpreteerd.
+[[logische inconsistentie]]
+[[pragmatische inconsistentie]]
+[[onduidelijkheidsdrogreden]]
+[[ambiguiteitsdrogreden]]
+
+
 
 
 
