@@ -167,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,8 +183,14 @@
   },
   "active": "02e944456a2032d1",
   "lastOpenFiles": [
-    "Vakken/Blok 2/Argumenteren en overtuigen/Week 5.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.11.jpeg",
+    "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.11 (1).jpeg",
+    "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.12.jpeg",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Argumentatie F.H. van Eemeren en A.F. Snoeck Henkemans.pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 6.md",
+    "ambiguiteitsdrogreden.md",
+    "onduidelijkheidsdrogreden.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Week 5.md",
     "geldigheidsregel.md",
     "Onderwerpen/verdedigingsplichtregel.md",
     "Onderwerpen/uitgangspuntregel.md",
@@ -214,10 +221,6 @@
     "Vakken/Blok 2/Wetenschapsjournalistiek/3466_KBS_PUB_Psychische-problemen_V3-1.pdf",
     "Vakken/Blok 2/Wetenschapsjournalistiek/3466_KBS_PUB_Psychische-problemen_V3-1.pdf.crdownload",
     "Onderwerpen/Stroman.md",
-    "Onderwerpen/ignoratio elenchi.md",
-    "Onderwerpen/argumentum ad baculum.md",
-    "Onderwerpen/argumentum ad hominem.md",
-    "Vakken/Blok 2/Internetjournalistiek/Explainer/Internetjournalistiek_Draaiboek.pdf",
     "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/AlcoholFreeArea_Matthew Paul Argall.jpg",
     "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/2048x1152.jpg",
     "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/95ugG-aantal-nederlanders-dat-stopt-met-alcoholgebruik.png",
@@ -226,8 +229,6 @@
     "Vakken/Blok 2/Argumenteren en overtuigen/Battista_Prison.jpg",
     "Vakken/Blok 2/Argumenteren en overtuigen/BooksOnFloor.jpg",
     "Vakken/Blok 2/Argumenteren en overtuigen/Desmazieres-biblio-plongeante-sm.jpg",
-    "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.10 (1).jpeg",
-    "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.10.jpeg",
     "Untitled.canvas"
   ]
 }
