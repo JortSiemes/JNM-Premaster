@@ -44,11 +44,24 @@ DUS: annie is niet misselijk
 het ten onrechte toekennen van een eigenschap van een geheel aan de samenstellende delen of omgekeerd. 
 - [[divisiedrogreden]]
 
-De rooms-katholieke kerk is een kerk van arme mensen
-DUS: 
+Het kabinet is besluiteloos
+DUS: de ministers zijn besluiteloos
 
 - [[compositiedrogreden]]
+
+De rooms-katholieke kerk is een kerk van arme mensen
+DUS: de kerk is straatarm
 
 #### [[argumentatieschemaregel]]
 #### afsluitingsregel
 #### taalgebruikregel
+
+
+
+
+Opdrachten syllabus:
+1. argument: als ik thuis iets doe, betekend dat niet meteen dat ik dat overal ook moet doen.
+Divisiedrogreden
+
+2. uitgangspuntregel
+3. 
