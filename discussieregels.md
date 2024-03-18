@@ -1,5 +1,0 @@
-vrijheidsregel
-verdegingsplichtregel
-standpuntregel
-relevantieregel
-Verzwegen-argumentregel
