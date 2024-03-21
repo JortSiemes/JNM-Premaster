@@ -127,7 +127,7 @@
               "state": {
                 "file": "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -170,13 +170,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f77f7339b4bda84d",
+  "active": "35006935013746df",
   "lastOpenFiles": [
-    "geldigheidsregel.md",
+    "nevenschikkende argumentatie.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md",
+    "logische geldigheid.md",
+    "Combinaties van enkelvoudige argumentatie.md",
+    "geldigheidsregel.md",
     "modus tollens.md",
     "Modus ponens.md",
-    "nevenschikkende argumentatie.md",
     "Brugargument.md",
     "Verzwegen argument.md",
     "indirect taalgebruik.md",
@@ -209,8 +211,6 @@
     "Onderwerpen/uitgangspuntregel.md",
     "Onderwerpen/aanvaardbaarheid.md",
     "Vakken/Vakken.md",
-    "Onderwerpen/compositiedrogreden.md",
-    "Onderwerpen/divisiedrogreden.md",
     "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/AlcoholFreeArea_Matthew Paul Argall.jpg",
     "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/2048x1152.jpg",
     "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/95ugG-aantal-nederlanders-dat-stopt-met-alcoholgebruik.png",

@@ -19,7 +19,7 @@
 [[Modus ponens]]
 [[modus tollens]]
 
-Drogreden = bevestiging van de consequent, niet deugdelijk is drogreden
+Drogreden = [[bevestiging van de consequent]], niet deugdelijk is drogreden
 [[Geldigheidsregel]]
 
 
@@ -152,21 +152,21 @@ dus niet-: john spreekt geen engels
 [[enkelvoudige argumentatie]] (basisstructuur)
 1 [[standpunt]]
 1.1 [[argument]]
-1.1'brugargument (verbinding tussen [[argument]] en te verdedigen [[standpunt]])
+1.1'[[brugargument]] (verbinding tussen [[argument]] en te verdedigen [[standpunt]])
 
 impliciet [[standpunt]] (niet genoemd)
 expliciet (staat in de uiting)
 indirect (is een verborgen uiting)
 
 4.2
-indirect taalgebruik
+[[indirect taalgebruik]]
 
 descriptieve dimensie (analyseren)
 normatieve dimensie (beoordelen)
 
 10 [[discussieregels]]:
 - verzwegen-argumentregel
-- geldigheidsregel
+- [[geldigheidsregel]]
 
 
 ### notatiewijzen
@@ -176,18 +176,18 @@ logische vorm (logica)
 (conclusie) dus; q
 
 argumentatiestructuur (argumentatietheorie)
-(standpunt) 1  q
-(argument) 1.1  p
-(brugargument) 1.1'  als p, an q
+([[standpunt]]) 1  q
+([[argument]]) 1.1  p
+([[brugargument]]) 1.1'  als p, an q
 
 logisch minimum
 pragmatisch optimum
 
 
 **Fasen:**
-Openingsfase
-confrontatiefase
-argumentatiefase (het standpunt hoor niet bij de argumentatiefase)
-afsluitingsfase
+[[Openingsfase]]
+[[confrontatiefase]]
+[[argumentatiefase]] (het [[standpunt]] hoor niet bij de [[argumentatiefase]])
+[[afsluitingsfase]]
 
-meervoudige argumentatie 
+[[meervoudige argumentatie]] 
