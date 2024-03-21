@@ -1,7 +1,11 @@
 
 
 
+Argumentatiestructuur
 
+[[onderschikkend argumentatie]]
+[[nevenschikkende argumentatie]]
+meervoudige argumentatie
 
 
 
@@ -24,7 +28,7 @@
 
 
 ### Hoofdstuk 5
-5.1 Enkelvoudige argumentatie
+5.1 [[Enkelvoudige argumentatie]]
 [[Enkelvoudige argumentatie]] 
 [[Combinaties van enkelvoudige argumentatie]]
 [[meervoudige argumentatie]]
@@ -47,7 +51,7 @@ meervoudige argumentatie:
 		  /                                                     \
  1.1 je bent niet gedwongen            1.2 je ben overdag toch niet thuis
 
-1b, de argumenten structuur betreft een standpunt met twee losse argumenten. Ze zijn allebei antagonistisch en niet nevenschikkend sinds het losse punten zijn.
+1b, de argumenten structuur betreft een [[standpunt]] met twee losse argumenten. Ze zijn allebei antagonistisch en niet nevenschikkend sinds het losse punten zijn.
 
 1c. Niemand heeft je toch gedwongen is twijfel sinds hij vraagt toch?
 hardwerkende Nederlander is niet thuis overdag is kritiek.
@@ -58,32 +62,32 @@ hardwerkende Nederlander is niet thuis overdag is kritiek.
 basisstructuur
 
 stop maar met swipen
-		1 (standpunt)
+		1 ([[standpunt]])
 	    /
-	1.1 Argument ----- 1.1 verborgen argument
+	1.1 [[Argument]] ----- 1.1 verborgen [[argument]]
 	/ 
-1.1.1 Argument
+1.1.1 [[Argument]]
 Ze verdienen meer als je blijft swipen
 
 waarom is blootleggen van argumentatie belangrijk?
 - descriptieve dimensie (analyseren)
 - normatieve dimensie (beoordelen)
 
-Analytisch overzicht maken
+[[Analytisch overzicht]] maken
 
-Onderschikkend argumentatie = inhoud van het vorige argument wordt niet aanvaard
-Nevenschikkende argumentatie = rechtvaardigingskracht van het vorige argument wordt niet aanvaard
+[[Onderschikkend argumentatie]] = inhoud van het vorige [[argument]] wordt niet aanvaard
+Nevenschikkende argumentatie = rechtvaardigingskracht van het vorige [[argument]] wordt niet aanvaard
 Meervoudige argumentatie = de vorige argumentatielijn wordt niet aanvaard
 
 
 
-maximaal argumentatieve analyse
+[[maximaal argumentatieve analyse]]
 
 
-standpunt:
+[[standpunt]]:
 1 koop optimel en doe mee aan de 2 weken test
 
-argument:
+[[argument]]:
 1.1a een flesje optimel control per dag helpt je minder te eten zonder te dieten.
 1.1a.1 door optimel control ga je tussendoor of tijdens de volgende maatlijd minder gaat eten
 1.1a.1.1a optimel control is een zuiveldrank met natuurlijke planten extracten die je zerzadigingsmechanisme activeert
@@ -95,15 +99,15 @@ argument:
 
 4.1 verzwegen onderdelen van het betoog
 [[verzwegen argumenten]]
-ik denk niet aan een andere baan, want bij andere banen kan ik Sherry, mijn hond, niet meenemen (verzwegen argument: en Sherry moet mee kunnen)
+ik denk niet aan een andere baan, want bij andere banen kan ik Sherry, mijn hond, niet meenemen (verzwegen [[argument]]: en Sherry moet mee kunnen)
 
-verzwegen standpunt
+verzwegen [[standpunt]]
 
 verzwegen oordelen
 
 [[logische geldigheid]] (logica)
 **[[Modus ponens]]**
-als p (antecedent), dan q (consequent)
+als p ([[antecedent]]), dan q (consequent)
 p
 dus q
 
@@ -113,10 +117,10 @@ niet-q
 dus niet-p
 
 [[geldigheidsregel]]:
-redeneringen die in de argumentatie als logische geldig worden voorgesteld, mogen geen logische fouten bevatten.
+redeneringen die in de argumentatie als logische [[geldig]] worden voorgesteld, mogen geen logische fouten bevatten.
 
 ### Met dit testen:
-GELDIG:
+[[GELDIG]]:
 Elke wasbeer heeft een staart
 maar niet elke staart heeft een wasbeer
 
@@ -128,15 +132,15 @@ als p dan q: als iemand uit amerika komt dan spreekt hij engels
 q: john spreekt engels
 dus p: dus john is een amerikaan
 
-DROGREDEN! ontkenning van het antecedent
+DROGREDEN! [[ontkenning van het antecedent]]
 als p dan q: als iemand uit amerika komt dan spreekt hij engels
 niet-p: dus john is niet een amerikaan
 dus niet-: john spreekt geen engels
 
 ### een geldige redenering in niet perse een deugdelijke redenering
 
-enkelvoudige argumentatie (basisstructuur)
-1 standpunt
+[[enkelvoudige argumentatie]] (basisstructuur)
+1 [[standpunt]]
 1.1 argument
 1.1'brugargument (verbinding tussen argument en te verdedigen standpunt)
 
