@@ -1,15 +1,16 @@
 
 
 
-Argumentatiestructuur
-
+## Argumentatiestructuur
 [[onderschikkend argumentatie]]
 [[nevenschikkende argumentatie]]
-meervoudige argumentatie
+[[meervoudige argumentatie]]
 
 
 
+[[Verzwegen argument]] 
 
+[[Brugargument]]
 
 
 
@@ -46,7 +47,7 @@ begrippen die veel op elkaar lijken
 argumentatie schema =x=> argumentatiestructuur
 
 Opdracht 1a
-meervoudige argumentatie:
+[[meervoudige argumentatie]]:
 1 Het is onzin om je te beklagen over kindergeschreeuw als je naast een kinderspeelplaats woont
 		  /                                                     \
  1.1 je bent niet gedwongen            1.2 je ben overdag toch niet thuis
@@ -76,8 +77,8 @@ waarom is blootleggen van argumentatie belangrijk?
 [[Analytisch overzicht]] maken
 
 [[Onderschikkend argumentatie]] = inhoud van het vorige [[argument]] wordt niet aanvaard
-Nevenschikkende argumentatie = rechtvaardigingskracht van het vorige [[argument]] wordt niet aanvaard
-Meervoudige argumentatie = de vorige argumentatielijn wordt niet aanvaard
+[[Nevenschikkende argumentatie]] = rechtvaardigingskracht van het vorige [[argument]] wordt niet aanvaard
+[[Meervoudige argumentatie]] = de vorige argumentatielijn wordt niet aanvaard
 
 
 
@@ -141,10 +142,10 @@ dus niet-: john spreekt geen engels
 
 [[enkelvoudige argumentatie]] (basisstructuur)
 1 [[standpunt]]
-1.1 argument
-1.1'brugargument (verbinding tussen argument en te verdedigen standpunt)
+1.1 [[argument]]
+1.1'brugargument (verbinding tussen [[argument]] en te verdedigen [[standpunt]])
 
-impliciet standpunt (niet genoemd)
+impliciet [[standpunt]] (niet genoemd)
 expliciet (staat in de uiting)
 indirect (is een verborgen uiting)
 
@@ -154,7 +155,7 @@ indirect taalgebruik
 descriptieve dimensie (analyseren)
 normatieve dimensie (beoordelen)
 
-10 discussieregels:
+10 [[discussieregels]]:
 - verzwegen-argumentregel
 - geldigheidsregel
 

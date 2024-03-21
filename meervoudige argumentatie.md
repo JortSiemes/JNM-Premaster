@@ -1,11 +1,8 @@
-parallelle argumentatie, meestal aanvullende argumenten voor hetzelfde [[standpunt]].
-[[protagonist]] vind zelf ook eerste [[argument]] los niet genoeg. Meerde argumenten samen koppelen zodat je wel gelijk hebt.
+argument dat losstaat van de rest. Los van andere argumenten houdt dit nogsteeds stand
 
 1.
-1.1a
-1.1b
-1.1c
-1.1d
+1.1
+1.2
 
 voorbeeld:
 1. **ik kan niet naar college komen**
