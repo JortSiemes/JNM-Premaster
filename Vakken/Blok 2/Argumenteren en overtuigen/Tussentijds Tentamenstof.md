@@ -7,7 +7,6 @@
 [[meervoudige argumentatie]]
 
 
-
 [[Verzwegen argument]] 
 	afleiden uit: logica / context
 
@@ -21,6 +20,22 @@
 
 Drogreden = [[bevestiging van de consequent]], niet deugdelijk is drogreden
 [[Geldigheidsregel]]
+
+
+## Argumentatieschema
+Basisstructuur
+
+					1 roken is niet zo slecht (voor x geldt Y)
+			/
+1.1 Mijn oma die een pakje per dag rookte is 95 geworden (Voor X geldt Z) .......... (1.1' de hoge leeftijd van mijn kettingrokende oma is een teken dat roken helemaal zo slecht nog niet is) 9Z is kenmerkend/een teken voor Y)
+
+kritische vragen: 
+kentekenargumentatie:
+- Is Z wel kenmerkend voor Y?
+
+drie hoofdtypen argumentatieschema:
+Kenteken ( voor x geld y) > (voor x geldt z) = Z is kenmerkend voor Y
+
 
 
 
