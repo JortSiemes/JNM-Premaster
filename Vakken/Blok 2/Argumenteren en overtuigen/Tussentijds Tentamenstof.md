@@ -38,9 +38,20 @@ Kenteken ( voor x geld y) > (voor x geldt z) = Z is kenmerkend voor Y
 
 
 Causaleargumentatie:
-
+### [[pragmatische argumentatie]]
 
 Vergelijkingsargumentatie:
+
+
+
+## Discussieregels
+Uitgangspuntregel
+- propositie in twijfel trekken die tot gemeenschappelijke uitgangspunten behoort (door antagonist)
+- propositie ten onrechte als gemeenschappelijk uitangspunt behandelen  (door protagonit)
+	- presuppositiedrogreden (presupposities bij een bewering)
+		- meervoudige vraag
+	- cirkelredenering
+
 
 
 
