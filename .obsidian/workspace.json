@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "02e944456a2032d1",
+            "id": "15a35e4e147155fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Blok 2/Proeftoets.md",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,16 +21,20 @@
             }
           },
           {
-            "id": "15a35e4e147155fc",
+            "id": "f77f7339b4bda84d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf"
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -118,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Blok 2/Proeftoets.md",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Blok 2/Proeftoets.md",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Blok 2/Proeftoets.md"
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md"
               }
             }
           }
@@ -181,18 +185,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "02e944456a2032d1",
+  "active": "f77f7339b4bda84d",
   "lastOpenFiles": [
-    "Vakken/Blok 2/Wetenschapsjournalistiek/~$dio file.docx",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/~WRL0005.tmp",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/~WRD0004.tmp",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/Audio file.docx",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Week 6.md",
+    "conflict-files-obsidian-git.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Week 3.md",
+    "Vakken/Blok 2/Scriptie/~$jstje verkennen Buijze pers.docx",
+    "Vakken/Blok 2/Scriptie/~WRL0003.tmp",
+    "Vakken/Blok 2/Scriptie/Lijstje verkennen Buijze pers.docx",
+    "Onderwerpen/Enkelvoudige argumentatie.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Week 2.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
     "Vakken/Blok 2/Proeftoets.md",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/Eindpaper (Kernreactoren)/~$ndpaper_onderzoeksvraagV1_JortSiemes.docx",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/Eindpaper (Kernreactoren)/Eindpaper_onderzoeksvraagV1_JortSiemes.pdf",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/Eindpaper (Kernreactoren)/Eindpaper_onderzoeksvraagV1_JortSiemes.docx",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/Eindpaper (Kernreactoren)",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/Achtergrond artikel (FOTONICA)/Jort Siemes_Concept_Fotonica.pdf",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/Achtergrond artikel (FOTONICA)/Jort Siemes_Concept_Fotonica.docx",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Week 6.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.11.jpeg",
     "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.11 (1).jpeg",
     "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.12.jpeg",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Argumentatie F.H. van Eemeren en A.F. Snoeck Henkemans.pdf",
     "ambiguiteitsdrogreden.md",
     "onduidelijkheidsdrogreden.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 5.md",
@@ -205,23 +219,12 @@
     "Onderwerpen/divisiedrogreden.md",
     "Onderwerpen/ontkenning van het antecedent.md",
     "Onderwerpen/bevestiging van de consequent.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
     "Onderwerpen/drogreden van de meervoudige vraag.md",
-    "conflict-files-obsidian-git.md",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/PitchNieuwsartikel_JortSiemes_4028198_UFOs.pdf",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/PitchNieuwsartikel_JortSiemes_4028198_UFOs.docx",
     "Vakken/Blok 2/Wetenschapsjournalistiek/Pitch Nieuwsbericht.md",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/Nieuwsartikel (UFOs)/Go_Fast_Official_USG_Footage_of_UAP_for_Public_Release.webm",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/Nieuwsartikel (UFOs)/Gimbal_The_First_Official_UAP_Footage_from_the_USG_for_Public_Release.webm",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/Nieuwsartikel (UFOs)/FLIR1_Official_UAP_Footage_from_the_USG_for_Public_Release.webm",
     "Onderwerpen/geldig.md",
     "Onderwerpen/cirkelredenering.md",
     "Onderwerpen/discussieregels.md",
     "Vakken/Blok 2/Scriptie/interview college maarten koop.md",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/College 4.md",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/College 3.md",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/College 2.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Week 4.md",
     "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/AlcoholFreeArea_Matthew Paul Argall.jpg",
     "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/2048x1152.jpg",
     "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/95ugG-aantal-nederlanders-dat-stopt-met-alcoholgebruik.png",
