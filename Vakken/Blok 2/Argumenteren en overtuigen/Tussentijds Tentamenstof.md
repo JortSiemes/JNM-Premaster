@@ -37,6 +37,12 @@ drie hoofdtypen argumentatieschema:
 Kenteken ( voor x geld y) > (voor x geldt z) = Z is kenmerkend voor Y
 
 
+Causaleargumentatie:
+
+
+Vergelijkingsargumentatie:
+
+
 
 
 
