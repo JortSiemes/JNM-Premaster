@@ -52,7 +52,7 @@ Uitgangspuntregel
 		- meervoudige vraag
 	- cirkelredenering
 
-
+presuppositie
 
 
 
