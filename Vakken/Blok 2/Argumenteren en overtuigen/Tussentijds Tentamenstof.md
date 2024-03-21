@@ -9,9 +9,18 @@
 
 
 [[Verzwegen argument]] 
+	afleiden uit: logica / context
+
 
 [[Brugargument]]
 
+
+## Logisch geldige redeneringen
+[[Modus ponens]]
+[[modus tollens]]
+
+Drogreden = bevestiging van de consequent, niet deugdelijk is drogreden
+[[Geldigheidsregel]]
 
 
 
