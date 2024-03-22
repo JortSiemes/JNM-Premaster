@@ -16,3 +16,9 @@ Structuur = chronologisch
 	- aan de hand van je eigen subvragen
 - Geografisch
 
+#### Bronvermelding
+Doel:
+- maakt je onderzoek controleerbaar en navolgbaar
+- apa systeem gebruiken
+
+
