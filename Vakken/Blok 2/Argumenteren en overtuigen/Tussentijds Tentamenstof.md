@@ -285,6 +285,16 @@ Een [[argumentatieschema]] verkeerd toepassen:
 
 week 6: Drogredenen 2
 
+[[Twijfelende antagonist]]: alleen protagonist heeft bewijslast 
+[[Tegensprekende antagonist]]: heeft dan ook ineens bewijslast 
+Beiden worden dan antagonist van elkaar standpunt
+
+“Het behoeft geen betoog” → verschuiven van de bewijslast (door protagonist naar antagonist)
+
+Ontduiken van de bewijslast (door protagonist) 
+- Neem maar van mij aan 
+- Het spreekt voor zich 
+- etc
 
 
 
