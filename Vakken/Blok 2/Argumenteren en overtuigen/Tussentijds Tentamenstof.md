@@ -186,6 +186,25 @@ expliciteren verzwegen elementen
 - [[indirect taalgebruik]]
 
 ## Logisch geldige redeneringen
+
+“Claus houdt van jodelen, want hij komt uit Tirol” → een uitspraak mist: de redenering is pas geldig als er een uitspraak aan toe wordt gevoegd → als…dan… 
+
+“Als Claus uit Tirol komt, dan houdt hij van jodelen” 
+→ De redenering is nu logisch geldig 
+→ Conclusie kan nu onmogelijk onwaar zijn
+
+Bij een constructieve analyse van de argumentatie die de spreker of schrijver naar voren heeft gebracht, moet als er een argument verzwegen is de redenering die in de argumentatie gebuikt wordt eerst door de toevoeging van de als…dan… -uitspraak geldig worden gemaakt!
+
+Maar: dat is niet voldoende. Dde toegevoegde uitspraak is niet meer dan een letterlijke herhaling van wat al in de uitspraken verborgen lag, dus 
+- Overbodig 
+- Overtreding spelregel van efficiëntie 
+- Geen reden om te denken dat het communicatiebeginsel helemaal terzijde is geschoven 
+- Spreker andere uitspraak toeschrijven die 1) geen overtreding is en 2) informatiever is
+
+**Je kan dan beter een uitspraak toeschrijven die geen overtreding van de spelregels is, en ook informatiever is**
+
+“Tirolers houden van jodelen” → past het beste in het plaatje Dus dat is het verzwegen argument
+
 [[Modus ponens]]
 [[modus tollens]]
 
