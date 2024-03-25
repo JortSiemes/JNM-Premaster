@@ -2,7 +2,35 @@
 Week 1:
 Positieve, neutrale en Negatieve standpunten: bij een verschil van mening mening word een van deze posities ingenomen
 
+### Discussierollen + type geschil:
+Een verschil van mening van basisvorm = [[niet-gemengd]] en [[enkelvoudig]]
+gemend en [[meervoudig]]
 
+Een geschil kan enkelvoudig of meervoudig zijn: gaat het over één of over meerdere propositie(s)? Een geschil kan niet-gemengd of gemengd zijn: stuit het standpunt enkel op twijfel of op een tegenwerping?
+
+4 typen meningsverschil:
+1. niet-gemengd enkelvoudig (basisvorm)
+2. gemengd enkelvoudig
+3. niet-gemengd meervoudig
+4. gemengd meervoudig
+
+Hoofdverschil van mening: 
+Subverschil van mening: 
+
+[[Protagonist]]
+[[antagonist]]
+
+‘Rome is een leuke stad.’  (Protagonist +p)
+‘Echt?’(Antagonist ?+p)
+ (niet-gemengd enkelvoudig geschil)  
+
+‘Rome is een leuke stad.’ (Prot. +p & ant. -p)
+‘Nou, dat vind ik niet hoor.’  (Ant. +p & prot. -p)
+(gemengd enkelvoudig geschil)
+
+‘Rome is een leuke stad, Parijs is echt verschrikkelijk.’ (Prot. +p1 en +p2 en ant. -p1 en -p2) 
+‘Nou, ik vind Rome juist niks, maar Parijs is geweldig.’ (Prot. -p1 en -p2 en ant. +p1 en +p2)
+(gemengd meervoudig geschil)
 
 ## Argumentatiestructuur
 [[onderschikkend argumentatie]]

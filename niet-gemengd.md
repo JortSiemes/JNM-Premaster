@@ -1,0 +1,1 @@
+dit is wanneer maar een partij in een discussie verdedigingsplicht heeft
