@@ -111,10 +111,26 @@ Onder [[complexe argumentatie]]:
 
 Een [[standpunt]] wordt vaak verdedigd door middel van een betoog dat uit meer dan één [[enkelvoudige argumentatie]] bestaat. Pas als duidelijk is hoe het betoog precies in elkaar zit, heeft het zin om het aan een beoordeling te onderwerpen.
 
-Het simpelste geval: enkelvoudige argumentatie - Volledig expliciete vorm uit twee (en niet meer dan twee) uitspraken 1. Uitspraak waarin een argument wordt weergeven 2. Een rechtvaardigende uitspraak die dit argument verbindt met het verdedigde standpunt
+Het simpelste geval: [[enkelvoudige argumentatie]] 
+- Volledig expliciete vorm uit twee (en niet meer dan twee) uitspraken 
+	1. Uitspraak waarin een [[argument]] wordt weergeven 
+	2. Een rechtvaardigende uitspraak die dit [[argument]] verbindt met het verdedigde [[standpunt]]
+→ Lijkt vaak uit één uitspraak te staan, omdat er in de argumentatie vaak een uitspraak verzwegen is
 
+De wijze waarop de naar voren gebrachte enkelvoudige argumentaties zich tot elkaar en het verdedigende [[standpunt]] verhouden, komt tot uitdrukking in de argumentatiestructuur van het betoog.
+Voor de oplossing van een [[meervoudig]] verschil van mening zijn meer enkelvoudige argumentaties nodig. Het rechtvaardigen of ontkrachten van elke [[propositie]] vergt ten minste één [[enkelvoudige argumentatie]].
 
+Als het verschil van mening gemengd is ([[standpunt]] stuit op tegenstelling, dubbelrollen voor [[protagonist]] en [[antagonist]]) moeten er door meer dan één partij betogen worden gehouden, die elk ook weer uit meer dan één [[enkelvoudige argumentatie]] kunnen bestaan. 
+→ Argumentatiestructuur hangt ook af van de reacties waar in het betoog op gereageerd of geanticipeerd wordt: zo ontstaat er argumentatie voor argumentatie. 
+→ Je kunt kritiek ook bestrijden door je oorspronkelijke argumentatie aan te vullen met andere argumenten (ondersteunen [[standpunt]] rechtstreeks), zodat er een gecombineerde argumentatie ontstaat of een bestaande combinatie van argumentaties wordt uitgebreid.
 
+[[Aanvaardbaarheid]]: verdedigingspoging kan mislukken omdat het ene [[argument]] de luisteraar wel aanspreekt en het andere [[argument]] niet, waardoor soms een overdaad of ‘overkill’ van argumenten wordt aangevoerd (alternatieve verdediging) → [[aanvaardbaarheid]] is kwestie van gradatie 
+*→ “Ik heb niets met haar, want ik ken haar helemaal niet. Ik val trouwens sowieso niet op blonde vrouwen. Overigens heb ik het de laatste tijd ook veel te druk voor dit soort zaken.”*
+
+[[Complexe argumentatie]]: 
+1. [[Meervoudige argumentatie]] (meerdere proposities ter discussie): er is sprake van alternatieve verdedigingen van hetzelfde [[standpunt]], die na elkaar naar voren worden gebracht a. Staan los van elkaar, in principe gelijkwaardig b. Elke afzonderlijke argumentatie wordt gepresenteerd als een zelfstandige en onafhankelijke verdediging die op zichzelf afdoende zou moeten zijn “Het is onmogelijk dat u mijn moeder vorige week in Bakel bij de Hema heeft ontmoet, want zij is twee jaar geleden overleden, en in Bakel is trouwens helemaal geen Hema.” 
+2. [[Nevenschikkende argumentatie]] a. Er is sprake van één samenhangend betoog dat uit argumentaties bestaat die alleen gezamenlijk als een voldoende verdediging van het [[standpunt]] kunnen gelden: enkelvoudige argumentaties vullen elkaar aan en vormen samen één gemeenschappelijke verdedigingspoging. b. Verschillende onderdelen van een [[nevenschikkende argumentatie]] zijn voor de verdediging van het [[standpunt]] van elkaar afhankelijk c. Komt bijvoorbeeld voor wanneer losse argumenten individueel te zwak zijn om het [[standpunt]] voldoende ondersteuning te geven (werken dus samen, ook als ze inhoudelijk weinig met elkaar te maken hebben) d. Kan ook voorkomen wanneer de argumenten van elkaar afhankelijk zijn, omdat het ene [[argument]] het andere aanvult, doordat het anticipeert op een mogelijke tegenwerping tegen het andere [[argument]]: “We moeten wel uit eten gaan (tegenwerping: je had ook naar de supermarkt kunnen gaan), want er was niets te eten in huis en de supermarkt was al dicht.” 
+3. [[Onderschikkende argumentatie]] a. Er wordt argumentatie gegeven voor argumentatie of een onderdeel van de argumentatie, dat daardoor als een ‘tussenpunt’ gaat fungeren b. Verdediging gaat trapsgewijs (laagjes): de ondersteuning wordt zelf ook weer ondersteund, en zo door, tot verdere ondersteuning niet meer nodig lijkt c. De argumentatie of een onderdeel van die argumentatie behoeft verdediging: wordt daarmee substandpunt, dat verdedigd wordt door subargumentatie, dat weer een substandpunt wordt, etc etc (want → omdat → want → omdat…)
 
 [[Week 3]]:
 
