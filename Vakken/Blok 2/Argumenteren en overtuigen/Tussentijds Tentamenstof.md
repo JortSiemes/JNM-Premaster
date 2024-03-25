@@ -82,7 +82,8 @@ Onder complexe argumentatie:
 
 Week 3:
 
-
+### Verzwegen argument
+expliciteren verzwegen elementen
 
 
 ## Argumentatiestructuur
