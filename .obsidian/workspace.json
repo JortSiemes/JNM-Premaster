@@ -11,9 +11,22 @@
             "id": "ac2406bd29862303",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Blok 2/quiz opnieuw.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c5e89974963f7eb",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Samenvatting mid-term.pdf"
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/week6_Presentatie.pdf"
               }
             }
           },
@@ -31,7 +44,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md",
+                "file": "Vakken/Blok 2/quiz opnieuw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md",
+                "file": "Vakken/Blok 2/quiz opnieuw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md"
+                "file": "Vakken/Blok 2/quiz opnieuw.md"
               }
             }
           }
@@ -168,10 +180,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aaf29df441236892",
+  "active": "ac2406bd29862303",
   "lastOpenFiles": [
+    "Vakken/Blok 2/Argumenteren en overtuigen/week6_Presentatie.pdf",
+    "Vakken/Blok 2/quiz opnieuw.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Samenvatting mid-term.pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md",
+    "Onderwerpen/cirkelredenering.md",
     "Causale relatie.md",
     "Vergelijkingsrelatie.md",
     "Kentekenrelatie.md",
@@ -195,8 +210,6 @@
     "Onderwerpen/Directe.md",
     "Onderwerpen/ontkenning van het antecedent.md",
     "Ambiguïteitsdrogreden.md",
-    "Onderwerpen/onduidelijkheidsdrogreden.md",
-    "Vals dilemma.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/week2_Presentatie.pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/Scan boek deel 1.pdf",
@@ -205,7 +218,6 @@
     "Onderwerpen/Pasted image 20240325125521.png",
     "Onderwerpen/Pasted image 20240325125312.png",
     "Onderwerpen/Pasted image 20240325125208.png",
-    "Vakken/Blok 2/Argumenteren en overtuigen/week6_Presentatie.pdf",
     "Vakken/Blok 2/Wetenschapsjournalistiek/On Neo-luddites led by Ayatollahs  The Frame Matrix of the GM Food Debate in Northern Belgium.pdf",
     "Vakken/Blok 2/Wetenschapsjournalistiek/Audio file.docx"
   ]

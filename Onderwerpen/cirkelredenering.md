@@ -5,3 +5,4 @@
 als je geen biologische ouders hebt -> ben je automatisch een wees
 hierdoor zijn het [[argument]] en [[standpunt]] bijna identiek
 
+“De Illuminatie proberen ondergronds de macht over te nemen. Het feit dat je daar niets over hoort, bevestigd dit.”

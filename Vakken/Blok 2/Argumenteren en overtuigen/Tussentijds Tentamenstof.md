@@ -283,18 +283,19 @@ Een [[argumentatieschema]] verkeerd toepassen:
 - Post hoc ergo propter hoc → misbruik van de [[causale relatie]] 
 - Overhaaste generalisatie: [[secundum quid]] → misbruik van de [[kentekenrelatie]]
 
-week 6: Drogredenen 2
+[[week 6]]: [[Drogredenen]] 2
 
-[[Twijfelende antagonist]]: alleen protagonist heeft bewijslast 
+[[Twijfelende antagonist]]: alleen [[protagonist]] heeft bewijslast 
 [[Tegensprekende antagonist]]: heeft dan ook ineens bewijslast 
-Beiden worden dan antagonist van elkaar standpunt
+Beiden worden dan [[antagonist]] van elkaar [[standpunt]]
 
-“Het behoeft geen betoog” → verschuiven van de bewijslast (door protagonist naar antagonist)
+“Het behoeft geen betoog” → [[verschuiven van de bewijslast]] (door [[protagonist]] naar [[antagonist]])
 
-Ontduiken van de bewijslast (door protagonist) 
+Ontduiken van de bewijslast (door [[protagonist]]) 
 - Neem maar van mij aan 
 - Het spreekt voor zich 
 - etc
+
 
 
 
@@ -527,7 +528,31 @@ De redenering die in een argumentatie als formeel [[geldig]] wordt voorgesteld m
 
 
 
+Vragenuur: 
+Verschil [[argumentatiestructuur]] en [[argumentatieschema]] 
+[[Maximaal argumentatieve interpretatie]] 
+[[Maximaal argumentatieve analyse]] 
 
+Discussiefasen 
+[[Openingsfase]]: gemeenschappelijke onderdelen waar je het wel al over eens bent 
+
+[[Standpunt]] is onderdeel van de [[confrontatiefase]], niet deel van de [[argumentatiefase]] 
+
+[[Modus Ponens]] 
+[[Modus Tollens]] 
+Wat is de [[consequent]], [[antecedent]], etc 
+Is dit logisch [[geldig]] 
+Bevestiging [[consequent]], etc 
+
+[[Argumentatieschema]] 
+Kenteken 
+Vergelijking 
+Causaal → [[pragmatische argumentatie]] als subtype, begint met [[prescriptief]] [[standpunt]], en schrijft iets voor, gaat over wenselijkheid 
+Causaal en kenteken makkelijk door elkaar te halen 
+Schema met die x en y invullen 
+[[Drogredenen]] 
+Presupp [[drogredenen]] 
+[[Verzwegen argument]]
 
 
 
