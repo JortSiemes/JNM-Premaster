@@ -94,6 +94,16 @@ expliciteren verzwegen elementen
 
 ONGELDIG! = q dus p of niet p dus niet q
 
+**Logica:** wat is geldige argumentatie?
+**Argumentatietheorie:** Wat is deugdelijke argumentatie?
+(een geldige redenering is niet per se een deugdelijke redenering, maar een deugdelijke redenering moet geldig zijn)
+
+P1, (als p, dan q)
+P2, (p / niet-q)
+C, (q / niet-p)
+
+
+
 
 
 ## Argumentatiestructuur
