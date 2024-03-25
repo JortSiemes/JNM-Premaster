@@ -57,7 +57,7 @@ Subverschil van mening:
 
 
 Week 2:
-
+### Argumentatiestructuur
 Enkelvoudige argumentatie
 Basisstructuur
 ![[Pasted image 20240325125208.png]]
@@ -66,12 +66,22 @@ Complexe argumentatie
 Combinatie van twee of meer enkelvoudige argumentaties
 ![[Pasted image 20240325125312.png]]
 Onder complexe argumentatie:
-- onderschikkende argumentatie
-- nevenschikkende argumentatie
-- meervoudige argumentatie
+- [[onderschikkende argumentatie]]
+- [[nevenschikkende argumentatie]]
+- [[meervoudige argumentatie]]
 ![[Pasted image 20240325125521.png]]
+1.1 a + 1.1b + 1.1c = nevenschikkend
+1.1b.1 + 1.1c.1+ 1.2.1 = onderschikkend
+1.2 = meervoudig
+
+[[maximaal argumentatieve analyse]]
 
 [[Analytisch overzicht]]
+
+
+
+Week 3:
+
 
 
 

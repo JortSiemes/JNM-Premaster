@@ -1,6 +1,8 @@
 parallelle argumentatie, meestal aanvullende argumenten voor hetzelfde [[standpunt]].
 [[protagonist]] vind zelf ook eerste [[argument]] los niet genoeg. Meerde argumenten samen koppelen zodat je wel gelijk hebt.
 
+hint: 'daarnaast'
+
 1.
 1.1a
 1.1b

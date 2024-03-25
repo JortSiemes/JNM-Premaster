@@ -1,3 +1,7 @@
+Alternatieve en onafhankelijke verdedigingspogingen van hetzelfde standpunt
+
+hint: 'Nog afgezien van'
+
 argument dat losstaat van de rest. Los van andere argumenten houdt dit nogsteeds stand
 
 1.

@@ -138,12 +138,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,9 +158,13 @@
   },
   "active": "ac2406bd29862303",
   "lastOpenFiles": [
+    "Onderwerpen/maximaal argumentatieve analyse.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md",
+    "nevenschikkende argumentatie.md",
+    "meervoudige argumentatie.md",
+    "Onderwerpen/onderschikkende argumentatie.md",
     "Pasted image 20240325125521.png",
     "Onderwerpen/analytisch overzicht.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md",
     "Pasted image 20240325125312.png",
     "Pasted image 20240325125208.png",
     "Onderwerpen/afsluitingsfase.md",
@@ -182,11 +186,8 @@
     "Agenda/TO DO 2024.md",
     "pragmatische argumentatie.md",
     "onderschikkend argumentatie.md",
-    "nevenschikkende argumentatie.md",
     "modus tollens.md",
-    "meervoudige argumentatie.md",
     "logische geldigheid.md",
-    "indirect taalgebruik.md",
     "Vakken/Blok 2/Wetenschapsjournalistiek/On Neo-luddites led by Ayatollahs  The Frame Matrix of the GM Food Debate in Northern Belgium.pdf",
     "Vakken/Blok 2/Wetenschapsjournalistiek/Audio file.docx",
     "Vakken/Blok 2/Scriptie/~WRL0005.tmp",
