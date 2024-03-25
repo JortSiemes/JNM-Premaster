@@ -179,7 +179,6 @@ Aanvaardbaarheid van uitspraken:
 [[Pragmatische argumentatie]]: valt onder causale relatie, zit altijd een (on)wenselijkheid in, een oordeel 
 [[Deugdelijkheid van uitspraken]]: wordt het argument op een deugdelijke manier in verband gebracht met het standpunt?
 
-
 ### [[Verzwegen argument]]
 expliciteren verzwegen elementen
 
