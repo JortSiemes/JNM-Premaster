@@ -85,6 +85,16 @@ Week 3:
 ### Verzwegen argument
 expliciteren verzwegen elementen
 
+[[impliciet taalgebruik]]
+- [[indirect taalgebruik]]
+
+## Logisch geldige redeneringen
+[[Modus ponens]]
+[[modus tollens]]
+
+ONGELDIG! = q dus p of niet p dus niet q
+
+
 
 ## Argumentatiestructuur
 [[onderschikkend argumentatie]]
@@ -99,9 +109,7 @@ expliciteren verzwegen elementen
 [[Brugargument]]
 
 
-## Logisch geldige redeneringen
-[[Modus ponens]]
-[[modus tollens]]
+
 
 Drogreden = [[bevestiging van de consequent]], niet deugdelijk is drogreden
 [[Geldigheidsregel]]
