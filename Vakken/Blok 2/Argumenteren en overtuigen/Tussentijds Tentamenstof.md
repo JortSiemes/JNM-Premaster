@@ -56,6 +56,25 @@ Subverschil van mening:
 
 
 
+Week 2:
+
+Enkelvoudige argumentatie
+Basisstructuur
+![[Pasted image 20240325125208.png]]
+
+Complexe argumentatie
+Combinatie van twee of meer enkelvoudige argumentaties
+![[Pasted image 20240325125312.png]]
+Onder complexe argumentatie:
+- onderschikkende argumentatie
+- nevenschikkende argumentatie
+- meervoudige argumentatie
+![[Pasted image 20240325125521.png]]
+
+[[Analytisch overzicht]]
+
+
+
 ## Argumentatiestructuur
 [[onderschikkend argumentatie]]
 [[nevenschikkende argumentatie]]
