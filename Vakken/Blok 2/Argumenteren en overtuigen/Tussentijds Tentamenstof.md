@@ -161,6 +161,25 @@ Algemene spelregels voor communicatie:
 Bij de uitvoering van alle soorten taalhandelingen moeten de spelregels in acht worden genomen. Voor elk van de verschillende soorten taalhandelingen kan precies worden aangegeven wat het betekent om zich aan het communicatiebeginsel te houden 
 → Dit gebeurt door de correctheidsvoorwaarden te formuleren waar de uitvoering van de specifieke taalhandeling aan moet voldoen
 
+### Correctheidsvoorwaarden: 
+1. [[Voorbereidende voorwaarden]] Geven aan waar de spreker of schrijver van moet uitgaan om een zinvolle en niet-overbodige overtuigingspoging te ondernemen. De spreker moet er dus vanuit gaan dat de hoorder: - Het verdedigende standpunt niet al helemaal aanvaardt - De uitspraken die in de argumentatie gedaan worden wel zal aanvaarden - De argumentatie als een aanvaardbare rechtvaardiging (of ontkrachting) zal beschouwen van de propositie waarop het standpunt betrekking heeft 
+2. [[Oprechtheidsvoorwaarden]] Geven aan wat de spreker allemaal moet geloven, wil hij zich houden aan de spelregels van eerlijkheid: dus zonder misleiding een overtuigingspoging doen De spreker gelooft zelf dat: - Zijn standpunt aanvaardbaar is - De uitspraken die hij in zijn argumentatie naar voren brengt aanvaardbaar zijn - Zijn argumentatie een aanvaardbare rechtvaardiging (of verdediging) vormt van de propositie waarop zijn standpunt betrekking heeft
+
+Problemen ontstaan wanneer een van de spelregels overtreden lijkt te zijn, terwijl het communicatiebeginsel toch niet wordt opgegeven. 
+- Je probeert dan een interpretatie te geven aan de woorden van de spreker 
+- Een ‘bedoeling’ aan diens wijze wordt toegerekend: je zoekt dan een verklaring die de overtreding weer rechttrekt, in plaats van er vanuit gaan dat het misleiding is
+
+Logica: helpt je bij een impliciet standpunt te achterhalen wat er in feite bedoeld wordt. Je probeert al snel een conclusie te formuleren die logisch uit de naar voren gebrachte redenering volgt 
+
+Aanvaardbaarheid van uitspraken: 
+- Feiten zijn vaak aanvaardbaar 
+- Algemene morele principes zijn aanvaardbaar 
+- De aanvaardbaarheid van discutabele standpunten hangt af van de onderbouwing 
+
+[[Pragmatische argumentatie]]: valt onder causale relatie, zit altijd een (on)wenselijkheid in, een oordeel 
+[[Deugdelijkheid van uitspraken]]: wordt het argument op een deugdelijke manier in verband gebracht met het standpunt?
+
+
 ### [[Verzwegen argument]]
 expliciteren verzwegen elementen
 
