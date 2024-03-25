@@ -44,6 +44,7 @@
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Blok 2/quiz opnieuw.md",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Blok 2/quiz opnieuw.md",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Blok 2/quiz opnieuw.md"
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md"
               }
             }
           }
@@ -180,12 +181,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac2406bd29862303",
+  "active": "aaf29df441236892",
   "lastOpenFiles": [
-    "Vakken/Blok 2/Argumenteren en overtuigen/week6_Presentatie.pdf",
     "Vakken/Blok 2/quiz opnieuw.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Samenvatting mid-term.pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/week6_Presentatie.pdf",
+    "Tu quoque.md",
+    "Argumentum ad verecundiam.md",
+    "Onderwerpen/compositiedrogreden.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Samenvatting mid-term.pdf",
     "Onderwerpen/cirkelredenering.md",
     "Causale relatie.md",
     "Vergelijkingsrelatie.md",
@@ -204,12 +208,9 @@
     "Onderwerpen/argumentum ad baculum.md",
     "Pathetische drogreden.md",
     "Ad misericordiam.md",
-    "Tu quoque.md",
     "Indirecte persoonlijke aanval.md",
     "Directe persoonlijke aanval.md",
     "Onderwerpen/Directe.md",
-    "Onderwerpen/ontkenning van het antecedent.md",
-    "Ambiguïteitsdrogreden.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/week2_Presentatie.pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/Scan boek deel 1.pdf",
