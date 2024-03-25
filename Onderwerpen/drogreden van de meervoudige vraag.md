@@ -7,4 +7,5 @@ Je gaat er namelijk al vanuit dat er ruzie is gemaakt.
 heb je vandaag ruzie gemaakt?
 Met wie heb je vandaag ruzie gemaakt?
 
+er wordt een [[argument]] vermomd als [[presuppositie]], zodat deze niet in twijfel getrokken kan worden. Er wordt dan een vraag gesteld als één vraag, terwijl het er eigenlijk twee zijn 
 
