@@ -1,0 +1,1 @@
+bepalen uitgangspunten voor de te voeren discussie, zowel materieel (inhoudelijk) als procedureel (procedures van de discussie)

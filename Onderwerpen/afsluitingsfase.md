@@ -1,0 +1,1 @@
+vaststelling tot in hoeverre het vvm is opgelost/beslecht

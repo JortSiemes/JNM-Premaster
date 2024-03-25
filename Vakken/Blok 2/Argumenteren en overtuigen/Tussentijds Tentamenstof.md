@@ -21,7 +21,7 @@ Subverschil van mening:
 [[antagonist]]
 
 ‘Rome is een leuke stad.’  (Protagonist +p)
-‘Echt?’(Antagonist ?+p)
+‘Echt?’ (Antagonist ?+p)
  (niet-gemengd enkelvoudig geschil)  
 
 ‘Rome is een leuke stad.’ (Prot. +p & ant. -p)
@@ -31,6 +31,30 @@ Subverschil van mening:
 ‘Rome is een leuke stad, Parijs is echt verschrikkelijk.’ (Prot. +p1 en +p2 en ant. -p1 en -p2) 
 ‘Nou, ik vind Rome juist niks, maar Parijs is geweldig.’ (Prot. -p1 en -p2 en ant. +p1 en +p2)
 (gemengd meervoudig geschil)
+
+‘Rome is een leuke stad, Parijs is echt verschrikkelijk.’ (Prot. +p1 en +p2 en ant. -p2)
+‘Nou, ik weet niet of Rome een leuke stad is, maar Parijs is in ieder geval niet verschrikkelijk.’  (Prot. -p2 en ant. ?+p1 en +p2)
+(deels niet-gemengd (p1) deels gemengd (p2) meervoudig)
+
+‘Rome is een leuke stad, Parijs is echt verschrikkelijk.’ Prot. +p1 en +p2) 
+‘Nou, ik weet niet of Rome leuk is, maar het klopt dat Parijs verschrikkelijk is.’ ((Prot. +p2 en ant. ?+p1)
+(niet-gemengd enkelvoudig geschil)
+
+### Argumentatieve discussies
+[[Expliciete discussie]]
+[[impliciete discussie]]
+
+[[Analytische functie]]
+[[kritische functie]]
+
+4 fasen van discussie:
+- [[confrontatiefase]]
+- [[openingsfase]]
+- [[argumentatiefase]]
+- [[afsluitingsfase]]
+
+
+
 
 ## Argumentatiestructuur
 [[onderschikkend argumentatie]]

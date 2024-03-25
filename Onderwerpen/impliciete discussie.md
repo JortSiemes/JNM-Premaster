@@ -1,0 +1,1 @@
+monoloog betoog waarin iemand argumenten aanvoert voor een standpunt en dus anticipeert op het feit dat anderen niet bij voorbaat daarmee eens zijn, of reageert op iemand wiens mening in het betoog wordt geparafraseerd.
