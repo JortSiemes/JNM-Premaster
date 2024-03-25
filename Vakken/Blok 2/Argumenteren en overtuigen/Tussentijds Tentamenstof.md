@@ -176,7 +176,7 @@ Logica: helpt je bij een impliciet [[standpunt]] te achterhalen wat er in feite 
 - Algemene morele principes zijn aanvaardbaar 
 - De [[aanvaardbaarheid]] van discutabele standpunten hangt af van de onderbouwing 
 
-[[pragmatische argumentatie]]: valt onder causale relatie, zit altijd een (on)wenselijkheid in, een oordeel 
+[[pragmatische argumentatie]]: valt onder [[causale relatie]], zit altijd een (on)wenselijkheid in, een oordeel 
 [[Deugdelijkheid van uitspraken]]: wordt het [[argument]] op een deugdelijke manier in verband gebracht met het [[standpunt]]?
 
 ### [[Verzwegen argument]]
@@ -244,11 +244,56 @@ Verschil [[argumentatiestructuur]] en [[argumentatieschema]]:
 - [[Argumentatiestructuur]]: een overzicht van een betoog dat de onderlinge verbanden weergeeft tussen de verschillende argumenten en het [[standpunt]] 
 - [[Argumentatieschema]]: schematische weergave van het type rechtvaardigingsgrond waarmee [[argument]] en [[standpunt]] verbonden zijn
 
+### Drie hoofdklassen van [[argumentatieschema]]'s: 
+1. [[Kentekenrelatie]]: argumentatie in verband gebracht met het [[standpunt]] Voorbeeld: Herman is een echte jongen - Herman is stoer (stoerheid is kenmerkend voor echte jongens) 
+2. [[Vergelijkingsrelatie]]: vergelijking getrokken tussen het een (sport) en het ander (universiteit) Voorbeeld: loting voor toelating op de universiteit is absurd - er wordt ook niet bij loting bepaald wie naar de Olympische Spelen gaat 
+3. [[Causale relatie]]: het een wordt als oorzaak gepresenteerd van het ander Voorbeeld: Mariekes hoofdpijn zal nu wel verdwijnen - zij heeft net twee aspirines genomen (aspirines helpen tegen hoofdpijn)
+		[[Pragmatische argumentatie]]: 
+		- Valt onder [[causale relatie]], zit altijd een (on)wenselijkheid in, een oordeel 
+		- Heeft [[Prescriptief|een prescrip]]tief [[standpunt]] (jij zou dit moeten doen, jij zou dit niet moeten doen)
+
+
+---
+
+[[week 5]]: [[Drogredenen]] 1
+
+**Het ideaalmodel van een kritische discussie** 
+- [[Analytische functie]]: hulpmiddel om (aanwezige en ontbrekende) onderdelen van een discussie in kaart te brengem 
+- Normatieve/[[kritische functie]]: hulpmiddel om de redelijkheid van een discussie te beoordelen (10 [[discussieregels]] voor het handhaven van de redelijkheid bij oplossen vvm (hfdstk 7+8) 
+→ Overtredingen van de regels voor het voeren van redelijke discussie staan bekend als [[drogredenen]] 
+→ Niet altijd meteen duidelijk dat er een regel is overtreden 
+- Kunnen ook alleen informatief zijn 
+- Of alleen ter verstrooiing dienen 
+
+→ Dus niet altijd een argumentatief karakter, en daarom soms moeilijk te spotten 
+
+[[Confrontatiefase]]: vaststellen verschil van mening 
+[[Openingsfase]]: bepalen uitgangspunten voor de te voeren discussie 
+[[Argumentatiefase]]: argumentatie ter verdediging van het [[standpunt]] 
+[[Afsluitingsfase]]: vaststellen tot in hoeverre het vvm is opgelost 
+
+Een ongeschikt [[argumentatieschema]] gebruiken: 
+- Autoriteitsargumentatie: misbruik van [[kentekenrelatie]] 
+- Populistische argumentatie: misbruik van [[kentekenrelatie]] → [[argumentum ad populum]] 
+- Argumentum ad consequentiam: misbruik van [[causale relatie]] 
+
+Een [[argumentatieschema]] verkeerd toepassen: 
+- [[Drogreden van de verkeerde vergelijking]] → misbruik van de [[vergelijkingsrelatie]] 
+- Drogreden van het hellend vlak/slippery slope → misbruik van de [[kentekenrelatie]] 
+- Post hoc ergo propter hoc → misbruik van de [[causale relatie]] 
+- Overhaaste generalisatie: [[secundum quid]] → misbruik van de [[kentekenrelatie]]
+
+week 6: Drogredenen 2
+
+
+
 
 
 ### [[Discussieregels]]
 
-
+Tien regels die specifiek zijn voor argumentatieve discussies: de [[discussieregels]] 
+- 1 t/m 5: betreffen de wijze waarop discussianten zich bij het naar voren brengen van argumenten en standpunten dienen te gedragen om te bevorderen dat meningsverschillen tot een oplossing kunnen worden gebracht 
+- 6 t/m 10: hebben betrekking op de beoordeling van argumentatie en de afsluiting van de discussie
 
 Om van een overtreding van regel 7 te spreken moet de argumentatie een redenering bevatten die zowel compleet als [[geldig]] is Twee bekende voorbeelden: 
 1. Bevestiging [[consequent]] + ontkenning [[antecedent]] Een voldoende voorwaarde wordt gezien als een noodzakelijke voorwaarde 
@@ -341,14 +386,18 @@ Een door een formeel geldige redenering bewezen [[standpunt]] mag niet als afdoe
 
 Overtredingen door de [[protagonist]] in de [[argumentatiefase]] 
 1. Een ongeschikt [[argumentatieschema]] gebruiken 
-	- Autoriteitsargumentatie = misbruik van kentekenrelatie 
-	- Populistische argumentatie = misbruik van kentekenrelatie → [[argumentum ad populum]] 
-	- Misbruik van causale relatie → argumentum ad consequentiam 
+	- Autoriteitsargumentatie = misbruik van [[kentekenrelatie]] 
+	- Populistische argumentatie = misbruik van [[kentekenrelatie]] → [[argumentum ad populum]] 
+	- Misbruik van [[causale relatie]] → argumentum ad consequentiam 
 2. Een [[argumentatieschema]] verkeerd toepassen 
-	- [[Drogreden van de verkeerde vergelijking]] = misbruik van vergelijkingsrelatie 
-	- Drogreden van het hellend vlak / slippery slope = misbruik van causale relatie “Voor je het weet is het hier een dictatuur!” “Het is een kafkiaanse wereld die u hier zit te creeëren” 
-	- Post hoc ergo propter hoc = misbruik van causale relatie 
-	- Overhaaste generalisatie / [[secundum quid]] = misbruik van kentekenrelatie 
+	- [[Drogreden van de verkeerde vergelijking]] = misbruik van [[vergelijkingsrelatie]] 
+	- Drogreden van het hellend vlak / slippery slope = misbruik van [[causale relatie]] “Voor je het weet is het hier een dictatuur!” “Het is een kafkiaanse wereld die u hier zit te creeëren” 
+	- Post hoc ergo propter hoc = misbruik van [[causale relatie]] 
+	- Overhaaste generalisatie / [[secundum quid]] = misbruik van [[kentekenrelatie]] 
+[[Argumentatieschema]]'s
+1. [[kentekenrelatie]]
+2. [[vergelijkingsrelatie]]
+3. [[causale relatie]]
 
 ##### Discussieregel 9: Afsluitingsregel 
 Een niet-afdoende verdediging van een [[standpunt]] mag niet leiden tot het handhaven van dit [[standpunt]] door de [[protagonist]], en een afdoende verdediging van een [[standpunt]] mag niet leiden tot het handhaven van twijfel aan het [[standpunt]] door de [[antagonist]] 
@@ -408,7 +457,7 @@ Een drogreden is een overtreding van een discussieregel, je zit daarmee de discu
 - [[Cirkelredenering]]: [[argument]] is hetzelfde als het [[standpunt]] - [[Divisiedrogreden]]: ten onrechte toekennen van een eigenschap van een geheel aan de samenstellende delen 
 - [[Compositiedrogreden]]: ten onrechte toekennen van een eigenschap van de samenstellende delen aan het geheel 
 - [[Argumentum ad populum]]: er wordt ten onrechte gesteld dat het [[standpunt]] aanvaard moet worden, omdat veel mensen het ermee eens zijn 
-- [[Argumentum ad consequentum]]: er wordt verkeerd gebruik gemaakt van een causale relatie 
+- [[Argumentum ad consequentum]]: er wordt verkeerd gebruik gemaakt van een [[causale relatie]] 
 - [[Drogreden van de verkeerde vergelijking]]: er worden twee dingen met elkaar vergeleken die helemaal niet vergelijkbaar zijn 
 - [[Verkeerde toepassing van pragmatische argumentatie]]: er wordt ten onrechte gesuggereerd dat we met een bepaalde maatregel onherroepelijk van kwaad tot erger zullen vervallen, terwijl dit helemaal niet vaststaat 
 		→ Drogreden van het hellend vlak: er wordt beargumenteerd dat één (gematigde) keuze leidt tot een kettingreactie aan veel ergere keuzes of gevolgen. 
