@@ -1,0 +1,1 @@
+deelnemers aan de communicatie stemmen hun bijdrage zo goed mogelijk af op het doel dat door de communicatie gediend moet worden 

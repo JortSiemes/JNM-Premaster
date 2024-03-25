@@ -132,7 +132,34 @@ Als het verschil van mening gemengd is ([[standpunt]] stuit op tegenstelling, du
 2. [[Nevenschikkende argumentatie]] a. Er is sprake van één samenhangend betoog dat uit argumentaties bestaat die alleen gezamenlijk als een voldoende verdediging van het [[standpunt]] kunnen gelden: enkelvoudige argumentaties vullen elkaar aan en vormen samen één gemeenschappelijke verdedigingspoging. b. Verschillende onderdelen van een [[nevenschikkende argumentatie]] zijn voor de verdediging van het [[standpunt]] van elkaar afhankelijk c. Komt bijvoorbeeld voor wanneer losse argumenten individueel te zwak zijn om het [[standpunt]] voldoende ondersteuning te geven (werken dus samen, ook als ze inhoudelijk weinig met elkaar te maken hebben) d. Kan ook voorkomen wanneer de argumenten van elkaar afhankelijk zijn, omdat het ene [[argument]] het andere aanvult, doordat het anticipeert op een mogelijke tegenwerping tegen het andere [[argument]]: “We moeten wel uit eten gaan (tegenwerping: je had ook naar de supermarkt kunnen gaan), want er was niets te eten in huis en de supermarkt was al dicht.” 
 3. [[Onderschikkende argumentatie]] a. Er wordt argumentatie gegeven voor argumentatie of een onderdeel van de argumentatie, dat daardoor als een ‘tussenpunt’ gaat fungeren b. Verdediging gaat trapsgewijs (laagjes): de ondersteuning wordt zelf ook weer ondersteund, en zo door, tot verdere ondersteuning niet meer nodig lijkt c. De argumentatie of een onderdeel van die argumentatie behoeft verdediging: wordt daarmee substandpunt, dat verdedigd wordt door subargumentatie, dat weer een substandpunt wordt, etc etc (want → omdat → want → omdat…)
 
+De strategie van de maximaal argumentatieve analyse: Bij twijfel kiezen we voor een ontleding van de argumentatie als meervoudig. Op die manier wordt ervoor gezorgd dat elk onderdeel van het betoog afzonderlijk op zijn merites wordt beoordeeld en wordt aan elke enkelvoudige argumentatie maximaal krediet (dus als je ziet dat deze strategie nadelig is niet doen, want doel is maximaal krediet!!) gegeven. Als een van de argumentaties wegvalt, wordt de rest van de argumentatie hierdoor niet automatisch onherstelbaar aangetast.
+
+---
+
 [[Week 3]]:
+
+Als in een betoog onderdelen worden weggelaten → impliciet aanwezig → verzwegen argumenten Ook standpunten kunnen verzwegen worden 
+
+Normaal gesproken is het verzwijgen van onderdelen uit de argumentatie geen misleiding. Het is dan vanzelfsprekend dat beide partijen weten dat het verzwegen argument wel begrepen wordt. Verzwegen onderdelen kunnen wel alsnog discutabel zijn/kan kritiek op worden geleverd: om kritiek voor te zijn kan je soms beter alvast argumentatie naar voren brengen, om je verzwegen argument te verdedigen 
+
+Verzwegen onderdelen van een argumentatie kunnen bij de beoordeling van groot belang zijn, bijvoorbeeld in verband met de evaluatie van de deugdelijkheid van de argumentatie 
+→ Bij het analyseren van een betoog moet je daarom goed in de gaten houden of er onderdelen verzwegen zijn, om te beslissen of je tegenstander wel deugdelijk handelt
+
+Bij [[indirect taalgebruik]]: altijd sprake van een speciale vorm van impliciet taalgebruik - ‘Gewoon’ impliciet taalgebruik: er wordt niet geprobeerd om langs een omweg nog iets extra’s over te brengen - Indirect taalgebruik: iemand bedoelt niet alleen meer dan wat diegene zegt, maar diegene maakt in zijn presentatie ook duidelijk dat dit zo is
+
+[[Communicatiebeginsel]]: deelnemers aan de communicatie stemmen hun bijdrage zo goed mogelijk af op het doel dat door de communicatie gediend moet worden 
+
+Algemene spelregels voor communicatie: 
+1. Wees duidelijk 
+2. Wees eerlijk 
+3. Wees efficiënt 
+4. Wees ter zake 
+→ Lijken op de maximes van Grice
+
+**Normaal gesproken mag je er vanuit gaan dat iedereen zich aan de spelregels houdt → zodat het opvalt wanneer iemand dit niet doet**
+
+Bij de uitvoering van alle soorten taalhandelingen moeten de spelregels in acht worden genomen. Voor elk van de verschillende soorten taalhandelingen kan precies worden aangegeven wat het betekent om zich aan het communicatiebeginsel te houden 
+→ Dit gebeurt door de correctheidsvoorwaarden te formuleren waar de uitvoering van de specifieke taalhandeling aan moet voldoen
 
 ### [[Verzwegen argument]]
 expliciteren verzwegen elementen

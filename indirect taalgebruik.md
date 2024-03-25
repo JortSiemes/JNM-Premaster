@@ -1,0 +1,1 @@
+altijd sprake van een speciale vorm van impliciet taalgebruik - ‘Gewoon’ impliciet taalgebruik: er wordt niet geprobeerd om langs een omweg nog iets extra’s over te brengen - Indirect taalgebruik: iemand bedoelt niet alleen meer dan wat diegene zegt, maar diegene maakt in zijn presentatie ook duidelijk dat dit zo is
