@@ -21,6 +21,16 @@
             "id": "a1a05d206a40e49a",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Lijst van discussieregels en drogredenen (1).pdf"
+              }
+            }
+          },
+          {
+            "id": "aaf29df441236892",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md",
@@ -31,7 +41,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -168,10 +178,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1a05d206a40e49a",
+  "active": "aaf29df441236892",
   "lastOpenFiles": [
-    "Vakken/Blok 2/Argumenteren en overtuigen/Samenvatting mid-term.pdf",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Lijst van discussieregels en drogredenen (1).pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Samenvatting mid-term.pdf",
+    "geldigheidsregel.md",
+    "Verzwegen argumentregel.md",
     "pragmatische argumentatie.md",
     "prescriptief standpunt.md",
     "Deugdelijkheid van uitspraken.md",
@@ -192,7 +205,6 @@
     "Vakken/Blok 2/Argumenteren en overtuigen/week2_Presentatie.pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/Scan boek deel 1.pdf",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Lijst van discussieregels en drogredenen (1).pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/Lijst van discussieregels en drogredenen (1).pdf.crdownload",
     "Vakken/Blok 2/Argumenteren en overtuigen/Samenvatting mid-term.pdf.crdownload",
     "modus tollens.md",
@@ -200,8 +212,6 @@
     "consequent.md",
     "Modus ponens.md",
     "impliciet taalgebruik.md",
-    "Onderwerpen/maximaal argumentatieve analyse.md",
-    "Onderwerpen/onderschikkende argumentatie.md",
     "Pasted image 20240325125521.png",
     "Pasted image 20240325125312.png",
     "Pasted image 20240325125208.png",

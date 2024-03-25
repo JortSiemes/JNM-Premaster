@@ -132,20 +132,20 @@ Als het verschil van mening gemengd is ([[standpunt]] stuit op tegenstelling, du
 2. [[Nevenschikkende argumentatie]] a. Er is sprake van één samenhangend betoog dat uit argumentaties bestaat die alleen gezamenlijk als een voldoende verdediging van het [[standpunt]] kunnen gelden: enkelvoudige argumentaties vullen elkaar aan en vormen samen één gemeenschappelijke verdedigingspoging. b. Verschillende onderdelen van een [[nevenschikkende argumentatie]] zijn voor de verdediging van het [[standpunt]] van elkaar afhankelijk c. Komt bijvoorbeeld voor wanneer losse argumenten individueel te zwak zijn om het [[standpunt]] voldoende ondersteuning te geven (werken dus samen, ook als ze inhoudelijk weinig met elkaar te maken hebben) d. Kan ook voorkomen wanneer de argumenten van elkaar afhankelijk zijn, omdat het ene [[argument]] het andere aanvult, doordat het anticipeert op een mogelijke tegenwerping tegen het andere [[argument]]: “We moeten wel uit eten gaan (tegenwerping: je had ook naar de supermarkt kunnen gaan), want er was niets te eten in huis en de supermarkt was al dicht.” 
 3. [[Onderschikkende argumentatie]] a. Er wordt argumentatie gegeven voor argumentatie of een onderdeel van de argumentatie, dat daardoor als een ‘tussenpunt’ gaat fungeren b. Verdediging gaat trapsgewijs (laagjes): de ondersteuning wordt zelf ook weer ondersteund, en zo door, tot verdere ondersteuning niet meer nodig lijkt c. De argumentatie of een onderdeel van die argumentatie behoeft verdediging: wordt daarmee substandpunt, dat verdedigd wordt door subargumentatie, dat weer een substandpunt wordt, etc etc (want → omdat → want → omdat…)
 
-De strategie van de maximaal argumentatieve analyse: Bij twijfel kiezen we voor een ontleding van de argumentatie als meervoudig. Op die manier wordt ervoor gezorgd dat elk onderdeel van het betoog afzonderlijk op zijn merites wordt beoordeeld en wordt aan elke enkelvoudige argumentatie maximaal krediet (dus als je ziet dat deze strategie nadelig is niet doen, want doel is maximaal krediet!!) gegeven. Als een van de argumentaties wegvalt, wordt de rest van de argumentatie hierdoor niet automatisch onherstelbaar aangetast.
+De strategie van de [[maximaal argumentatieve analyse]]: Bij twijfel kiezen we voor een ontleding van de argumentatie als [[meervoudig]]. Op die manier wordt ervoor gezorgd dat elk onderdeel van het betoog afzonderlijk op zijn merites wordt beoordeeld en wordt aan elke [[enkelvoudige argumentatie]] maximaal krediet (dus als je ziet dat deze strategie nadelig is niet doen, want doel is maximaal krediet!!) gegeven. Als een van de argumentaties wegvalt, wordt de rest van de argumentatie hierdoor niet automatisch onherstelbaar aangetast.
 
 ---
 
 [[Week 3]]:
 
-Als in een betoog onderdelen worden weggelaten → impliciet aanwezig → verzwegen argumenten Ook standpunten kunnen verzwegen worden 
+Als in een betoog onderdelen worden weggelaten → impliciet aanwezig → [[verzwegen argumenten]] Ook standpunten kunnen verzwegen worden 
 
-Normaal gesproken is het verzwijgen van onderdelen uit de argumentatie geen misleiding. Het is dan vanzelfsprekend dat beide partijen weten dat het verzwegen argument wel begrepen wordt. Verzwegen onderdelen kunnen wel alsnog discutabel zijn/kan kritiek op worden geleverd: om kritiek voor te zijn kan je soms beter alvast argumentatie naar voren brengen, om je verzwegen argument te verdedigen 
+Normaal gesproken is het verzwijgen van onderdelen uit de argumentatie geen misleiding. Het is dan vanzelfsprekend dat beide partijen weten dat het [[verzwegen argument]] wel begrepen wordt. Verzwegen onderdelen kunnen wel alsnog discutabel zijn/kan kritiek op worden geleverd: om kritiek voor te zijn kan je soms beter alvast argumentatie naar voren brengen, om je [[verzwegen argument]] te verdedigen 
 
-Verzwegen onderdelen van een argumentatie kunnen bij de beoordeling van groot belang zijn, bijvoorbeeld in verband met de evaluatie van de deugdelijkheid van de argumentatie 
+Verzwegen onderdelen van een argumentatie kunnen bij de beoordeling van groot belang zijn, bijvoorbeeld in verband met de evaluatie van de [[deugdelijkheid]] van de argumentatie 
 → Bij het analyseren van een betoog moet je daarom goed in de gaten houden of er onderdelen verzwegen zijn, om te beslissen of je tegenstander wel deugdelijk handelt
 
-Bij [[indirect taalgebruik]]: altijd sprake van een speciale vorm van impliciet taalgebruik - ‘Gewoon’ impliciet taalgebruik: er wordt niet geprobeerd om langs een omweg nog iets extra’s over te brengen - Indirect taalgebruik: iemand bedoelt niet alleen meer dan wat diegene zegt, maar diegene maakt in zijn presentatie ook duidelijk dat dit zo is
+Bij [[indirect taalgebruik]]: altijd sprake van een speciale vorm van [[impliciet taalgebruik]] - ‘Gewoon’ [[impliciet taalgebruik]]: er wordt niet geprobeerd om langs een omweg nog iets extra’s over te brengen - [[Indirect taalgebruik]]: iemand bedoelt niet alleen meer dan wat diegene zegt, maar diegene maakt in zijn presentatie ook duidelijk dat dit zo is
 
 [[Communicatiebeginsel]]: deelnemers aan de communicatie stemmen hun bijdrage zo goed mogelijk af op het doel dat door de communicatie gediend moet worden 
 
@@ -158,26 +158,26 @@ Algemene spelregels voor communicatie:
 
 **Normaal gesproken mag je er vanuit gaan dat iedereen zich aan de spelregels houdt → zodat het opvalt wanneer iemand dit niet doet**
 
-Bij de uitvoering van alle soorten taalhandelingen moeten de spelregels in acht worden genomen. Voor elk van de verschillende soorten taalhandelingen kan precies worden aangegeven wat het betekent om zich aan het communicatiebeginsel te houden 
-→ Dit gebeurt door de correctheidsvoorwaarden te formuleren waar de uitvoering van de specifieke taalhandeling aan moet voldoen
+Bij de uitvoering van alle soorten [[taalhandelingen]] moeten de spelregels in acht worden genomen. Voor elk van de verschillende soorten [[taalhandelingen]] kan precies worden aangegeven wat het betekent om zich aan het [[communicatiebeginsel]] te houden 
+→ Dit gebeurt door de correctheidsvoorwaarden te formuleren waar de uitvoering van de specifieke [[taalhandeling]] aan moet voldoen
 
 ### Correctheidsvoorwaarden: 
-1. [[Voorbereidende voorwaarden]] Geven aan waar de spreker of schrijver van moet uitgaan om een zinvolle en niet-overbodige overtuigingspoging te ondernemen. De spreker moet er dus vanuit gaan dat de hoorder: - Het verdedigende standpunt niet al helemaal aanvaardt - De uitspraken die in de argumentatie gedaan worden wel zal aanvaarden - De argumentatie als een aanvaardbare rechtvaardiging (of ontkrachting) zal beschouwen van de propositie waarop het standpunt betrekking heeft 
-2. [[Oprechtheidsvoorwaarden]] Geven aan wat de spreker allemaal moet geloven, wil hij zich houden aan de spelregels van eerlijkheid: dus zonder misleiding een overtuigingspoging doen De spreker gelooft zelf dat: - Zijn standpunt aanvaardbaar is - De uitspraken die hij in zijn argumentatie naar voren brengt aanvaardbaar zijn - Zijn argumentatie een aanvaardbare rechtvaardiging (of verdediging) vormt van de propositie waarop zijn standpunt betrekking heeft
+1. [[Voorbereidende voorwaarden]] Geven aan waar de spreker of schrijver van moet uitgaan om een zinvolle en niet-overbodige overtuigingspoging te ondernemen. De spreker moet er dus vanuit gaan dat de hoorder: - Het verdedigende [[standpunt]] niet al helemaal aanvaardt - De uitspraken die in de argumentatie gedaan worden wel zal aanvaarden - De argumentatie als een aanvaardbare rechtvaardiging (of ontkrachting) zal beschouwen van de [[propositie]] waarop het [[standpunt]] betrekking heeft 
+2. [[Oprechtheidsvoorwaarden]] Geven aan wat de spreker allemaal moet geloven, wil hij zich houden aan de spelregels van eerlijkheid: dus zonder misleiding een overtuigingspoging doen De spreker gelooft zelf dat: - Zijn [[standpunt]] aanvaardbaar is - De uitspraken die hij in zijn argumentatie naar voren brengt aanvaardbaar zijn - Zijn argumentatie een aanvaardbare rechtvaardiging (of verdediging) vormt van de [[propositie]] waarop zijn [[standpunt]] betrekking heeft
 
-Problemen ontstaan wanneer een van de spelregels overtreden lijkt te zijn, terwijl het communicatiebeginsel toch niet wordt opgegeven. 
+Problemen ontstaan wanneer een van de spelregels overtreden lijkt te zijn, terwijl het [[communicatiebeginsel]] toch niet wordt opgegeven. 
 - Je probeert dan een interpretatie te geven aan de woorden van de spreker 
 - Een ‘bedoeling’ aan diens wijze wordt toegerekend: je zoekt dan een verklaring die de overtreding weer rechttrekt, in plaats van er vanuit gaan dat het misleiding is
 
-Logica: helpt je bij een impliciet standpunt te achterhalen wat er in feite bedoeld wordt. Je probeert al snel een conclusie te formuleren die logisch uit de naar voren gebrachte redenering volgt 
+Logica: helpt je bij een impliciet [[standpunt]] te achterhalen wat er in feite bedoeld wordt. Je probeert al snel een conclusie te formuleren die logisch uit de naar voren gebrachte redenering volgt 
 
-Aanvaardbaarheid van uitspraken: 
+[[Aanvaardbaarheid]] van uitspraken: 
 - Feiten zijn vaak aanvaardbaar 
 - Algemene morele principes zijn aanvaardbaar 
-- De aanvaardbaarheid van discutabele standpunten hangt af van de onderbouwing 
+- De [[aanvaardbaarheid]] van discutabele standpunten hangt af van de onderbouwing 
 
 [[Pragmatische argumentatie]]: valt onder causale relatie, zit altijd een (on)wenselijkheid in, een oordeel 
-[[Deugdelijkheid van uitspraken]]: wordt het argument op een deugdelijke manier in verband gebracht met het standpunt?
+[[Deugdelijkheid van uitspraken]]: wordt het [[argument]] op een deugdelijke manier in verband gebracht met het [[standpunt]]?
 
 ### [[Verzwegen argument]]
 expliciteren verzwegen elementen
@@ -187,23 +187,23 @@ expliciteren verzwegen elementen
 
 ## Logisch geldige redeneringen
 
-“Claus houdt van jodelen, want hij komt uit Tirol” → een uitspraak mist: de redenering is pas geldig als er een uitspraak aan toe wordt gevoegd → als…dan… 
+“Claus houdt van jodelen, want hij komt uit Tirol” → een uitspraak mist: de redenering is pas [[geldig]] als er een uitspraak aan toe wordt gevoegd → als…dan… 
 
 “Als Claus uit Tirol komt, dan houdt hij van jodelen” 
-→ De redenering is nu logisch geldig 
+→ De redenering is nu logisch [[geldig]] 
 → Conclusie kan nu onmogelijk onwaar zijn
 
-Bij een constructieve analyse van de argumentatie die de spreker of schrijver naar voren heeft gebracht, moet als er een argument verzwegen is de redenering die in de argumentatie gebuikt wordt eerst door de toevoeging van de als…dan… -uitspraak geldig worden gemaakt!
+Bij een constructieve analyse van de argumentatie die de spreker of schrijver naar voren heeft gebracht, moet als er een [[argument]] verzwegen is de redenering die in de argumentatie gebuikt wordt eerst door de toevoeging van de als…dan… -uitspraak [[geldig]] worden gemaakt!
 
 Maar: dat is niet voldoende. Dde toegevoegde uitspraak is niet meer dan een letterlijke herhaling van wat al in de uitspraken verborgen lag, dus 
 - Overbodig 
 - Overtreding spelregel van efficiëntie 
-- Geen reden om te denken dat het communicatiebeginsel helemaal terzijde is geschoven 
+- Geen reden om te denken dat het [[communicatiebeginsel]] helemaal terzijde is geschoven 
 - Spreker andere uitspraak toeschrijven die 1) geen overtreding is en 2) informatiever is
 
 **Je kan dan beter een uitspraak toeschrijven die geen overtreding van de spelregels is, en ook informatiever is**
 
-“Tirolers houden van jodelen” → past het beste in het plaatje Dus dat is het verzwegen argument
+“Tirolers houden van jodelen” → past het beste in het plaatje Dus dat is het [[verzwegen argument]]
 
 [[Modus ponens]]
 [[modus tollens]]
@@ -218,9 +218,101 @@ P1, (als p, dan q)
 P2, (p / niet-q)
 C, (q / niet-p)
 
-### Discussieregels
+### [[Discussieregels]]
 
-Discussieregel 5: Verzwegen argumentregel Iemand mag de tegenpartij niet ten onrechte verzwegen argumenten opleggen of zich aan de verantwoordelijkheid voor een van zijn eigen verzwegen argumenten onttrekken Aan de hand wanneer een discussiant door misbruik te maken van bepaalde kenmerken van impliciet of indirect taalgebruik voordeel tracht te behalen in een discussie - Onttrekken aan hun gebondenheid - Elkaar ten onrechte iets in de schoenen schuiven - Overdrijving/opblazen of overdreven invulling geven, etc Bij de drogreden van het ‘loochenen’ van een verzwegen argument ontkent de spreker dat hij verantwoordelijk is voor de impliciete onderdelen van zijn betoog - “Dat heb ik niet gezegd” - Staat de echte oplossing voor het verschil van mening in de weg - Sterkste bij controversiële elementen en onderwerpen
+##### Discussieregel 5: 
+[[Verzwegen argumentregel]] 
+Iemand mag de tegenpartij niet ten onrechte [[verzwegen argumenten]] opleggen of zich aan de verantwoordelijkheid voor een van zijn eigen [[verzwegen argumenten]] onttrekken 
+
+Aan de hand wanneer een discussiant door misbruik te maken van bepaalde kenmerken van impliciet of [[indirect taalgebruik]] voordeel tracht te behalen in een discussie 
+- Onttrekken aan hun gebondenheid 
+- Elkaar ten onrechte iets in de schoenen schuiven 
+- Overdrijving/opblazen of overdreven invulling geven, etc 
+
+Bij de drogreden van het ‘loochenen’ van een [[verzwegen argument]] ontkent de spreker dat hij verantwoordelijk is voor de impliciete onderdelen van zijn betoog 
+- “Dat heb ik niet gezegd” 
+- Staat de echte oplossing voor het verschil van mening in de weg 
+- Sterkste bij controversiële elementen en onderwerpen
+
+##### Discussieregel 7: 
+[[Geldigheidsregel]]
+De redenering die in een argumentatie als formeel geldig wordt voorgesteld mogen geen logische fouten bevatten
+
+Om van een overtreding van regel 7 te spreken moet de argumentatie een redenering bevatten die zowel compleet als geldig is Twee bekende voorbeelden: 
+1. Bevestiging consequent + ontkenning antecedent Een voldoende voorwaarde wordt gezien als een noodzakelijke voorwaarde 
+2. Divisiedrogreden + compositiedrogreden De som van de delen is niet automatisch het geheel (?)
+
+
+week 4:
+### Argumentatieschema's
+
+
+
+
+
+
+##### Discussieregel 1: Vrijheidsregel 
+De discussianten mogen elkaar niet beletten standpunten of twijfel naar voren te brengen 
+
+Overtredingen door protagonist of antagonist in de confrontatiefase 
+1. Beperkingen stellen aan standpunten of twijfel 
+- Standpunt heilig verklaren “Je kunt er nog zoveel tegenin brengen, maar het staat buiten kijf dat Nederlanders egocentrisch zijn”
+- Standpunt taboe verklaren 
+2. Aantasten van de vrijheid van handelen van de tegenpartij 
+- De tegenpartij onder druk zetten: drogreden van de stok = argumentum ad baculum 
+- Beroep op medelijden = argumentum ad miseriocordiam 
+- De tegenpartij persoonlijk aanvallen = argumentum ad hominem 
+	- Hem als dom, slecht, onbetrouwbaar, etc afschilderen = directe persoonlijke aanval/abusive variant 
+		Jij hebt geen recht van spreken” 
+		“Jouw standpunt telt niet, want jij bent een Heks, mevrouw Kaag” “Mevrouw, u bent knettergek” 
+	- Zijn motieven verdacht maken = indirecte persoonlijke aanval/circumstantial variant 
+		“Ja, dat zeg jij alleen maar omdat je er zelf aandelen in hebt” 
+	- Een tegenstrijdigheid in woord en daad aanwijzen = tu quoque variant/jij-bak 
+		- A: “Je mag nooit beginnen met roken, want roken is slecht voor je, hoor!” 
+		- B: “Ja, maar jij rookt zelf ook” 
+
+##### Discussieregel 2: Verdedigingsplichtregel 
+Een discussiant die een standpunt naar voren brengt, mag niet weigeren dit standpunt desgevraagd te verdedigen 
+
+Overtredingen door de protagonist in de openingsfase 
+1. Verschuiven van de bewijslast 
+	- In een niet-gemengd verschil van mening: de antagonist moet aantonen dat het standpunt van de protagonist onjuist is 
+	- In een gemengd verschil van mening: alleen de tegenpartij moet zijn standpunt verdedigen (komt in feite neer op ontduiken van de bewijslast)
+2.  Ontduiken van de bewijslast 
+	- Het standpunt als vanzelfsprekend presenteren 
+	- Persoonlijk instaan voor de juistheid van het standpunt 
+	- Het standpunt immuniseren voor kritiek 
+
+##### Discussieregel 3: Standpuntregel 
+Een aanval op een standpunt mag geen betrekking hebben op een standpunt dat niet werkelijk door de andere partij naar voren is gebracht 
+
+Overtredingen door de protagonist of antagonist in alle discussiefasen 
+1. Iemand een fictief standpunt in de schoenen schuiven = drogreden van de stroman 
+	- Met veel nadruk het tegenovergestelde standpunt naar voren brengen 
+	- Verwijzen naar de opvattingen van de groep waartoe iemand behoort 
+	- Het creëren van een fictieve tegenstander 
+2. Iemands standpunt vertekenen = ook drogreden van de stroman 
+	- Uit de context halen van uitspraken 
+		- A: “Drinken is minder schadelijk voor de gezondheid dan de mensen vaak denken.” 
+		- B: “Dus jij vindt dat je maar raak kunt drinken.” 
+		- Overdrijven Discussieregel 4: Relevantieregel Een standpunt mag niet worden verdedigd door non-argumentatie naar voren te brengen of argumentatie die geen betrekking heeft op het standpunt Overtredingen van de protagonist in de argumentatiefase 1. Het standpunt niet door middel van argumentatie verdedigen, maar door middel van retorische trucs = non-argumentatie - De sentimenten van het publiek bespelen = pathetische drogreden - Schermen met eigen kwaliteiten = ethische drogreden / argumentum ad verecundiam 2. Argumentatie gebruiken die niet slaat op het standpunt dat ter discussie staat = irrelevante argumentatie / ignoratio elenchi Discussieregel 5: Verzwegen argumentregel Iemand mag de tegenpartij niet ten onrechte verzwegen argumenten opleggen of zich aan de verantwoordelijkheid voor een van zijn eigen verzwegen argumenten onttrekken Overtredingen door de protagonist of de antagonist in de argumentatiefase 1. Het invullen van een verzwegen argument dat verder gaat dan waar de protagonist aan gehouden kan worden (door de antagonist) = drogreden van het opblazen van wat er verzwegen is 2. Het ontkennen van de gebondenheid aan een correct geëxpliciteerd verzwegen argument (door de protagonist) = drogreden van het loochenen van een verzwegen argument Discussieregel 6: Uitgangspuntregel Iemand mag niet ten onrechte iets als gemeenschappelijk uitgangspunt presenteren of ten onrechte ontkennen dat iets een gemeenschappelijk uitgangspunt is Overtredingen door de protagonist of de antagonist in de argumentatiefase 1. Ten onrechte ontkennen dat iets een gemeenschappelijk uitgangspunt is (door de antagonist) 2. Iets ten onrechte als een gemeenschappelijk uitgangspunt presenteren (door de protagonist) - Misbruik maken van presupposities bij een bewering - Misbruik maken van presupposities bij een vraag = drogreden van de meervoudige vraag - Argumentatie aanvoeren die op hetzelfde neerkomt als het standpunt = drogreden van de cirkelredenering / petitio principii / begging the question Discussieregel 7: Geldigheidsregel De redenering die in een argumentatie als formeel geldig wordt voorgesteld mogen geen logische fouten bevatten Overtredingen door de protagonist in de argumentatiefase 1. In een redenering noodzakelijke en voldoende voorwaarden door elkaar halen - Drogreden van de ontkenning van het antocedent - Drogreden van de bevestiging van de consequent 2. In een redenering eigenschappen van delen en gehelen door elkaar halen - Divisiedrogreden = drogreden van de verkeerde vergelijking - Compositiedrogreden = drogreden van de verkeerde samenvoeging Discussieregel 8: Argumentatieschemaregel Een door een formeel geldige redenering bewezen standpunt mag niet als afdoende verdedigd worden beschouwd als de verdediging niet plaatsvindt door middel van een geschikt argumentatieschema dat correct is toegepast Overtredingen door de protagonist in de argumentatiefase 1. Een ongeschikt argumentatieschema gebruiken - Autoriteitsargumentatie = misbruik van kentekenrelatie - Populistische argumentatie = misbruik van kentekenrelatie → argumentum ad populum - Misbruik van causale relatie → argumentum ad consequentiam 2. Een argumentatieschema verkeerd toepassen - Drogreden van de verkeerde vergelijking = misbruik van vergelijkingsrelatie - Drogreden van het hellend vlak / slippery slope = misbruik van causale relatie “Voor je het weet is het hier een dictatuur!” “Het is een kafkiaanse wereld die u hier zit te creeëren” - Post hoc ergo propter hoc = misbruik van causale relatie - Overhaaste generalisatie / secundum quid = misbruik van kentekenrelatie Discussieregel 9: Afsluitingsregel Een niet-afdoende verdediging van een standpunt mag niet leiden tot het handhaven van dit standpunt door de protagonist, en een afdoende verdediging van een standpunt mag niet leiden tot het handhaven van twijfel aan het standpunt door de antagonist Overtredingen door de protagonist of antagonist in de afsluitingsfase 1. Door de protagonist: - Ten onrechte handhaven van een standpunt dat niet afdoende is verdedigd - Ten onrechte concluderen dat een standpunt waar is omdat het met succes is verdedigd 2. Door de antagonist: - Ten onrechte handhaven van twijfel aan een standpunt dat afdoende is verdedigd - Ten onrechte concluderen dat een standpunt waar is, omdat het tegengestelde niet met succes is verdedigd = argumentum ad ignorantiam Discussieregel 10: Taalgebruikregel De discussianten mogen geen formuleringen gebruiken die onvoldoende duidelijk of verwarrend dubbelzinnig zijn, en ze mogen de formuleringen van de tegenpartij niet opzettelijk verkeerd interpreteren Overtredingen door de protagonist of antagonist in alle discussiefasen 1. Misbruik maken van onduidelijkheid = onduidelijkheidsdrogreden - Tekstueel niveau - Structurele onduidelijkheid - Zinsniveau - Communicatieve strekking - Propositionele inhoud - Implicietheid - Onbepaaldheid (referentie) - Onbekendheid (predicatie) - Vaagheid (predicatie) 2. Misbruik maken van dubbelzinnigheid = ambiguïteitsdrogreden - Semantische ambiguïteit - Syntactische ambiguïtei
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
