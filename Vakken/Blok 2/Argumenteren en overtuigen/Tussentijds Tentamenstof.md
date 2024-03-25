@@ -1,4 +1,7 @@
 
+Week 1:
+Positieve, neutrale en Negatieve standpunten: bij een verschil van mening mening word een van deze posities ingenomen
+
 
 
 ## Argumentatiestructuur
