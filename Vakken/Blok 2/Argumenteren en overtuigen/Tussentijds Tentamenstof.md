@@ -218,7 +218,9 @@ P1, (als p, dan q)
 P2, (p / niet-q)
 C, (q / niet-p)
 
+### Discussieregels
 
+Discussieregel 5: Verzwegen argumentregel Iemand mag de tegenpartij niet ten onrechte verzwegen argumenten opleggen of zich aan de verantwoordelijkheid voor een van zijn eigen verzwegen argumenten onttrekken Aan de hand wanneer een discussiant door misbruik te maken van bepaalde kenmerken van impliciet of indirect taalgebruik voordeel tracht te behalen in een discussie - Onttrekken aan hun gebondenheid - Elkaar ten onrechte iets in de schoenen schuiven - Overdrijving/opblazen of overdreven invulling geven, etc Bij de drogreden van het ‘loochenen’ van een verzwegen argument ontkent de spreker dat hij verantwoordelijk is voor de impliciete onderdelen van zijn betoog - “Dat heb ik niet gezegd” - Staat de echte oplossing voor het verschil van mening in de weg - Sterkste bij controversiële elementen en onderwerpen
 
 
 
