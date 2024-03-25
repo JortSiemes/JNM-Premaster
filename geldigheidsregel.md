@@ -1,7 +1,7 @@
 de redeneringen die in de argumentatie als formeel [[geldig]] worden voorgesteld mogen geen logische fouten bevatten.
 
-**ontkenning van het antecedent** (als p, dan q; niet p, dus niet q)
-**bevestiging van de consequent** (als p, dan q; q, dus p)
+**[[ontkenning van het antecedent]]** (als p, dan q; niet p, dus niet q)
+**[[bevestiging van de consequent]]** (als p, dan q; q, dus p)
 
 redenering bevatten die compleet maar ongeldig is.
 

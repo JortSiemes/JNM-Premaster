@@ -1,40 +1,41 @@
 {
   "main": {
-    "id": "2b5bcaf6fe02fd08",
+    "id": "fba146e7b54ca5d2",
     "type": "split",
     "children": [
       {
-        "id": "ecd3eeb4cf35a78e",
+        "id": "4ed3f7e657805589",
         "type": "tabs",
         "children": [
           {
-            "id": "ac2406bd29862303",
+            "id": "f77f7339b4bda84d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agenda/TO DO 2024.md",
+                "file": "Vakken/Blok 2/Wetenschapsjournalistiek/College 5.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8eadcc97a9611bdb",
+    "id": "fce3c3360558816b",
     "type": "split",
     "children": [
       {
-        "id": "1719fd339f859917",
+        "id": "21e6f7197dd5bf63",
         "type": "tabs",
         "children": [
           {
-            "id": "b708f50374b07bde",
+            "id": "6e4a466c78ed8120",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +45,7 @@
             }
           },
           {
-            "id": "3154ba4cd949e2c8",
+            "id": "cbe3cc57799ba665",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -59,29 +60,42 @@
             }
           },
           {
-            "id": "c2ecdcb27fe936e8",
+            "id": "168ded479ebea81c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
+            }
+          },
+          {
+            "id": "29fcecb61ce1a4dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 4.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "f35291f5632fe792",
+    "id": "6e1f3ff28bb42c0d",
     "type": "split",
     "children": [
       {
-        "id": "d964458ec2c1583e",
+        "id": "7f3a125c273a731e",
         "type": "tabs",
         "children": [
           {
-            "id": "876723f9bfac3b06",
+            "id": "a3143ed78c6cb3da",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -89,12 +103,12 @@
             }
           },
           {
-            "id": "c837621fd731c3c4",
+            "id": "528918946b6b85aa",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Agenda/TO DO 2024.md",
+                "file": "Vakken/Blok 2/Wetenschapsjournalistiek/College 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,19 +120,19 @@
             }
           },
           {
-            "id": "20e722a8ceb4035c",
+            "id": "35006935013746df",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Agenda/TO DO 2024.md",
+                "file": "Vakken/Blok 2/Wetenschapsjournalistiek/College 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7bbd8c4cdc2e773a",
+            "id": "0ec904427b1e3bf6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -129,21 +143,21 @@
             }
           },
           {
-            "id": "fc307ebed0108408",
+            "id": "eb400bb5cb1ab55a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Agenda/TO DO 2024.md"
+                "file": "Vakken/Blok 2/Wetenschapsjournalistiek/College 5.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,41 +170,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac2406bd29862303",
+  "active": "f77f7339b4bda84d",
   "lastOpenFiles": [
-    "Vakken/Blok 2/Wetenschapsjournalistiek/Eindpaper (Kernreactoren)/Eindpaper_onderzoeksvraagV1_JortSiemes.pdf",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/Eindpaper (Kernreactoren)/mso52F8.tmp",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/Eindpaper (Kernreactoren)/~$ndpaper_onderzoeksvraagV1_JortSiemes.docx",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/Eindpaper (Kernreactoren)/~WRL0002.tmp",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/Eindpaper (Kernreactoren)/~WRD0001.tmp",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/Eindpaper (Kernreactoren)/Eindpaper_onderzoeksvraagV1_JortSiemes.docx",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/Eindpaper (Kernreactoren)",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/Eindpaper (Kernreactoren",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/New folder",
-    "onduidelijkheidsdrogreden.md",
+    "Vakken/Blok 1/Wetenschapsfilosofie/Tentamenstof.md",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/College 5.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md",
+    "Vakken/Blok 2/Scriptie/~WRL0956.tmp",
+    "Vakken/Blok 2/Scriptie/~WRD0937.tmp",
+    "Vakken/Blok 2/Scriptie/~WRL2001.tmp",
+    "Vakken/Blok 2/Scriptie/~WRD1993.tmp",
+    "Vakken/Blok 2/Scriptie/~WRL3237.tmp",
+    "Vakken/Blok 2/Scriptie/~WRD3226.tmp",
+    "Vakken/Blok 2/Scriptie/~WRL3236.tmp",
+    "Vakken/Blok 2/Scriptie/~WRD3225.tmp",
+    "Vakken/Blok 2/Scriptie/~WRL0205.tmp",
+    "Vakken/Blok 2/Scriptie/~WRD0194.tmp",
+    "pragmatische argumentatie.md",
+    "nevenschikkende argumentatie.md",
+    "logische geldigheid.md",
+    "Combinaties van enkelvoudige argumentatie.md",
     "geldigheidsregel.md",
-    "ambiguiteitsdrogreden.md",
-    "Vakken/Blok 2/Scriptie/interview college maarten koop.md",
+    "modus tollens.md",
+    "Modus ponens.md",
+    "Brugargument.md",
+    "Verzwegen argument.md",
+    "indirect taalgebruik.md",
+    "impliciet taalgebruik.md",
+    "onderschikkend argumentatie.md",
+    "meervoudige argumentatie.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Week 3.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Week 2.md",
+    "conflict-files-obsidian-git.md",
+    "Onderwerpen/Enkelvoudige argumentatie.md",
     "Vakken/Blok 2/Proeftoets.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 6.md",
-    "Onderwerpen/verzwegen argumenten.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.11.jpeg",
+    "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.11 (1).jpeg",
+    "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.12.jpeg",
+    "ambiguiteitsdrogreden.md",
+    "onduidelijkheidsdrogreden.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Week 5.md",
     "Onderwerpen/verdedigingsplichtregel.md",
-    "Onderwerpen/uitgangspuntregel.md",
-    "Onderwerpen/pragmatische inconsistentie.md",
-    "Onderwerpen/ontkenning van het antecedent.md",
-    "Onderwerpen/onderschikkende argumentatie.md",
-    "Onderwerpen/maximaal argumentatieve interpretatie.md",
-    "Onderwerpen/maximaal argumentatieve analyse.md",
-    "Onderwerpen/logische inconsistentie.md",
-    "Onderwerpen/ignoratio elenchi.md",
-    "Onderwerpen/geldig.md",
-    "Onderwerpen/drogreden van de meervoudige vraag.md",
-    "Onderwerpen/divisiedrogreden.md",
-    "Onderwerpen/discussieregels.md",
-    "Onderwerpen/deugdelijkheid.md",
-    "Onderwerpen/compositiedrogreden.md",
-    "Onderwerpen/complexe argumentatie.md",
-    "Onderwerpen/cirkelredenering.md",
-    "Onderwerpen/bevestiging van de consequent.md"
+    "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/AlcoholFreeArea_Matthew Paul Argall.jpg",
+    "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/2048x1152.jpg",
+    "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/95ugG-aantal-nederlanders-dat-stopt-met-alcoholgebruik.png",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Vienna Sewers.jpg",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Battista_ImaginaryPrison.jpg",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Battista_Prison.jpg",
+    "Vakken/Blok 2/Argumenteren en overtuigen/BooksOnFloor.jpg",
+    "Untitled.canvas"
   ]
 }
