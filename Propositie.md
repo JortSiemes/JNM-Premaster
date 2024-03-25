@@ -1,0 +1,1 @@
+uitspraak (bv. een oordeel: “Amsterdam is de schoonste stad van Europa”, aanbeveling: “op rodewijnvlekken moet je meteen zout gooien”, of voorspelling: “een goede beheersing van het Engels zal bij sollicitaties een steeds belangrijker eis worden”) 

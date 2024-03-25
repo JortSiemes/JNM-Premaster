@@ -11,6 +11,16 @@
             "id": "ac2406bd29862303",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Samenvatting mid-term.pdf"
+              }
+            }
+          },
+          {
+            "id": "a1a05d206a40e49a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md",
@@ -20,7 +30,9 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -113,7 +125,7 @@
               "state": {
                 "file": "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -156,14 +168,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac2406bd29862303",
+  "active": "a1a05d206a40e49a",
   "lastOpenFiles": [
+    "Vakken/Blok 2/Argumenteren en overtuigen/Samenvatting mid-term.pdf",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md",
+    "Onderwerpen/argumentatiefase.md",
+    "Onderwerpen/confrontatiefase.md",
+    "Onderwerpen/Expliciete discussie.md",
+    "Onderwerpen/maximaal argumentatieve interpretatie.md",
+    "Onderwerpen/Argument.md",
+    "Propositie.md",
+    "Onderwerpen/Standpunt.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/week2_Presentatie.pdf",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Scan boek deel 1.pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/Lijst van discussieregels en drogredenen (1).pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/Lijst van discussieregels en drogredenen (1).pdf.crdownload",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Samenvatting mid-term.pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/Samenvatting mid-term.pdf.crdownload",
     "modus tollens.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md",
     "Onderwerpen/antecedent.md",
     "consequent.md",
     "Modus ponens.md",
@@ -177,25 +199,14 @@
     "Pasted image 20240325125312.png",
     "Pasted image 20240325125208.png",
     "Onderwerpen/afsluitingsfase.md",
-    "Onderwerpen/argumentatiefase.md",
     "Onderwerpen/openingsfase.md",
-    "Onderwerpen/confrontatiefase.md",
     "Onderwerpen/Analytische functie.md",
     "Onderwerpen/kritische functie.md",
     "Onderwerpen/impliciete discussie.md",
-    "Onderwerpen/Expliciete discussie.md",
     "Onderwerpen/Antagonist.md",
     "Onderwerpen/Protagonist.md",
-    "meervoudig.md",
-    "enkelvoudig.md",
-    "niet-gemengd.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Week 2.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/week6_Presentatie.pdf",
     "Vakken/Blok 2/Wetenschapsjournalistiek/On Neo-luddites led by Ayatollahs  The Frame Matrix of the GM Food Debate in Northern Belgium.pdf",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/Audio file.docx",
-    "Vakken/Blok 2/Scriptie/~WRL0005.tmp",
-    "Vakken/Blok 2/Scriptie/~$derzoeksvraag en Inleiding.docx",
-    "Vakken/Blok 2/Scriptie/Lijstje verkennen Buijze pers.docx",
-    "Vakken/Blok 2/Argumenteren en overtuigen/week5_Presentatie.pdf"
+    "Vakken/Blok 2/Wetenschapsjournalistiek/Audio file.docx"
   ]
 }

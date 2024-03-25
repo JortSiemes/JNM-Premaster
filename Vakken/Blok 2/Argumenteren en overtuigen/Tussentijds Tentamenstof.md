@@ -2,43 +2,72 @@
 Week 1:
 Positieve, neutrale en Negatieve standpunten: bij een verschil van mening mening word een van deze posities ingenomen
 
+Bij argumentatie heb je minimaal één [[standpunt]] nodig en één of meerdere argumenten, die ter rechtvaardiging van dat [[standpunt]] dienen.
+
+[[Propositie]]: uitspraak (bv. een oordeel: “Amsterdam is de schoonste stad van Europa”, aanbeveling: “op rodewijnvlekken moet je meteen zout gooien”, of voorspelling: “een goede beheersing van het Engels zal bij sollicitaties een steeds belangrijker eis worden”) 
+
+[[Standpunt]]: een houding ten opzichte van een [[propositie]] Dat kan positief (+p), neutraal/twijfelend (?+p / ?-p) of negatief zijn (-p) 
+Soorten standpunten: 
+- [[Evaluatief]]/evaluerend: oordeel → “Leiden is een leuke stad” 
+- Appellerend/**[[prescriptief]]**: voorstel → “Je zou in Leiden moeten gaan studeren” 
+- Feitelijk/[[descriptief]]: feitelijkheden (heden, verleden en toekomst) → “Leiden is een middelgrote studentenstad”
+
+Hoe herken je een [[standpunt]]? 
+- Expliciet geformuleerd (ik vind, mijn [[standpunt]] is) 
+- Stellig gebracht/afwijkend (het is bizar dat, terecht dat) 
+- Argumentatie aanwezig (want, omdat, immers)
+
+[[Maximaal argumentatieve interpretatie]]: bij twijfel of iets argumentatie is, ga er dan maar vanuit dat het argumentatie is. Verkleint de kans om uitspraken die belangrijk zijn buiten beschouwing te laten
+
+[[Argument]]: [[propositie]] ter verdediging van het [[standpunt]]
 ### Discussierollen + type geschil:
 Een verschil van mening van basisvorm = [[niet-gemengd]] en [[enkelvoudig]]
 gemend en [[meervoudig]]
 
-Een geschil kan enkelvoudig of meervoudig zijn: gaat het over één of over meerdere propositie(s)? Een geschil kan niet-gemengd of gemengd zijn: stuit het standpunt enkel op twijfel of op een tegenwerping?
+Een geschil kan [[enkelvoudig]] of [[meervoudig]] zijn: gaat het over één of over meerdere [[propositie]](s)? Een geschil kan [[niet-gemengd]] of gemengd zijn: stuit het [[standpunt]] enkel op twijfel of op een tegenwerping?
 
-4 typen meningsverschil:
-1. niet-gemengd enkelvoudig (basisvorm)
-2. gemengd enkelvoudig
-3. niet-gemengd meervoudig
-4. gemengd meervoudig
+Argumentatie is een verbale activiteit, je houdt je dus niet bezig met wat iemand denkt of bedoelt - alleen de uiting is van belang. Argumentatie is ook een sociale activiteit, je bent altijd over en weer aan het discussiëren (zelfs als je in je eentje bent). Het is ook een rationele activiteit: er zijn bepaalde [[normen]]/regels voor redelijkheid.
+
+4 typen [[meningsverschil]]:
+1. [[niet-gemengd]] [[enkelvoudig]] (basisvorm)
+2. gemengd [[enkelvoudig]]
+3. [[niet-gemengd]] [[meervoudig]]
+4. gemengd [[meervoudig]]
+
+Type geschillen: 
+1. Gaat het over één of over meerdere [[propositie]](s)? 
+	- [[Enkelvoudig]]: één [[propositie]] ter discussie 
+	- [[Meervoudig]]: meerdere proposities ter discussie 
+1. Stuit het [[standpunt]] enkel op twijfel of op een tegenstelling? 
+	- [[Niet-gemengd]]: [[standpunt]] stuit op twijfel 
+	- Gemengd: [[standpunt]] stuit op tegenstelling. Bij een gemengd geschil zijn er altijd dubbelrollen: [[antagonist]] wordt [[protagonist]] en vice versa.
 
 Hoofdverschil van mening: 
 Subverschil van mening: 
 
 [[Protagonist]]
 [[antagonist]]
+[[Antagonist]] is **ALTIJD** de twijfelaar. Zodra de [[antagonist]] een nieuw [[standpunt]] inneemt, wordt diegene [[protagonist]]
 
-‘Rome is een leuke stad.’  (Protagonist +p)
-‘Echt?’ (Antagonist ?+p)
- (niet-gemengd enkelvoudig geschil)  
+‘Rome is een leuke stad.’  ([[Protagonist]] +p)
+‘Echt?’ ([[Antagonist]] ?+p)
+ ([[niet-gemengd]] [[enkelvoudig]] geschil)  
 
 ‘Rome is een leuke stad.’ (Prot. +p & ant. -p)
 ‘Nou, dat vind ik niet hoor.’  (Ant. +p & prot. -p)
-(gemengd enkelvoudig geschil)
+(gemengd [[enkelvoudig]] geschil)
 
 ‘Rome is een leuke stad, Parijs is echt verschrikkelijk.’ (Prot. +p1 en +p2 en ant. -p1 en -p2) 
 ‘Nou, ik vind Rome juist niks, maar Parijs is geweldig.’ (Prot. -p1 en -p2 en ant. +p1 en +p2)
-(gemengd meervoudig geschil)
+(gemengd [[meervoudig]] geschil)
 
 ‘Rome is een leuke stad, Parijs is echt verschrikkelijk.’ (Prot. +p1 en +p2 en ant. -p2)
 ‘Nou, ik weet niet of Rome een leuke stad is, maar Parijs is in ieder geval niet verschrikkelijk.’  (Prot. -p2 en ant. ?+p1 en +p2)
-(deels niet-gemengd (p1) deels gemengd (p2) meervoudig)
+(deels [[niet-gemengd]] (p1) deels gemengd (p2) [[meervoudig]])
 
 ‘Rome is een leuke stad, Parijs is echt verschrikkelijk.’ Prot. +p1 en +p2) 
 ‘Nou, ik weet niet of Rome leuk is, maar het klopt dat Parijs verschrikkelijk is.’ ((Prot. +p2 en ant. ?+p1)
-(niet-gemengd enkelvoudig geschil)
+([[niet-gemengd]] [[enkelvoudig]] geschil)
 
 ### Argumentatieve discussies
 [[Expliciete discussie]]
@@ -47,42 +76,49 @@ Subverschil van mening:
 [[Analytische functie]]
 [[kritische functie]]
 
-4 fasen van discussie:
-- [[confrontatiefase]]
-- [[openingsfase]]
-- [[argumentatiefase]]
-- [[afsluitingsfase]]
+De discussiefasen: 
+1. [[Confrontatiefase]]: vaststellen verschil van mening 
+2. [[Openingsfase]]: bepalen uitgangspunten voor de te voeren discussie, zowel materieel (inhoudelijk) als procedureel (procedures van de discussie) 
+3. [[Argumentatiefase]]: argumentatie ter verdediging van het [[standpunt]] 
+	- [[Standpunt]] hoort niet bij [[argumentatiefase]] → [[confrontatiefase]]: rol aannemen van [[protagonist]], soms alleen [[standpunt]] benoemen en soms door te zeggen expliciet - bij twijfel uiten ook [[confrontatiefase]] 
+1. [[Afsluitingsfase]]: vaststelling tot in hoeverre het vvm is opgelost/beslecht
 
 
+----
 
 
-Week 2:
+[[Week 2]]:
 ### Argumentatiestructuur
-Enkelvoudige argumentatie
+[[Enkelvoudige argumentatie]]
 Basisstructuur
 ![[Pasted image 20240325125208.png]]
 
-Complexe argumentatie
+[[Complexe argumentatie]]
 Combinatie van twee of meer enkelvoudige argumentaties
 ![[Pasted image 20240325125312.png]]
-Onder complexe argumentatie:
+Onder [[complexe argumentatie]]:
 - [[onderschikkende argumentatie]]
 - [[nevenschikkende argumentatie]]
 - [[meervoudige argumentatie]]
 ![[Pasted image 20240325125521.png]]
 1.1 a + 1.1b + 1.1c = nevenschikkend
 1.1b.1 + 1.1c.1+ 1.2.1 = onderschikkend
-1.2 = meervoudig
+1.2 = [[meervoudig]]
 
 [[maximaal argumentatieve analyse]]
 
 [[Analytisch overzicht]]
 
+Een [[standpunt]] wordt vaak verdedigd door middel van een betoog dat uit meer dan één [[enkelvoudige argumentatie]] bestaat. Pas als duidelijk is hoe het betoog precies in elkaar zit, heeft het zin om het aan een beoordeling te onderwerpen.
+
+Het simpelste geval: enkelvoudige argumentatie - Volledig expliciete vorm uit twee (en niet meer dan twee) uitspraken 1. Uitspraak waarin een argument wordt weergeven 2. Een rechtvaardigende uitspraak die dit argument verbindt met het verdedigde standpunt
 
 
-Week 3:
 
-### Verzwegen argument
+
+[[Week 3]]:
+
+### [[Verzwegen argument]]
 expliciteren verzwegen elementen
 
 [[impliciet taalgebruik]]
@@ -96,7 +132,7 @@ ONGELDIG! = q dus p of niet p dus niet q
 
 **Logica:** wat is geldige argumentatie?
 **Argumentatietheorie:** Wat is deugdelijke argumentatie?
-(een geldige redenering is niet per se een deugdelijke redenering, maar een deugdelijke redenering moet geldig zijn)
+(een geldige redenering is niet per se een deugdelijke redenering, maar een deugdelijke redenering moet [[geldig]] zijn)
 
 P1, (als p, dan q)
 P2, (p / niet-q)
@@ -132,7 +168,7 @@ Basisstructuur
 			/
 1.1 Mijn oma die een pakje per dag rookte is 95 geworden (Voor X geldt Z) .......... (1.1' de hoge leeftijd van mijn kettingrokende oma is een teken dat roken helemaal zo slecht nog niet is) 9Z is kenmerkend/een teken voor Y)
 
-kritische vragen: 
+kritische [[vragen]]: 
 kentekenargumentatie:
 - Is Z wel kenmerkend voor Y?
 
@@ -147,15 +183,15 @@ Vergelijkingsargumentatie:
 
 
 
-## Discussieregels
-Uitgangspuntregel
-- propositie in twijfel trekken die tot gemeenschappelijke uitgangspunten behoort (door antagonist)
-- propositie ten onrechte als gemeenschappelijk uitangspunt behandelen  (door protagonit)
+## [[Discussieregels]]
+[[Uitgangspuntregel]]
+- [[propositie]] in twijfel trekken die tot gemeenschappelijke uitgangspunten behoort (door [[antagonist]])
+- [[propositie]] ten onrechte als gemeenschappelijk uitangspunt behandelen  (door protagonit)
 	- presuppositiedrogreden (presupposities bij een bewering)
 		- meervoudige vraag
-	- cirkelredenering
+	- [[cirkelredenering]]
 
-presuppositie
+[[presuppositie]]
 
 
 
@@ -252,7 +288,7 @@ verzwegen oordelen
 
 [[logische geldigheid]] (logica)
 **[[Modus ponens]]**
-als p ([[antecedent]]), dan q (consequent)
+als p ([[antecedent]]), dan q ([[consequent]])
 p
 dus q
 
