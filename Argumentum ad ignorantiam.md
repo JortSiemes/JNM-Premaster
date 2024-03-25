@@ -1,0 +1,1 @@
+iets is waar, wanneer de verdediging van het tegenovergestelde [[standpunt]] is mislukt 

@@ -18,16 +18,6 @@
             }
           },
           {
-            "id": "a1a05d206a40e49a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Lijst van discussieregels en drogredenen (1).pdf"
-              }
-            }
-          },
-          {
             "id": "aaf29df441236892",
             "type": "leaf",
             "state": {
@@ -41,7 +31,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -180,34 +170,34 @@
   },
   "active": "aaf29df441236892",
   "lastOpenFiles": [
-    "Onderwerpen/compositiedrogreden.md",
+    "argumentatieschema.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md",
-    "Onderwerpen/cirkelredenering.md",
-    "Ontduiken van bewijslast.md",
-    "Verschuiven van de bewijslast.md",
-    "Onderwerpen/drogreden van de meervoudige vraag.md",
-    "Presuppositiedrogreden.md",
-    "Onderwerpen/onduidelijkheidsdrogreden.md",
-    "Onderwerpen/Drogredenen.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Lijst van discussieregels en drogredenen (1).pdf",
-    "Onderwerpen/ambiguiteitsdrogreden.md",
+    "argumentatiestructuur.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Samenvatting mid-term.pdf",
-    "Onderwerpen/geldigheidsregel.md",
-    "Onderwerpen/Verzwegen argumentregel.md",
-    "Onderwerpen/pragmatische argumentatie.md",
-    "Onderwerpen/prescriptief standpunt.md",
-    "Onderwerpen/Deugdelijkheid van uitspraken.md",
-    "Onderwerpen/Oprechtheidsvoorwaarden.md",
-    "Onderwerpen/Voorbereidende voorwaarden.md",
-    "Onderwerpen/indirect taalgebruik.md",
-    "Onderwerpen/Communicatiebeginsel.md",
-    "Onderwerpen/nevenschikkende argumentatie.md",
-    "Onderwerpen/meervoudige argumentatie.md",
     "Onderwerpen/aanvaardbaarheid.md",
-    "Onderwerpen/argumentatiefase.md",
-    "Onderwerpen/confrontatiefase.md",
-    "Onderwerpen/Expliciete discussie.md",
-    "Onderwerpen/maximaal argumentatieve interpretatie.md",
+    "Onderwerpen/deugdelijkheid.md",
+    "Onderwerpen/discussieregels.md",
+    "Onderwerpen/pragmatische inconsistentie.md",
+    "Onderwerpen/logische inconsistentie.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Lijst van discussieregels en drogredenen (1).pdf",
+    "Drogreden van het loochenen van een verzwegen argument.md",
+    "Drogreden van het opblazen van wat verzwegen is.md",
+    "Onderwerpen/Stroman.md",
+    "Onderwerpen/argumentum ad baculum.md",
+    "Pathetische drogreden.md",
+    "Ad misericordiam.md",
+    "Tu quoque.md",
+    "Indirecte persoonlijke aanval.md",
+    "Directe persoonlijke aanval.md",
+    "Onderwerpen/Directe.md",
+    "Onderwerpen/ontkenning van het antecedent.md",
+    "Ambiguïteitsdrogreden.md",
+    "Onderwerpen/onduidelijkheidsdrogreden.md",
+    "Vals dilemma.md",
+    "Argumentum ad ignorantiam.md",
+    "Argumentum ad verecundiam.md",
+    "Secundum quid.md",
+    "Post hoc ergo procter hoc.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/week2_Presentatie.pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/Scan boek deel 1.pdf",

@@ -1,0 +1,1 @@
+→ O hij heeft zeker aandelen bij dat bedrijf, dat er zo’n goede recensie over hem uitkomt 

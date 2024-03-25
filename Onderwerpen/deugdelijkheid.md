@@ -1,0 +1,1 @@
+wordt bepaald door de bijdrage die deze argumentatie levert aan het aanvaardbaar maken van het verdedigde standpunt.

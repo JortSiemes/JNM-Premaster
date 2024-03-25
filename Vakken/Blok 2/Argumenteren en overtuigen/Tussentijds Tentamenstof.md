@@ -88,7 +88,7 @@ De discussiefasen:
 
 
 [[Week 2]]:
-### Argumentatiestructuur
+### [[Argumentatiestructuur]]
 [[Enkelvoudige argumentatie]]
 Basisstructuur
 ![[Pasted image 20240325125208.png]]
@@ -117,11 +117,11 @@ Het simpelste geval: [[enkelvoudige argumentatie]]
 	2. Een rechtvaardigende uitspraak die dit [[argument]] verbindt met het verdedigde [[standpunt]]
 → Lijkt vaak uit één uitspraak te staan, omdat er in de argumentatie vaak een uitspraak verzwegen is
 
-De wijze waarop de naar voren gebrachte enkelvoudige argumentaties zich tot elkaar en het verdedigende [[standpunt]] verhouden, komt tot uitdrukking in de argumentatiestructuur van het betoog.
+De wijze waarop de naar voren gebrachte enkelvoudige argumentaties zich tot elkaar en het verdedigende [[standpunt]] verhouden, komt tot uitdrukking in de [[argumentatiestructuur]] van het betoog.
 Voor de oplossing van een [[meervoudig]] verschil van mening zijn meer enkelvoudige argumentaties nodig. Het rechtvaardigen of ontkrachten van elke [[Propositie]] vergt ten minste één [[enkelvoudige argumentatie]].
 
 Als het verschil van mening gemengd is ([[standpunt]] stuit op tegenstelling, dubbelrollen voor [[protagonist]] en [[antagonist]]) moeten er door meer dan één partij betogen worden gehouden, die elk ook weer uit meer dan één [[enkelvoudige argumentatie]] kunnen bestaan. 
-→ Argumentatiestructuur hangt ook af van de reacties waar in het betoog op gereageerd of geanticipeerd wordt: zo ontstaat er argumentatie voor argumentatie. 
+→ [[Argumentatiestructuur]] hangt ook af van de reacties waar in het betoog op gereageerd of geanticipeerd wordt: zo ontstaat er argumentatie voor argumentatie. 
 → Je kunt kritiek ook bestrijden door je oorspronkelijke argumentatie aan te vullen met andere argumenten (ondersteunen [[standpunt]] rechtstreeks), zodat er een gecombineerde argumentatie ontstaat of een bestaande combinatie van argumentaties wordt uitgebreid.
 
 [[Aanvaardbaarheid]]: verdedigingspoging kan mislukken omdat het ene [[argument]] de luisteraar wel aanspreekt en het andere [[argument]] niet, waardoor soms een overdaad of ‘overkill’ van argumenten wordt aangevoerd (alternatieve verdediging) → [[aanvaardbaarheid]] is kwestie van gradatie 
@@ -221,9 +221,28 @@ C, (q / niet-p)
 
 
 week4:
-### Argumentatieschema's
+### [[Argumentatieschema]]'s
 
+Mogelijke inconsistenties in een betoog kunnen ‘logisch’ of ‘pragmatisch’ van aard zijn. 
+- Een [[logische inconsistentie]]: houdt in dat er in het betoog uitspraken worden gedaan die, omdat ze logisch met elkaar in strijd zijn, onmogelijk allemaal waar kunnen worden gemaakt (er zit bijvoorbeeld een logisch tegenspraak in verborgen) 
+- Een [[pragmatische inconsistentie]]: houdt in dat er in het betoog dingen worden gezegd die logisch gesproken weliswaar niet met elkaar in strijd zijn, maar die in de praktijk toch strijdige consequenties hebben: “Ik breng je wel even met de auto” “Ik kan niet autorijden”
 
+[[Logische inconsistentie]] = uitspraak is logisch in strijd Voorbeeld: andragologie is doelgericht bezig en andragologie is niet doelgericht bezig (dit kan natuurlijk niet)
+
+[[Pragmatische inconsistentie]] = logisch kloppend maar toch strijdige consequenties Voorbeeld: ik breng je wel even met de auto (wanneer je niet kan rijden)
+
+[[Deugdelijkheid]] = wordt bepaald door de bijdrage die deze argumentatie levert aan het aanvaardbaar maken van het verdedigde [[standpunt]].
+
+Drie eisen voor [[deugdelijkheid]] 
+1. Uitspraken waaruit de argumentatie bestaat moeten aanvaardbaar zijn 
+2. Aan de argumentatie moet een geldige redenering ten grondslag liggen 
+3. Het gebruikte '[[argumentatieschema]]' moet terecht en op een correcte manier zijn toegepast
+
+[[Aanvaardbaarheid]]: of de [[deugdelijkheid]] wordt geaccepteerd De aanvaardbaarhid van argumntatieve uitspraken is in het ene geval makkelijker te bepalen dan in het andere geval. Het gaat vooral gemakkelijk bij feitelijke statements (die op eenvoudige wijze kunnen worden gecontroleerd)
+
+Verschil [[argumentatiestructuur]] en [[argumentatieschema]]: 
+- [[Argumentatiestructuur]]: een overzicht van een betoog dat de onderlinge verbanden weergeeft tussen de verschillende argumenten en het [[standpunt]] 
+- [[Argumentatieschema]]: schematische weergave van het type rechtvaardigingsgrond waarmee [[argument]] en [[standpunt]] verbonden zijn
 
 
 
@@ -250,7 +269,7 @@ Overtredingen door [[protagonist]] of [[antagonist]] in de [[confrontatiefase]]
 		“Jouw [[standpunt]] telt niet, want jij bent een Heks, mevrouw Kaag” “Mevrouw, u bent knettergek” 
 	- Zijn motieven verdacht maken = [[indirecte]] persoonlijke aanval/circumstantial variant 
 		“Ja, dat zeg jij alleen maar omdat je er zelf aandelen in hebt” 
-	- Een tegenstrijdigheid in woord en daad aanwijzen = tu quoque variant/jij-bak 
+	- Een tegenstrijdigheid in woord en daad aanwijzen = [[tu quoque]] variant/jij-bak 
 		- A: “Je mag nooit beginnen met roken, want roken is slecht voor je, hoor!” 
 		- B: “Ja, maar jij rookt zelf ook” 
 
@@ -258,7 +277,7 @@ Overtredingen door [[protagonist]] of [[antagonist]] in de [[confrontatiefase]]
 Een discussiant die een [[standpunt]] naar voren brengt, mag niet weigeren dit [[standpunt]] desgevraagd te verdedigen 
 
 Overtredingen door de [[protagonist]] in de [[openingsfase]] 
-1. Verschuiven van de bewijslast 
+1. [[Verschuiven van de bewijslast]] 
 	- In een [[niet-gemengd]] verschil van mening: de [[antagonist]] moet aantonen dat het [[standpunt]] van de [[protagonist]] onjuist is 
 	- In een gemengd verschil van mening: alleen de tegenpartij moet zijn [[standpunt]] verdedigen (komt in feite neer op ontduiken van de bewijslast)
 2.  Ontduiken van de bewijslast 
@@ -285,8 +304,8 @@ Een [[standpunt]] mag niet worden verdedigd door non-argumentatie naar voren te 
 
 Overtredingen van de [[protagonist]] in de [[argumentatiefase]] 
 1. Het [[standpunt]] niet door middel van argumentatie verdedigen, maar door middel van retorische trucs = non-argumentatie 
-	- De sentimenten van het publiek bespelen = pathetische drogreden 
-	- Schermen met eigen kwaliteiten = ethische drogreden / argumentum ad verecundiam 
+	- De sentimenten van het publiek bespelen = [[pathetische drogreden]] 
+	- Schermen met eigen kwaliteiten = ethische drogreden / [[argumentum ad verecundiam]] 
 2. Argumentatie gebruiken die niet slaat op het [[standpunt]] dat ter discussie staat = irrelevante argumentatie / [[ignoratio elenchi]] 
 
 ##### Discussieregel 5: [[Verzwegen argumentregel]] 
@@ -314,22 +333,22 @@ Overtredingen door de [[protagonist]] in de [[argumentatiefase]]
 	- Drogreden van de ontkenning van het antocedent 
 	- Drogreden van de [[bevestiging van de consequent]] 
 2. In een redenering eigenschappen van delen en gehelen door elkaar halen 
-	- [[Divisiedrogreden]] = drogreden van de verkeerde vergelijking 
+	- [[Divisiedrogreden]] = [[drogreden van de verkeerde vergelijking]] 
 	- [[Compositiedrogreden]] = drogreden van de verkeerde samenvoeging
 
 ##### Discussieregel 8: [[Argumentatieschemaregel]] 
-Een door een formeel geldige redenering bewezen [[standpunt]] mag niet als afdoende verdedigd worden beschouwd als de verdediging niet plaatsvindt door middel van een geschikt argumentatieschema dat correct is toegepast 
+Een door een formeel geldige redenering bewezen [[standpunt]] mag niet als afdoende verdedigd worden beschouwd als de verdediging niet plaatsvindt door middel van een geschikt [[argumentatieschema]] dat correct is toegepast 
 
 Overtredingen door de [[protagonist]] in de [[argumentatiefase]] 
-1. Een ongeschikt argumentatieschema gebruiken 
+1. Een ongeschikt [[argumentatieschema]] gebruiken 
 	- Autoriteitsargumentatie = misbruik van kentekenrelatie 
-	- Populistische argumentatie = misbruik van kentekenrelatie → argumentum ad populum 
+	- Populistische argumentatie = misbruik van kentekenrelatie → [[argumentum ad populum]] 
 	- Misbruik van causale relatie → argumentum ad consequentiam 
-2. Een argumentatieschema verkeerd toepassen 
-	- Drogreden van de verkeerde vergelijking = misbruik van vergelijkingsrelatie 
+2. Een [[argumentatieschema]] verkeerd toepassen 
+	- [[Drogreden van de verkeerde vergelijking]] = misbruik van vergelijkingsrelatie 
 	- Drogreden van het hellend vlak / slippery slope = misbruik van causale relatie “Voor je het weet is het hier een dictatuur!” “Het is een kafkiaanse wereld die u hier zit te creeëren” 
 	- Post hoc ergo propter hoc = misbruik van causale relatie 
-	- Overhaaste generalisatie / secundum quid = misbruik van kentekenrelatie 
+	- Overhaaste generalisatie / [[secundum quid]] = misbruik van kentekenrelatie 
 
 ##### Discussieregel 9: Afsluitingsregel 
 Een niet-afdoende verdediging van een [[standpunt]] mag niet leiden tot het handhaven van dit [[standpunt]] door de [[protagonist]], en een afdoende verdediging van een [[standpunt]] mag niet leiden tot het handhaven van twijfel aan het [[standpunt]] door de [[antagonist]] 
@@ -340,7 +359,7 @@ Overtredingen door de [[protagonist]] of [[antagonist]] in de [[afsluitingsfase]
 	- Ten onrechte concluderen dat een [[standpunt]] waar is omdat het met succes is verdedigd 
 2. Door de [[antagonist]]: 
 	- Ten onrechte handhaven van twijfel aan een [[standpunt]] dat afdoende is verdedigd
-	- Ten onrechte concluderen dat een [[standpunt]] waar is, omdat het tegengestelde niet met succes is verdedigd = argumentum ad ignorantiam 
+	- Ten onrechte concluderen dat een [[standpunt]] waar is, omdat het tegengestelde niet met succes is verdedigd = [[argumentum ad ignorantiam]] 
 
 ##### Discussieregel 10: Taalgebruikregel 
 De discussianten mogen geen formuleringen gebruiken die onvoldoende duidelijk of verwarrend dubbelzinnig zijn, en ze mogen de formuleringen van de tegenpartij niet opzettelijk verkeerd interpreteren 
@@ -356,7 +375,7 @@ Overtredingen door de [[protagonist]] of [[antagonist]] in alle discussiefasen
 		- Onbepaaldheid (referentie) 
 		- Onbekendheid (predicatie) 
 		- Vaagheid (predicatie) 
-2. Misbruik maken van dubbelzinnigheid = ambiguïteitsdrogreden 
+2. Misbruik maken van dubbelzinnigheid = [[ambiguïteitsdrogreden]] 
 	- Semantische ambiguïteit 
 	- Syntactische ambiguïtei
 
@@ -368,7 +387,7 @@ Overtredingen door de [[protagonist]] of [[antagonist]] in alle discussiefasen
 5. Verzwegen-argumentregel → De ene partij mag de andere niet ten onrechte [[verzwegen argumenten]] toeschrijven of zich aan de verantwoordelijkheid voor eigen [[verzwegen argumenten]] onttrekken 
 6. [[Uitgangspuntregel]] 
 7. [[Geldigheidsregel]] 
-8. [[Argumentatieschemaregel]] (+kritische [[vragen]]) → Een door een logisch geldige redenering verdedigd [[standpunt]] mag niet als voldoende verdedigd worden beschouwd als er in de verdediging geen passend argumentatieschema is gebruikt dat correct is toegepast 
+8. [[Argumentatieschemaregel]] (+kritische [[vragen]]) → Een door een logisch geldige redenering verdedigd [[standpunt]] mag niet als voldoende verdedigd worden beschouwd als er in de verdediging geen passend [[argumentatieschema]] is gebruikt dat correct is toegepast 
 9. Afsluitingsregel 
 10. Taalgebruiksregel 
 
@@ -388,30 +407,30 @@ Een drogreden is een overtreding van een discussieregel, je zit daarmee de discu
 - [[Ontduiken van bewijslast]]: ten onrechte het [[standpunt]] poneren als iets vanzelfsprekends 
 - [[Cirkelredenering]]: [[argument]] is hetzelfde als het [[standpunt]] - [[Divisiedrogreden]]: ten onrechte toekennen van een eigenschap van een geheel aan de samenstellende delen 
 - [[Compositiedrogreden]]: ten onrechte toekennen van een eigenschap van de samenstellende delen aan het geheel 
-- Argumentum ad populum: er wordt ten onrechte gesteld dat het [[standpunt]] aanvaard moet worden, omdat veel mensen het ermee eens zijn 
-- Argumentum ad consequentum: er wordt verkeerd gebruik gemaakt van een causale relatie 
-- Drogreden van de verkeerde vergelijking: er worden twee dingen met elkaar vergeleken die helemaal niet vergelijkbaar zijn 
-- Verkeerde toepassing van [[pragmatische argumentatie]]: er wordt ten onrechte gesuggereerd dat we met een bepaalde maatregel onherroepelijk van kwaad tot erger zullen vervallen, terwijl dit helemaal niet vaststaat 
+- [[Argumentum ad populum]]: er wordt ten onrechte gesteld dat het [[standpunt]] aanvaard moet worden, omdat veel mensen het ermee eens zijn 
+- [[Argumentum ad consequentum]]: er wordt verkeerd gebruik gemaakt van een causale relatie 
+- [[Drogreden van de verkeerde vergelijking]]: er worden twee dingen met elkaar vergeleken die helemaal niet vergelijkbaar zijn 
+- [[Verkeerde toepassing van pragmatische argumentatie]]: er wordt ten onrechte gesuggereerd dat we met een bepaalde maatregel onherroepelijk van kwaad tot erger zullen vervallen, terwijl dit helemaal niet vaststaat 
 		→ Drogreden van het hellend vlak: er wordt beargumenteerd dat één (gematigde) keuze leidt tot een kettingreactie aan veel ergere keuzes of gevolgen. 
-- Post hoc ergo procter hoc: ‘daarna, dus daardoor’, verkeerd benoemen van oorzaak-gevolg 
-- Secundum quid: overhaaste generalisatie 
-- Argumentum ad verecundiam: misbruik van autoriteit 
-- Argumentum ad ignorantiam: iets is waar, wanneer de verdediging van het tegenovergestelde [[standpunt]] is mislukt 
-- Vals dilemma: er wordt ten onrechte van uitgegaan dat er ten opzichte van een [[propositie]] altijd hetzij een positief hetzij een negatief [[standpunt]] moet worden ingenomen 
+- [[Post hoc ergo procter hoc]]: ‘daarna, dus daardoor’, verkeerd benoemen van oorzaak-gevolg 
+- [[Secundum quid]]: overhaaste generalisatie 
+- [[Argumentum ad verecundiam]]: misbruik van autoriteit 
+- [[Argumentum ad ignorantiam]]: iets is waar, wanneer de verdediging van het tegenovergestelde [[standpunt]] is mislukt 
+- [[Vals dilemma]]: er wordt ten onrechte van uitgegaan dat er ten opzichte van een [[propositie]] altijd hetzij een positief hetzij een negatief [[standpunt]] moet worden ingenomen 
 - [[Onduidelijkheidsdrogreden]]: er wordt gebruik gemaakt van onduidelijk taalgebruik om de eigen positie te verbeteren 
-- Ambiguïteitsdrogreden: er wordt gebruik gemaakt van dubbelzinnig taalgebruik om de eigen positie te verbeteren 
+- [[Ambiguïteitsdrogreden]]: er wordt gebruik gemaakt van dubbelzinnig taalgebruik om de eigen positie te verbeteren 
 - [[Ontkenning van het antecedent]]: als p dan q, niet p dus niet q 
-- [[Directe]] persoonlijke aanval/abusive ad hominem 
+- [[Directe persoonlijke aanval]]/abusive ad hominem 
 	→ Hij is een sukkel en verdient te veel 
-- [[Indirecte]] persoonlijke aanval/circumstantial ad hominem 
+- [[Indirecte persoonlijke aanval]]/circumstantial ad hominem 
 	→ O hij heeft zeker aandelen bij dat bedrijf, dat er zo’n goede recensie over hem uitkomt 
-- Tu quoque/jij-bakken 
+- [[Tu quoque]]/jij-bakken 
 	→ Alsof jij er zoveel van weet! 
-- Ad misericordiam 
+- [[Ad misericordiam]] 
 	→ Beroep op medelijden 
 	→ Poging emotie op te wekken bij de ander 
 	→ Overtreedt vrijheidsregel: je probeert de ander diens [[standpunt]] te laten herzien 
-- Pathetische drogreden 
+- [[Pathetische drogreden]]
 	→ Beroep op allerlei emoties (niet enkel medelijden) 
 	→ Emoties van derde partij worden aangevoerd als ondersteuning (pathos vervangt logos) 
 	→ Overtreding relevantieregel: emoties van publiek zijn meestal geen relevante ondersteuning 
@@ -423,9 +442,9 @@ Een drogreden is een overtreding van een discussieregel, je zit daarmee de discu
 	→ vertreding van de standpuntregel 
 - [[Ignoratio elenchi]] 
 	→ Irrelevant [[argument]] aanvoeren 
-- Drogreden van het opblazen van wat verzwegen is 
+- [[Drogreden van het opblazen van wat verzwegen is]] 
 	→ Opblazen gebeurt altijd door een ander, “oh dus jij zegt nu dat…” 
-- Drogreden van het loochenen van een [[verzwegen argument]]
+- [[Drogreden van het loochenen van een verzwegen argument]]
 
 
 ##### Discussieregel 5: 
@@ -460,7 +479,7 @@ De redenering die in een argumentatie als formeel [[geldig]] wordt voorgesteld m
 
 
 
-## Argumentatiestructuur
+## [[Argumentatiestructuur]]
 [[onderschikkend argumentatie]]
 [[nevenschikkende argumentatie]]
 [[meervoudige argumentatie]]
@@ -479,7 +498,7 @@ Drogreden = [[bevestiging van de consequent]], niet deugdelijk is drogreden
 [[geldigheidsregel]]
 
 
-## Argumentatieschema
+## [[Argumentatieschema]]
 Basisstructuur
 
 					1 roken is niet zo slecht (voor x geldt Y)
@@ -490,7 +509,7 @@ kritische [[vragen]]:
 kentekenargumentatie:
 - Is Z wel kenmerkend voor Y?
 
-drie hoofdtypen argumentatieschema:
+drie hoofdtypen [[argumentatieschema]]:
 Kenteken ( voor x geld y) > (voor x geldt z) = Z is kenmerkend voor Y
 
 
@@ -505,7 +524,7 @@ Vergelijkingsargumentatie:
 [[Uitgangspuntregel]]
 - [[Propositie]] in twijfel trekken die tot gemeenschappelijke uitgangspunten behoort (door [[antagonist]])
 - [[Propositie]] ten onrechte als gemeenschappelijk uitangspunt behandelen  (door protagonit)
-	- presuppositiedrogreden (presupposities bij een bewering)
+	- [[presuppositiedrogreden]] (presupposities bij een bewering)
 		- meervoudige vraag
 	- [[cirkelredenering]]
 
@@ -542,7 +561,7 @@ Vergelijkingsargumentatie:
 begrippen die veel op elkaar lijken
 [[maximaal argumentatieve interpretatie]]
 [[maximaal argumentatieve analyse]]
-argumentatie schema =x=> argumentatiestructuur
+argumentatie schema =x=> [[argumentatiestructuur]]
 
 Opdracht 1a
 [[meervoudige argumentatie]]:
@@ -664,7 +683,7 @@ logische vorm (logica)
 (minorpremisse) p
 (conclusie) dus; q
 
-argumentatiestructuur (argumentatietheorie)
+[[argumentatiestructuur]] (argumentatietheorie)
 ([[standpunt]]) 1  q
 ([[argument]]) 1.1  p
 ([[Brugargument]]) 1.1'  als p, an q

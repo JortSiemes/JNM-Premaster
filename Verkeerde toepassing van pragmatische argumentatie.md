@@ -1,0 +1,2 @@
+er wordt ten onrechte gesuggereerd dat we met een bepaalde maatregel onherroepelijk van kwaad tot erger zullen vervallen, terwijl dit helemaal niet vaststaat 
+		→ Drogreden van het hellend vlak: er wordt beargumenteerd dat één (gematigde) keuze leidt tot een kettingreactie aan veel ergere keuzes of gevolgen. 

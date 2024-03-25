@@ -1,0 +1,1 @@
+als p dan q, niet p dus niet q 

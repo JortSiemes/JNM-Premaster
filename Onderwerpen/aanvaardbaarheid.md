@@ -1,0 +1,1 @@
+of de deugdelijkheid wordt geaccepteerd De aanvaardbaarhid van argumntatieve uitspraken is in het ene geval makkelijker te bepalen dan in het andere geval. Het gaat vooral gemakkelijk bij feitelijke statements (die op eenvoudige wijze kunnen worden gecontroleerd)

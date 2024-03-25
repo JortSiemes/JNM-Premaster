@@ -1,0 +1,1 @@
+logisch kloppend maar toch strijdige consequenties Voorbeeld: ik breng je wel even met de auto (wanneer je niet kan rijden)

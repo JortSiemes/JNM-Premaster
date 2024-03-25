@@ -1,0 +1,1 @@
+er wordt gebruik gemaakt van onduidelijk taalgebruik om de eigen positie te verbeteren 

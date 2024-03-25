@@ -1,0 +1,1 @@
+→ Hij is een sukkel en verdient te veel 

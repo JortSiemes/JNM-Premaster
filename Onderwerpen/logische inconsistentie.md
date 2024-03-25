@@ -1,0 +1,1 @@
+ uitspraak is logisch in strijd Voorbeeld: andragologie is doelgericht bezig en andragologie is niet doelgericht bezig (dit kan natuurlijk niet)
