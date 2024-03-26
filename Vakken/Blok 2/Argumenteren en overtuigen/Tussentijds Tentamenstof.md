@@ -219,7 +219,6 @@ P2, (p / niet-q)
 C, (q / niet-p)
 
 
-
 week4:
 ### [[Argumentatieschema]]'s
 
