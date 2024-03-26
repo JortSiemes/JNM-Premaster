@@ -42,19 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ecb206de33a05b09",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -191,20 +181,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ecb206de33a05b09",
+  "active": "aaf29df441236892",
   "lastOpenFiles": [
-    "Argumentum ad consequentum.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/week6_Presentatie.pdf",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Week 2.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md",
+    "Argumentum ad consequentum.md",
     "Ontduiken van bewijslast.md",
     "Verschuiven van de bewijslast.md",
     "Onderwerpen/drogreden van de meervoudige vraag.md",
     "Presuppositiedrogreden.md",
     "Onderwerpen/compositiedrogreden.md",
     "Onderwerpen/Stroman.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Week 2.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 6.md",
     "Vakken/Blok 2/quiz opnieuw.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/week6_Presentatie.pdf",
     "Tu quoque.md",
     "Argumentum ad verecundiam.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Samenvatting mid-term.pdf",
@@ -221,7 +211,6 @@
     "Onderwerpen/logische inconsistentie.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Lijst van discussieregels en drogredenen (1).pdf",
     "Drogreden van het loochenen van een verzwegen argument.md",
-    "Drogreden van het opblazen van wat verzwegen is.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/week2_Presentatie.pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/Scan boek deel 1.pdf",
