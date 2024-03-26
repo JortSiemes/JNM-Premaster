@@ -1,42 +1,19 @@
 {
   "main": {
-    "id": "2b5bcaf6fe02fd08",
+    "id": "fba146e7b54ca5d2",
     "type": "split",
     "children": [
       {
-        "id": "ecd3eeb4cf35a78e",
+        "id": "4ed3f7e657805589",
         "type": "tabs",
         "children": [
           {
-            "id": "3c5e89974963f7eb",
+            "id": "f77f7339b4bda84d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d97b28188a076a94",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/week6_Presentatie.pdf"
-              }
-            }
-          },
-          {
-            "id": "aaf29df441236892",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md",
+                "file": "Vakken/Blok 2/Wetenschapsjournalistiek/College 5.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -44,22 +21,21 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8eadcc97a9611bdb",
+    "id": "fce3c3360558816b",
     "type": "split",
     "children": [
       {
-        "id": "1719fd339f859917",
+        "id": "21e6f7197dd5bf63",
         "type": "tabs",
         "children": [
           {
-            "id": "b708f50374b07bde",
+            "id": "6e4a466c78ed8120",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -69,7 +45,7 @@
             }
           },
           {
-            "id": "3154ba4cd949e2c8",
+            "id": "cbe3cc57799ba665",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -84,29 +60,42 @@
             }
           },
           {
-            "id": "c2ecdcb27fe936e8",
+            "id": "168ded479ebea81c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
+            }
+          },
+          {
+            "id": "29fcecb61ce1a4dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 4.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "f35291f5632fe792",
+    "id": "6e1f3ff28bb42c0d",
     "type": "split",
     "children": [
       {
-        "id": "d964458ec2c1583e",
+        "id": "7f3a125c273a731e",
         "type": "tabs",
         "children": [
           {
-            "id": "876723f9bfac3b06",
+            "id": "a3143ed78c6cb3da",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -114,12 +103,12 @@
             }
           },
           {
-            "id": "c837621fd731c3c4",
+            "id": "528918946b6b85aa",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md",
+                "file": "Vakken/Blok 2/Wetenschapsjournalistiek/College 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,19 +120,19 @@
             }
           },
           {
-            "id": "20e722a8ceb4035c",
+            "id": "35006935013746df",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md",
+                "file": "Vakken/Blok 2/Wetenschapsjournalistiek/College 5.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7bbd8c4cdc2e773a",
+            "id": "0ec904427b1e3bf6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -154,12 +143,12 @@
             }
           },
           {
-            "id": "fc307ebed0108408",
+            "id": "eb400bb5cb1ab55a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md"
+                "file": "Vakken/Blok 2/Wetenschapsjournalistiek/College 5.md"
               }
             }
           }
@@ -181,46 +170,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aaf29df441236892",
+  "active": "f77f7339b4bda84d",
   "lastOpenFiles": [
-    "Argumentum ad consequentum.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md",
-    "Ontduiken van bewijslast.md",
-    "Verschuiven van de bewijslast.md",
-    "Onderwerpen/drogreden van de meervoudige vraag.md",
-    "Presuppositiedrogreden.md",
-    "Onderwerpen/compositiedrogreden.md",
-    "Onderwerpen/Stroman.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Week 2.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Week 6.md",
-    "Vakken/Blok 2/quiz opnieuw.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/week6_Presentatie.pdf",
-    "Tu quoque.md",
-    "Argumentum ad verecundiam.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Samenvatting mid-term.pdf",
-    "Onderwerpen/cirkelredenering.md",
-    "Causale relatie.md",
-    "Vergelijkingsrelatie.md",
-    "Kentekenrelatie.md",
-    "argumentatieschema.md",
     "argumentatiestructuur.md",
-    "Onderwerpen/aanvaardbaarheid.md",
-    "Onderwerpen/deugdelijkheid.md",
-    "Onderwerpen/discussieregels.md",
-    "Onderwerpen/pragmatische inconsistentie.md",
-    "Onderwerpen/logische inconsistentie.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Lijst van discussieregels en drogredenen (1).pdf",
-    "Drogreden van het loochenen van een verzwegen argument.md",
+    "argumentatieschema.md",
+    "Verschuiven van de bewijslast.md",
+    "Verkeerde toepassing van pragmatische argumentatie.md",
+    "Vergelijkingsrelatie.md",
+    "Vals dilemma.md",
+    "Vakken/Blok 2/quiz opnieuw.md",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/Nieuwsartikel (UFOs)/TheDesignofaUAV_NYAMUHUNGUDERRICK_2017080601002.pdf",
+    "Onderwerpen/meervoudige argumentatie.md",
+    "Onderwerpen/meervoudig.md",
+    "Onderwerpen/logische geldigheid.md",
+    "Onderwerpen/indirect taalgebruik.md",
+    "Onderwerpen/impliciet taalgebruik.md",
+    "Onderwerpen/geldigheidsregel.md",
+    "Kentekenrelatie.md",
+    "Indirecte persoonlijke aanval.md",
     "Drogreden van het opblazen van wat verzwegen is.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/week2_Presentatie.pdf",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Scan boek deel 1.pdf",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Lijst van discussieregels en drogredenen (1).pdf.crdownload",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Samenvatting mid-term.pdf.crdownload",
-    "Onderwerpen/Pasted image 20240325125521.png",
-    "Onderwerpen/Pasted image 20240325125312.png",
-    "Onderwerpen/Pasted image 20240325125208.png",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/On Neo-luddites led by Ayatollahs  The Frame Matrix of the GM Food Debate in Northern Belgium.pdf",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/Audio file.docx"
+    "Drogreden van het loochenen van een verzwegen argument.md",
+    "Drogreden van de verkeerde vergelijking.md",
+    "Directe persoonlijke aanval.md",
+    "Causale relatie.md",
+    "Argumentum ad verecundiam.md",
+    "Argumentum ad populum.md",
+    "Argumentum ad ignorantiam.md",
+    "Argumentum ad consequentum.md",
+    "Ambiguïteitsdrogreden.md",
+    "Ad misericordiam.md",
+    "Vakken/Blok 2/Scriptie/~WRL0956.tmp",
+    "Vakken/Blok 2/Scriptie/~WRD0937.tmp",
+    "Vakken/Blok 2/Scriptie/~WRL2001.tmp",
+    "Vakken/Blok 2/Scriptie/~WRD1993.tmp",
+    "Vakken/Blok 2/Scriptie/~WRL3237.tmp",
+    "Vakken/Blok 2/Scriptie/~WRD3226.tmp",
+    "Vakken/Blok 2/Scriptie/~WRL3236.tmp",
+    "Vakken/Blok 2/Scriptie/~WRD3225.tmp",
+    "Vakken/Blok 2/Scriptie/~WRL0205.tmp",
+    "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.11.jpeg",
+    "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.11 (1).jpeg",
+    "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.12.jpeg",
+    "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/AlcoholFreeArea_Matthew Paul Argall.jpg",
+    "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/2048x1152.jpg",
+    "Vakken/Blok 2/Internetjournalistiek/Datavisualiseren/95ugG-aantal-nederlanders-dat-stopt-met-alcoholgebruik.png",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Vienna Sewers.jpg",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Battista_ImaginaryPrison.jpg",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Battista_Prison.jpg",
+    "Vakken/Blok 2/Argumenteren en overtuigen/BooksOnFloor.jpg",
+    "Untitled.canvas"
   ]
 }
