@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9ce888667eeb39ec",
+        "id": "73c1958376960e47",
         "type": "tabs",
         "children": [
           {
-            "id": "0c429168eb1dac2e",
+            "id": "e6b3e12cd4f077fa",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.11"
+                "file": "Vakken/Blok 2/Scriptie/College 2 - schakelscriptie.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -91,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vakken/Blok 2/Scriptie/College 2 - schakelscriptie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vakken/Blok 2/Scriptie/College 2 - schakelscriptie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Vakken/Blok 2/Scriptie/College 2 - schakelscriptie.md"
+              }
             }
           }
         ]
@@ -149,6 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c429168eb1dac2e",
-  "lastOpenFiles": []
+  "active": "e6b3e12cd4f077fa",
+  "lastOpenFiles": [
+    "Vakken/Blok 2/Scriptie/College 2 - schakelscriptie.md",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/College 4.md",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/College 1.md"
+  ]
 }
