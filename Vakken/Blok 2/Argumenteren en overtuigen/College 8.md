@@ -97,6 +97,24 @@ Tekst 2 is meer een vorm van acceptatie en aanvaarding vergaren terwijl bij teks
 
 Vragen bij de tekst van Thieme 
 1. Pleidooi als verdediger, 
-2. Benoem de verschillen van mening in dit artikel (met bijbehorende protagonisten en antagonisten). 
-3. Leg uit dat het vanwege de discussiesituatie lastig is om deze tekst in te delen volgens het klassieke model. 
-4. Hoe zorgt Thieme in de eerste alinea voor aandacht, begrip en welwillendheid? Besteedt zij voldoende aandacht aan deze drieslag? Beargumenteer je antwoord.
+2. **Meningsverschil over religie en politiek:**
+	- Protagonist: De spreker Marianne Thieme, die lid is van de Partij voor de Dieren (PvdD)
+	- Antagonisten: Critici zoals godsdienstfilosoof Smedes en schrijver Maarten 't Hart, die kritiek hebben geuit op de relatie tussen religie en politiek, met name in verband met het lidmaatschap van de spreker bij de Adventkerk.
+	- **Meningsverschil over interpretatie van religieuze teksten:**
+		- Protagonist: De spreker, die probeert haar interpretatie van religieuze teksten, met name de Bijbel, te rechtvaardigen in het kader van haar inzet voor dierenrechten.
+		- Antagonisten: Critici die de religieuze interpretatie van de spreker betwisten, zoals Maarten 't Hart, die de relevantie van religie en de interpretatie van religieuze teksten in twijfel trekken.
+	- **Meningsverschil over seculiere versus religieuze waarden:**
+		- Protagonist: De spreker en haar medestanders binnen de Partij voor de Dieren, die pleiten voor seculiere waarden zoals mededogen en duurzaamheid als basis voor politiek engagement.
+		- Antagonisten: Critici zoals Maarten 't Hart, die religieuze waarden bekritiseren en pleiten voor een seculiere benadering van politiek en ethiek.
+	- **Meningsverschil over de rol van religie in politiek en samenleving:**
+		- Protagonist: De spreker en haar medestanders, die geloven dat religie een privé-aangelegenheid is en dat politiek gericht moet zijn op meer pragmatische en inclusieve doelen zoals dierenrechten en sociale rechtvaardigheid.
+		- Antagonisten: Critici die bezorgd zijn over de invloed van religie in politiek en samenleving, en die pleiten voor een seculiere benadering zonder religieuze invloeden.
+3. -
+4. Nee haar introductie is niet pakkend in mijn ogen, wel is de kopzin Wat ik geloof, heeft niets te maken met de PvdD retorisch erg sterk. 
+
+
+Vragen bij betoog van Van der Staaij 
+1. Van welk type retorische situatie is sprake in tekst 3? 
+2. Geef aan hoe de klassieke delen van een rede in dit betoog terug te vinden zijn. Verklaar afwijkingen van de standaardindeling. 
+3. Deel de tekst in in pragma-dialectische discussiefasen (zie hoofdstuk 2 Argumentatie). 
+4. Maak een argumentatiestructuur (zoals in hoofdstuk 5 van Argumentatie) van het betoog van Van der Staaij.
