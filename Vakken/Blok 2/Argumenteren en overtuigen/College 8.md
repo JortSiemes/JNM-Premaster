@@ -9,22 +9,22 @@ Samenvatting hoofdstuk 3 De retoriek van de ordening
 
 
 Standaardordening van het klassieke strafpleidooi
-1. Exordium (inleiding)
+1. [[Exordium]] (inleiding)
 	- aandacht trekken (attentum) vragen stellen, controversiele stelling, anekdote, grap
 	- begrip mogelijk maken (docilem), formuleren doel, metacommunicatie
 	- welwillend stemmen (benevolem), vleien, prijzen, zelfspot, humor, ijsbreker
-2. Narratio (verhaal of uiteenzetting van de toedracht van het misdrijf)
+2. [[Narratio]] (verhaal of uiteenzetting van de toedracht van het misdrijf)
 	- chronologische behandeling van het wie, wat , waar enzovoort
-3. propositio (stellingname)
+3. [[propositio]] (stellingname) (je neemt hier pas stelling in)
 	- tenlasteslegging van de hoofdonderdelen van de argumentatie
-4. partitio (aankondigende indeling van de argumentatie)
+4. [[partitio]] (aankondigende indeling van de argumentatie)
 	- opsomming van de hoofdonderdelen van de argumentatie
-5. argumentatio (argumentatie) uiteenvallend in:
+5. [[argumentatio]] (argumentatie) uiteenvallend in:
 	5.1 confirmatio (bewijsvoering voor de tenlastelegging oftewel het hoofdstandpunt)
 	5.2 refutatio (weerlegging van het verweer van de tegenpartij)
-6. digressio (uitweiding)
+6. [[digressio]] (uitweiding)
 	-  bijvoorbeeld een algemene beschouwing over de verderfelijkheid van het onderhavige type misdaad, los van de specifieke zaak
-7. preroratio (slot)
+7. [[preroratio]] (slot)
 	- recapitulatie van 3 tot en met 5
 	- emotionering
 
@@ -74,7 +74,8 @@ Hoofdstuk 3
 Het "eigenlijke betoog" begint pas met de propositio omdat de propositio de stelling of het standpunt is dat de spreker of schrijver wil verdedigen. Het is het punt dat ze willen maken of bewijzen. De propositio komt meestal na de exordium (inleiding) en de narratio (achtergrondinformatie of context) in een klassieke retorische structuur.
 
 2. Wat zijn de voor- en nadelen van een partitio? 
-?
+voordelen = is een overzichtelijke manier
+nadelen = voorspelbaar en saai
 
 3. De drieslag aandacht, begrip en welwillendheid wordt in het schema van de delen van de rede bij het exordium gezet. Leg uit waarom dit een verkeerde suggestie wekt.
 Geeft de suggestie dat ze in die volgorde en allemaal nodig zijn terwijl in werkelijkheid hun interactie veel subtieler en contextafhankelijker kan zijn.
