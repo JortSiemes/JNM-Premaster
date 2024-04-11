@@ -155,10 +155,6 @@ Vragen bij betoog van Van der Staaij
 
 
 
-
-
-
-
 Narratio - cicero, pro milone
 - wie?
 - wat?
