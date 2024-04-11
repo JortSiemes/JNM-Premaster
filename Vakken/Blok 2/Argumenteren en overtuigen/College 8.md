@@ -114,7 +114,28 @@ Vragen bij de tekst van Thieme
 
 
 Vragen bij betoog van Van der Staaij 
-1. Van welk type retorische situatie is sprake in tekst 3? 
+1. -
 2. Geef aan hoe de klassieke delen van een rede in dit betoog terug te vinden zijn. Verklaar afwijkingen van de standaardindeling. 
-3. Deel de tekst in in pragma-dialectische discussiefasen (zie hoofdstuk 2 Argumentatie). 
-4. Maak een argumentatiestructuur (zoals in hoofdstuk 5 van Argumentatie) van het betoog van Van der Staaij.
+	3. 1. **Opening (Initiatie):**
+	    
+	    - Van der Staaij begint met het herkennen van het repetitieve karakter van het debat over drugs, waarbij hij suggereert dat er al veel is gezegd over het onderwerp en dat hij niet veel nieuws zal toevoegen.
+	2. **Stellingname (Confrontatie):**
+	    
+	    - Hij presenteert vervolgens de standpunten van de SGP met betrekking tot het debat over drugs, waarbij hij stelt dat hun positie onveranderd blijft en dat ze tegen verdere regulering zijn. Hij benadrukt de problemen die ontstaan zijn door het gedoogbeleid en de nadelen van drugsgebruik.
+	3. **Argumentatie (Reconstructie):**
+	    
+	    - Van der Staaij presenteert verschillende argumenten om zijn standpunt te ondersteunen, zoals de schadelijke effecten van drugsgebruik op de gezondheid en de maatschappij, en het risico dat verdere regulering het gebruik van drugs normaliseert. Hij haalt ook de kritiek van de Raad van State aan op het voorstel van Bergkamp.
+	4. **Weerlegging (Reconstructie):**
+	    
+	    - Hij weerlegt vervolgens het idee dat regulering van de wietteelt kan leiden tot minder illegale teelt en het idee dat het vertrouwen in de intrinsieke goedheid van mensen voldoende is om het voorstel te laten slagen.
+	5. **Afsluiting (Conclusie):**
+	    
+	    - Ten slotte sluit hij af door een Bijbeltekst aan te halen die suggereert dat er andere manieren zijn om van het goede te genieten, zonder de noodzaak van gereguleerde wietteelt.. 
+4. 
+1, Drugs moeten helemaal verboden worden
+1,1a Drugs zijn slecht
+1.1a.1 geen wiet is beter dan gereguleerde wiet
+1,1b 
+1,2 Liever geen drugs dan wel 
+1,3 wij denken niet dat dit helpt bij het bestrijden van illegale wietteelt
+1,4 we kunnen niet vertrouwen op de intrensieke goedheid van de mens
