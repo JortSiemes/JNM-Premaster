@@ -113,7 +113,7 @@
               "state": {
                 "file": "Vakken/Blok 2/Argumenteren en overtuigen/College 8.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -138,12 +138,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6b3e12cd4f077fa",
+  "active": "431d2240005804c5",
   "lastOpenFiles": [
     "Strategie van nestor.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/College 8.md",

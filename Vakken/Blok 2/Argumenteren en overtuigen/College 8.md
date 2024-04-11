@@ -56,6 +56,17 @@ AIDA
 - desire: redenen geven om het product of de dienst te verlangen (argumentatio)
 - action: aanzetten tot de koop of het gebruik (peroratio)
 
+Ordening van een betoog
+standaardordening
+- exordium (introductie)
+- narratio (achtergrondinformatie)
+Topische vragen
+- wie?
+- wat?
+- waarom?
+- waarmee?
+- Hoe?
+
 #### Syllabus Opdrachten:
 
 Hoofdstuk 3 
@@ -97,17 +108,17 @@ Tekst 2 is meer een vorm van acceptatie en aanvaarding vergaren terwijl bij teks
 
 Vragen bij de tekst van Thieme 
 1. Pleidooi als verdediger, 
-2. **Meningsverschil over religie en politiek:**
-	- Protagonist: De spreker Marianne Thieme, die lid is van de Partij voor de Dieren (PvdD)
+2. **[[Meningsverschil]] over religie en politiek:**
+	- [[Protagonist]]: De spreker Marianne Thieme, die lid is van de Partij voor de Dieren (PvdD)
 	- Antagonisten: Critici zoals godsdienstfilosoof Smedes en schrijver Maarten 't Hart, die kritiek hebben geuit op de relatie tussen religie en politiek, met name in verband met het lidmaatschap van de spreker bij de Adventkerk.
-	- **Meningsverschil over interpretatie van religieuze teksten:**
-		- Protagonist: De spreker, die probeert haar interpretatie van religieuze teksten, met name de Bijbel, te rechtvaardigen in het kader van haar inzet voor dierenrechten.
+	- **[[Meningsverschil]] over interpretatie van religieuze teksten:**
+		- [[Protagonist]]: De spreker, die probeert haar interpretatie van religieuze teksten, met name de Bijbel, te rechtvaardigen in het kader van haar inzet voor dierenrechten.
 		- Antagonisten: Critici die de religieuze interpretatie van de spreker betwisten, zoals Maarten 't Hart, die de relevantie van religie en de interpretatie van religieuze teksten in twijfel trekken.
-	- **Meningsverschil over seculiere versus religieuze waarden:**
-		- Protagonist: De spreker en haar medestanders binnen de Partij voor de Dieren, die pleiten voor seculiere waarden zoals mededogen en duurzaamheid als basis voor politiek engagement.
+	- **[[Meningsverschil]] over seculiere versus religieuze [[waarden]]:**
+		- [[Protagonist]]: De spreker en haar medestanders binnen de Partij voor de Dieren, die pleiten voor seculiere [[waarden]] zoals mededogen en duurzaamheid als basis voor politiek engagement.
 		- Antagonisten: Critici zoals Maarten 't Hart, die religieuze waarden bekritiseren en pleiten voor een seculiere benadering van politiek en ethiek.
-	- **Meningsverschil over de rol van religie in politiek en samenleving:**
-		- Protagonist: De spreker en haar medestanders, die geloven dat religie een privé-aangelegenheid is en dat politiek gericht moet zijn op meer pragmatische en inclusieve doelen zoals dierenrechten en sociale rechtvaardigheid.
+	- **[[Meningsverschil]] over de rol van religie in politiek en samenleving:**
+		- [[Protagonist]]: De spreker en haar medestanders, die geloven dat religie een privé-aangelegenheid is en dat politiek gericht moet zijn op meer pragmatische en inclusieve doelen zoals dierenrechten en sociale rechtvaardigheid.
 		- Antagonisten: Critici die bezorgd zijn over de invloed van religie in politiek en samenleving, en die pleiten voor een seculiere benadering zonder religieuze invloeden.
 3. -
 4. Nee haar introductie is niet pakkend in mijn ogen, wel is de kopzin Wat ik geloof, heeft niets te maken met de PvdD retorisch erg sterk. 
@@ -124,7 +135,7 @@ Vragen bij betoog van Van der Staaij
 	    - Hij presenteert vervolgens de standpunten van de SGP met betrekking tot het debat over drugs, waarbij hij stelt dat hun positie onveranderd blijft en dat ze tegen verdere regulering zijn. Hij benadrukt de problemen die ontstaan zijn door het gedoogbeleid en de nadelen van drugsgebruik.
 	3. **Argumentatie (Reconstructie):**
 	    
-	    - Van der Staaij presenteert verschillende argumenten om zijn standpunt te ondersteunen, zoals de schadelijke effecten van drugsgebruik op de gezondheid en de maatschappij, en het risico dat verdere regulering het gebruik van drugs normaliseert. Hij haalt ook de kritiek van de Raad van State aan op het voorstel van Bergkamp.
+	    - Van der Staaij presenteert verschillende argumenten om zijn [[standpunt]] te ondersteunen, zoals de schadelijke effecten van drugsgebruik op de gezondheid en de maatschappij, en het risico dat verdere regulering het gebruik van drugs normaliseert. Hij haalt ook de kritiek van de Raad van State aan op het voorstel van Bergkamp.
 	4. **Weerlegging (Reconstructie):**
 	    
 	    - Hij weerlegt vervolgens het idee dat regulering van de wietteelt kan leiden tot minder illegale teelt en het idee dat het vertrouwen in de intrinsieke goedheid van mensen voldoende is om het voorstel te laten slagen.
