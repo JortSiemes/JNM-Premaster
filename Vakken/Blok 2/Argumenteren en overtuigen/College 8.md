@@ -10,9 +10,9 @@ Samenvatting hoofdstuk 3 De retoriek van de ordening
 
 Standaardordening van het klassieke strafpleidooi
 1. Exordium (inleiding)
-	- aandacht trekken
-	- begrip mogelijk maken
-	- welwillend stemmen
+	- aandacht trekken (attentum) vragen stellen, controversiele stelling, anekdote, grap
+	- begrip mogelijk maken (docilem), formuleren doel, metacommunicatie
+	- welwillend stemmen (benevolem), vleien, prijzen, zelfspot, humor, ijsbreker
 2. Narratio (verhaal of uiteenzetting van de toedracht van het misdrijf)
 	- chronologische behandeling van het wie, wat , waar enzovoort
 3. propositio (stellingname)
