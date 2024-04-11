@@ -150,3 +150,18 @@ Vragen bij betoog van Van der Staaij
 1,2 Liever geen drugs dan wel 
 1,3 wij denken niet dat dit helpt bij het bestrijden van illegale wietteelt
 1,4 we kunnen niet vertrouwen op de intrensieke goedheid van de mens
+
+
+
+
+
+
+
+
+
+Narratio - cicero, pro milone
+- wie?
+- wat?
+- waarom?
+- waarmee?
+- Hoe?
