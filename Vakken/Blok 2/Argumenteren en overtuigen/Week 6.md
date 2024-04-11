@@ -59,7 +59,7 @@ een onvoldoende verdediging van ene standpunt mag niet leiden tot het handhaven 
 [[Protagonismedrogreden]] (standpunt handhaven dat onvoldoende verdedigd is)
 [[antagonismedrogreden]] (twijfel handhaven bij een standpunt dat afdoende verdedigd is)
 [[Argumentum ad ignorantiam]] (iets is waar, wanneer de verdediging van het tegenovergestelde standpunt is mislukt)
-[[vals dilemma]] (p of q; niet p, dus q / niet q, dus p)
+[[Vals dilemma]] (p of q; niet p, dus q / niet q, dus p)
 
 
 
