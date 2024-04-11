@@ -78,4 +78,25 @@ Ik zal het niet te lang maken. Straks kunt u vragen wat u wilt. Ik ben benieuwd 
 
 Door aandacht in de vorm van: nieuwschierigheid door dit een spreekbeurt te noemen, dit geeft het meteen een interessant perspectief. Dit is ongebruikelijk voor iemand in de politiek
 
-Begrip in de vorm van
+Begrip in de vorm van dankbaar om te mogen presenteren en ook het lokaal maken door Rotterdam te benoemen. Hij geeft ook meteen duidelijk een onderwerp aan door de moord van theo van gogh te benoemen
+
+Welwillendheid/aanvaarding. De humor in de speech van geert en het afsluiten met een vragenrondje alsof het een basisschool spreekbeurt is is strategisch gekozen om een vorm van humor te introduceren.
+
+
+
+Vrienden van het Vlaams Belang, Wat is het geweldig om hier vanavond te zijn. En mag ik met uw toestemming als volgt beginnen: Zij zullen hem niet temmen, de fiere Vlaamse Leeuw! En wat ben ik trots om hier vanavond te mogen zijn tussen zoveel Vlaamse leeuwen! 5 En een woord van dank aan uw geweldige voorzitter Tom Van Grieken: dank, Tom, dat je me voor vanavond hebt uitgenodigd, en natuurlijk ook een woord van dank aan mijn vriend – al jaren lang – Filip De Winter. Graag een applaus voor beide heren. Het is fantastisch om hier in Brussel te zijn. Brussel, zoals u weet, de oude hoofdstad van de Nederlanden. En vandaag zonder enige twijfel, zonder enige discussie, de hoofdstad van Vlaanderen! […]
+
+Aandacht door de vlaamse leeuw een symbool te pakken en gebruiken om met deze exordium meteen aandacht te trekken
+Ook de herhaaldelijks bedanken, zeggen dat het geweldig is om hier te zijn. Toestemming vragen en Tom van Grieken persoonlijk bedanken. Ook Filip de Winter een vriend te noemen en een applaus te vragen. Vervolgens geeft ie ook nog veel complimenten aan de stad brussel. 
+
+
+Verschillen en overeenkomsten
+Allebei duidelijke nadruk op de locatie
+vragen om interactie in vorm van vragen, toestemming en applaus
+Tekst 2 is meer een vorm van acceptatie en aanvaarding vergaren terwijl bij tekst een hij meteen terzake komt door de politieke implicaties rondom de moord van Theo van Gogh naar voren te halen.
+
+Vragen bij de tekst van Thieme 
+1. Pleidooi als verdediger, 
+2. Benoem de verschillen van mening in dit artikel (met bijbehorende protagonisten en antagonisten). 
+3. Leg uit dat het vanwege de discussiesituatie lastig is om deze tekst in te delen volgens het klassieke model. 
+4. Hoe zorgt Thieme in de eerste alinea voor aandacht, begrip en welwillendheid? Besteedt zij voldoende aandacht aan deze drieslag? Beargumenteer je antwoord.
