@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "73c1958376960e47",
+        "id": "90c97b2dba15d71e",
         "type": "tabs",
         "children": [
           {
-            "id": "e6b3e12cd4f077fa",
+            "id": "6a30d9ed3bfb6593",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/College 8.md",
+                "file": "Vakken/Blok 2/Wetenschapsjournalistiek/College 7.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/College 8.md",
+                "file": "Vakken/Blok 2/Wetenschapsjournalistiek/College 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/College 8.md",
+                "file": "Vakken/Blok 2/Wetenschapsjournalistiek/College 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/College 8.md"
+                "file": "Vakken/Blok 2/Wetenschapsjournalistiek/College 7.md"
               }
             }
           }
@@ -156,8 +156,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6b3e12cd4f077fa",
+  "active": "6a30d9ed3bfb6593",
   "lastOpenFiles": [
+    "Vakken/Blok 2/Wetenschapsjournalistiek/College 5.md",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/College 7.md",
+    "Onderwerpen/politieke rede.md",
+    "Onderwerpen/evualitief.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/College 8.md",
     "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/banner.psd",
     "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/np_file_173890.tmp",
     "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/20140629145642_8431.jpg",
@@ -168,11 +173,8 @@
     "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/Jackie-Chan-Water.jpg.crdownload",
     "Vakken/Blok 2/Wetenschapsjournalistiek/Bk_0927_3387_2014_023_002_004.pdf",
     "Vakken/Blok 2/Wetenschapsjournalistiek/Bk_0927_3387_2014_023_002_004.pdf.crdownload",
-    "evualitief.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/College 8.md",
-    "gelegenheidsrede.md",
-    "gerechtelijke rede.md",
-    "politieke rede.md",
+    "Onderwerpen/gelegenheidsrede.md",
+    "Onderwerpen/gerechtelijke rede.md",
     "Onderwerpen/Ad misericordiam.md",
     "Onderwerpen/Exordium.md",
     "Onderwerpen/preroratio.md",
@@ -186,7 +188,6 @@
     "Vakken/Blok 2/Wetenschapsjournalistiek/Achtergrond artikel (FOTONICA)/~WRL1921.tmp",
     "Vakken/Blok 2/Wetenschapsjournalistiek/Achtergrond artikel (FOTONICA)/~WRD1901.tmp",
     "Vakken/Blok 2/Wetenschapsjournalistiek/Achtergrond artikel (FOTONICA)/Achtergrondartikel_JortSiemes_4028198_Fotonica.pdf",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/Achtergrond artikel (FOTONICA)/mso56D6.tmp",
     "Vakken/Blok 2/Wetenschapsjournalistiek/Achtergrond artikel (FOTONICA)/image-from-rawpixel-id-11176535-original.jpg",
     "Vakken/Blok 2/Wetenschapsjournalistiek/Achtergrond artikel (FOTONICA)/image-from-rawpixel-id-11189475-original.jpg",
     "Vakken/Blok 2/Wetenschapsjournalistiek/Achtergrond artikel (FOTONICA)/Overview_of_Technische_Universiteit_Eindhoven.jpg",
