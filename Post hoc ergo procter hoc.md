@@ -1,1 +1,0 @@
-‘daarna, dus daardoor’, verkeerd benoemen van oorzaak-gevolg 

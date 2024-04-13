@@ -1,0 +1,1 @@
+er wordt een [[argument]] vermomd als [[presuppositie]], zodat deze niet in twijfel getrokken kan worden. Er wordt dan een bewering gedaan die eigenlijk nog iets anders beweert 

@@ -1,1 +1,0 @@
-er wordt ten onrechte gesteld dat het [[standpunt]] aanvaard moet worden, omdat veel mensen het ermee eens zijn 

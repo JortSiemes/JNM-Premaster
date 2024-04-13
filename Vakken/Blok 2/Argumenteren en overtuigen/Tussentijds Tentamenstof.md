@@ -88,7 +88,7 @@ De discussiefasen:
 
 
 [[Week 2]]:
-### [[Argumentatiestructuur]]
+### [[argumentatiestructuur]]
 [[Enkelvoudige argumentatie]]
 Basisstructuur
 ![[Pasted image 20240325125208.png]]
@@ -121,7 +121,7 @@ De wijze waarop de naar voren gebrachte enkelvoudige argumentaties zich tot elka
 Voor de oplossing van een [[meervoudig]] verschil van mening zijn meer enkelvoudige argumentaties nodig. Het rechtvaardigen of ontkrachten van elke [[Propositie]] vergt ten minste één [[enkelvoudige argumentatie]].
 
 Als het verschil van mening gemengd is ([[standpunt]] stuit op tegenstelling, dubbelrollen voor [[protagonist]] en [[antagonist]]) moeten er door meer dan één partij betogen worden gehouden, die elk ook weer uit meer dan één [[enkelvoudige argumentatie]] kunnen bestaan. 
-→ [[Argumentatiestructuur]] hangt ook af van de reacties waar in het betoog op gereageerd of geanticipeerd wordt: zo ontstaat er argumentatie voor argumentatie. 
+→ [[argumentatiestructuur]] hangt ook af van de reacties waar in het betoog op gereageerd of geanticipeerd wordt: zo ontstaat er argumentatie voor argumentatie. 
 → Je kunt kritiek ook bestrijden door je oorspronkelijke argumentatie aan te vullen met andere argumenten (ondersteunen [[standpunt]] rechtstreeks), zodat er een gecombineerde argumentatie ontstaat of een bestaande combinatie van argumentaties wordt uitgebreid.
 
 [[Aanvaardbaarheid]]: verdedigingspoging kan mislukken omdat het ene [[argument]] de luisteraar wel aanspreekt en het andere [[argument]] niet, waardoor soms een overdaad of ‘overkill’ van argumenten wordt aangevoerd (alternatieve verdediging) → [[aanvaardbaarheid]] is kwestie van gradatie 
@@ -176,7 +176,7 @@ Logica: helpt je bij een impliciet [[standpunt]] te achterhalen wat er in feite 
 - Algemene morele principes zijn aanvaardbaar 
 - De [[aanvaardbaarheid]] van discutabele standpunten hangt af van de onderbouwing 
 
-[[pragmatische argumentatie]]: valt onder [[causale relatie]], zit altijd een (on)wenselijkheid in, een oordeel 
+[[pragmatische argumentatie]]: valt onder [[Causale relatie]], zit altijd een (on)wenselijkheid in, een oordeel 
 [[Deugdelijkheid van uitspraken]]: wordt het [[argument]] op een deugdelijke manier in verband gebracht met het [[standpunt]]?
 
 ### [[Verzwegen argument]]
@@ -220,7 +220,7 @@ C, (q / niet-p)
 
 
 week4:
-### [[Argumentatieschema]]'s
+### [[argumentatieschema]]'s
 
 Mogelijke inconsistenties in een betoog kunnen ‘logisch’ of ‘pragmatisch’ van aard zijn. 
 - Een [[logische inconsistentie]]: houdt in dat er in het betoog uitspraken worden gedaan die, omdat ze logisch met elkaar in strijd zijn, onmogelijk allemaal waar kunnen worden gemaakt (er zit bijvoorbeeld een logisch tegenspraak in verborgen) 
@@ -240,15 +240,15 @@ Drie eisen voor [[deugdelijkheid]]
 [[Aanvaardbaarheid]]: of de [[deugdelijkheid]] wordt geaccepteerd De aanvaardbaarhid van argumntatieve uitspraken is in het ene geval makkelijker te bepalen dan in het andere geval. Het gaat vooral gemakkelijk bij feitelijke statements (die op eenvoudige wijze kunnen worden gecontroleerd)
 
 Verschil [[argumentatiestructuur]] en [[argumentatieschema]]: 
-- [[Argumentatiestructuur]]: een overzicht van een betoog dat de onderlinge verbanden weergeeft tussen de verschillende argumenten en het [[standpunt]] 
-- [[Argumentatieschema]]: schematische weergave van het type rechtvaardigingsgrond waarmee [[argument]] en [[standpunt]] verbonden zijn
+- [[argumentatiestructuur]]: een overzicht van een betoog dat de onderlinge verbanden weergeeft tussen de verschillende argumenten en het [[standpunt]] 
+- [[argumentatieschema]]: schematische weergave van het type rechtvaardigingsgrond waarmee [[argument]] en [[standpunt]] verbonden zijn
 
 ### Drie hoofdklassen van [[argumentatieschema]]'s: 
 1. [[Kentekenrelatie]]: argumentatie in verband gebracht met het [[standpunt]] Voorbeeld: Herman is een echte jongen - Herman is stoer (stoerheid is kenmerkend voor echte jongens) 
 2. [[Vergelijkingsrelatie]]: vergelijking getrokken tussen het een (sport) en het ander (universiteit) Voorbeeld: loting voor toelating op de universiteit is absurd - er wordt ook niet bij loting bepaald wie naar de Olympische Spelen gaat 
 3. [[Causale relatie]]: het een wordt als oorzaak gepresenteerd van het ander Voorbeeld: Mariekes hoofdpijn zal nu wel verdwijnen - zij heeft net twee aspirines genomen (aspirines helpen tegen hoofdpijn)
 		[[Pragmatische argumentatie]]: 
-		- Valt onder [[causale relatie]], zit altijd een (on)wenselijkheid in, een oordeel 
+		- Valt onder [[Causale relatie]], zit altijd een (on)wenselijkheid in, een oordeel 
 		- Heeft [[Prescriptief|een prescrip]]tief [[standpunt]] (jij zou dit moeten doen, jij zou dit niet moeten doen)
 
 
@@ -272,15 +272,15 @@ Verschil [[argumentatiestructuur]] en [[argumentatieschema]]:
 [[Afsluitingsfase]]: vaststellen tot in hoeverre het vvm is opgelost 
 
 Een ongeschikt [[argumentatieschema]] gebruiken: 
-- Autoriteitsargumentatie: misbruik van [[kentekenrelatie]] 
-- Populistische argumentatie: misbruik van [[kentekenrelatie]] → [[argumentum ad populum]] 
-- Argumentum ad consequentiam: misbruik van [[causale relatie]] 
+- Autoriteitsargumentatie: misbruik van [[Kentekenrelatie]] 
+- Populistische argumentatie: misbruik van [[Kentekenrelatie]] → [[Argumentum ad populum]] 
+- Argumentum ad consequentiam: misbruik van [[Causale relatie]] 
 
 Een [[argumentatieschema]] verkeerd toepassen: 
-- [[Drogreden van de verkeerde vergelijking]] → misbruik van de [[vergelijkingsrelatie]] 
-- Drogreden van het hellend vlak/slippery slope → misbruik van de [[kentekenrelatie]] 
-- Post hoc ergo propter hoc → misbruik van de [[causale relatie]] 
-- Overhaaste generalisatie: [[secundum quid]] → misbruik van de [[kentekenrelatie]]
+- [[Drogreden van de verkeerde vergelijking]] → misbruik van de [[Vergelijkingsrelatie]] 
+- Drogreden van het hellend vlak/slippery slope → misbruik van de [[Kentekenrelatie]] 
+- Post hoc ergo propter hoc → misbruik van de [[Causale relatie]] 
+- Overhaaste generalisatie: [[Secundum quid]] → misbruik van de [[Kentekenrelatie]]
 
 [[week 6]]: [[Drogredenen]] 2
 
@@ -288,7 +288,7 @@ Een [[argumentatieschema]] verkeerd toepassen:
 [[Tegensprekende antagonist]]: heeft dan ook ineens bewijslast 
 Beiden worden dan [[antagonist]] van elkaar [[standpunt]]
 
-“Het behoeft geen betoog” → [[verschuiven van de bewijslast]] (door [[protagonist]] naar [[antagonist]])
+“Het behoeft geen betoog” → [[Verschuiven van de bewijslast]] (door [[protagonist]] naar [[antagonist]])
 
 Ontduiken van de bewijslast (door [[protagonist]]) 
 - Neem maar van mij aan 
@@ -324,7 +324,7 @@ Overtredingen door [[protagonist]] of [[antagonist]] in de [[confrontatiefase]]
 		“Jouw [[standpunt]] telt niet, want jij bent een Heks, mevrouw Kaag” “Mevrouw, u bent knettergek” 
 	- Zijn motieven verdacht maken = [[indirecte]] persoonlijke aanval/circumstantial variant 
 		“Ja, dat zeg jij alleen maar omdat je er zelf aandelen in hebt” 
-	- Een tegenstrijdigheid in woord en daad aanwijzen = [[tu quoque]] variant/jij-bak 
+	- Een tegenstrijdigheid in woord en daad aanwijzen = [[Tu quoque]] variant/jij-bak 
 		- A: “Je mag nooit beginnen met roken, want roken is slecht voor je, hoor!” 
 		- B: “Ja, maar jij rookt zelf ook” 
 
@@ -359,8 +359,8 @@ Een [[standpunt]] mag niet worden verdedigd door non-argumentatie naar voren te 
 
 Overtredingen van de [[protagonist]] in de [[argumentatiefase]] 
 1. Het [[standpunt]] niet door middel van argumentatie verdedigen, maar door middel van retorische trucs = non-argumentatie 
-	- De sentimenten van het publiek bespelen = [[pathetische drogreden]] 
-	- Schermen met eigen kwaliteiten = ethische drogreden / [[argumentum ad verecundiam]] 
+	- De sentimenten van het publiek bespelen = [[Pathetische drogreden]] 
+	- Schermen met eigen kwaliteiten = ethische drogreden / [[Argumentum ad verecundiam]] 
 2. Argumentatie gebruiken die niet slaat op het [[standpunt]] dat ter discussie staat = irrelevante argumentatie / [[ignoratio elenchi]] 
 
 ##### Discussieregel 5: [[Verzwegen argumentregel]] 
@@ -388,7 +388,7 @@ Overtredingen door de [[protagonist]] in de [[argumentatiefase]]
 	- Drogreden van de ontkenning van het antocedent 
 	- Drogreden van de [[bevestiging van de consequent]] 
 2. In een redenering eigenschappen van delen en gehelen door elkaar halen 
-	- [[Divisiedrogreden]] = [[drogreden van de verkeerde vergelijking]] 
+	- [[Divisiedrogreden]] = [[Drogreden van de verkeerde vergelijking]] 
 	- [[Compositiedrogreden]] = drogreden van de verkeerde samenvoeging
 
 ##### Discussieregel 8: [[Argumentatieschemaregel]] 
@@ -396,18 +396,18 @@ Een door een formeel geldige redenering bewezen [[standpunt]] mag niet als afdoe
 
 Overtredingen door de [[protagonist]] in de [[argumentatiefase]] 
 1. Een ongeschikt [[argumentatieschema]] gebruiken 
-	- Autoriteitsargumentatie = misbruik van [[kentekenrelatie]] 
-	- Populistische argumentatie = misbruik van [[kentekenrelatie]] → [[argumentum ad populum]] 
-	- Misbruik van [[causale relatie]] → argumentum ad consequentiam 
+	- Autoriteitsargumentatie = misbruik van [[Kentekenrelatie]] 
+	- Populistische argumentatie = misbruik van [[Kentekenrelatie]] → [[Argumentum ad populum]] 
+	- Misbruik van [[Causale relatie]] → argumentum ad consequentiam 
 2. Een [[argumentatieschema]] verkeerd toepassen 
-	- [[Drogreden van de verkeerde vergelijking]] = misbruik van [[vergelijkingsrelatie]] 
-	- Drogreden van het hellend vlak / slippery slope = misbruik van [[causale relatie]] “Voor je het weet is het hier een dictatuur!” “Het is een kafkiaanse wereld die u hier zit te creeëren” 
-	- Post hoc ergo propter hoc = misbruik van [[causale relatie]] 
-	- Overhaaste generalisatie / [[secundum quid]] = misbruik van [[kentekenrelatie]] 
-[[Argumentatieschema]]'s
-1. [[kentekenrelatie]]
-2. [[vergelijkingsrelatie]]
-3. [[causale relatie]]
+	- [[Drogreden van de verkeerde vergelijking]] = misbruik van [[Vergelijkingsrelatie]] 
+	- Drogreden van het hellend vlak / slippery slope = misbruik van [[Causale relatie]] “Voor je het weet is het hier een dictatuur!” “Het is een kafkiaanse wereld die u hier zit te creeëren” 
+	- Post hoc ergo propter hoc = misbruik van [[Causale relatie]] 
+	- Overhaaste generalisatie / [[Secundum quid]] = misbruik van [[Kentekenrelatie]] 
+[[argumentatieschema]]'s
+1. [[Kentekenrelatie]]
+2. [[Vergelijkingsrelatie]]
+3. [[Causale relatie]]
 
 ##### Discussieregel 9: Afsluitingsregel 
 Een niet-afdoende verdediging van een [[standpunt]] mag niet leiden tot het handhaven van dit [[standpunt]] door de [[protagonist]], en een afdoende verdediging van een [[standpunt]] mag niet leiden tot het handhaven van twijfel aan het [[standpunt]] door de [[antagonist]] 
@@ -418,7 +418,7 @@ Overtredingen door de [[protagonist]] of [[antagonist]] in de [[afsluitingsfase]
 	- Ten onrechte concluderen dat een [[standpunt]] waar is omdat het met succes is verdedigd 
 2. Door de [[antagonist]]: 
 	- Ten onrechte handhaven van twijfel aan een [[standpunt]] dat afdoende is verdedigd
-	- Ten onrechte concluderen dat een [[standpunt]] waar is, omdat het tegengestelde niet met succes is verdedigd = [[argumentum ad ignorantiam]] 
+	- Ten onrechte concluderen dat een [[standpunt]] waar is, omdat het tegengestelde niet met succes is verdedigd = [[Argumentum ad ignorantiam]] 
 
 ##### Discussieregel 10: Taalgebruikregel 
 De discussianten mogen geen formuleringen gebruiken die onvoldoende duidelijk of verwarrend dubbelzinnig zijn, en ze mogen de formuleringen van de tegenpartij niet opzettelijk verkeerd interpreteren 
@@ -434,7 +434,7 @@ Overtredingen door de [[protagonist]] of [[antagonist]] in alle discussiefasen
 		- Onbepaaldheid (referentie) 
 		- Onbekendheid (predicatie) 
 		- Vaagheid (predicatie) 
-2. Misbruik maken van dubbelzinnigheid = [[ambiguïteitsdrogreden]] 
+2. Misbruik maken van dubbelzinnigheid = [[Ambiguïteitsdrogreden]] 
 	- Semantische ambiguïteit 
 	- Syntactische ambiguïtei
 
@@ -467,7 +467,7 @@ Een drogreden is een overtreding van een discussieregel, je zit daarmee de discu
 - [[Cirkelredenering]]: [[argument]] is hetzelfde als het [[standpunt]] - [[Divisiedrogreden]]: ten onrechte toekennen van een eigenschap van een geheel aan de samenstellende delen 
 - [[Compositiedrogreden]]: ten onrechte toekennen van een eigenschap van de samenstellende delen aan het geheel 
 - [[Argumentum ad populum]]: er wordt ten onrechte gesteld dat het [[standpunt]] aanvaard moet worden, omdat veel mensen het ermee eens zijn 
-- [[Argumentum ad consequentum]]: er wordt verkeerd gebruik gemaakt van een [[causale relatie]] 
+- [[Argumentum ad consequentum]]: er wordt verkeerd gebruik gemaakt van een [[Causale relatie]] 
 - [[Drogreden van de verkeerde vergelijking]]: er worden twee dingen met elkaar vergeleken die helemaal niet vergelijkbaar zijn 
 - [[Verkeerde toepassing van pragmatische argumentatie]]: er wordt ten onrechte gesuggereerd dat we met een bepaalde maatregel onherroepelijk van kwaad tot erger zullen vervallen, terwijl dit helemaal niet vaststaat 
 		→ Drogreden van het hellend vlak: er wordt beargumenteerd dat één (gematigde) keuze leidt tot een kettingreactie aan veel ergere keuzes of gevolgen. 
@@ -543,7 +543,7 @@ Wat is de [[consequent]], [[antecedent]], etc
 Is dit logisch [[geldig]] 
 Bevestiging [[consequent]], etc 
 
-[[Argumentatieschema]] 
+[[argumentatieschema]] 
 Kenteken 
 Vergelijking 
 Causaal → [[pragmatische argumentatie]] als subtype, begint met [[prescriptief]] [[standpunt]], en schrijft iets voor, gaat over wenselijkheid 
@@ -562,7 +562,7 @@ Presupp [[drogredenen]]
 
 
 
-## [[Argumentatiestructuur]]
+## [[argumentatiestructuur]]
 [[onderschikkend argumentatie]]
 [[nevenschikkende argumentatie]]
 [[meervoudige argumentatie]]
@@ -581,7 +581,7 @@ Drogreden = [[bevestiging van de consequent]], niet deugdelijk is drogreden
 [[geldigheidsregel]]
 
 
-## [[Argumentatieschema]]
+## [[argumentatieschema]]
 Basisstructuur
 
 					1 roken is niet zo slecht (voor x geldt Y)
@@ -607,7 +607,7 @@ Vergelijkingsargumentatie:
 [[Uitgangspuntregel]]
 - [[Propositie]] in twijfel trekken die tot gemeenschappelijke uitgangspunten behoort (door [[antagonist]])
 - [[Propositie]] ten onrechte als gemeenschappelijk uitangspunt behandelen  (door protagonit)
-	- [[presuppositiedrogreden]] (presupposities bij een bewering)
+	- [[Presuppositiedrogreden]] (presupposities bij een bewering)
 		- meervoudige vraag
 	- [[cirkelredenering]]
 

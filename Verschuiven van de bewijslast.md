@@ -1,1 +1,0 @@
-“nee bewijs jíj het eerst maar” terwijl je eigenlijk zelf aan de beurt was om bewijs te leveren voor je [[standpunt]] 

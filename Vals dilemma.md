@@ -1,1 +1,0 @@
-er wordt ten onrechte van uitgegaan dat er ten opzichte van een [[propositie]] altijd hetzij een positief hetzij een negatief [[standpunt]] moet worden ingenomen 

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "73c1958376960e47",
+        "id": "90c97b2dba15d71e",
         "type": "tabs",
         "children": [
           {
-            "id": "e6b3e12cd4f077fa",
+            "id": "6a30d9ed3bfb6593",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Blok 2/Scriptie/College 2 - schakelscriptie.md",
+                "file": "Vakken/Blok 2/Wetenschapsjournalistiek/College 7.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Blok 2/Scriptie/College 2 - schakelscriptie.md",
+                "file": "Vakken/Blok 2/Wetenschapsjournalistiek/College 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,9 +111,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Blok 2/Scriptie/College 2 - schakelscriptie.md",
+                "file": "Vakken/Blok 2/Wetenschapsjournalistiek/College 7.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -134,16 +134,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Blok 2/Scriptie/College 2 - schakelscriptie.md"
+                "file": "Vakken/Blok 2/Wetenschapsjournalistiek/College 7.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,19 +156,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6b3e12cd4f077fa",
+  "active": "6a30d9ed3bfb6593",
   "lastOpenFiles": [
-    "Vakken/Blok 2/Wetenschapsjournalistiek/Eindpaper (Kernreactoren)/~WRL3865.tmp",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/Eindpaper (Kernreactoren)/~WRD3826.tmp",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/Eindpaper (Kernreactoren)/~WRL2295.tmp",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/Eindpaper (Kernreactoren)/~WRD2272.tmp",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/Eindpaper (Kernreactoren)/~WRL3516.tmp",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/Eindpaper (Kernreactoren)/~WRD3505.tmp",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/Eindpaper (Kernreactoren)/~WRL2961.tmp",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/Eindpaper (Kernreactoren)/~WRD2949.tmp",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/Eindpaper (Kernreactoren)/~WRL2907.tmp",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/Eindpaper (Kernreactoren)/~WRD2899.tmp",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/Eindpaper (Kernreactoren)/~WRL1638.tmp",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/Plaatsen artikelen op Kijk op Kennis WJ 2023 v1 19-4.pdf",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/Plaatsen artikelen op Kijk op Kennis WJ 2023 v1 19-4.pdf.crdownload",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/College 5.md",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/College 7.md",
+    "Onderwerpen/politieke rede.md",
+    "Onderwerpen/evualitief.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/College 8.md",
+    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/banner.psd",
+    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/np_file_173890.tmp",
+    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/20140629145642_8431.jpg",
+    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/20140629145642_8431.jpg.crdownload",
+    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/evergrande_Spring.jpg",
+    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/evergrande_Spring.jpg.crdownload",
+    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/Jackie-Chan-Water.jpg",
+    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/Jackie-Chan-Water.jpg.crdownload",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/Bk_0927_3387_2014_023_002_004.pdf",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/Bk_0927_3387_2014_023_002_004.pdf.crdownload",
+    "Onderwerpen/gelegenheidsrede.md",
+    "Onderwerpen/gerechtelijke rede.md",
+    "Onderwerpen/Ad misericordiam.md",
+    "Onderwerpen/Exordium.md",
+    "Onderwerpen/preroratio.md",
+    "Onderwerpen/digressio.md",
+    "Onderwerpen/argumentatio.md",
+    "Onderwerpen/propositio.md",
+    "Onderwerpen/partitio.md",
+    "Onderwerpen/Narratio.md",
+    "Onderwerpen/Strategie van nestor.md",
+    "Agenda/TO DO 2024.md",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/Achtergrond artikel (FOTONICA)/~WRL1921.tmp",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/Achtergrond artikel (FOTONICA)/~WRD1901.tmp",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/Achtergrond artikel (FOTONICA)/image-from-rawpixel-id-11176535-original.jpg",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/Achtergrond artikel (FOTONICA)/image-from-rawpixel-id-11189475-original.jpg",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/Achtergrond artikel (FOTONICA)/Overview_of_Technische_Universiteit_Eindhoven.jpg",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/Achtergrond artikel (FOTONICA)/Silicon_chip_from_a_computer_laser_mouse_under_a_microscope_50х.jpg",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/Achtergrond artikel (FOTONICA)/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTExL2ZsNTIxOTI4MTA3MDQtaW1hZ2UuanBn.webp",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/Achtergrond artikel (FOTONICA)/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTEyL2ZsMjc2NjQ0NTA2MjctaW1hZ2UuanBn.webp",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/Achtergrond artikel (FOTONICA)/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTExL2ZsNTIzOTAzOTg5NTctaW1hZ2UuanBn.jpg",
     "Vakken/Blok 2/Scriptie/College 2 - schakelscriptie.md",
     "Vakken/Blok 2/Wetenschapsjournalistiek/College 4.md",
     "Vakken/Blok 2/Wetenschapsjournalistiek/College 1.md"

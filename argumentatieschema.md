@@ -1,1 +1,0 @@
-schematische weergave van het type rechtvaardigingsgrond waarmee argument en standpunt verbonden zijn

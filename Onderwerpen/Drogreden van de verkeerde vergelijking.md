@@ -1,0 +1,1 @@
+er worden twee dingen met elkaar vergeleken die helemaal niet vergelijkbaar zijn 

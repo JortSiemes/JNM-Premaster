@@ -1,0 +1,1 @@
+ten onrechte het [[standpunt]] poneren als iets vanzelfsprekends 
