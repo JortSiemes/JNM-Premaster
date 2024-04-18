@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 9.md",
+                "file": "verdedigingslinies.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -30,8 +30,7 @@
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 9.md",
+                "file": "verdedigingslinies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 9.md",
+                "file": "verdedigingslinies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,17 +144,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 9.md"
+                "file": "verdedigingslinies.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,13 +168,15 @@
   },
   "active": "6a30d9ed3bfb6593",
   "lastOpenFiles": [
+    "Vakken/Blok 2/Argumenteren en overtuigen/Week 9.md",
+    "verdedigingslinies.md",
+    "Onderwerpen/gerechtelijke rede.md",
     "Notities Dagelijk/September/2023-09-18.md",
     "Notities Dagelijk/September/2023-09-19.md",
     "Notities Dagelijk/September/2023-09-22.md",
     "Notities Dagelijk/September/2023-09-25.md",
     "Notities Dagelijk/September/2023-09-06.md",
     "Onderwerpen/pathos.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Week 9.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 4 2023-2024.pdf",
     "Vakken/Blok 1/Wetenschapsfilosofie/Onderwerpen/Thomas Kuhn.md",
     "Onderwerpen/gerechtelijke situatie.md",
@@ -208,13 +208,11 @@
     "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/20140629145642_8431.jpg",
     "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/evergrande_Spring.jpg",
     "Onderwerpen/gelegenheidsrede.md",
-    "Onderwerpen/gerechtelijke rede.md",
     "Onderwerpen/Ad misericordiam.md",
     "Onderwerpen/Exordium.md",
     "Onderwerpen/preroratio.md",
     "Onderwerpen/digressio.md",
     "Onderwerpen/argumentatio.md",
-    "Onderwerpen/propositio.md",
-    "Onderwerpen/partitio.md"
+    "Onderwerpen/propositio.md"
   ]
 }
