@@ -254,7 +254,7 @@ Verschil [[argumentatiestructuur]] en [[argumentatieschema]]:
 
 ---
 
-[[week 5]]: [[Drogredenen]] 1
+[[Week 5]]: [[Drogredenen]] 1
 
 **Het ideaalmodel van een kritische discussie** 
 - [[Analytische functie]]: hulpmiddel om (aanwezige en ontbrekende) onderdelen van een discussie in kaart te brengem 
@@ -282,7 +282,7 @@ Een [[argumentatieschema]] verkeerd toepassen:
 - Post hoc ergo propter hoc → misbruik van de [[Causale relatie]] 
 - Overhaaste generalisatie: [[Secundum quid]] → misbruik van de [[Kentekenrelatie]]
 
-[[week 6]]: [[Drogredenen]] 2
+[[Week 6]]: [[Drogredenen]] 2
 
 [[Twijfelende antagonist]]: alleen [[protagonist]] heeft bewijslast 
 [[Tegensprekende antagonist]]: heeft dan ook ineens bewijslast 

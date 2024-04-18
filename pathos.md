@@ -1,0 +1,1 @@
+opgewekte emoties bij het publiek
