@@ -20,6 +20,23 @@ waarderende standpunten
 - evaluerende standpunten
 - appellerende
 
+Verdedigingslinies
+
+
+retorische voorwaarden
+- aandacht
+- begrip
+- aanvaarding
+
+retorische taken
+- inhoud
+- ordening
+- verwoording
+- (ordening)
+- presentatie
+
+retorisch doel
+- overtuigen
 
 # Syllabus college 9
 
