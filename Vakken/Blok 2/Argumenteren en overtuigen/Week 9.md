@@ -20,8 +20,7 @@ waarderende standpunten
 - evaluerende standpunten
 - appellerende
 
-[[[[verdedigingslinies]]|[[Verdedigingslini]]es]]
-
+[[verdedigingslinies]]
 
 retorische voorwaarden
 - aandacht
@@ -52,6 +51,11 @@ retorisch doel
 - lof-uiting ([[gelegenheidsrede]])
 
 Stasis
+
+P.28, [[meervoudige argumentatie]] van [[verdedigingslinies]]
+
+
+
 
 # Syllabus college 9
 
