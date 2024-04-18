@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5bf67c180154f587",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 4 2023-2024.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -139,11 +150,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,8 +170,11 @@
   },
   "active": "6a30d9ed3bfb6593",
   "lastOpenFiles": [
-    "pathos.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 4 2023-2024.pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 9.md",
+    "Vakken/Blok 1/Wetenschapsfilosofie/Onderwerpen/Thomas Kuhn.md",
+    "gerechtelijke situatie.md",
+    "pathos.md",
     "ethos.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 8.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 6.md",
@@ -182,7 +197,6 @@
     "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/Banner_evergrande_Jort_1.png",
     "Vakken/Blok 2/Wetenschapsjournalistiek/Interview (Xenotransplantaties)/DieralsDonor.pdf",
     "Vakken/Blok 2/Wetenschapsjournalistiek/Interview (Xenotransplantaties)/DieralsDonor.pdf.crdownload",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/Eindpaper (Kernreactoren)/~WRL0947.tmp",
     "Vakken/Blok 2/Wetenschapsjournalistiek/College 5.md",
     "Onderwerpen/politieke rede.md",
     "Onderwerpen/evualitief.md",
@@ -200,8 +214,6 @@
     "Onderwerpen/Narratio.md",
     "Onderwerpen/Strategie van nestor.md",
     "Agenda/TO DO 2024.md",
-    "Vakken/Blok 2/Scriptie/College 2 - schakelscriptie.md",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/College 4.md",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/College 1.md"
+    "Vakken/Blok 2/Scriptie/College 2 - schakelscriptie.md"
   ]
 }
