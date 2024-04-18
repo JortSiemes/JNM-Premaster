@@ -111,8 +111,6 @@ b) Als Lance Armstrong zich op andere [[verdedigingslinies]] had willen beroepen
 
 1. **Rechtvaardigen op grond van verzachtende omstandigheden**: Ze legt uit dat ze overladen werd met telefoontjes en dat ze onvoorbereid bij Jinek aan tafel schoof. Ze benadrukt dat niemand haar iets heeft verplicht, maar ze dacht dat ze een verschil kon maken. Dit impliceert dat ze handelde onder stressvolle omstandigheden en dat haar acties mogelijk niet representatief waren voor haar normale gedrag.
     
-2. **Ontkennen**: Hoewel ze niet expliciet ontkent dat ze de ''ikdoenietmeermee-boodschap' heeft gepromoot, benadrukt ze dat het niet haar bedoeling was om mensen aan te sporen om laconiek om te gaan met de coronamaatregelen. Dit kan worden gezien als een [[indirecte]] ontkenning van haar vermeende intentie om de boodschap te promoten.
-    
 3. **Rechtvaardigen op grond van noodzaak**: Ze verklaart dat haar bedoeling bij Jinek was om een ander perspectief te bieden en een tegengeluid te laten horen. Dit kan worden geïnterpreteerd als een poging om haar acties te rechtvaardigen door te stellen dat ze probeerde een breder spectrum van meningen te vertegenwoordigen.
     
 
