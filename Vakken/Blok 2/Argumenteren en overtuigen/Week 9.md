@@ -47,14 +47,22 @@ retorisch doel
 	- zich op procedurefout beroepen
 
 - beleidsvoorstel ([[politieke rede]])
-	- 
+	- we hebben een groot probleem
+	- problemen komen door het huidige beleid
+	- uitvoerbaar
+	- heeft geen nadelen
+
 - lof-uiting ([[gelegenheidsrede]])
+	- 
 
 Stasis
 
 P.28, [[meervoudige argumentatie]] van [[verdedigingslinies]]
 
-
+alle genres
+- argumentatie op basis van analogie
+- argumentatie op basis van voorbeelden
+- argumentatie op basis van gezag
 
 
 # Syllabus college 9
