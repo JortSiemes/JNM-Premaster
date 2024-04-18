@@ -56,7 +56,7 @@ Stasis
 # Syllabus college 9
 
 1. Waarom worden de [[verdedigingslinies]] steeds ‘zwakker’ (p. 27)? Ben je het ermee eens dat dit zo is? Licht je antwoord toe. 
-(de ontkenning is de sterkste verdediging, en daarmee ook de beste verdedigingslinie om tijdens de [[gerechtelijke situatie]] te gebruiken. Een prodecurefout is ook een legitieme verdediging maar wel een zakke manier van je onschuld beargumenteren)
+(de ontkenning is de sterkste verdediging, en daarmee ook de beste verdedigingslinie om tijdens de [[gerechtelijke situatie]] te gebruiken. Een procedurefout is ook een legitieme verdediging maar wel een zakke manier van je onschuld beargumenteren)
 2. Formuleer de vier [[verdedigingslinies]] bij de volgende stelling: Roken op het schoolplein moet verboden worden. 
 **Ontkennen:** Het [[argument]] dat roken op het schoolplein geen ernstig probleem is en dat er geen noodzaak is om het te verbieden
 **anders omschrijven:** Het is een individuele keuze 

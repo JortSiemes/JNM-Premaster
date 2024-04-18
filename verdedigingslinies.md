@@ -17,3 +17,9 @@ Verdediger
 3. verzachtende omstandigheden of schulduitsluitingsgronden
 4. de procedure is niet correct verlopen
 
+Verdedigingslinies
+- wel/niet gedaan
+- wel/niet onwettig
+- geen/wel rechtvaardiging
+- geen/wel procedurefout
+

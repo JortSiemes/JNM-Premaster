@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "verdedigingslinies.md",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 9.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "verdedigingslinies.md",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "verdedigingslinies.md",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "verdedigingslinies.md"
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 9.md"
               }
             }
           }
@@ -168,7 +168,11 @@
   },
   "active": "6a30d9ed3bfb6593",
   "lastOpenFiles": [
+    "Verdedigingslini.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 9.md",
+    "gelegenheidssituatie.md",
+    "[verdedigingslinies.md",
+    "politieke situatie.md",
     "verdedigingslinies.md",
     "Onderwerpen/gerechtelijke rede.md",
     "Notities Dagelijk/September/2023-09-18.md",
@@ -209,10 +213,6 @@
     "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/evergrande_Spring.jpg",
     "Onderwerpen/gelegenheidsrede.md",
     "Onderwerpen/Ad misericordiam.md",
-    "Onderwerpen/Exordium.md",
-    "Onderwerpen/preroratio.md",
-    "Onderwerpen/digressio.md",
-    "Onderwerpen/argumentatio.md",
-    "Onderwerpen/propositio.md"
+    "Onderwerpen/Exordium.md"
   ]
 }
