@@ -1,0 +1,7 @@
+- bronnen opvoeren
+- spelfouten verbeteren
+- kaart afmaken
+- Auteursrechten bij beelden neerzetten
+- in koptekst al kaart benoemen
+- titel veranderen; Talloze verlate gebouwen China in kaart gebracht
+- 

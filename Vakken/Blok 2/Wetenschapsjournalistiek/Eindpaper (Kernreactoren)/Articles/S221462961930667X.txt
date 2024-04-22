@@ -1,0 +1,11 @@
+Anne Neumann, Lars Sorge, Christian von Hirschhausen, Ben Wealer,
+Democratic quality and nuclear power: Reviewing the global determinants for the introduction of nuclear energy in 166 countries,
+Energy Research & Social Science,
+Volume 63,
+2020,
+101389,
+ISSN 2214-6296,
+https://doi.org/10.1016/j.erss.2019.101389.
+(https://www.sciencedirect.com/science/article/pii/S221462961930667X)
+Abstract: This paper analyzes the nature of democratic development in a nation on the process of introducing nuclear power over the period 1960 - 2017 for an unbalanced panel of 166 countries. Given the involved political process of introducing nuclear power and its political importance, as well as proposals to construct new nuclear reactors in currently about 30 countries, this question is both of historic and current interest. We apply a multinomial logistic regression approach that relates the likelihood of a country to introduce nuclear power to its level of democratic quality and nuclear warhead possession. The model results suggest that countries with lower levels of democratic development are more likely to introduce nuclear power. Our results moreover indicate that countries which possess at least one nuclear warhead are more likely to continue to use nuclear power instead of not using nuclear power at all. We discuss these results in the context of the public policy debate on nuclear power, yet beyond energy and environmental issues addressing the neglected political and democratic dimension in connection with nuclear power.
+Keywords: Nuclear power; Nuclear energy; Nuclear warhead; Democracy; Multinomial logit; Panel data
