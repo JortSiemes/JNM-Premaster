@@ -10,6 +10,24 @@ meestal hou je een betoog niet voor de ideale maar voor reel publiek,
 [[modern fear appeal]]
 [[humor]]
 
+5 taken van de redenaar
+1. inhoud
+	- argumentatieve middelen (logos)
+	- niet-argumentatieve middelen ([[ethos]] [[pathos]])
+2. ...
+3. ...
+4. .
+5. ..
+
+Drie retorische genres
+1. juridische rede
+	1. feit ontkennen
+	2. herformuleren tot iets niet strafbaars
+	3. wel/geen verzachtende 
+2. [[politieke rede]]
+3. [[gelegenheidsrede]]
+
+
 
 Syllabus
 
