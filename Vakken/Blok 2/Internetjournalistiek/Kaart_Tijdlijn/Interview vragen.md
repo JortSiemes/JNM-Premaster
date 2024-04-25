@@ -1,4 +1,9 @@
-1. Can you provide an overview of the factors that led to the collapse of Evergrande?
+Dr. Jue Wang
+
+Evergrande 
+
+
+1. Can you provide an overview of the real estate market in China?
 2. How significant is Evergrande's collapse for the Chinese economy, particularly in the real estate sector?
 3. What role did government policies and regulations play in exacerbating or mitigating Evergrande's downfall?
 4. How might Evergrande's collapse impact the broader global economy and international investors?
