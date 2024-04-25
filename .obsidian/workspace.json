@@ -85,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "6e04bde79b2768c6",
@@ -158,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,7 +172,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44a765a9c4cf1acf",
+  "active": "431d2240005804c5",
   "lastOpenFiles": [
     "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 4 2023-2024.pdf",
     "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/Interview vragen.md",
