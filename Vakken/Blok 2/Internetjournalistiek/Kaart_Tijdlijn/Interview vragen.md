@@ -4,6 +4,10 @@ Evergrande
 
 
 1. Can you provide an overview of the real estate market in China?
+- are there some big differences between Dutch real estate and Chinese real estate?
+- It takes 50 years on average to finance a house in China. How do the Chinese perceive real estate
+- 
+
 2. How significant is Evergrande's collapse for the Chinese economy, particularly in the real estate sector?
 3. What role did government policies and regulations play in exacerbating or mitigating Evergrande's downfall?
 4. How might Evergrande's collapse impact the broader global economy and international investors?
