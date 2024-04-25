@@ -24,9 +24,12 @@
             "id": "44a765a9c4cf1acf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 4 2023-2024.pdf"
+                "file": "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/Interview vragen.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -106,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 4 2023-2024.pdf",
+                "file": "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/Interview vragen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 4 2023-2024.pdf",
+                "file": "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/Interview vragen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 4 2023-2024.pdf"
+                "file": "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/Interview vragen.md"
               }
             }
           }
@@ -170,8 +173,9 @@
   },
   "active": "44a765a9c4cf1acf",
   "lastOpenFiles": [
-    "Vakken/Blok 2/Argumenteren en overtuigen/Week 10.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 4 2023-2024.pdf",
+    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/Interview vragen.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Week 10.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 9.md",
     "situationeel ethos.md",
     "Gecreëerd ethos.md",
@@ -213,7 +217,6 @@
     "Notities Dagelijk/September/2023-09-25.md",
     "Notities Dagelijk/September/2023-09-06.md",
     "Vakken/Blok 1/Wetenschapsfilosofie/Onderwerpen/Thomas Kuhn.md",
-    "Onderwerpen/gerechtelijke situatie.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Week 8.md"
+    "Onderwerpen/gerechtelijke situatie.md"
   ]
 }
