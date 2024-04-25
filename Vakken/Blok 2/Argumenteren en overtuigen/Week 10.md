@@ -20,16 +20,45 @@ meestal hou je een betoog niet voor de ideale maar voor reel publiek,
 5. ..
 
 Drie retorische genres
-1. juridische rede
+1. [[juridische rede]]
 	1. feit ontkennen
 	2. herformuleren tot iets niet strafbaars
-	3. wel/geen verzachtende 
+	3. wel/geen verzachtende omstandigheden
+	4. wel/geen procedurefouten
 2. [[politieke rede]]
+	1. wel/geen probleem
+	2. probleem is wel/niet inherent aan huidig beleid
+	3. wel/niet doeltreffend en uitvoerbaar
+	4. wel/niet grote nadelen
 3. [[gelegenheidsrede]]
+	1. wel/niet bepaalde eigenschappen of daden
+
+
+Standaardordening van een betoog
+- [[Exordium]] (hier veel [[ethos]] en [[pathos]], goed imago en welwillend publiek)
+- [[narratio]]
+- [[propositio]]
+- [[partitio]]
+- [[argumentatio]]
+	- confirmatio
+	- refutatio
+- ([[digressio]])
+- peroratio
+	- 
+
+[[Gecreëerd ethos]]
+[[situationeel ethos]]
+
+spreker is geloofwaardig als
+- deskundig is;
+- betrouwbaar/eerlijk is;
+- welgezind is ()
+
+*een spreker kan niet alleen zijn eigen ethos benadrukken, maar ook dat van de tegenpartij aanvallen*
 
 
 
-Syllabus
+#### Syllabus
 
 1. [[Humor]] wordt vaak met [[pathos]] verbonden, maar wat is het verband tussen [[humor]] en [[ethos]]? 
 [[Humor]] kan een krachtig instrument zijn om [[ethos]], oftewel geloofwaardigheid en autoriteit, op te bouwen. Wanneer een spreker [[humor]] gebruikt, kan het publiek de spreker als toegankelijk, empathisch en menselijk zien, wat bijdraagt aan het opbouwen van [[ethos]]. Bovendien kan [[humor]] een teken zijn van intellectuele scherpzinnigheid en sociale vaardigheden, wat ook bijdraagt aan de geloofwaardigheid van de spreker.

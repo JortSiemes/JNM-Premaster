@@ -1,0 +1,1 @@
+het is noodzakelijk [voor een spreker] om zich te presenteren als een bepaald soort persoon
