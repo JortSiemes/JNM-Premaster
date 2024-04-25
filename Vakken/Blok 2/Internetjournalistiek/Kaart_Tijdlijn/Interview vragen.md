@@ -12,8 +12,11 @@ Evergrande
 - can you give some more explanation on the 3 red line policy?
 6. What measures, if any, do you think the Chinese government should take to address the fallout from Evergrande's collapse and prevent similar crises in the future?
 
-
 What are the implications of major company failures like that of evergrande?
+
+What is the sentiment of civilians in China about these abandoned projects?
+
+
 
 
 3. What role did government policies and regulations play in exacerbating or mitigating Evergrande's downfall?
