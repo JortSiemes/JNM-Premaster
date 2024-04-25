@@ -24,9 +24,12 @@
             "id": "5bf67c180154f587",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 4 2023-2024.pdf"
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 10.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -105,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 4 2023-2024.pdf",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 4 2023-2024.pdf",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 4 2023-2024.pdf"
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 10.md"
               }
             }
           }
@@ -169,6 +172,9 @@
   },
   "active": "5bf67c180154f587",
   "lastOpenFiles": [
+    "Vakken/Blok 2/Argumenteren en overtuigen/Week 9.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Week 10.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 4 2023-2024.pdf",
     "Vakken/Blok 2/Scriptie/~WRL1147.tmp",
     "Vakken/Blok 2/Scriptie/~WRD0725.tmp",
     "Vakken/Blok 2/Scriptie/Bronnen/The Three  Cs  of Digital Local Journalism  Community  Commitment and Continuity.pdf",
@@ -178,8 +184,6 @@
     "Vakken/Blok 2/Scriptie/Bronnen/sullivan-2024-a-media-insider-s-wish-list-for-saving-local-journalism.pdf",
     "Vakken/Blok 2/Scriptie/Bronnen/sullivan-2024-a-media-insider-s-wish-list-for-saving-local-journalism.pdf.crdownload",
     "Vakken/Blok 2/Scriptie/JortSiemes_Schakelscriptie_Theoretischkader_V23_4_24.pdf",
-    "Vakken/Blok 2/Scriptie/mso3215.tmp",
-    "Vakken/Blok 2/Scriptie/~WRL1581.tmp",
     "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/versailles-hong-kong.png",
     "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/versailles-hong-kong.avif",
     "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/np_file_138357.jpeg",
@@ -190,7 +194,6 @@
     "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/5b5be92f2b350.jpg",
     "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/3361dbd695e34a311404be7ebd3e04477e4e1818.webp",
     "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/3361dbd695e34a311404be7ebd3e04477e4e1818.png",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Week 9.md",
     "Onderwerpen/politieke rede.md",
     "Onderwerpen/gerechtelijke rede.md",
     "Verdedigingslini.md",
