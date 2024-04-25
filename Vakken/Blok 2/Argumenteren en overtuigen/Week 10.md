@@ -31,7 +31,22 @@ De afgelopen weken ben ik het onderwerp geweest van geruchten over mijn omgang m
 
 
 Vragen:
-1. excuses vooral pleitend op de Ethos 
+1. De teksten behoren tot het genre van zelfreflectieve betogen of verontschuldigingen. Dit wordt gemotiveerd door het feit dat alle drie de auteurs een persoonlijk standpunt innemen ten opzichte van gebeurtenissen uit het verleden, waarbij ze reflecteren op hun eigen gedrag, verontschuldigingen aanbieden en/of verklaringen geven voor bepaalde situaties. pleiten op ethos
+    
+2. De verdedigingslinies waar de auteurs een beroep op doen, variëren enigszins:
+    
+    - **Gosschalk** lijkt te focussen op het erkennen van fouten en het aanbieden van verontschuldigingen. Dit blijkt uit regel 3-6, waar hij spijt betuigt over het feit dat sommige collega's zich angstig hebben gevoeld door zijn gedrag.
+        
+    - **Kasem** daarentegen lijkt meer de nadruk te leggen op het relativeren van de situatie en het plaatsen ervan in een breder perspectief. Dit blijkt uit regel 24-29, waar hij erkent dat het maken van een dagelijkse talkshow onder hoge verwachtingen wellicht "gekkenwerk" is, maar tegelijkertijd de positieve aspecten benadrukt.
+        
+    - **Van Nieuwkerk** lijkt zich te richten op het benadrukken van trots en dankbaarheid voor het programma en de mensen die eraan hebben bijgedragen. Dit wordt duidelijk uit regel 27-29, waar hij trots uit over DWDD en de feestdagen die ermee zijn gevierd.
+        
+    
+    Deze verschillen in strategieën kunnen worden verklaard door de individuele persoonlijkheden van de auteurs, hun specifieke rollen in de betreffende situaties, en de aard van de kritiek of beschuldigingen waarmee ze worden geconfronteerd.
+    
+3. In de teksten wordt aan ethos gewerkt door middel van zelfreflectie, verantwoordelijkheid nemen voor fouten en het tonen van oprechte emoties zoals spijt en trots. Dit wordt bijvoorbeeld duidelijk in de excuses van Gosschalk (regel 3-6), de erkenning van Kasem over de uitdagingen van het maken van een dagelijkse talkshow (regel 24-29), en de trots van Van Nieuwkerk op DWDD en de mensen die eraan hebben gewerkt (regel 27-29).
+    
+4. Ja, er zitten pathetische elementen in de teksten, gericht op het opwekken van empathie en begrip bij het publiek. Bijvoorbeeld, Gosschalks spijt en verontschuldiging (regel 3-6) is gericht op het opwekken van sympathie voor de angst van zijn collega's. Kasems reflectie over de uitdagingen van het maken van een dagelijkse talkshow (regel 24-29) kan sympathie opwekken voor de druk waaronder hij heeft gewerkt. Van Nieuwkerks trots op DWDD en de mensen die eraan hebben gewerkt (regel 27-29) kan begrip en respect opwekken voor zijn betrokkenheid bij het programma. Deze pathetische elementen zijn gericht op het creëren van een emotionele band met het publiek en het verzachten van eventuele negatieve oordelen over de auteurs.
 
 Tekst 3:
 1. Het genre van de tekst is een toespraak of een speech. Dit wordt gemotiveerd door de formele en retorische kenmerken van de tekst, zoals het gebruik van een formele aanspreking ("Mr. President"), de opbouw van argumenten en het gebruik van emotionele appèls.

@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 4 2023-2024.pdf",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 4 2023-2024.pdf",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 4 2023-2024.pdf"
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 10.md"
               }
             }
           }
@@ -181,10 +181,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44a765a9c4cf1acf",
+  "active": "5bf67c180154f587",
   "lastOpenFiles": [
-    "Vakken/Blok 2/Argumenteren en overtuigen/Week 10.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 4 2023-2024.pdf",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Week 10.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 9.md",
     "Vakken/Blok 2/Scriptie/~WRL1147.tmp",
     "Vakken/Blok 2/Scriptie/~WRD0725.tmp",
