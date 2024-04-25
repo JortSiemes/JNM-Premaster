@@ -13,19 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 9.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bf67c180154f587",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 10.md",
                 "mode": "source",
                 "backlinks": true,
@@ -119,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 10.md",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 4 2023-2024.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 10.md",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 4 2023-2024.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 10.md"
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 4 2023-2024.pdf"
               }
             }
           }
@@ -181,10 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5bf67c180154f587",
+  "active": "44a765a9c4cf1acf",
   "lastOpenFiles": [
-    "situationeel ethos.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 10.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Week 9.md",
+    "situationeel ethos.md",
     "Gecreëerd ethos.md",
     "juridische rede.md",
     "Onderwerpen/gelegenheidsrede.md",
@@ -194,7 +182,6 @@
     "humor.md",
     "modern fear appeal.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 4 2023-2024.pdf",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Week 9.md",
     "Vakken/Blok 2/Scriptie/~WRL1147.tmp",
     "Vakken/Blok 2/Scriptie/~WRD0725.tmp",
     "Vakken/Blok 2/Scriptie/Bronnen/The Three  Cs  of Digital Local Journalism  Community  Commitment and Continuity.pdf",
