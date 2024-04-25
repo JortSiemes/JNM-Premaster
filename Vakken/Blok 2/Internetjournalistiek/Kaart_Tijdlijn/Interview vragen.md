@@ -19,6 +19,9 @@ What is the sentiment of civilians in China about these abandoned projects?
 
 
 
+
+
+
 3. What role did government policies and regulations play in exacerbating or mitigating Evergrande's downfall?
 4. How might Evergrande's collapse impact the broader global economy and international investors?
 5. Are there any systemic risks associated with Evergrande's collapse that could potentially trigger a financial crisis in China or beyond?
