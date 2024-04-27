@@ -8,30 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a30d9ed3bfb6593",
+            "id": "44a765a9c4cf1acf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 9.md",
+                "file": "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/Interview vragen.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "5bf67c180154f587",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 4 2023-2024.pdf"
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -81,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 437.5
   },
   "right": {
     "id": "6e04bde79b2768c6",
@@ -105,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 4 2023-2024.pdf",
+                "file": "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/Interview vragen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 4 2023-2024.pdf",
+                "file": "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/Interview vragen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 4 2023-2024.pdf"
+                "file": "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/Interview vragen.md"
               }
             }
           }
@@ -154,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,28 +158,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5bf67c180154f587",
+  "active": "44a765a9c4cf1acf",
   "lastOpenFiles": [
-    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/58a99f2afe9878cba10278fd1b453e857d15c128.webp",
-    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/58a99f2afe9878cba10278fd1b453e857d15c128.webp.crdownload",
-    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/1599462236151996.jpg",
-    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/1599462236151996.jpg.crdownload",
-    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/images (1).jpg",
-    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/images (1).jpg.crdownload",
-    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/0e1fcc82fed836d7f5e8f859504c904075df9250.jpg",
-    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/0e1fcc82fed836d7f5e8f859504c904075df9250.jpg.crdownload",
-    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/aedas-evergrande-huazhi-plaza (3).jpg",
-    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/aedas-evergrande-huazhi-plaza (3).jpg.crdownload",
-    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/aedas-evergrande-huazhi-plaza (2).jpg",
-    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/aedas-evergrande-huazhi-plaza (2).jpg.crdownload",
-    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/aedas-evergrande-huazhi-plaza (1).jpg",
-    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/aedas-evergrande-huazhi-plaza (1).jpg.crdownload",
-    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/aedas-evergrande-huazhi-plaza.jpg",
-    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/aedas-evergrande-huazhi-plaza.jpg.crdownload",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/haran-kitzinger-2009-modest-witnessing-and-managing-the-boundaries-between-science-and-the-media-a-case-study-of.pdf",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/haran-kitzinger-2009-modest-witnessing-and-managing-the-boundaries-between-science-and-the-media-a-case-study-of.pdf.crdownload",
+    "Vakken/Blok 2/Wetenschapsjournalistiek/College 7.md",
+    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/Interview vragen.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 4 2023-2024.pdf",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Week 10.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 9.md",
+    "situationeel ethos.md",
+    "Gecreëerd ethos.md",
+    "juridische rede.md",
+    "Onderwerpen/gelegenheidsrede.md",
     "Onderwerpen/politieke rede.md",
+    "Onderwerpen/pathos.md",
+    "Onderwerpen/ethos.md",
+    "humor.md",
+    "modern fear appeal.md",
+    "Vakken/Blok 2/Scriptie/~WRL1147.tmp",
+    "Vakken/Blok 2/Scriptie/~WRD0725.tmp",
+    "Vakken/Blok 2/Scriptie/Bronnen/The Three  Cs  of Digital Local Journalism  Community  Commitment and Continuity.pdf",
+    "Vakken/Blok 2/Scriptie/Bronnen/The Three  Cs  of Digital Local Journalism  Community  Commitment and Continuity.pdf.crdownload",
+    "Vakken/Blok 2/Scriptie/Bronnen/nadel-2024-new-ideas-for-improving-the-economics-of-producing-local-journalism (1).pdf",
+    "Vakken/Blok 2/Scriptie/Bronnen/nadel-2024-new-ideas-for-improving-the-economics-of-producing-local-journalism (1).pdf.crdownload",
+    "Vakken/Blok 2/Scriptie/Bronnen/sullivan-2024-a-media-insider-s-wish-list-for-saving-local-journalism.pdf",
+    "Vakken/Blok 2/Scriptie/Bronnen/sullivan-2024-a-media-insider-s-wish-list-for-saving-local-journalism.pdf.crdownload",
+    "Vakken/Blok 2/Scriptie/JortSiemes_Schakelscriptie_Theoretischkader_V23_4_24.pdf",
+    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/versailles-hong-kong.png",
+    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/versailles-hong-kong.avif",
+    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/np_file_138357.jpeg",
+    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/d3a28840-7c07-11eb-9fc3-2f3c8e08d261_image_hires_172424.webp",
+    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/d3a28840-7c07-11eb-9fc3-2f3c8e08d261_image_hires_172424.png",
+    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/chateau-home.jpg",
+    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/5b5bf20aaa4a6.jpg",
+    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/5b5be92f2b350.jpg",
+    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/3361dbd695e34a311404be7ebd3e04477e4e1818.webp",
+    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/3361dbd695e34a311404be7ebd3e04477e4e1818.png",
     "Onderwerpen/gerechtelijke rede.md",
     "Verdedigingslini.md",
     "gelegenheidssituatie.md",
@@ -200,20 +204,7 @@
     "Notities Dagelijk/September/2023-09-22.md",
     "Notities Dagelijk/September/2023-09-25.md",
     "Notities Dagelijk/September/2023-09-06.md",
-    "Onderwerpen/pathos.md",
     "Vakken/Blok 1/Wetenschapsfilosofie/Onderwerpen/Thomas Kuhn.md",
-    "Onderwerpen/gerechtelijke situatie.md",
-    "Onderwerpen/ethos.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Week 8.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Week 6.md",
-    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/Aantekeningen feedback college.md",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/College 7.md",
-    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/buildingexplosion.png",
-    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/Schermafbeelding 2024-04-17 112206.png",
-    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/evergrande-international-financial-center-under-construction.jpg",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/College 5.md",
-    "Onderwerpen/evualitief.md",
-    "Onderwerpen/gelegenheidsrede.md",
-    "Onderwerpen/Ad misericordiam.md"
+    "Onderwerpen/gerechtelijke situatie.md"
   ]
 }
