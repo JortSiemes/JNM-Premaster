@@ -28,11 +28,28 @@ Communicatiemodel (met functies)
 	ethos vergrotend (beroep op welwillendheid)
 		- aanspreking (jij, u, my fellow americans)
 		- inclusief we (dit is waar wij voor staan)
-		- allusie (to party or not to party thats the question)
+		- allusie (to party or not to party thats the question, veel mensen zijn een garfield i hun diepste gedachte)
+		- ironie (je moet ook respecteren dat het tempo van verandering voor sommige partijen wat te snel gaat)
 (3) tekst DIVERTEREND (amuseren)
+	hebben deze figuren wel een persuasieve functie?
+		amusant/geestig/grappig
 (4) onderwerp INFORMATIEF/REFERENTIEEL (informeren)
+	verduidelijken/benadrukken
+	- perifrase (de eerste zwarte president van de VS)
+	- evidentie (dit blijkt uit)
+	- amplificatie (enorme, reusachtige, gigantische hoeveelheden)
+	- anekdote (al dan niet een fictio)
+	- metafoor
+	- prolepsis (andersom liner, rob trip, kernwapens..... die zijn steeds meer in het nieuws)
 (5) publiek APPELEREND (aanzetten tot actie)
+	pathos-vergrotend
+		- aanspreking (jij vs u)
+		- inclusief we (dit is waar wij voor staan)
+		- subjectie (is dat een goed idee? Ja dat is het)
+		- quaestie (willen we winnen? willen we verder komen? willen we doorgaan?)
+		- apostrofe ()
 
+##### Tip van mila: naam + korte vaste omschrijving
 
 
 
@@ -89,7 +106,7 @@ Metaforen
 Metonymia-in-engere-zin
 5. metonymia-in-engere-zin
 6. pars pro toto
-7. synecdoche
+7. synecdoche (beeldspraak)
 gedachtefiguren: inhoudelijk
 8. aanspreking
 9. allusie
