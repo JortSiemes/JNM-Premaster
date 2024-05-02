@@ -1,6 +1,15 @@
 h 4 & 5
 
 ##### college aantekeningen
+- de (taalkundige) correctheid: fouten aanwezig?
+- duidelijkheid
+- aantrekkelijkheid
+- passendheid
+
+Wat is er vanuit retorisch oogpunt interessant aan stijlfiguren
+- kunst is om de kunst te verbergen, dus laat het niet duidelijk zijn dat je deze stijlfiguren bewust gebruikt.
+
+
 
 
 
