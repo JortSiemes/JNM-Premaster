@@ -9,6 +9,29 @@ h 4 & 5
 Wat is er vanuit retorisch oogpunt interessant aan stijlfiguren
 - kunst is om de kunst te verbergen, dus laat het niet duidelijk zijn dat je deze stijlfiguren bewust gebruikt.
 
+Communicatiemodel (met functies)
+(1) schrijver/spreker EXPRESSIEF (jezelf uiten)
+	ethos vergrotend (beroep op deskundigheid)
+		- sententie (it's not a war on drugs, its a war on personal freedom)
+		- oneliner (icht bin ein berliner)
+	ethos vergrotend (beroep op welwillendheid)
+		- oneliner
+		- perifrase (de eerste zwarte president van de VS)
+		- retorische vraag (hoe lang gaat dit nog duren)
+	pathos vergrotend
+		- exclamatie (hoera)
+		- hyperbool (eeuw gewacht op de bus)
+		- epitheton (gevleugelde woorden)
+		- anafoor (zo mooi zo lief zo aardig)
+		- climax (meren, zeeën, oceanen)
+(2) medium SOCIAAL (band met publiek versterken)
+	ethos vergrotend (beroep op welwillendheid)
+		- aanspreking (jij, u, my fellow americans)
+		- inclusief we (dit is waar wij voor staan)
+		- allusie (to party or not to party thats the question)
+(3) tekst DIVERTEREND (amuseren)
+(4) onderwerp INFORMATIEF/REFERENTIEEL (informeren)
+(5) publiek APPELEREND (aanzetten tot actie)
 
 
 
