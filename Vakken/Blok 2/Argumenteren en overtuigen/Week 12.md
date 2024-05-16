@@ -25,6 +25,14 @@ balceren tussen 2 doelen:
 primair publiek (kan overtuigd worden)
 secondair publiek (die ga je niet meer overtuigen dus is niet je doel)
 
+drogreden = ontsporing van het strategisch manoeuvreren
+- overtreding van een discussieregel
+- wordt begaan in een strategische manoeuvre die de overtreding van de discussieregl kan maskeren
+	1. presumptie vna redlijkheid: discussianten gaan uit van elkaars redelijkheid
+	2. dorgredelijke  en redelijke argumentatie 'zijn uit hetzelfde hout gesneden' -> continuum tussen drogreden en redelijk argument
+
+
+
 
 
 
