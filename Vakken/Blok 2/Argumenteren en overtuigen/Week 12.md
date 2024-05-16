@@ -34,6 +34,17 @@ drogreden = ontsporing van het [[strategisch manoeuvreren]]
 [[Communicatieve activiteitstypen]]
 
 
+conventionele activiteitstypen
+- activiteitstype: communicatieve praktijk afgestemd op institutionele behoeften van een bepaald doemein
+- conventies, regels, rollen
+(bijvoorbeeld: medisch consult, duurt tussen 10-20min, )
+
+
+| [[confrontatiefase]]                                                                                     | [[openingsfase]]                          | [[argumentatiefase]]                                       | [[afsluitingsfase]]                                                                      |
+| -------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| gebrek aan overeenstemming tussen arts en patient over het advies van de arts over gezondheidsproblemeem | informed consent, arts is discussieleider | argumentatie die uitgaat van medische feiten en evidenties | wederzijds aanvaardeovereenstemming over opvolg advies, doorverwijzing of second opinion |
+
+
 
 
 
