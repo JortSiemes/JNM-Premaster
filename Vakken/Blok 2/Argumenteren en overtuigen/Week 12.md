@@ -45,6 +45,10 @@ conventionele activiteitstypen
 | gebrek aan overeenstemming tussen arts en patient over het advies van de arts over gezondheidsproblemeem | informed consent, arts is discussieleider | argumentatie die uitgaat van medische feiten en evidenties | wederzijds aanvaardeovereenstemming over opvolg advies, doorverwijzing of second opinion |
 
 
+presentatiemiddelen
+- stijlmiddelen vallen onder presentatiemiddelen
+
+
 
 
 
