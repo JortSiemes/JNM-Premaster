@@ -4,30 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "90c97b2dba15d71e",
+        "id": "ec4c879d622c5653",
         "type": "tabs",
         "children": [
           {
-            "id": "44a765a9c4cf1acf",
+            "id": "814dd4fff504de24",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 12.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65ca6ef4d6914d72",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 4 2023-2024.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -105,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 12.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -167,10 +148,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44a765a9c4cf1acf",
+  "active": "814dd4fff504de24",
   "lastOpenFiles": [
-    "Communicatieve activiteitstypen.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 12.md",
+    "Communicatieve activiteitstypen.md",
     "strategisch manoeuvreren.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 4 2023-2024.pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 11.md",
