@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 12.md",
+                "file": "Onderwerpen/verdedigingslinies.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 12.md",
+                "file": "Onderwerpen/verdedigingslinies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 12.md",
+                "file": "Onderwerpen/verdedigingslinies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 12.md"
+                "file": "Onderwerpen/verdedigingslinies.md"
               }
             }
           }
@@ -157,11 +157,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "814dd4fff504de24",
+  "active": "56ecf7014e3f15f0",
   "lastOpenFiles": [
+    "Vakken/Blok 2/Week 12.md",
+    "Vakken/Blok 2/email.docx",
+    "Onderwerpen/Communicatieve activiteitstypen.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 12.md",
-    "Communicatieve activiteitstypen.md",
-    "strategisch manoeuvreren.md",
+    "Onderwerpen/strategisch manoeuvreren.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 4 2023-2024.pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 11.md",
     "Vakken/Blok 2/Wetenschapsjournalistiek/College 7.md",
@@ -173,19 +175,18 @@
     "Vakken/Blok 2/Wetenschapsjournalistiek/Eindpaper (Kernreactoren)/Articles/NuclearEnergyDoesnotcontribute.pdf.crdownload",
     "Vakken/Blok 2/Wetenschapsjournalistiek/Eindpaper (Kernreactoren)/~WRL1497.tmp",
     "Vakken/Blok 2/Wetenschapsjournalistiek/Eindpaper (Kernreactoren)/~WRD1478.tmp",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/Eindpaper (Kernreactoren)/~WRL2148.tmp",
     "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/Interview vragen.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 10.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 9.md",
-    "situationeel ethos.md",
-    "Gecreëerd ethos.md",
-    "juridische rede.md",
+    "Onderwerpen/situationeel ethos.md",
+    "Onderwerpen/Gecreëerd ethos.md",
+    "Onderwerpen/juridische rede.md",
     "Onderwerpen/gelegenheidsrede.md",
     "Onderwerpen/politieke rede.md",
     "Onderwerpen/pathos.md",
     "Onderwerpen/ethos.md",
-    "humor.md",
-    "modern fear appeal.md",
+    "Onderwerpen/humor.md",
+    "Onderwerpen/modern fear appeal.md",
     "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/versailles-hong-kong.png",
     "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/versailles-hong-kong.avif",
     "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/np_file_138357.jpeg",
@@ -198,12 +199,11 @@
     "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/3361dbd695e34a311404be7ebd3e04477e4e1818.png",
     "Onderwerpen/gerechtelijke rede.md",
     "Verdedigingslini.md",
-    "gelegenheidssituatie.md",
+    "Onderwerpen/gelegenheidssituatie.md",
     "[verdedigingslinies.md",
-    "politieke situatie.md",
-    "verdedigingslinies.md",
+    "Onderwerpen/politieke situatie.md",
+    "Onderwerpen/verdedigingslinies.md",
     "Notities Dagelijk/September/2023-09-18.md",
-    "Notities Dagelijk/September/2023-09-19.md",
-    "Notities Dagelijk/September/2023-09-22.md"
+    "Notities Dagelijk/September/2023-09-19.md"
   ]
 }
