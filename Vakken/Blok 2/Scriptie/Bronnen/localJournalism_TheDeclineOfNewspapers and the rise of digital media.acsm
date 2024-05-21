@@ -1,0 +1,38 @@
+<fulfillmentToken fulfillmentType="loan" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:9cb786e8-586a-4950-8901-fff8d2ee6025</distributor>
+  <operatorURL>https://acs.ebookcentral.proquest.com/fulfillment</operatorURL>
+  <transaction>2060418_533791973</transaction>
+  <purchase>2024-06-02T16:06:30+00:00</purchase>
+  <expiration>2024-06-02T22:06:30+00:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:00000000-0000-0000-0000-000002060418</resource>
+    <resourceItem>0</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Local Journalism</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nielsen, Rasmus Kleis;</dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">I. B. Tauris &amp; Company, Limited</dc:publisher>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">2060418</dc:identifier>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/pdf</dc:format>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:00000000-0000-0000-0000-000002060418</resource>
+      <permissions>
+        <display>
+          <duration>86399</duration>
+        </display>
+        <excerpt>
+          <duration>86399</duration>
+          <count initial="48" max="48" incrementInterval="1799"/>
+        </excerpt>
+        <print>
+          <duration>86399</duration>
+          <count initial="96" max="96" incrementInterval="899"/>
+        </print>
+        <play>
+          <duration>86399</duration>
+        </play>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>OZwwVRm+9Pqvnh81qwREOgX2n58=</hmac>
+</fulfillmentToken>
