@@ -99,5 +99,17 @@ boek argumentatie (redelijk) (inhoud: [[drogredenen]])
 **Vraag over [[stroman]]:**
 de ander een [[argument]] in de schoenen schuiven en dat aanvallen, terwijl dat niet iets is wat hij of zij heeft gezegd.
 
+als mensen het met elkaar eens zijn dan valt het verschil van mening weg.
+
+beginnen met gene die je goed kent
+neem tekst van politici, ga ze zelf eruit halen, antithese en metafoor goed begin, inclusief wij, en aanspreking
+
+Vraag: 
+
+
+Retorische voorwaarden
+1. aandacht
+2. begrip
+3. aanvaarding
 
 
