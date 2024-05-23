@@ -32,7 +32,7 @@ VRAAG: expressieve argumenten wat daar mee was bedoeld?
 [[pragmatische argumentatie]] = subtype van [[argumentatieschema]]?
 
 
-VRAAG: wat is [[verzwegen argument]]
+VRAAG: wat is [[verzwegen argument]] ([[Week 3]])
 basisstructuur je hebt [[standpunt]], [[argument]] en [[brugargument]]
 Je [[brugargument]] is vaak verzwegen, leuke trui want die is groen (want ik vind een groene trui leuk)
 
@@ -44,5 +44,21 @@ bij de vitamine vraag is
 IMPLICIET ZET JE TUSSEN HAKEN 1.1a' ([[brugargument]])
 
 [[logisch minimum]]
+
+Klaus houdt van jodelen want komt uit tirol
+[[logisch minimum]] 
+Je kan het beste kiezen voor: tirolers houden van jodelen (nooit niet de meestte of altijd (extreme varianten))
+
+
+Notatiewijzen
+Losiche vorm (logica)
+Majorpremisse = als p, dan q
+minorpremisse = p
+conclusie = dus: q
+
+arugmentatiestructuur (argumentatietheorie)
+standpunt 1. q
+argument  1.1 p
+brugargument 1.1' 
 
 
