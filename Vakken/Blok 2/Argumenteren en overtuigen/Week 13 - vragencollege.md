@@ -137,18 +137,23 @@ standaardgeschil punt van verkeerde rij is 0 punten
 
 als standpunt iets anders is - politiek
 we moeten dit of dat doen,, beleidsvoorstel
-Indiener (nevenschikkende argumentatie)
+**Indiener (nevenschikkende argumentatie)**
 1. er is ernstig probleem
 2. die zijn inherent aan huidige beleid
 3. nieuw beleid is uitvoerbaar en doeltreffend
 4. geen nadelen / nadelen wegen minder zwaar dan voordelen
 
-aanvaller voorstel (meervoudig argumentatie)
+**aanvaller voorstel (meervoudig argumentatie)**
 1. geen ernstige problemen
 2. niet inherent aan huidig beled
 3. nieuw beleid is niet **uitvoerbaar** en ook niet **doeltreffend** (ken deze allebei)
 4. wel nadelen / nadelen wegen zwaarder dan voordelen
 
+**lofrede (extra)**
+spreker
+1. eigenschappen bezitten / daden verrichten
+2. die eigenschappen/daden zijn lovenswaardig
+3. aanwezigheid van uitzonderlijke omstandigheden
 
 
 
