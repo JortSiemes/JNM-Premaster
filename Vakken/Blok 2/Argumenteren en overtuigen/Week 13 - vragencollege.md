@@ -120,3 +120,36 @@ Retorische voorwaarden
 Beschuldiging = eerste linie standaardgeschilpunt (ik heb het niet gedaan)
 
 
+standaardgeschil punt van verkeerde rij is 0 punten
+
+## standaardgeschilpunten
+**aanklager (nevenschikkende argumentatie)**
+1. x heeft y gedaan
+2. y is strafbaar
+3. geen verzachtende omstandigheden of schulduitsluitingsgronden
+4. de procedure is correct verlopen
+
+**Verdediger (meervoudig argumentatie)**
+1. x heeft y niet gedaan
+2. x heeft niet y maar y' gedaan (en dat is niet strafbaar)
+3. verzachtende omstandigheden of schulduitsluitingsgronden
+4. de procedure is niet correct verlopen
+
+als standpunt iets anders is - politiek
+we moeten dit of dat doen,, beleidsvoorstel
+Indiener (nevenschikkende argumentatie)
+1. er is ernstig probleem
+2. die zijn inherent aan huidige beleid
+3. nieuw beleid is uitvoerbaar en doeltreffend
+4. geen nadelen / nadelen wegen minder zwaar dan voordelen
+
+aanvaller voorstel (meervoudig argumentatie)
+1. geen ernstige problemen
+2. niet inherent aan huidig beled
+3. nieuw beleid is niet **uitvoerbaar** en ook niet **doeltreffend** (ken deze allebei)
+4. wel nadelen / nadelen wegen zwaarder dan voordelen
+
+
+
+
+
