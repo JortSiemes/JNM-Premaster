@@ -1,0 +1,1 @@
+ (keuze uit de inhoudelijke argumentatieve middelen, welke argumenten welke typen middelen, opvallende keuze voor een analogie [[argument]] is een topsiche keuze)

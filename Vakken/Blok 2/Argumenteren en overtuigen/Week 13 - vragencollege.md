@@ -90,5 +90,14 @@ drie aspecten van [[strategisch manoeuvreren]]
 analytische driedeling, driehoek die samenhangt
 - [[topisch potentieel]] (keuze uit de inhoudelijke argumentatieve middelen, welke argumenten welke typen middelen, opvallende keuze voor een analogie [[argument]] is een topsiche keuze)
 - [[aanpassing aan het auditorium]] (hoe de inhoud vervolgens word afgesteld aan verschillende publieken, primair publiek & secondair publiek. )
-- [[presentatiemiddelen (de wijze waarop discussiezetten worden gedaan (bijvoorbeeld gewapende mannen))
+- [[presentatiemiddelen]] (de wijze waarop discussiezetten worden gedaan (bijvoorbeeld gewapende mannen))
+
+Boek retorische kritiek (effectiviteit) (inhoud: [[ethos]],[[pathos]],[[logos]])
+boek argumentatie (redelijk) (inhoud: [[drogredenen]])
+[[Strategisch manoeuvreren]] koppelt deze boeken 
+
+**Vraag over [[stroman]]:**
+de ander een [[argument]] in de schoenen schuiven en dat aanvallen, terwijl dat niet iets is wat hij of zij heeft gezegd.
+
+
 

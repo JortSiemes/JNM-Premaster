@@ -1,0 +1,1 @@
+(de wijze waarop discussiezetten worden gedaan (bijvoorbeeld gewapende mannen))
