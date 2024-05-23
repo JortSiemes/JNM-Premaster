@@ -29,11 +29,20 @@ Extra uitleg functies
 - [[appelerende functie]] (publiek aanzetten tot actie)
 
 VRAAG: expressieve argumenten wat daar mee was bedoeld?
-[[pragmatische argumentatie]] = subtype van argumentatieschema?
+[[pragmatische argumentatie]] = subtype van [[argumentatieschema]]?
 
 
-VRAAG: wat is verzwegen argument
-basisstructuur je hebt standpunt, argument en brugargument
-Je brugargument is vaak verzwegen, leuke trui want die is groen (want ik vind een groene trui leuk)
+VRAAG: wat is [[verzwegen argument]]
+basisstructuur je hebt [[standpunt]], [[argument]] en [[brugargument]]
+Je [[brugargument]] is vaak verzwegen, leuke trui want die is groen (want ik vind een groene trui leuk)
+
+bij de vitamine vraag is 
+1. impliciet: koop swisse vitamine
+1.1a indirect: je komt waarschijnlijk niet aan de aanbevolen dagelijkse hoeveelheid vitamines
+1.1b direct: de vitamines in swisse zijn hooggedoseerd
+
+IMPLICIET ZET JE TUSSEN HAKEN 1.1a' ([[brugargument]])
+
+[[logisch minimum]]
 
 

@@ -1,0 +1,2 @@
+als [[argument]]
+dan [[standpunt]]
