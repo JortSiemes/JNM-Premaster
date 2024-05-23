@@ -11,13 +11,8 @@
             "id": "814dd4fff504de24",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 13 - vragencollege.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -95,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 13 - vragencollege.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 13 - vragencollege.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Week 13 - vragencollege.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -159,17 +150,19 @@
   },
   "active": "814dd4fff504de24",
   "lastOpenFiles": [
-    "Vakken/Blok 2/Argumenteren en overtuigen/Week 11.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Week 8.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 13 - vragencollege.md",
-    "logos.md",
+    "standaardgeschilpunten.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Week 12.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Week 11.md",
     "Onderwerpen/ethos.md",
+    "logos.md",
     "presentatiemiddelen.md",
     "aanpassing aan het auditorium.md",
     "topisch potentieel.md",
     "strategisch manoeuvreren.md",
     "retorische doel.md",
     "dialectisch doel.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Week 12.md",
     "pragmatisch optimum.md",
     "logisch minimum.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 3.md",
@@ -193,8 +186,6 @@
     "Vakken/Blok 2/Wetenschapsjournalistiek/Eindpaper (Kernreactoren)/~WRL0512.tmp",
     "Vakken/Blok 2/Wetenschapsjournalistiek/Eindpaper (Kernreactoren)/~WRD0465.tmp",
     "Vakken/Blok 2/Wetenschapsjournalistiek/Eindpaper (Kernreactoren)/~WRL0131.tmp",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Week 5.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Week 6.md",
     "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/versailles-hong-kong.png",
     "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/versailles-hong-kong.avif",
     "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/np_file_138357.jpeg",

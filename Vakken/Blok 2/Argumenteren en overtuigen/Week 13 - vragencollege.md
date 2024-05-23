@@ -102,14 +102,21 @@ de ander een [[argument]] in de schoenen schuiven en dat aanvallen, terwijl dat 
 als mensen het met elkaar eens zijn dan valt het verschil van mening weg.
 
 beginnen met gene die je goed kent
-neem tekst van politici, ga ze zelf eruit halen, antithese en metafoor goed begin, inclusief wij, en aanspreking
+neem tekst van politici, ga ze zelf eruit halen, [[antithese]] en [[metafoor]] goed begin, inclusief wij, en aanspreking
 
 Vraag: 
 
+[[ethos]] drieslag - gericht op spreker
+1. deskundigheid
+2. eerlijkheid
+3. welwillendheid
 
 Retorische voorwaarden
 1. aandacht
 2. begrip
 3. aanvaarding
+
+[[standaardgeschilpunten]] dat bij de verdedigingslinie hoort 
+Beschuldiging = eerste linie standaardgeschilpunt (ik heb het niet gedaan)
 
 
