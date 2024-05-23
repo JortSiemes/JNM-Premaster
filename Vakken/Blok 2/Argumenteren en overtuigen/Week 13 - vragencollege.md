@@ -51,14 +51,34 @@ Je kan het beste kiezen voor: tirolers houden van jodelen (nooit niet de meestte
 
 
 Notatiewijzen
-Losiche vorm (logica)
+**Losiche vorm (logica)**
 Majorpremisse = als p, dan q
 minorpremisse = p
 conclusie = dus: q
 
-arugmentatiestructuur (argumentatietheorie)
-standpunt 1. q
-argument  1.1 p
-brugargument 1.1' 
+**[[argumentatiestructuur]] (argumentatietheorie)**
+[[standpunt]] 1. q
+[[argument]]  1.1 p
+[[brugargument]] 1.1' als p, dan q
+
+### logisch geldige redeneringen
+[[modus ponens]]
+als p, dan q (majorpremisse)
+p  (minorpremisse)
+dus q (conclusie)
+als [[antecedent]] dan [[consequent]]
+
+of 
+
+[[modus tollens]]
+als p, dan qu
+niet q
+dus niet p
+[[standpunt]] = niet p
+[[argument]] = niet q
+[[brugargument]] = als p, dan q
+
+
+[[PATHOS]] ABA?
 
 
