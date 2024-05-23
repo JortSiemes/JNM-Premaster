@@ -51,16 +51,6 @@ Communicatiemodel (met functies)
 
 ##### Tip van mila: naam + korte vaste omschrijving
 
-
-
-
-
-
-
-
-
-
-
 [[stijlschalen]]
 - omslachtig-beknopt
 - moeilijk-makkelijk

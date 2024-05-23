@@ -81,4 +81,14 @@ dus niet p
 
 [[PATHOS]] ABA?
 
+VRAAG: [[Strategisch manoeuvreren]]
+1. definiëren tussen balans [[retorische doel]] (effectief) en [[dialectisch doel]] (redelijk)
+		als dit mislukt is het een drogreden
+belangrijke doelen is redelijk zijn en effectief zijn
+
+drie aspecten van [[strategisch manoeuvreren]]
+analytische driedeling, driehoek die samenhangt
+- [[topisch potentieel]] (keuze uit de inhoudelijke argumentatieve middelen, welke argumenten welke typen middelen, opvallende keuze voor een analogie [[argument]] is een topsiche keuze)
+- [[aanpassing aan het auditorium]] (hoe de inhoud vervolgens word afgesteld aan verschillende publieken, primair publiek & secondair publiek. )
+- [[presentatiemiddelen (de wijze waarop discussiezetten worden gedaan (bijvoorbeeld gewapende mannen))
 
