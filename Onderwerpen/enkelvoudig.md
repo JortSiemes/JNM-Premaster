@@ -1,1 +1,1 @@
-Verschil van mening heeft maar betrekking op slechts een propositie
+Verschil van mening heeft maar betrekking op slechts een [[propositie]]

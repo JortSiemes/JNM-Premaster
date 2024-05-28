@@ -11,21 +11,21 @@ Wat is er vanuit retorisch oogpunt interessant aan stijlfiguren
 
 Communicatiemodel (met functies)
 (1) schrijver/spreker EXPRESSIEF (jezelf uiten)
-	ethos vergrotend (beroep op deskundigheid)
+	[[ethos]] vergrotend (beroep op deskundigheid)
 		- sententie (it's not a war on drugs, its a war on personal freedom)
 		- oneliner (icht bin ein berliner)
-	ethos vergrotend (beroep op welwillendheid)
+	[[ethos]] vergrotend (beroep op welwillendheid)
 		- oneliner
 		- perifrase (de eerste zwarte president van de VS)
 		- retorische vraag (hoe lang gaat dit nog duren)
-	pathos vergrotend
+	[[pathos]] vergrotend
 		- exclamatie (hoera)
 		- hyperbool (eeuw gewacht op de bus)
 		- epitheton (gevleugelde woorden)
 		- anafoor (zo mooi zo lief zo aardig)
 		- climax (meren, zeeën, oceanen)
 (2) medium SOCIAAL (band met publiek versterken)
-	ethos vergrotend (beroep op welwillendheid)
+	[[ethos]] vergrotend (beroep op welwillendheid)
 		- aanspreking (jij, u, my fellow americans)
 		- inclusief we (dit is waar wij voor staan)
 		- allusie (to party or not to party thats the question, veel mensen zijn een garfield i hun diepste gedachte)
@@ -39,10 +39,10 @@ Communicatiemodel (met functies)
 	- evidentie (dit blijkt uit)
 	- amplificatie (enorme, reusachtige, gigantische hoeveelheden)
 	- anekdote (al dan niet een fictio)
-	- metafoor
+	- [[metafoor]]
 	- prolepsis (andersom liner, rob trip, kernwapens..... die zijn steeds meer in het nieuws)
 (5) publiek APPELEREND (aanzetten tot actie)
-	pathos-vergrotend
+	[[pathos]]-vergrotend
 		- aanspreking (jij vs u)
 		- inclusief we (dit is waar wij voor staan)
 		- subjectie (is dat een goed idee? Ja dat is het)
@@ -76,9 +76,9 @@ volgorde van redenering:
 
 
 3 stijlniveaus:
-- de lage stijl (nauwelijks of geen stijlfiguren; bij deze stijl valt het accent op de duidelijkheid in plaats van op de aantrekkelijkheid)
-- de midden stijl (gematigde stijlfiguren, zoals niet te geladen beeldspraak en niet te nadrukkelijke gedachte- en woordfiguren; deze stijl wil vooral aantrekkelijk zijn)
-- de hoge stijl (veel meeslepende stijlfiguren, zoals hyperbolen, vraagfiguren, uitroepen en opzwepend werkende anaforen en dergelijke; dit stijltype is niet zozeer aantrekkelijk als wel emotionerend)
+- de lage [[stijl]] (nauwelijks of geen stijlfiguren; bij deze [[stijl]] valt het accent op de duidelijkheid in plaats van op de aantrekkelijkheid)
+- de midden [[stijl]] (gematigde stijlfiguren, zoals niet te geladen beeldspraak en niet te nadrukkelijke gedachte- en woordfiguren; deze [[stijl]] wil vooral aantrekkelijk zijn)
+- de hoge [[stijl]] (veel meeslepende stijlfiguren, zoals hyperbolen, vraagfiguren, uitroepen en opzwepend werkende anaforen en dergelijke; dit stijltype is niet zozeer aantrekkelijk als wel emotionerend)
 
 stijlfiguren in ruimere zin
 - beeldspraak
@@ -89,9 +89,9 @@ stijlfiguren in ruimere zin
 	- woordfiguren
 
 Metaforen
-1. Metafoor-in-engere-zin
+1. [[Metafoor]]-in-engere-zin
 2. personificatie
-3. uitgewerkte metafoor
+3. uitgewerkte [[metafoor]]
 4. vergelijking
 Metonymia-in-engere-zin
 5. metonymia-in-engere-zin

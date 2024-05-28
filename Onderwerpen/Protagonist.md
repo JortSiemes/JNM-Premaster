@@ -1,1 +1,1 @@
-= iemand die een standpunt inneemt
+= iemand die een [[standpunt]] inneemt

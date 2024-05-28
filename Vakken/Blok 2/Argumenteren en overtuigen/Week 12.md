@@ -8,7 +8,7 @@ argumentatietheorie
 
 [[strategisch manoeuvreren]]
 balceren tussen 2 doelen:
-- Dialectisch doel:
+- [[Dialectisch doel]]:
 	- redelijk oplossen van het verschil van mening
 - Retorisch doel;
 	- Effectief het [[standpunt]] doen accepteren
@@ -16,9 +16,9 @@ balceren tussen 2 doelen:
 
 
 3 aspecten van [[strategisch manoeuvreren]] (gaan altijd samen)
-- topisch potentieel (welke standpunten en argumenten kies je)
+- [[topisch potentieel]] (welke standpunten en argumenten kies je)
 - verlangens van het auditorium ([[argument]] afstemmen op publiek)
-- presentatiemiddelen (welke woorden kies je hierbij)
+- [[presentatiemiddelen]] (welke woorden kies je hierbij)
 
 
 **aanpassing uit auditorium**
@@ -45,8 +45,8 @@ conventionele activiteitstypen
 | gebrek aan overeenstemming tussen arts en patient over het advies van de arts over gezondheidsproblemeem | informed consent, arts is discussieleider | argumentatie die uitgaat van medische feiten en evidenties | wederzijds aanvaardeovereenstemming over opvolg advies, doorverwijzing of second opinion |
 
 
-presentatiemiddelen
-- stijlmiddelen vallen onder presentatiemiddelen
+[[presentatiemiddelen]]
+- stijlmiddelen vallen onder [[presentatiemiddelen]]
 
 
 
