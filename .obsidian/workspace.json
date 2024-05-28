@@ -34,7 +34,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Argumentatie analyse volgorde.md",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Totaal Tentamenstof 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Argumentatie analyse volgorde.md",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Totaal Tentamenstof 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Argumentatie analyse volgorde.md"
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Totaal Tentamenstof 1.md"
               }
             }
           }
@@ -171,10 +170,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c01332e61328c05",
+  "active": "814dd4fff504de24",
   "lastOpenFiles": [
-    "Onderwerpen/Enkelvoudige argumentatie.md",
+    "Vakken/Blok 2/Scriptie/~WRL0001.tmp",
+    "Vakken/Blok 2/Scriptie/~WRD0000.tmp",
     "Vakken/Blok 2/Argumenteren en overtuigen/Argumentatie analyse volgorde.md",
+    "Onderwerpen/Enkelvoudige argumentatie.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Totaal Tentamenstof 1.md",
     "Onderwerpen/Antagonist.md",
     "Onderwerpen/Protagonist.md",
@@ -205,10 +206,8 @@
     "Vakken/Blok 2/Argumenteren en overtuigen/Colleges",
     "Vakken/Blok 2/Argumenteren en overtuigen/New folder",
     "Vakken/Blok 2/Scriptie/~WRL1616.tmp",
-    "Vakken/Blok 2/Scriptie/~WRD1604.tmp",
     "standaardgeschilpunten.md",
     "Onderwerpen/ethos.md",
-    "logos.md",
     "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/versailles-hong-kong.png",
     "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/versailles-hong-kong.avif",
     "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/np_file_138357.jpeg",
