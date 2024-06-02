@@ -91,7 +91,7 @@ omschrijven wat het maatschappelijke probleem nou eigenlijk is.
 - publiek als consument
 - nieuws als commercieel product
 
-#### Spreekbuismodel
+#### [[Spreekbuismodel]]
 - eigen zuil als drijfveer
 - doel: educatie en socialisatie
 - publiek als lid van de zuil
@@ -114,7 +114,7 @@ omschrijven wat het maatschappelijke probleem nou eigenlijk is.
 7. it must strive to keep the significant interesting and relevant
 
 
-Publieke / civiele journalistiek
+Publieke / [[civiele journalistiek]]
 
 
 Constructieve journalistiek
