@@ -1,1 +1,1 @@
-een houding ten opzichte van een propositie Dat kan positief (+p), neutraal/twijfelend (?+p / ?-p) of negatief zijn (-p) 
+een houding ten opzichte van een [[propositie]] Dat kan positief (+p), neutraal/twijfelend (?+p / ?-p) of negatief zijn (-p) 

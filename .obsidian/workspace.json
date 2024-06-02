@@ -11,13 +11,8 @@
             "id": "814dd4fff504de24",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Onderwerpen/verdedigingslinies.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -95,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Onderwerpen/verdedigingslinies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Onderwerpen/verdedigingslinies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Onderwerpen/verdedigingslinies.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -157,8 +148,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56ecf7014e3f15f0",
+  "active": "814dd4fff504de24",
   "lastOpenFiles": [
+    "Onderwerpen/Propositie.md",
+    "Onderwerpen/Standpunt.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Week 5.md",
+    "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/_Internetjournalistiek_week8_100424 (1).pdf",
+    "Onderwerpen/verdedigingslinies.md",
     "Vakken/Blok 2/Week 12.md",
     "Vakken/Blok 2/email.docx",
     "Onderwerpen/Communicatieve activiteitstypen.md",
@@ -174,7 +170,6 @@
     "Vakken/Blok 2/Wetenschapsjournalistiek/Eindpaper (Kernreactoren)/Articles/NuclearEnergyDoesnotcontribute.pdf",
     "Vakken/Blok 2/Wetenschapsjournalistiek/Eindpaper (Kernreactoren)/Articles/NuclearEnergyDoesnotcontribute.pdf.crdownload",
     "Vakken/Blok 2/Wetenschapsjournalistiek/Eindpaper (Kernreactoren)/~WRL1497.tmp",
-    "Vakken/Blok 2/Wetenschapsjournalistiek/Eindpaper (Kernreactoren)/~WRD1478.tmp",
     "Vakken/Blok 2/Internetjournalistiek/Kaart_Tijdlijn/Interview vragen.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 10.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Week 9.md",
@@ -200,10 +195,6 @@
     "Onderwerpen/gerechtelijke rede.md",
     "Verdedigingslini.md",
     "Onderwerpen/gelegenheidssituatie.md",
-    "[verdedigingslinies.md",
-    "Onderwerpen/politieke situatie.md",
-    "Onderwerpen/verdedigingslinies.md",
-    "Notities Dagelijk/September/2023-09-18.md",
-    "Notities Dagelijk/September/2023-09-19.md"
+    "[verdedigingslinies.md"
   ]
 }
