@@ -7,6 +7,9 @@ Samenvatting hoofdstuk 3 De retoriek van de ordening
 - verplaatsing (3,2,**1**,4)
 - vervanging (1,2,**7**,4)
 
+descriptief
+en prescriptief
+
 
 Standaardordening van het klassieke strafpleidooi
 1. [[Exordium]] (inleiding)

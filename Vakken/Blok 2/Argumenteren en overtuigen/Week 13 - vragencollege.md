@@ -22,7 +22,7 @@ Rest van de retorische begrippen kan je hier ook voor gebruiken.
 [[Enkelvoudige argumentatie]]
 
 Extra uitleg functies
-- 
+- Expressieve functie
 - [[Sociale functie]] (publiek betrekken bij inhoud)
 - [[Diverterende functie]] (amuseren)
 - [[informatieve functie]] (draagt bij aan inhoud)
