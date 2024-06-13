@@ -11,8 +11,13 @@
             "id": "38a8599ba5c0252b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Blok 2/Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vakken/Blok 2/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vakken/Blok 2/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Vakken/Blok 2/Untitled.md"
+              }
             }
           }
         ]
@@ -148,5 +157,7 @@
     }
   },
   "active": "38a8599ba5c0252b",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Vakken/Blok 2/Untitled.md"
+  ]
 }
