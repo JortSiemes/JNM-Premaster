@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md",
+                "file": "Vakken/Blok 2/Aantekeningen Inzichtencollege.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56f8f1e9cad44b07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Totaal Tentamenstof 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Totaal Tentamenstof 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Totaal Tentamenstof 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md"
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Totaal Tentamenstof 1.md"
               }
             }
           }
@@ -156,11 +170,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "38a8599ba5c0252b",
+  "active": "56f8f1e9cad44b07",
   "lastOpenFiles": [
-    "Vakken/Blok 2/Argumenteren en overtuigen/HERKANSING oefenen.md",
     "Vakken/Blok 2/Aantekeningen Inzichtencollege.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Totaal Tentamenstof 1.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/HERKANSING oefenen.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/~$ntekeningen AenO_OBSIDIANFILE.docx",
     "Vakken/Blok 2/Argumenteren en overtuigen/Aantekeningen AenO_OBSIDIANFILE.docx",
     "Vakken/Blok 2/Argumenteren en overtuigen/~WRD1791.tmp"
