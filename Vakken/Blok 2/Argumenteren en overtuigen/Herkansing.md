@@ -150,6 +150,51 @@ Overtredingen door de [[protagonist]] of [[antagonist]] in alle discussiefasen
 ## 3 klassieke typen standpunten
 
 ## Retorische taken
+## Retorische Genres
+## Communicatiemodel
+(1) schrijver/spreker EXPRESSIEF (jezelf uiten)
+	[[ethos]] vergrotend (beroep op deskundigheid)
+		- sententie (it's not a war on drugs, its a war on personal freedom)
+		- oneliner (icht bin ein berliner)
+	[[ethos]] vergrotend (beroep op welwillendheid)
+		- oneliner
+		- perifrase (de eerste zwarte president van de VS)
+		- retorische vraag (hoe lang gaat dit nog duren)
+	[[pathos]] vergrotend
+		- exclamatie (hoera)
+		- hyperbool (eeuw gewacht op de bus)
+		- epitheton (gevleugelde woorden)
+		- anafoor (zo mooi zo lief zo aardig)
+		- climax (meren, zeeën, oceanen)
+(2) medium SOCIAAL (band met publiek versterken)
+	[[ethos]] vergrotend (beroep op welwillendheid)
+		- aanspreking (jij, u, my fellow americans)
+		- inclusief we (dit is waar wij voor staan)
+		- allusie (to party or not to party thats the question, veel mensen zijn een garfield i hun diepste gedachte)
+		- ironie (je moet ook respecteren dat het tempo van verandering voor sommige partijen wat te snel gaat)
+(3) tekst DIVERTEREND (amuseren)
+	hebben deze figuren wel een persuasieve functie?
+		amusant/geestig/grappig
+(4) onderwerp INFORMATIEF/REFERENTIEEL (informeren)
+	verduidelijken/benadrukken
+	- perifrase (de eerste zwarte president van de VS)
+	- evidentie (dit blijkt uit)
+	- amplificatie (enorme, reusachtige, gigantische hoeveelheden)
+	- anekdote (al dan niet een fictio)
+	- [[metafoor]]
+	- prolepsis (andersom liner, rob trip, kernwapens..... die zijn steeds meer in het nieuws)
+(5) publiek APPELEREND (aanzetten tot actie)
+	[[pathos]]-vergrotend
+		- aanspreking (jij vs u)
+		- inclusief we (dit is waar wij voor staan)
+		- subjectie (is dat een goed idee? Ja dat is het)
+		- quaestie (willen we winnen? willen we verder komen? willen we doorgaan?)
+		- apostrofe ()
+
+
+
+##
+
 
 
 # Belangrijke Termen
