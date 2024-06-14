@@ -1,9 +1,10 @@
 
 # Belangrijke Rijtjes
 
-## ABA
+## Retorische voorwaarden: ABA
 Aandacht
 Begrip
+Aanvaarding
 
 ## Argumentatieschema
 Kentekenrelatie
@@ -146,7 +147,10 @@ Overtredingen door de [[protagonist]] of [[antagonist]] in alle discussiefasen
 
 ## Bewijslastpunten
 
-## 
+## 3 klassieke typen standpunten
+
+## Retorische taken
+
 
 # Belangrijke Termen
 
