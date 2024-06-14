@@ -193,7 +193,20 @@ Overtredingen door de [[protagonist]] of [[antagonist]] in alle discussiefasen
 
 
 
-##
+## Stijldeugden
+- correctheid
+	woordkeuze en zinsbouw foutloos moet zijn
+	- uitheemse woordkeuze (barbarismen)
+		- dat is **disrespectvol**
+	- dito zinsbouw
+
+- duidelijkheid
+- aantrekkelijkheid
+- passendheid
+
+
+
+
 
 
 
