@@ -16,3 +16,6 @@ Vraag 3 over: (partitio volgorde!!!),
 Vraag 4 over: stijldeugden
 Vraag 5: Stijlfiguren en argumentatieschema + Argumentatiestructuur
 Vraag 6: Drogredenen halen uit tekst + extra drogredenen uit tweets
+
+
+

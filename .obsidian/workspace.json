@@ -13,6 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Herkansing.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68c16961bbd5b24e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Vakken/Blok 2/Aantekeningen Inzichtencollege.md",
                 "mode": "source",
                 "backlinks": true,
@@ -32,19 +45,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ec6cc7856b6d2a23",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "standaardge",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Totaal Tentamenstof 1.md",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Herkansing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Totaal Tentamenstof 1.md",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Herkansing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,16 +160,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Totaal Tentamenstof 1.md"
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Herkansing.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,9 +182,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec6cc7856b6d2a23",
+  "active": "38a8599ba5c0252b",
   "lastOpenFiles": [
     "Vakken/Blok 2/Aantekeningen Inzichtencollege.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Herkansing.md",
+    "standaardgeschilpunten.md",
+    "Onderwerpen/verdedigingslinies.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Totaal Tentamenstof 1.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/HERKANSING oefenen.md",
