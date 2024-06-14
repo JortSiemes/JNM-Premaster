@@ -46,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Herkansing.md",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Totaal Tentamenstof 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Herkansing.md",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Totaal Tentamenstof 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Herkansing.md"
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Totaal Tentamenstof 1.md"
               }
             }
           }
@@ -182,12 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "38a8599ba5c0252b",
+  "active": "56f8f1e9cad44b07",
   "lastOpenFiles": [
-    "Vakken/Blok 2/Argumenteren en overtuigen/Totaal Tentamenstof 1.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Herkansing.md",
-    "Onderwerpen/confrontatiefase.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Totaal Tentamenstof 1.md",
     "Vakken/Blok 2/Aantekeningen Inzichtencollege.md",
+    "Onderwerpen/discussieregels.md",
+    "Onderwerpen/confrontatiefase.md",
     "standaardgeschilpunten.md",
     "Onderwerpen/verdedigingslinies.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md",
