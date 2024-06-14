@@ -32,9 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ec6cc7856b6d2a23",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,7 +180,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56f8f1e9cad44b07",
+  "active": "ec6cc7856b6d2a23",
   "lastOpenFiles": [
     "Vakken/Blok 2/Aantekeningen Inzichtencollege.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Totaal Tentamenstof 1.md",
