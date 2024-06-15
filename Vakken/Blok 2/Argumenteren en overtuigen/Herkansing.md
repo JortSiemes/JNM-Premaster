@@ -10,8 +10,6 @@ Aanvaarding
 [[Kentekenrelatie]]
 Kritische vraag: "Is Z wel kenmerkend voor Y?"
 
-
-
 [[Vergelijkingsrelatie]]
 [[Causale relatie]]
 
