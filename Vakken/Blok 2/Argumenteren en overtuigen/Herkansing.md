@@ -6,12 +6,16 @@ Aandacht
 Begrip
 Aanvaarding
 
-## Argumentatieschema
-Kentekenrelatie
-Vergelijkingsrelatie
-Causale relatie
+## [[Argumentatieschema]]
+[[Kentekenrelatie]]
+Kritische vraag: "Is Z wel kenmerkend voor Y?"
 
-## Discussieregels
+
+
+[[Vergelijkingsrelatie]]
+[[Causale relatie]]
+
+## [[Discussieregels]]
 ##### Discussieregel 1: Vrijheidsregel 
 De discussianten mogen elkaar niet beletten standpunten of twijfel naar voren te brengen 
 
@@ -193,7 +197,7 @@ Overtredingen door de [[protagonist]] of [[antagonist]] in alle discussiefasen
 
 
 
-## Stijldeugden
+## [[Stijldeugden]]
 - correctheid
 	woordkeuze en zinsbouw foutloos moet zijn
 	- uitheemse woordkeuze (barbarismen)
@@ -222,8 +226,8 @@ Overtredingen door de [[protagonist]] of [[antagonist]] in alle discussiefasen
 
 
 
-### standaardgeschilpunten
-Verdedigingslinies
+### [[standaardgeschilpunten]]
+[[Verdedigingslinies]]
 
 **Ontkennen:** 
 **anders omschrijven:**
@@ -242,7 +246,7 @@ Verdediger
 3. verzachtende omstandigheden of schulduitsluitingsgronden
 4. de procedure is niet correct verlopen
 
-Verdedigingslinies
+[[Verdedigingslinies]]
 - wel/niet gedaan
 - wel/niet onwettig
 - geen/wel rechtvaardiging
