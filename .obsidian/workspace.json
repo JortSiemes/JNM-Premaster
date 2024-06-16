@@ -13,10 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Herkansing.md",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Totaal Tentamenstof AenO.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "5b5729af2a3fe3f5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf"
               }
             }
           },
@@ -33,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Herkansing.md",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Herkansing.md",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Herkansing.md"
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf"
               }
             }
           }
@@ -169,11 +180,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "38a8599ba5c0252b",
+  "active": "5b5729af2a3fe3f5",
   "lastOpenFiles": [
     "Vakken/Blok 2/Argumenteren en overtuigen/Totaal Tentamenstof AenO.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Totaal Tentamenstof 1.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/Herkansing.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Totaal Tentamenstof 1.md",
     "Vakken/Blok 2/Aantekeningen Inzichtencollege.md",
     "Onderwerpen/verdedigingslinies.md",
     "Onderwerpen/discussieregels.md",
