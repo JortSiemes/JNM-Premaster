@@ -46,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken/Blok 2/Aantekeningen Inzichtencollege.md",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Herkansing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Blok 2/Aantekeningen Inzichtencollege.md",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Herkansing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,9 +146,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Blok 2/Aantekeningen Inzichtencollege.md",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Herkansing.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Blok 2/Aantekeningen Inzichtencollege.md"
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Herkansing.md"
               }
             }
           }
@@ -178,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,18 +193,18 @@
   },
   "active": "68c16961bbd5b24e",
   "lastOpenFiles": [
+    "Onderwerpen/confrontatiefase.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Herkansing.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/HERKANSING oefenen.md",
+    "Vakken/Blok 2/Aantekeningen Inzichtencollege.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Totaal Tentamenstof AenO.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/week1_Presentatie.pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Herkansing.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Totaal Tentamenstof 1.md",
-    "Vakken/Blok 2/Aantekeningen Inzichtencollege.md",
     "Onderwerpen/verdedigingslinies.md",
     "Onderwerpen/discussieregels.md",
-    "Onderwerpen/confrontatiefase.md",
     "standaardgeschilpunten.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/HERKANSING oefenen.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/~$ntekeningen AenO_OBSIDIANFILE.docx",
     "Vakken/Blok 2/Argumenteren en overtuigen/Aantekeningen AenO_OBSIDIANFILE.docx",
     "Vakken/Blok 2/Argumenteren en overtuigen/~WRD1791.tmp"

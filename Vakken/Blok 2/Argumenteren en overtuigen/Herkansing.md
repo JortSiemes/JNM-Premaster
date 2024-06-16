@@ -6,6 +6,11 @@ Aandacht
 Begrip
 Aanvaarding
 
+## Discussiefasen COAA
+1. [[Confrontatiefase]]
+2. [[Openingsfase]]
+3. [[Argumentatiefase]]
+4. [[Afsluitingsfase]]
 ## [[Argumentatieschema]]
 [[Kentekenrelatie]]
 Kritische vraag: "Is Z wel kenmerkend voor Y?"
