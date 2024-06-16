@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/week1_Presentatie.pdf",
+                "file": "Vakken/Blok 2/Aantekeningen Inzichtencollege.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/week1_Presentatie.pdf",
+                "file": "Vakken/Blok 2/Aantekeningen Inzichtencollege.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/week1_Presentatie.pdf"
+                "file": "Vakken/Blok 2/Aantekeningen Inzichtencollege.md"
               }
             }
           }
@@ -192,11 +192,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b8b20a24a6e8e6b",
+  "active": "68c16961bbd5b24e",
   "lastOpenFiles": [
-    "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
-    "Vakken/Blok 2/Argumenteren en overtuigen/week1_Presentatie.pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/Totaal Tentamenstof AenO.md",
+    "Vakken/Blok 2/Argumenteren en overtuigen/week1_Presentatie.pdf",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/Herkansing.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Totaal Tentamenstof 1.md",
     "Vakken/Blok 2/Aantekeningen Inzichtencollege.md",
