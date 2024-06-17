@@ -31,6 +31,16 @@
             }
           },
           {
+            "id": "3d42f4b4713719be",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.10 (1).jpeg"
+              }
+            }
+          },
+          {
             "id": "0b8b20a24a6e8e6b",
             "type": "leaf",
             "state": {
@@ -129,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/week1_Presentatie.pdf",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.10 (1).jpeg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/week1_Presentatie.pdf",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.10 (1).jpeg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/week1_Presentatie.pdf"
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.10 (1).jpeg"
               }
             }
           }
@@ -192,11 +202,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b8b20a24a6e8e6b",
+  "active": "3d42f4b4713719be",
   "lastOpenFiles": [
+    "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.10.jpeg",
+    "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.12.jpeg",
+    "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.11 (1).jpeg",
+    "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.11.jpeg",
+    "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.10 (1).jpeg",
     "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Totaal Tentamenstof AenO.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/week1_Presentatie.pdf",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Totaal Tentamenstof AenO.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/Herkansing.md",
     "Onderwerpen/confrontatiefase.md",
     "Vakken/Blok 2/Argumenteren en overtuigen/HERKANSING oefenen.md",
