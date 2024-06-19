@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/week6_Presentatie.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/week6_Presentatie.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf"
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/week6_Presentatie.pdf"
               }
             }
           }
@@ -192,11 +192,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b5729af2a3fe3f5",
+  "active": "0b8b20a24a6e8e6b",
   "lastOpenFiles": [
+    "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/week6_Presentatie.pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/week5_Presentatie.pdf",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/week4_Presentatie.pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/week3_Presentatie.pdf",
     "Vakken/Blok 2/Argumenteren en overtuigen/week2_Presentatie.pdf",
