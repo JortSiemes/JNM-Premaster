@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "38a8599ba5c0252b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Totaal Tentamenstof AenO.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5b5729af2a3fe3f5",
             "type": "leaf",
             "state": {
@@ -31,7 +18,7 @@
             }
           },
           {
-            "id": "0b8b20a24a6e8e6b",
+            "id": "ff1c4cd02888a1d8",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -39,22 +26,8 @@
                 "file": "Vakken/Blok 2/Argumenteren en overtuigen/week6_Presentatie.pdf"
               }
             }
-          },
-          {
-            "id": "68c16961bbd5b24e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Herkansing.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -129,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/week6_Presentatie.pdf",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/week6_Presentatie.pdf",
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/week6_Presentatie.pdf"
+                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf"
               }
             }
           }
@@ -192,19 +165,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b8b20a24a6e8e6b",
+  "active": "5b5729af2a3fe3f5",
   "lastOpenFiles": [
-    "Vakken/Blok 2/Argumenteren en overtuigen/Blok 2/A&O College 12 II MvN.pptx",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Blok 2/Unconfirmed 193052.crdownload",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Blok 2/A&O College 11 MvN - Copy.pptx",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Blok 2/Unconfirmed 187796.crdownload",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Blok 2/A&O College 10 MvN.pptx",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Blok 2/Unconfirmed 514071.crdownload",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Blok 2/A&O College 9 MvN.pptx",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Blok 2/Unconfirmed 262772.crdownload",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Blok 2/A&O College 8 MvN.pptx",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Blok 2/Unconfirmed 196710.crdownload",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Blok 2/A&O College 7 MvN.pptx",
+    "Vakken/Blok 2/Argumenteren en overtuigen/week6_Presentatie.pdf",
+    "Vakken/Blok 2/Argumenteren en overtuigen/week5_Presentatie.pdf",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
+    "Vakken/Blok 2/Argumenteren en overtuigen/week4_Presentatie.pdf",
+    "Vakken/Blok 2/Argumenteren en overtuigen/week3_Presentatie.pdf",
+    "Vakken/Blok 2/Argumenteren en overtuigen/week2_Presentatie.pdf",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 4 2023-2024.pdf",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Blok 2/~$A&O College 12 II MvN.pptx",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Blok 2/~$A&O College 11 MvN - Copy.pptx",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Blok 2/~$A&O College 10 MvN.pptx",
+    "Vakken/Blok 2/Argumenteren en overtuigen/Blok 2/~$A&O College 9 MvN.pptx",
     "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.10 (1).jpeg",
     "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.10.jpeg",
     "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.12.jpeg",
