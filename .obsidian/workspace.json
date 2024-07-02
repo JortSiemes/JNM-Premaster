@@ -1,48 +1,35 @@
 {
   "main": {
-    "id": "21c671fb28102714",
+    "id": "4097669ac52df32e",
     "type": "split",
     "children": [
       {
-        "id": "9749a606ee82f1b6",
+        "id": "f5a3e70ed151a456",
         "type": "tabs",
         "children": [
           {
-            "id": "5b5729af2a3fe3f5",
+            "id": "902299d2ce6ab990",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf"
-              }
-            }
-          },
-          {
-            "id": "ff1c4cd02888a1d8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/week6_Presentatie.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e25a585e6d5ab617",
+    "id": "8bc5082cff90acff",
     "type": "split",
     "children": [
       {
-        "id": "6d04a8aa483e3f7c",
+        "id": "a9b90a632cd6dc6b",
         "type": "tabs",
         "children": [
           {
-            "id": "19c4e1992069f5fa",
+            "id": "1e9a188abd1cb544",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,12 +39,12 @@
             }
           },
           {
-            "id": "ac38d3cd9a895632",
+            "id": "ec4fdd01f4e641bf",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "standaardge",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +54,7 @@
             }
           },
           {
-            "id": "d16685125b61a67f",
+            "id": "0fe08babd7462ec9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "27f31f8f629d2fe8",
+    "id": "ff81170db744a566",
     "type": "split",
     "children": [
       {
-        "id": "98197cf4c9500d52",
+        "id": "3db0268bdfd2d645",
         "type": "tabs",
         "children": [
           {
-            "id": "a366bf9451e90051",
+            "id": "a9565ffa3f44a42d",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -97,12 +84,11 @@
             }
           },
           {
-            "id": "79edea86a9f6d0d1",
+            "id": "f95a9d724440dd35",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,19 +100,18 @@
             }
           },
           {
-            "id": "2fb0f700384c9f35",
+            "id": "f6782cca113b1e3c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "01e60406d0721124",
+            "id": "1cc9bf29fc59bd89",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,17 +122,14 @@
             }
           },
           {
-            "id": "3eb18330dc6851fe",
+            "id": "e050f40f644e526c",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Vakken/Blok 2/Argumenteren en overtuigen/Opdrachtensyllabus Argumenteren en overtuigen blok 3 2023-2024.pdf"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,33 +147,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b5729af2a3fe3f5",
+  "active": "902299d2ce6ab990",
   "lastOpenFiles": [
+    "Vakken/Blok 2/Scriptie/A9R1ca3wgo_5jhgxu_h6g.tmp",
+    "Vakken/Blok 2/Scriptie/~ai-014a38ab-faa2-495b-b8da-f4f2f61ce67e_.tmp",
+    "Vakken/Blok 2/Scriptie/A9Rrvt5yu_c1elkc_7uk.tmp",
     "Vakken/Blok 2/Scriptie/Interview_GertjanDenOUDEN_01.mp3",
     "Vakken/Blok 2/Scriptie/Interview_GertjanDenOUDEN.pkf",
-    "Vakken/Blok 2/Scriptie/Interview_GertjanDenOUDEN.wav",
-    "Vakken/Blok 2/Scriptie/~WRL0001.tmp",
-    "Vakken/Blok 2/Scriptie/~WRD0000.tmp",
-    "Vakken/Blok 2/Scriptie/~WRL3332.tmp",
-    "Vakken/Blok 2/Scriptie/~$rtSiemes_Schakelscriptie_Theoretischkader_V1-Quasi_11_06_24.docx",
-    "Vakken/Blok 2/Scriptie/~$piclijst_24_05_24_SCRIPTIE.docx",
-    "Vakken/Blok 2/Scriptie/~$emasterscriptie journalistieke ethiek_JortFeedback.docx",
-    "Vakken/Blok 2/Scriptie/Premasterscriptie journalistieke ethiek_JortFeedback.docx",
-    "Vakken/Blok 2/Scriptie/Premasterscriptie journalistieke ethiek printversie.docx",
-    "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.10 (1).jpeg",
-    "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.10.jpeg",
-    "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.12.jpeg",
-    "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.11 (1).jpeg",
-    "Vakken/Blok 2/Argumenteren en overtuigen/WhatsApp Unknown 2024-02-08 at 11.41.22/WhatsApp Image 2024-02-08 at 10.30.11.jpeg",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Totaal Tentamenstof AenO.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Herkansing.md",
-    "Onderwerpen/confrontatiefase.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/HERKANSING oefenen.md",
-    "Vakken/Blok 2/Aantekeningen Inzichtencollege.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Totaal Tentamenstof 1.md",
-    "Onderwerpen/verdedigingslinies.md",
-    "Onderwerpen/discussieregels.md",
-    "standaardgeschilpunten.md",
-    "Vakken/Blok 2/Argumenteren en overtuigen/Tussentijds Tentamenstof.md"
+    "Vakken/Blok 2/Scriptie/Schakelscriptie_Presentatie_03_06_24_Final.pdf",
+    "Vakken/Blok 2/Scriptie/msoE66A.tmp",
+    "Vakken/Blok 2/Scriptie/ppt5276.tmp",
+    "Vakken/Blok 2/Scriptie/pptFD30.tmp",
+    "Vakken/Blok 2/Scriptie/ppt8351.tmp",
+    "Vakken/Blok 2/Scriptie/ppt75A6.tmp",
+    "Vakken/Blok 2/Scriptie/1x/Asset 18.png",
+    "Vakken/Blok 2/Scriptie/1x/Asset 17.png",
+    "Vakken/Blok 2/Scriptie/1x/Asset 16.png",
+    "Vakken/Blok 2/Scriptie/1x/Asset 15.png"
   ]
 }
