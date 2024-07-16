@@ -1,20 +1,18 @@
 {
   "main": {
-    "id": "a6e343bb07bbb325",
+    "id": "13c5168621a2d4f9",
     "type": "split",
     "children": [
       {
-        "id": "203b4d60b61cc5dd",
+        "id": "250504472f32e901",
         "type": "tabs",
         "children": [
           {
-            "id": "fcc7bc4fe12b40be",
+            "id": "d62dab8e2815aa9c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -23,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b1b3c23f6a371631",
+    "id": "e119ae1e39a1b4c7",
     "type": "split",
     "children": [
       {
-        "id": "c012c68ab0e2c1a6",
+        "id": "6c9f9c2b0e30c595",
         "type": "tabs",
         "children": [
           {
-            "id": "e46240856bb44aea",
+            "id": "fa982c5881e7540f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -41,7 +39,7 @@
             }
           },
           {
-            "id": "0c6b787e688c66b2",
+            "id": "e2e43711fd788253",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,7 +54,7 @@
             }
           },
           {
-            "id": "5798dde9ede5e945",
+            "id": "92ea67b6c3c84d85",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -70,23 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "990de90adb7af7a7",
+    "id": "1ee9bb3aed8f27d5",
     "type": "split",
     "children": [
       {
-        "id": "f426312ce41c0515",
+        "id": "1c8c2f39cef49ae9",
         "type": "tabs",
         "children": [
           {
-            "id": "3f3d059c9d578bac",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "1fa6ec88fad74394",
+            "id": "737b61c33d257cd2",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -102,7 +92,7 @@
             }
           },
           {
-            "id": "bf2d9154e7883ca0",
+            "id": "fc60f10d788ea5ce",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -113,7 +103,7 @@
             }
           },
           {
-            "id": "f9712ea4b461c517",
+            "id": "e4038ec0d8c5027c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -124,31 +114,22 @@
             }
           },
           {
-            "id": "5973e39f050ab2a5",
+            "id": "ce710f1bb24dfb40",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
             }
-          },
-          {
-            "id": "0e63b2bad3f0d3d3",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -157,6 +138,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e63b2bad3f0d3d3",
-  "lastOpenFiles": []
+  "active": "d62dab8e2815aa9c",
+  "lastOpenFiles": [
+    "Double Irish with a Dutch Sandwich.md",
+    "Uitbuiting van ZZP'ers.md",
+    "Basisinkomen.md",
+    "CO2 beprijzen.md",
+    "Cellular Agriculture.md",
+    "Kweekreactor (Kernenergie).md",
+    "Uranium Shortage.md",
+    "AI Stole everything.md",
+    "Cost of CHATGPT.md",
+    "Cloud Computing.md",
+    "Cereal For Dinner.md",
+    "Digital Identity.md",
+    "Caravaggio Nativity.md",
+    "Space Mining.md",
+    "Vertical Farming.md",
+    "Drone Warfare.md",
+    "Quantum supremacy QDAY.md",
+    "Oil reserves Saudi Arabia.md",
+    "Pentabyte.md",
+    "Photonics.md",
+    "Additive manufacturing.md",
+    "Low Japanese crime solve rate.md",
+    "NOREPLY@JORTSIEMES.com.md",
+    "Onderwerpen",
+    "Welcome.md"
+  ]
 }
