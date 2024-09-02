@@ -81,12 +81,12 @@ dus niet p
 
 [[PATHOS]] ABA?
 
-VRAAG: [[Strategisch manoeuvreren]]
+VRAAG: [[strategisch manoeuvreren 1]]
 1. definiëren tussen balans [[retorische doel]] (effectief) en [[dialectisch doel]] (redelijk)
 		als dit mislukt is het een drogreden
 belangrijke doelen is redelijk zijn en effectief zijn
 
-drie aspecten van [[strategisch manoeuvreren]]
+drie aspecten van [[strategisch manoeuvreren 1]]
 analytische driedeling, driehoek die samenhangt
 - [[topisch potentieel]] (keuze uit de inhoudelijke argumentatieve middelen, welke argumenten welke typen middelen, opvallende keuze voor een analogie [[argument]] is een topsiche keuze)
 - [[aanpassing aan het auditorium]] (hoe de inhoud vervolgens word afgesteld aan verschillende publieken, primair publiek & secondair publiek. )
@@ -94,7 +94,7 @@ analytische driedeling, driehoek die samenhangt
 
 Boek retorische kritiek (effectiviteit) (inhoud: [[ethos]],[[pathos]],[[logos]])
 boek argumentatie (redelijk) (inhoud: [[drogredenen]])
-[[Strategisch manoeuvreren]] koppelt deze boeken 
+[[strategisch manoeuvreren 1]] koppelt deze boeken 
 
 **Vraag over [[stroman]]:**
 de ander een [[argument]] in de schoenen schuiven en dat aanvallen, terwijl dat niet iets is wat hij of zij heeft gezegd.

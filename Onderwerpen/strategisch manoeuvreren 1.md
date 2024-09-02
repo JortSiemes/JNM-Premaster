@@ -1,6 +1,6 @@
 balceren tussen 2 doelen:
-- [[Dialectisch doel]]:
+- [[dialectisch doel]]:
 	- redelijk oplossen van het verschil van mening
-- [[Retorische doel]];
+- [[retorische doel]];
 	- Effectief het [[standpunt]] doen accepteren
 (dit gebeurd in elk betoog)

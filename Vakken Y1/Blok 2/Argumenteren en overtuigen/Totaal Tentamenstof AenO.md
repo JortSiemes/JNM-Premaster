@@ -904,7 +904,7 @@ retorisch doel
 
 4 [[verdedigingslinies]] vallen onder [[propositio]] en argumentatie fasen
 
-##### Gebruik van [[Logos]] verschil per type [[standpunt]]
+##### Gebruik van [[logos]] verschil per type [[standpunt]]
 - beschuldiging ([[gerechtelijke rede]]) = beschuldigde heeft zich schuldig gemaakt aan misdrijf X
 	- ontkennen
 	- herforumuleren tot een wettige daad
@@ -1149,16 +1149,16 @@ argumentatietheorie
 - retorica
 
 
-[[strategisch manoeuvreren]]
+[[strategisch manoeuvreren 1]]
 balceren tussen 2 doelen:
-- [[Dialectisch doel]]:
+- [[dialectisch doel]]:
 	- redelijk oplossen van het verschil van mening
 - Retorisch doel;
 	- Effectief het [[standpunt]] doen accepteren
 (dit gebeurd in elk betoog)
 
 
-3 aspecten van [[strategisch manoeuvreren]] (gaan altijd samen)
+3 aspecten van [[strategisch manoeuvreren 1]] (gaan altijd samen)
 - [[topisch potentieel]] (welke standpunten en argumenten kies je)
 - verlangens van het auditorium ([[argument]] afstemmen op publiek)
 - [[presentatiemiddelen]] (welke woorden kies je hierbij)
@@ -1168,13 +1168,13 @@ balceren tussen 2 doelen:
 primair publiek (kan overtuigd worden)
 secondair publiek (die ga je niet meer overtuigen dus is niet je doel)
 
-drogreden = ontsporing van het [[strategisch manoeuvreren]]
+drogreden = ontsporing van het [[strategisch manoeuvreren 1]]
 - overtreding van een discussieregel
 - wordt begaan in een strategische manoeuvre die de overtreding van de discussieregl kan maskeren
 	1. presumptie vna redlijkheid: discussianten gaan uit van elkaars redelijkheid
 	2. dorgredelijke  en redelijke argumentatie 'zijn uit hetzelfde hout gesneden' -> continuum tussen drogreden en redelijk [[argument]]
 
-[[Communicatieve activiteitstypen]]
+[[Communicatieve activiteitstypen 1]]
 
 
 conventionele activiteitstypen
