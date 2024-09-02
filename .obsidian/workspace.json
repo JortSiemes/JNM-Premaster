@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken Y2/Extracurricilair/Overige activiteiten.md",
+                "file": "Vakken Y2/Extracurriculair/Overige activiteiten.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken Y2/Extracurricilair/Overige activiteiten.md",
+                "file": "Vakken Y2/Extracurriculair/Overige activiteiten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken Y2/Extracurricilair/Overige activiteiten.md",
+                "file": "Vakken Y2/Extracurriculair/Overige activiteiten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken Y2/Extracurricilair/Overige activiteiten.md"
+                "file": "Vakken Y2/Extracurriculair/Overige activiteiten.md"
               }
             }
           },
@@ -164,11 +164,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fcc7bc4fe12b40be",
+  "active": "e46240856bb44aea",
   "lastOpenFiles": [
+    "2024-09-02.md",
+    "Vakken Y2/Extracurriculair/Overige activiteiten.md",
     "Vakken Y2/Stage/Stageperiode.md",
-    "Vakken Y2/Extracurricilair/Overige activiteiten.md",
-    "Vakken Y2/Extracurricilair",
+    "Vakken Y2/Extracurriculair",
     "Vakken Y2/Crossmediale onderzoeksweken/Week 3 (21 jan) nog een extra CMO week.md",
     "Vakken Y2/New media & society/Introductie 2 sept.md",
     "Vakken Y2/Retorica & Argumentatie in journalistiek/Introductie 2 sept RAJ.md",
