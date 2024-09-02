@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "203b4d60b61cc5dd",
+        "id": "9d247c0444ee237c",
         "type": "tabs",
         "children": [
           {
-            "id": "fcc7bc4fe12b40be",
+            "id": "986932770e3f3565",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken Y2/Extracurriculair/Overige activiteiten.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
