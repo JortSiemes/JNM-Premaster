@@ -11,24 +11,16 @@
             "id": "fcc7bc4fe12b40be",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
-          },
-          {
-            "id": "04553dce19c9afec",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
+                "file": "Vakken Y2/New media & society/Introductie 2 sept.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vakken Y2/New media & society/Introductie 2 sept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,8 +111,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vakken Y2/New media & society/Introductie 2 sept.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -139,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Vakken Y2/New media & society/Introductie 2 sept.md"
+              }
             }
           },
           {
@@ -151,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -168,6 +164,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04553dce19c9afec",
-  "lastOpenFiles": []
+  "active": "fcc7bc4fe12b40be",
+  "lastOpenFiles": [
+    "Vakken Y2/Factchecken/Introductie Peter 2 sept.md",
+    "Vakken Y2/New media & society/Introductie 2 sept.md",
+    "Vakken Y2/Stage/Stageperiode.md",
+    "Vakken Y2/Scriptie/Scriptiewerk.md",
+    "Vakken Y2/Factchecken",
+    "Vakken Y2/New media & society",
+    "Vakken Y2/Retorica & Argumentatie in journalistiek",
+    "Vakken Y2/Crossmediale onderzoeksweken",
+    "Vakken Y2/Scriptie"
+  ]
 }
