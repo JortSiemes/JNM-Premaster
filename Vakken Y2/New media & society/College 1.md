@@ -37,11 +37,11 @@ Volkskrant 20 jaar geleden, is eigenlijk zelfde als look en feel van huidige onl
 
 Boek Lev Manovich: The language of New Media
 
-### 5 kenmerken van new media 
+### 5 kenmerken van new media (Van Manovich)
 (Deze kenmerken maken media nieuwe media)
 - [[numerieke representatie]]
-- modulariteit
-- automatisering
+- [[modulariteit]]
+- [[automatisering]]
 - transcoding
 - variabiliteit
 

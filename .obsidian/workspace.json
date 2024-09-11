@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "numerieke representatie.md",
+                "file": "automatisering.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "numerieke representatie.md",
+                "file": "automatisering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "numerieke representatie.md",
+                "file": "automatisering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "numerieke representatie.md"
+                "file": "automatisering.md"
               }
             }
           },
@@ -181,6 +181,8 @@
   "active": "13bf8f012890288b",
   "lastOpenFiles": [
     "Vakken Y2/New media & society/College 1.md",
+    "automatisering.md",
+    "modulariteit.md",
     "numerieke representatie.md",
     "Edmo.md",
     "Vakken Y2/Crossmediale onderzoeksweken/2 sept CMO.md",
