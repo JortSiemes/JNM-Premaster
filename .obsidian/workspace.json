@@ -21,12 +21,15 @@
             }
           },
           {
-            "id": "6dc9700b2e49a767",
+            "id": "13bf8f012890288b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "Vakken Y2/New media & society/College 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -105,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken Y2/Crossmediale onderzoeksweken/2 sept CMO.md",
+                "file": "Vakken Y2/New media & society/College 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken Y2/Crossmediale onderzoeksweken/2 sept CMO.md",
+                "file": "Vakken Y2/New media & society/College 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken Y2/Crossmediale onderzoeksweken/2 sept CMO.md"
+                "file": "Vakken Y2/New media & society/College 1.md"
               }
             }
           },
@@ -175,10 +178,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6dc9700b2e49a767",
+  "active": "13bf8f012890288b",
   "lastOpenFiles": [
-    "Vakken Y2/Extracurriculair/Overige activiteiten.md",
+    "Vakken Y2/New media & society/College 1.md",
+    "Edmo.md",
     "Vakken Y2/Crossmediale onderzoeksweken/2 sept CMO.md",
+    "Vakken Y2/Extracurriculair/Overige activiteiten.md",
     "2024-09-02.md",
     "Vakken Y2/Stage/Stageperiode.md",
     "Vakken Y2/Extracurriculair",
