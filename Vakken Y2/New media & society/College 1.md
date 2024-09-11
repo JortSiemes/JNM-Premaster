@@ -37,7 +37,7 @@ Volkskrant 20 jaar geleden, is eigenlijk zelfde als look en feel van huidige onl
 
 Boek Lev Manovich: The language of New Media
 
-### 5 kenmerken van new media (Van Manovich)
+### 5 kenmerken van new media (Van Lev Manovich)
 (Deze kenmerken maken media nieuwe media)
 - [[numerieke representatie]]
 - [[modulariteit]]
@@ -57,6 +57,31 @@ media-aanbod
 - [[Format shifting]] = Film,clip,song,fragment
 
 Als je niet kan shiften vinden wij dit heel moeilijk
+
+
+
+#### Door digitalisering
+
+**Divergentie:** Het gebruik van verschillende platformen om media te presenteren en consumeren (tv-serie -> televisie, bioscoop, YouTube, Smartphone, psp, TikTok, Instagram, Netflix)
+De media die gemaakt word kan uit elkaar worden getrokken. 
+
+**Convergentie:** Samenspel van oude en nieuwe media en technologieën
+Oude en nieuwe dingen komen bij elkaar in een device
+- tv kijken en krant lezen op smartphone, internet op tv, radio op internet, chatten via xbox
+- tekst (krant), foto (Tijdschrift), video (tv) in 1 bericht online
+
+
+**Dualiteit:** [[individualisering]] vs groepsbeleving
+mensen willen meer als individu bij een sociaal evenement en hype
+
+mensen kijken graag naar voetbalwedstrijden.
+Silent Disco wereld waarbij je zelf consumeert maar wel bij elkaar bent
+
+Wat facebook doet speelt in op de dualiteit, als je kijkt naar het oude logo van FB, je hebt een dualiteit van individuele gebruikers die als een groep dingen beleven.
+
+[[Networked Individualism]]
+
+
 
 
 
