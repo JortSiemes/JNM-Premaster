@@ -20,6 +20,35 @@ mail leiden
 dringend mail leuven
 
 
+---
+
+# Begin college
+
+definitie new media =
+Als je kijkt naar wat oude en nieuwe media onderscheid
+Krant = oud > Ipad krant = nieuw
+
+Gaat niet over inhoud maar over de platfom en beleving van de content
+Volkskrant 20 jaar geleden, is eigenlijk zelfde als look en feel van huidige online Volkskrant
+
+- belang van digitaliteit, devices en gebruikerscontext
+- focus op output/platform/consumptie
+
+
+Boek Lev Manovich: The language of New Media
+
+### 5 kenmerken van new media 
+(Deze kenmerken maken media nieuwe media)
+- [[numerieke representatie]]
+- modulariteit
+- automatisering
+- transcoding
+- variabiliteit
+
+
+
+
+
 
 
 
