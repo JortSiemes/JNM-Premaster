@@ -15,6 +15,10 @@ hoorcolleges (10% cijfer) - tentamen (over hoorcolleges, 50% cijfer) - werkstuk 
 - soort tentamenvraag is: lang doordenk vraag, "hoe verbind je dit onderwerp met dit onderwerp"
 	- inleveren via assignments_Brightspace
 
+**contact:**
+mail leiden
+dringend mail leuven
+
 
 
 
