@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6dc9700b2e49a767",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +175,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "986932770e3f3565",
+  "active": "6dc9700b2e49a767",
   "lastOpenFiles": [
     "Vakken Y2/Extracurriculair/Overige activiteiten.md",
     "Vakken Y2/Crossmediale onderzoeksweken/2 sept CMO.md",
