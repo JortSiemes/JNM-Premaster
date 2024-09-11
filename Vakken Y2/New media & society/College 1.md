@@ -86,6 +86,20 @@ Vervoersmaatschappij >< Uber
 Platen/Filmmaatschappij >< napster, Torrents, Popcorn Time, Spotify
 Televisie >< Facebook Live, Facebook Watch, YouTube Series, Instagram Reels, IGTV, Netflix, Disney+
 
+#### Leer inzetten op [[Networked Individualism]]
+Nieuws als [[Networked individualism]] scriptie?
+
+
+**Mensen willen personalities die het nieuws vertellen op de nieuwe media**
+ACID (is de kanarie in de koolmijn)
+
+
+
+
+
+
+
+
 
 
 
