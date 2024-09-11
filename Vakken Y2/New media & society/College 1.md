@@ -42,7 +42,7 @@ Boek Lev Manovich: The language of New Media
 - [[numerieke representatie]]
 - [[modulariteit]]
 - [[automatisering]]
-- transcoding
+- [[transcoding]]
 - variabiliteit
 
 

@@ -8,3 +8,4 @@ Je hebt 2 vormen:
 2. access
 sneller toegang aan informatie, GOOGLE, ibeacon
 3. storage
+bvb. automatische opslag op icloud
