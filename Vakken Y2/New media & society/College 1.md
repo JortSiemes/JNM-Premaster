@@ -43,7 +43,21 @@ Boek Lev Manovich: The language of New Media
 - [[modulariteit]]
 - [[automatisering]]
 - [[transcoding]]
-- variabiliteit
+- [[variabiliteit]]
+
+
+### [[Mediaconsumptie-op-maat]]
+door [[modulariteit]] en [[variabiliteit]]
+
+We kunnen nu shiften
+- [[place shifting]] = de gebruiker consumeert waar hij wil
+- [[time shifting]] = de gebruiker consumeert wanneer hij wil
+
+media-aanbod
+- [[Format shifting]] = Film,clip,song,fragment
+
+Als je niet kan shiften vinden wij dit heel moeilijk
+
 
 
 
