@@ -71,7 +71,7 @@ Oude en nieuwe dingen komen bij elkaar in een device
 - tekst (krant), foto (Tijdschrift), video (tv) in 1 bericht online
 
 
-**Dualiteit:** [[individualisering]] vs groepsbeleving
+**Dualiteit:** [[Individualisering]] vs groepsbeleving
 mensen willen meer als individu bij een sociaal evenement en hype
 
 mensen kijken graag naar voetbalwedstrijden.
@@ -80,6 +80,14 @@ Silent Disco wereld waarbij je zelf consumeert maar wel bij elkaar bent
 Wat facebook doet speelt in op de dualiteit, als je kijkt naar het oude logo van FB, je hebt een dualiteit van individuele gebruikers die als een groep dingen beleven.
 
 [[Networked Individualism]]
+
+Kruideniers >< Online shopping, hellofresh
+Vervoersmaatschappij >< Uber
+Platen/Filmmaatschappij >< napster, Torrents, Popcorn Time, Spotify
+Televisie >< Facebook Live, Facebook Watch, YouTube Series, Instagram Reels, IGTV, Netflix, Disney+
+
+
+
 
 
 
