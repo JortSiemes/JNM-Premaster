@@ -1,0 +1,1 @@
+Logische helderheid van analyse en argumentatie in boodschap
