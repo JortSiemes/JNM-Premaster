@@ -1,0 +1,1 @@
+formulering: je moet het precies gaan formuleren, fijn tekst maken, zorgen voor ritmische zinnen of slogans & Metaforen. 

@@ -1,0 +1,1 @@
+Structuur: waar moet ik mee beginnen? Waar moet ik mee eindigen? wat zet ik in de kern?
