@@ -14,7 +14,7 @@ Quintilianus: Institutio Oratoria (favo boek Jaap)
 Leeman/Braet (1987) Klassieke Retorica
 Braet (2007) Retorische kritiek
 - een van de bijzondere dingen;
-	- welke fasen in maken van een toespraak [[inventio]]:
+	- welke fasen in maken van een toespraak [[Inventio]]:
 
 ## Eerste taak: [[Inventio]]
 **Stofvinding** (ik moet een toespraak houden): Voor wie, Wat moet ik ermee & Wat ga ik vertellen? Gaat over inhoud over publiek, doel en inhoud
