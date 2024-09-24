@@ -6,14 +6,14 @@ twee kanten van Journalism studies
 1. Machtsperspectief
 Stuart Hall: [[Encoding]] & [[Decoding]]
 
-Policing the crisis. Mugging, the state, and law and other (1978)
+Policing the [[crisis]]. Mugging, the state, and law and other (1978)
 Straatroof
 [[Hegemonie]]
 [[Primary Definers]]
 [[Moral Panic]]
 [[empirisch zwak onderbouwd]]
 
-Kritiek op hegemonie-these
+Kritiek op hegemonie-[[these]]
 - Machthebbers, media en publiek zijn intern verdeeld
 - Ook marginale groepen kunnen definitie en agendamacht hebben
 
