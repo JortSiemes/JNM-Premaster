@@ -20,6 +20,3 @@ Kritiek op hegemonie-[[these]]
 2. Focus op betekenisproductie
 langere termijn
 wie krijgt er in het algemeen wel/geen stem?
-
-
-
