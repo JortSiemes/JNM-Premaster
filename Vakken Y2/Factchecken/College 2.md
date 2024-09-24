@@ -24,4 +24,18 @@ Inleiding: maatschappelijk en wetenschappelijk belang (hoofdvraag)
 Theorie: de eigenlijke lit. review - wat is al bekend? kritische [[synthese]] van bestaande studies
 Conclusie en discussie: antwoord op vraag; implicaties; beperkingen; verder [[onderzoek]]
 
+Journalistiek brongebruik: wat bestuderen?
+- wat doen journalisten in de praktijk?
+- producten van journalisten
+- onderliggende attitudes van journalisten
+- journalistieke discours, praten onder elkaar
+- Effecten op het publiek van journalistiek brongebruik
+
+Methode: wat zie je door welke bril?
+- [[inhoudsanalyse]]
+- ethnografie
+- effect op het publiek
+- [[experiment]]
+
+
 
