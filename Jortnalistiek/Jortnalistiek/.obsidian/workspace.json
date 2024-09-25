@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "01c2d3925dcf04f9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01c2d3925dcf04f9",
+  "active": "d62dab8e2815aa9c",
   "lastOpenFiles": [
     "Rollercoasters at Vecoma.md",
     "Double Irish with a Dutch Sandwich.md",
