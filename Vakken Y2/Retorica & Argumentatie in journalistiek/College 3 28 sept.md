@@ -1,12 +1,16 @@
 Vraag 1, Wat zijn de [[standaardgeschilpunten]] en leg uit wat een journalist met deze kennis zou kunnen doen?
 
-
+Veelvoorkomende x
 
 
 
 Vraag 2) Wat is een refutatio, op welke plaats tref je die doorgaans aan in een toespraak? Wat denk je: is het van belang dat een journalist aandacht besteedt aan de refutatio, op wat voor manier?
 
+
+
 Vraag 3) Leg uit wat het belang is van het verbergen van je retorische kunstgrepen. 
+
+
 
 Vraag 4) Wat betekent amplificatio en hoe heet het tegenovergestelde?
 
