@@ -39,16 +39,18 @@ Een ander voorbeeld van perifrase zou zijn:
 - "De hoofdstad van Frankrijk" in plaats van simpelweg "Parijs" te zeggen.
 
 
-Vraag 6) Wat zou de waarde van een retorische stijlanalyse van een belangrijke toespraak/ persconferentie voor een journalist kunnen zijn?
+**Vraag 6) Wat zou de waarde van een retorische stijlanalyse van een belangrijke toespraak/ persconferentie voor een journalist kunnen zijn?**
+
+Het helpt te begrijpen welke retorische middelen (zoals ethos, pathos en logos) de spreker gebruikt om het publiek te overtuigen. Dit kan journalisten helpen om de strategieën achter de boodschap te analyseren en te doorzien hoe deze het publiek mogelijk beïnvloeden.
+
+
+**Vraag 7) Wat is de aard van retorische kritiek: kwestie van kunst, wetenschap, smaak?**
 
 
 
-Vraag 7) Wat is de aard van retorische kritiek: kwestie van kunst, wetenschap, smaak?
 
 
-
-
-Vraag 8) Het stof van de Algemene Beschouwingen is neergedaald (inclusief reacties in de pers en media). Wat valt je op in de verslaggeving?
+**Vraag 8) Het stof van de Algemene Beschouwingen is neergedaald (inclusief reacties in de pers en media). Wat valt je op in de verslaggeving?**
 
 
 
