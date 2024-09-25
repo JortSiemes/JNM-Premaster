@@ -32,10 +32,6 @@ Het tegenovergestelde hiervan heet [[bagatelliseren]], waarbij iets juist beknop
 
 **Voorbeeld:**
 - "Het land waar de zon nooit ondergaat."
-    - Dit verwijst naar het Verenigd Koninkrijk in de tijd van het Britse Rijk, zonder het direct te benoemen.
-
-Een ander voorbeeld van perifrase zou zijn:
-
 - "De hoofdstad van Frankrijk" in plaats van simpelweg "Parijs" te zeggen.
 
 
@@ -46,15 +42,17 @@ Het helpt te begrijpen welke retorische middelen (zoals ethos, pathos en logos) 
 
 **Vraag 7) Wat is de aard van retorische kritiek: kwestie van kunst, wetenschap, smaak?**
 
-
+Wetenschap
 
 
 
 **Vraag 8) Het stof van de Algemene Beschouwingen is neergedaald (inclusief reacties in de pers en media). Wat valt je op in de verslaggeving?**
 
+De verslaggeving gaat vooral toch over de onenigheid in de coalitie en weinig over de inhoud. Dit terwijl veel van de veranderingen van prinsjesdag toch enorme invloed gaan hebben op het dagelijks leven.
 
 
+**Vraag 9 Bereid op basis van je analyse een 1minuutspitch over je politicus voor. En wie heeft volgens jouw de beste retorische prestatie geleverd en waarom?**
 
-Vraag 9 Bereid op basis van je analyse een 1minuutspitch over je politicus voor. En wie heeft volgens jouw de beste retorische prestatie geleverd en waarom?
+Retorische presentatie Jimmy Dijk:
 
 
