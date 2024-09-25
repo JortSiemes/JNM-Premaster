@@ -1,0 +1,4 @@
+Stijlfiguur
+
+
+Tegenovergestelde van [[amplificeren]]
