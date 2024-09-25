@@ -19,19 +19,18 @@ Amplificatio is een stijlfiguur waarbij een idee of onderwerp wordt uitgebreid o
 
 Het tegenovergestelde hiervan heet [[bagatelliseren]], waarbij iets juist beknopt en bondig wordt weergegeven. Waarbij je het kleiner dan het is maakt
 
-Vraag 5) Zoek een voorbeeld van de stijlfiguur preteritie en van de perifrase.
+**Vraag 5) Zoek een voorbeeld van de stijlfiguur preteritie en van de perifrase.**
 
-Preteritie is een stijlfiguur waarbij de spreker of schrijver aangeeft iets niet te zullen zeggen, terwijl hij of zij het juist indirect wel zegt. Het is een subtiele manier om informatie te geven of kritiek te leveren zonder het direct te benoemen.
+[[Preteritie]] is een stijlfiguur waarbij de spreker of schrijver aangeeft iets niet te zullen zeggen, terwijl hij of zij het juist indirect wel zegt. Het is een subtiele manier om informatie te geven of kritiek te leveren zonder het direct te benoemen.
 
 **Voorbeeld:**
 - "Ik zal niet ingaan op de geruchten over zijn privéleven, want dat is hier niet relevant."
     - Hoewel de spreker zegt dat hij/zij het privéleven van de persoon niet zal bespreken, wordt het onderwerp toch naar voren gebracht.
 
 
-Perifrase is een stijlfiguur waarbij men een eenvoudig woord of concept op een omslachtige manier beschrijft, vaak door meerdere woorden of een uitgebreide omschrijving te gebruiken in plaats van een direct woord.
+[[Perifrase]] is een stijlfiguur waarbij men een eenvoudig woord of concept op een omslachtige manier beschrijft, vaak door meerdere woorden of een uitgebreide omschrijving te gebruiken in plaats van een direct woord.
 
 **Voorbeeld:**
-
 - "Het land waar de zon nooit ondergaat."
     - Dit verwijst naar het Verenigd Koninkrijk in de tijd van het Britse Rijk, zonder het direct te benoemen.
 
