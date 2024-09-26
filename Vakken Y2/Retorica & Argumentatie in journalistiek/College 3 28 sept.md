@@ -62,4 +62,10 @@ Journalistiek: [[descriptief]] en mimetisch
 Feiten te presenteren om een representatie te bieden van de realiteit (Plato)
 
 
+Journalistiek: Reconstructief en retorisch
+Een discours met de macht om mensen te overtuigen dat diens interpretatie van de sociale wereld legitiem is
+
+- in een onzekere wereld retorische teksten en beelden presenteren, overtuigende interpretaties van gebeurtenissen (Artistoteles)
+
+[[standaardgeschilpunten]]
 
