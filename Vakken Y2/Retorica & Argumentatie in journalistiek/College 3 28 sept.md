@@ -12,7 +12,7 @@ Je treft dit tijdens de argumentatie fase van een discussie.
 
 Het verbergen van retorische kunstgrepen is belangrijk omdat het voorkomt dat het publiek doorziet dat ze beïnvloed worden. Dit zorgt voor vertrouwen en maakt de boodschap krachtiger, omdat de luisteraar zich richt op de inhoud in plaats van op de overtuigingstechnieken. Subtiele retoriek overtuigt effectiever zonder op te vallen.
 
-**Vraag 4) Wat betekent [[amplificatio]] en hoe heet het tegenovergestelde?**
+**Vraag 4) Wat betekent [[amplificatio]] en hoe heet het tegenovergestelde?** (minutio)
 
 [[amplificatio]] is een stijlfiguur waarbij een idee of onderwerp wordt uitgebreid of uitvergroot om meer nadruk te leggen of het indrukwekkender te maken. Dit kan door herhaling, details, of voorbeelden toe te voegen.
 
