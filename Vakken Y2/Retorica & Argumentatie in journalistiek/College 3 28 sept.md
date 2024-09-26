@@ -1,6 +1,6 @@
 Vraag 1, Wat zijn de [[standaardgeschilpunten]] en leg uit wat een journalist met deze kennis zou kunnen doen?
 
-Veelvoorkomende x
+Die helpen om snel een analyse te maken, je kan makkelijker hierdoor een verhaal opbouwen. Je ziet het patroon meteen
 
 
 **Vraag 2) Wat is een refutatio, op welke plaats tref je die doorgaans aan in een toespraak? Wat denk je: is het van belang dat een journalist aandacht besteedt aan de refutatio, op wat voor manier?**
@@ -14,11 +14,11 @@ Het verbergen van retorische kunstgrepen is belangrijk omdat het voorkomt dat he
 
 **Vraag 4) Wat betekent [[amplificatio]] en hoe heet het tegenovergestelde?**
 
-[[Amplificatio]] is een stijlfiguur waarbij een idee of onderwerp wordt uitgebreid of uitvergroot om meer nadruk te leggen of het indrukwekkender te maken. Dit kan door herhaling, details, of voorbeelden toe te voegen.
+[[amplificatio]] is een stijlfiguur waarbij een idee of onderwerp wordt uitgebreid of uitvergroot om meer nadruk te leggen of het indrukwekkender te maken. Dit kan door herhaling, details, of voorbeelden toe te voegen.
 
 Het tegenovergestelde hiervan heet [[bagatelliseren]], waarbij iets juist beknopt en bondig wordt weergegeven. Waarbij je het kleiner dan het is maakt
 
-**Vraag 5) Zoek een voorbeeld van de stijlfiguur [[preteritie]] en van de [[perifrase]].**
+**Vraag 5) Zoek een voorbeeld van de stijlfiguur [[Preteritie]] en van de [[Perifrase]].**
 
 [[Preteritie]] is een stijlfiguur waarbij de spreker of schrijver aangeeft iets niet te zullen zeggen, terwijl hij of zij het juist indirect wel zegt. Het is een subtiele manier om informatie te geven of kritiek te leveren zonder het direct te benoemen.
 
@@ -65,7 +65,8 @@ Feiten te presenteren om een representatie te bieden van de realiteit (Plato)
 Journalistiek: Reconstructief en retorisch
 Een discours met de macht om mensen te overtuigen dat diens interpretatie van de sociale wereld legitiem is
 
-- in een onzekere wereld retorische teksten en beelden presenteren, overtuigende interpretaties van gebeurtenissen (Artistoteles)
+- in een onzekere wereld retorische teksten en beelden presenteren, overtuigende interpretaties van [[gebeurtenissen]] (Artistoteles)
 
 [[standaardgeschilpunten]]
+Wat heb jij hieraan
 
