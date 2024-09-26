@@ -1,0 +1,1 @@
+neutraal woord vervangen door sterkere uitdrukking (oa synoniemen, hyperbool, tropen) "flutbegroting van het slechtste kabinet ooit"

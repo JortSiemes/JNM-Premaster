@@ -70,3 +70,6 @@ Een discours met de macht om mensen te overtuigen dat diens interpretatie van de
 [[standaardgeschilpunten]]
 Wat heb jij hieraan
 
+
+[[Preteritio]]
+

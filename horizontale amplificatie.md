@@ -1,0 +1,1 @@
+breed uitmeten door meer worden te gebruiken (oa evidentia, descriptio: gedetailleerde emotionerende beschrijving, liefst in praesens historicum)
