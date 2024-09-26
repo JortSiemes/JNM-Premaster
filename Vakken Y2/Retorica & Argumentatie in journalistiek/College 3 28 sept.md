@@ -73,3 +73,14 @@ Wat heb jij hieraan
 
 [[Preteritio]]
 
+[[perifrase]]
+
+
+Waarde van retorische stijlanalyse via kunstgrepen bedoelingen en belangen achterhalen ([[amplificatio]] en [[bagatelliseren]])
+
+Manipulatieresistentie
+Citeerbare passages
+
+
+
+
