@@ -3,7 +3,6 @@ Vraag 1, Wat zijn de [[standaardgeschilpunten]] en leg uit wat een journalist me
 Veelvoorkomende x
 
 
-
 **Vraag 2) Wat is een refutatio, op welke plaats tref je die doorgaans aan in een toespraak? Wat denk je: is het van belang dat een journalist aandacht besteedt aan de refutatio, op wat voor manier?**
 
 Refutatio is de weerlegging van het verweer van de tegenpartij. In journalistiek is het begrip hoor en wederhoor de standaard. In deze vorm is zelfs in puur objectieve journalistiek er een plaats voor het goed opschrijven van een juiste weerlegging van beide partijen. 
@@ -19,7 +18,7 @@ Het verbergen van retorische kunstgrepen is belangrijk omdat het voorkomt dat he
 
 Het tegenovergestelde hiervan heet [[bagatelliseren]], waarbij iets juist beknopt en bondig wordt weergegeven. Waarbij je het kleiner dan het is maakt
 
-**Vraag 5) Zoek een voorbeeld van de stijlfiguur preteritie en van de perifrase.**
+**Vraag 5) Zoek een voorbeeld van de stijlfiguur [[preteritie]] en van de [[perifrase]].**
 
 [[Preteritie]] is een stijlfiguur waarbij de spreker of schrijver aangeeft iets niet te zullen zeggen, terwijl hij of zij het juist indirect wel zegt. Het is een subtiele manier om informatie te geven of kritiek te leveren zonder het direct te benoemen.
 
@@ -37,7 +36,7 @@ Het tegenovergestelde hiervan heet [[bagatelliseren]], waarbij iets juist beknop
 
 **Vraag 6) Wat zou de waarde van een retorische stijlanalyse van een belangrijke toespraak/ persconferentie voor een journalist kunnen zijn?**
 
-Het helpt te begrijpen welke retorische middelen (zoals ethos, pathos en logos) de spreker gebruikt om het publiek te overtuigen. Dit kan journalisten helpen om de strategieën achter de boodschap te analyseren en te doorzien hoe deze het publiek mogelijk beïnvloeden.
+Het helpt te begrijpen welke retorische middelen (zoals [[ethos]], [[pathos]] en [[logos]]) de spreker gebruikt om het publiek te overtuigen. Dit kan journalisten helpen om de strategieën achter de boodschap te analyseren en te doorzien hoe deze het publiek mogelijk beïnvloeden.
 
 
 **Vraag 7) Wat is de aard van retorische kritiek: kwestie van kunst, wetenschap, smaak?**
@@ -54,5 +53,13 @@ De verslaggeving gaat vooral toch over de onenigheid in de coalitie en weinig ov
 **Vraag 9 Bereid op basis van je analyse een 1minuutspitch over je politicus voor. En wie heeft volgens jouw de beste retorische prestatie geleverd en waarom?**
 
 Retorische presentatie Jimmy Dijk:
+
+
+
+## College 2 Retorica & Journalistiek
+
+Journalistiek: [[descriptief]] en mimetisch
+Feiten te presenteren om een representatie te bieden van de realiteit (Plato)
+
 
 
