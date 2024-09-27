@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0f5168c3fe5940e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken Y2/New media & society/College 2 (video).md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken Y2/New media & society/College 2 (video).md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken Y2/New media & society/College 2 (video).md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -164,10 +178,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "986932770e3f3565",
+  "active": "0f5168c3fe5940e5",
   "lastOpenFiles": [
-    "reframen.md",
     "Vakken Y2/New media & society/College 2 (video).md",
+    "conflict-files-obsidian-git.md",
+    "verticale amplificatie.md",
+    "refutatio.md",
+    "horizontale amplificatie.md",
+    "Vakken Y2/New media & society/Programma NM&S_202425.doc",
+    "Preteritio.md",
+    "Onderwerpen/bagatelliseren.md",
+    "Onderwerpen/amplificeren.md",
+    "Onderwerpen/amplificatio.md",
+    "Onderwerpen/Preteritie.md",
+    "Onderwerpen/Perifrase.md",
+    "reframen.md",
     "amplificatio.md",
     "Vakken Y2/Retorica & Argumentatie in journalistiek/College 3 28 sept.md",
     "Preteritie.md",
@@ -185,7 +210,6 @@
     "Vakken Y2/Crossmediale onderzoeksweken/EliotHiggins/~WRD1901.tmp",
     "Vakken Y2/Crossmediale onderzoeksweken/EliotHiggins/~WRL3345.tmp",
     "Vakken Y2/Crossmediale onderzoeksweken/EliotHiggins/~WRD3318.tmp",
-    "Vakken Y2/Crossmediale onderzoeksweken/EliotHiggins/~WRL0005.tmp",
     "Onderwerpen/Actio.md",
     "Onderwerpen/Decoding.md",
     "Onderwerpen/Encoding.md",
@@ -195,16 +219,6 @@
     "Vakken Y2/Crossmediale onderzoeksweken/WhatsApp Image 2024-09-14 at 15.19.55.jpeg",
     "Vakken Y2/Crossmediale onderzoeksweken/Frame.jpeg",
     "Onderwerpen/politieke rede.md",
-    "Onderwerpen/logos.md",
-    "Onderwerpen/pathos.md",
-    "Onderwerpen/ethos.md",
-    "Onderwerpen/memoria.md",
-    "Onderwerpen/elocutio.md",
-    "Onderwerpen/dispositio.md",
-    "Onderwerpen/Inventio.md",
-    "Vakken Y2/Crossmediale onderzoeksweken/2 sept CMO.md",
-    "Onderwerpen/gebeurtenissen.md",
-    "Vakken Y2/New media & society/College 1.md",
-    "Onderwerpen/asynchronisatie.md"
+    "Onderwerpen/logos.md"
   ]
 }
