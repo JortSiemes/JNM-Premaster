@@ -30,6 +30,9 @@ Convergence = negotiations
 Producers < - > Consumers
 
 
+## Tentamenvraag: Waarom heeft het internet niet geholpen met het verdwijnen van de media oligopolie van het media-aanbod, maar juist tot een extra media concentratie?
+
+
 
 
 
