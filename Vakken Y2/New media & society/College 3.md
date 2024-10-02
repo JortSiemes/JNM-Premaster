@@ -159,3 +159,5 @@ ook experimenteren op gebied van reclame
 - interactieve banners, automatische filmpjes, schermvullende pop-ups, sponsored articles, 'site jacking' enz.
 - gerichte advertenties obv lezersprofiel
 
+AD
+
