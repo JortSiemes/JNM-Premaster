@@ -136,13 +136,24 @@ Dit is iets wat het huidige dpg [[media]] doet, door opkomen grote kranten en de
 - schaarser maken van nieuws
 - = herstellen van klassieke medialogica
 
-#### Doelstelling convergentie
+#### Doelstelling [[media convergentie]]
 - kostenbesparing
 - crosspromotion
 - extra reclame (door bereik en kwaliteit)
 - schaarser maken van nieuws (doordat we op al die samenwerkende sites hetzelfde zien krijg je hetzelfde nieuws te zien en hierdoor lijkt alsof je alles weet)
 - = herstellen van klassieke medialogica
 
+#### Betalingsinkomsten
+pricipe van multiple streams of micro-revenu
+
+voor nieuws (kranten willen betaald worden voor nieuws)
+- pay-per-article - freemium - abonnement
+- archief
+- gepersonaliseerd nieuws
+
+- steeds moeilijke afweging (daling lezersaantallen, en dus daling advertenties)
+
+- principe: Payments + (dalende) advertenties > advertenties
 
 
 
