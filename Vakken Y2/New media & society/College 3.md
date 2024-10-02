@@ -155,5 +155,7 @@ voor nieuws (kranten willen betaald worden voor nieuws)
 
 - principe: Payments + (dalende) advertenties > advertenties
 
-
+ook experimenteren op gebied van reclame
+- interactieve banners, automatische filmpjes, schermvullende pop-ups, sponsored articles, 'site jacking' enz.
+- gerichte advertenties obv lezersprofiel
 
