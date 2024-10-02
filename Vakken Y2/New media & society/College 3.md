@@ -68,6 +68,17 @@ online omgeving kan je niet zien als iets aparts van klassieke [[media]]
 - "There is still considerable debate over whether the internet will prove to be a new medium at all or, rather, more simply serve as a better tool for distribution"
 
 
+#### Medialogica klassieke journalistiek
+- hoge instapkosten (first copy cost), gecompenseerd door centralisatie van bronnen
+- Belang van inkomsten (reclame, losse verkoop, abbonementen)
+	- Het gaat niet (alleen) om het nieuws zelf, maar om de aandacht voor het nieuws
+	- oplage-reclame-spiraaleffect
+- Zorgt voor natuurlijke selectie en nieuwsmonopolie
+Weinig spelers die veel macht hebben, duur houden
+
+V
+
+Dat verandere
 
 
 
