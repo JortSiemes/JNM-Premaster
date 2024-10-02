@@ -5,7 +5,7 @@ Die helpen om snel een analyse te maken, je kan makkelijker hierdoor een verhaal
 
 **Vraag 2) Wat is een [[refutatio]], op welke plaats tref je die doorgaans aan in een toespraak? Wat denk je: is het van belang dat een journalist aandacht besteedt aan de [[refutatio]], op wat voor manier?**
 
-[[Refutatio]] is de weerlegging van het verweer van de tegenpartij. In journalistiek is het begrip hoor en wederhoor de standaard. In deze vorm is zelfs in puur objectieve journalistiek er een plaats voor het goed opschrijven van een juiste weerlegging van beide partijen. 
+[[refutatio]] is de weerlegging van het verweer van de tegenpartij. In journalistiek is het begrip hoor en wederhoor de standaard. In deze vorm is zelfs in puur objectieve journalistiek er een plaats voor het goed opschrijven van een juiste weerlegging van beide partijen. 
 Je treft dit tijdens de argumentatie fase van een discussie.
 
 **Vraag 3) Leg uit wat het belang is van het verbergen van je retorische kunstgrepen.** 
