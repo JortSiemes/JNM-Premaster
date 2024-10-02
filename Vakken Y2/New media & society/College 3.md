@@ -159,5 +159,20 @@ ook experimenteren op gebied van reclame
 - interactieve banners, automatische filmpjes, schermvullende pop-ups, sponsored articles, 'site jacking' enz.
 - gerichte advertenties obv lezersprofiel
 
-AD
+[[Adblockers]]
+
+# DUS:
+wat is er door dit alles met het medialandschap gebeurd
+- meer van hetzelfde
+- volgepropt met reclame
+- waarvoor vaak betaald moet worden
+- en ondanks dit alles blijft online nieuws een moeilijk verhaal
+	- voor producenten en consumenten
+
+Conclusie Ben Scott
+"quote uit pp"
+
+
+#### ondertussen..
+de bedrijven doen het uiteindelijk altijd sloten geld
 
