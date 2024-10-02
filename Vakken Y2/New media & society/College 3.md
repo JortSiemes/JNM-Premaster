@@ -81,9 +81,67 @@ V
 **Dat veranderde door internet**
 - iedereen kon online publiceren door lage kosten
 - informatie was per definitie gedecentraliseerd (lag overal voor het grijpen)
-- geld vragen online was tegen de natuur van de online omgeving
+- geld [[vragen]] online was tegen de natuur van de online omgeving
 - koppeling van reclame aan content ligt erg moeilijk online
 
+##### Nieuwe concurrentie
+Vb nieuwaggregatoren (vb Google News, Yahoo, AOL)
+kleinschalige projecten, niche-sites, Huffington Post
+
+Ontnuchtering online verdienmodel
+2000: dot com crash
+
+- aanbieden van kwaliteitscontent was even duur als in de echte wereld
+- wat bespaard werd door lage distributiekosten, ging verloren door gebrek aan verkoop- en reclame-inkomsten
+- ook toen al waren er heel wat ontslagrondes (NYT, CBS) Dit is dus geen nieuws gegeven!
+
+Niet-klassieke nieuwsmedia
+- hielden stand en groeiden zelfs
+- konden beroep doen op vrijwilligerswerk (vaak geen verdienmodel)
+
+#### Online advertenties
+- onbegrensde advertentieruimte, waardoor het goedkoper is
+- concurrentie van andere online spelers voor zoekertjes
+- zeker in het begin te weinig volk
+- selective scanning + banner blindness
+- geen aangepaste meetsystemen
+
+Logisch: online nieuwsmedia gaan diversifieren op zoek naar niche waarin ze zich kunnen specialiseren, om zich als professionele aanbieders van [[kwalitatief]] hoogstaand nieuws te onderscheiden van (niet-professionele) online-onlies
+
+realiteit was echter: herstellen / intensifieren van gangbare medialogica!
+
+Nieuwsmedia zegen redding in:
+- een systeem van betalingsmodaliteiten die apart weinig voorstellen en geen hoge kwaliteit vereisen, maar samen substantieel zijn.
+
+Bedenken frame
+V                                     \                      
+Bedenken design                  Door eengemaakte redactie
+V                                       
+productie content
+V
+- tv 
+- print
+- etc
+
+Interfirm convergence/crossmedia partnerships
+- samenwerking, fusies, concentratiebeweging
+- crosspromotion, efficient inzetten personeel en apparatuur, hergebruik van contnet
+- genereren groter bereik (cfr. oplage-reclame-spiraaleffect)
+Dit is iets wat het huidige dpg [[media]] doet, door opkomen grote kranten en de middelen delen.
+
+**Digital networks**
+- kostenbesparing
+- crosspromotion
+- extra reclame (door bereik en kwaliteit)
+- schaarser maken van nieuws
+- = herstellen van klassieke medialogica
+
+#### Doelstelling convergentie
+- kostenbesparing
+- crosspromotion
+- extra reclame (door bereik en kwaliteit)
+- schaarser maken van nieuws (doordat we op al die samenwerkende sites hetzelfde zien krijg je hetzelfde nieuws te zien en hierdoor lijkt alsof je alles weet)
+- = herstellen van klassieke medialogica
 
 
 
