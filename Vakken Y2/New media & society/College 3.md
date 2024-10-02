@@ -12,3 +12,4 @@ We leven niet meer met [[media]] maar we leven altijd en overal met [[media]]/ i
 - we maken onze eigen 'ik' via online [[media]], maar ook anderen doen dit
 
 Mensen zijn generieker geworden in het dagelijkse leven doordat [[media]] een manier van expressie is geworden.
+
