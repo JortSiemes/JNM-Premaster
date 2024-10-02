@@ -78,7 +78,12 @@ Weinig spelers die veel macht hebben, duur houden
 
 V
 
-Dat verandere
+**Dat veranderde door internet**
+- iedereen kon online publiceren door lage kosten
+- informatie was per definitie gedecentraliseerd (lag overal voor het grijpen)
+- geld vragen online was tegen de natuur van de online omgeving
+- koppeling van reclame aan content ligt erg moeilijk online
+
 
 
 
