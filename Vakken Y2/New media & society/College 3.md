@@ -176,3 +176,11 @@ Conclusie Ben Scott
 #### ondertussen..
 de bedrijven doen het uiteindelijk altijd sloten geld
 
+grote ontslagen bij Huffington Post, yahoo news, buzzfeed, vice
+
+Oorzaken:
+professionalisering (=winstmaximalisatie)
+- concurrentie van grote platformen als Google, Meta (FB & IG) en TikTok
+	- op gebied van niche-content
+	- op gebied van advertenties
+
