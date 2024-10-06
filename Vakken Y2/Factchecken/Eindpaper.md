@@ -14,6 +14,16 @@ Kunnen betere vormen van bronvermelding in digitale journalistiek het vertrouwen
 Onderzoeksvraag: **In hoeverre kan verbeterde bronvermelding in nieuwsartikelen op digitale platforms bijdragen aan het vergroten van het publiek vertrouwen in journalistieke inhoud?**
 
 https://www.parool.nl/nederland/onderzoek-interesse-en-vertrouwen-in-nieuws-afgelopen-jaar-opnieuw-gedaald~bf2ec72e/
+https://www.volkskrant.nl/cultuur-media/interesse-in-nieuws-neemt-af-een-op-de-vijf-nederlanders-vertrouwt-het-nieuws-niet~b3dbf515/?referrer=https://www.google.com/
+
+Vanaf dit jaar heeft minder dan de helft (49%) van de Nederlanders nog interesse in het nieuws, en vertrouwen 54% van de Nederlanders maar in de inhoud. Ookal is het hoger dan andere landen is dit wel een zorgwekkend patroon dat jaar op jaar daalt. 
+
+
+## Advies aan nieuws- en beleidsmakers: dicht gat tussen jongeren en journalistiek
+
+Op basis van het onderzoek [concludeert het Commissariaat voor de Media](https://www.cvdm.nl/nieuws/onderzoeksrapport-jongeren-nieuws-en-sociale-media-een-blik-op-de-toekomst-van-het-nieuws/) dat nieuws- en beleidsmakers aan zet zijn om het gat tussen jongeren en journalistiek te dichten . Voor nieuwsorganisaties ligt er een grote uitdaging, zo schrijft het Commissariaat, om jongeren toch te bereiken met journalistiek aanbod.
+
+Op dit moment zijn nieuwsmerken nog terughoudend om aanwezig te zijn op sociale media. Dat komt omdat private nieuwsmerken verdienen aan abonnementen of reclames via hun eigen kanalen. Op sociale media verdient echter vooral het platform, niet de makers. Daar ligt dus een taak voor beleidsmakers.
 
 
 
