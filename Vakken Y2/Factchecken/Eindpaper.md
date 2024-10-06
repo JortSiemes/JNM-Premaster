@@ -11,6 +11,21 @@ Vertrouwen in Journalistiek daalt, waar vooral een duidelijke segmentatie is in 
 Kunnen betere vormen van bronvermelding in digitale journalistiek het vertrouwen in media doen toenemen?
 
 
+Onderzoeksvraag: **In hoeverre kan verbeterde bronvermelding in nieuwsartikelen op digitale platforms bijdragen aan het vergroten van het publiek vertrouwen in journalistieke inhoud?**
+
+https://www.parool.nl/nederland/onderzoek-interesse-en-vertrouwen-in-nieuws-afgelopen-jaar-opnieuw-gedaald~bf2ec72e/
+
+
+
+- **Methode**: In-depth interviews en focusgroepen met jongeren (18-30 jaar) om hun redenen voor nieuwsvermijding te achterhalen en dit combineren met een analyse van social media-gedrag om te bepalen hoe jongeren alternatieve informatiebronnen gebruiken.
+- **Relevantie**: Steeds meer mensen, vooral jongeren, vermijden actief het nieuws, wat negatieve gevolgen kan hebben voor hun politieke participatie. Het is belangrijk te begrijpen hoe dit verschijnsel zich ontwikkelt en wat het betekent voor de democratie.
+- **Bronnen**:  
+    
+    - Toff, B., & Nielsen, R. K. (2022). How news feels: Anticipated anxiety as a factor in news avoidance and a barrier to political engagement. _Political Communication_, _39_(6), 697-714.  
+    
+    - Ohme, J., Bruin, K. D., Haan, Y. D., Kruikemeier, S., Meer, T. G. V. D., & Vliegenthart, R. (2023). Avoiding the news to participate in society? The longitudinal relationship between news avoidance and civic engagement. _Communications_, _48_(4), 551-562.
+
+
 
 ### Structuur:
 
