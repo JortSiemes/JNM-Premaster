@@ -10,5 +10,5 @@
 		- sensationeel, makkelijk, fake, 'toxic' messages > complex, ernstig, echt nieuws
 	- je krijgt nieuws wat populair is terwijl dit niet in jouw profiel valt.
 
-Dit selectere
+Dit selecteren en signaleren is een black box, en ze geven hun algoritmen niet prijs.
 
