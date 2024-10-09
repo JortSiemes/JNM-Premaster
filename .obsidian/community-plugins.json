@@ -3,5 +3,7 @@
   "calendar",
   "obsidian-kanban",
   "table-editor-obsidian",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "obsidian-checklist-plugin",
+  "cycle-through-panes"
 ]

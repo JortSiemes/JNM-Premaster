@@ -45,13 +45,18 @@ Door grappige beelden die doorspekt zijn met verwijzingen naar populaire cultuur
 
 [[memes]] = grote vorm van mainstreaming
 
-Via sociale [[media]] platform worden deze verspreid
-- bypasses professional news media
+Via sociale [[media]] [[platform]] worden deze verspreid
+- bypasses professional news [[media]]
 - new public sphere, alles kan en mag gezegd worden
 - extreme visies naar 'het midden', naar publieke forum brengen
-	- vb. via retweet, comments, like, ... worden ook opgepikt door mainstream media, doorgestuurd via whatsapp,
-- community standards >< open neutral platform
+	- vb. via retweet, comments, like, ... worden ook opgepikt door mainstream [[media]], doorgestuurd via whatsapp,
+- community standards >< open neutral [[platform]]
 - "we have an algorithm for that"
+	= een recept om een wiskundig of informaticaprobleem op te lossen. Wiskundig geformuleerd in het een eindige reeks instructies die vanuit een gegeven begintoestand naar een beoogd doel leidt
+
+- algoritmes zijn niet neutraal
+- algoritmes zijn niet feilloos
+
 
 
 
