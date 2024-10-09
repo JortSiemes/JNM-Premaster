@@ -15,9 +15,29 @@ eigenaars van platformen, spreken overzichzelf als platform (ipv techbedrijf)
 - self-characterization -> public discourse
 - vaag genoeg maar toch concreet
 
-'semantic richness of term platform'
+### 'semantic richness of term platform'
 
-Computational
-- infra
+**Computational** (open collaboratie met andere developers en applicaties, iets dat gemaakt word waar andere tools en devices op kunnen aansluiten)
+- infrastructure that supports the design and use of applications
+- cfr. API (application programming interface) = iedereen kan met ons platform spreken en dingen opvragen, maken, ...
+
+**Architectural**
+- een door de mens gemaakt fysiek platform lang uitgestrekt plateau dat verbinding maakt tussen het ene en het andere
+
+**Figurative**
+- basis/ startpunt voor actie, voor ontwikkeling, voor kansen
+
+**Political**
+- cf. podium van waar politieke boodschappen verkondigd worden = standpunt van politicus en burger
+
+
+
+
+Open source, volledige computational
+[[API]] = gelimiteerde versie hiervan
+
+
+
+
 
 
