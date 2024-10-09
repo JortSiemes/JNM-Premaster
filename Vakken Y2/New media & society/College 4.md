@@ -74,6 +74,13 @@ Maar als je gaat shoppen ga je maar langs dezelfde specifieke winkel elke keer.
 Je hebt toegang tot alles, maar je kiest daar voel ik me goed bij. En de verkopers bevestigen dit alleen maar.
 
 
+uitgangspunt: de online 'platformen' zijn niet politiek neutraal
+
+
+Facebook ads/library
+
+
+
 
 
 
