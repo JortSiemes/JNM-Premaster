@@ -100,11 +100,33 @@ Manieren van artikel distributie
 
 artikel doorlinken voor extra traffic
 
-Europa: Directive on Copyright in the Digital Single Market
+#### Europa: Directive on Copyright in the Digital Single Market
+(regels vanuit EU om meer rechten te geven aan gebruikers platform)
 
-Artikel 15 (11): Uitgevers van nieuws kunnen ergoeding vragen bij online link naar hun artikels
+Artikel 15 (11): Uitgevers van nieuws kunnen vergoeding vragen bij online link naar hun artikels.
+(Maar er is daarop reactie van platformen die dit niet fijn vinden)
+- platformen dreigen nieuws te blokkeren wegens 'niet belangrijk'
+- in het voordeel van grote spelers die financiele regeling treffen
+- >< alternatieve lokale nieuwsaanbieders
+- >< belangrijk nieuws van overheidssites en hulpdiensten
 
-Artikel 17 (15): platformen moeten er alles aan doen om au
+Artikel 17 (15): platformen moeten er alles aan doen om auteursrechtelijk beschermde content te weerhouden. Anders verantwoordelijk voor deze schending.
+(ook reactie platformen)
+- 'valse' positieven door te strenge uploadfilters (te snel geweerde artikels omdat niks gevaarlijk mag zijn)
+- >< gift economy van het internet
+- in het voordeel van grote spelers die zich in orde kunnen stellen
+
+Next: DSA + DMA
+- europese commissie: update van de in 2000 aangenomen richtlijn inzake elektronische handel
+- vooral gericht op regulering online- en socialmediaplatformen
+- in navolging van GDPR-wetgeving wil europa voortrekkersrol spelen in strijd tegen desinformatie, onduidelijke werking van algoritmes, oneerlijke digitale concurrentie,...
+
+[[DMA]]
+
+[[DSA]]
+
+
+
 
 
 
