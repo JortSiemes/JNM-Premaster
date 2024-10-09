@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "25989a6ef5fc9f3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "383d07cee903a776",
             "type": "leaf",
             "state": {
@@ -34,6 +47,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken Y2/New media & society/College 4.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken Y2/New media & society/College 4.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -166,10 +180,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "986932770e3f3565",
+  "active": "25989a6ef5fc9f3e",
   "lastOpenFiles": [
-    "DSA.md",
     "Vakken Y2/New media & society/College 4.md",
+    "conflict-files-obsidian-git.md",
+    "Vakken Y2/Factchecken/Formulier Concept Factcheck V3.docx",
+    "Vakken Y2/Crossmediale onderzoeksweken/Publicatie document.docx",
+    "Vakken Y2/Crossmediale onderzoeksweken/Huib Modderkolk/JORIS VOORN.docx",
+    "DSA.md",
     "DMA.md",
     "Algoritmen.md",
     "echo chamber.md",
@@ -196,15 +214,11 @@
     "Vakken Y2/New media & society/College 2 (video).md",
     "Vakken Y2/Crossmediale onderzoeksweken/EliotHiggins/HannahInterview.pkf",
     "Vakken Y2/Crossmediale onderzoeksweken/Huib Modderkolk/Huib redactie.pptx",
-    "Vakken Y2/Crossmediale onderzoeksweken/Huib Modderkolk/Huib redactie.pdf",
-    "Vakken Y2/Crossmediale onderzoeksweken/Huib Modderkolk",
     "Onderwerpen/verticale amplificatie.md",
     "Onderwerpen/shovelware.md",
     "Onderwerpen/refutatio.md",
     "Onderwerpen/reframen.md",
     "Onderwerpen/media.md",
-    "Onderwerpen/media convergentie.md",
-    "Vakken Y2/New media & society/Programma NM&S_202425.doc",
     "Vakken Y2/Crossmediale onderzoeksweken/WhatsApp Image 2024-09-14 at 15.18.48 (1).jpeg",
     "Vakken Y2/Crossmediale onderzoeksweken/WhatsApp Image 2024-09-14 at 15.18.48.jpeg",
     "Vakken Y2/Crossmediale onderzoeksweken/WhatsApp Image 2024-09-14 at 15.19.55.jpeg",
