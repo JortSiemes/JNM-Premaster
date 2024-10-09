@@ -79,6 +79,15 @@ uitgangspunt: de online 'platformen' zijn niet politiek neutraal
 
 Facebook ads/library
 
+### Hoofdvraag:
+wat is het effect van het delen van een artikel op de eigen FB account door nieuwsmedia
+
+Studie gedaan met Britse, Nederlandse en vlaamse kranten
+wat voor impact heeft het delen op facebook.
+
+Niet artikel altijd standaard doorlinken, de timing kan namelijk heel veel helpen.
+
+
 
 
 
