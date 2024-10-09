@@ -57,6 +57,10 @@ Via sociale [[media]] [[platform]] worden deze verspreid
 - algoritmes zijn niet neutraal
 - algoritmes zijn niet feilloos
 
+Niet neutraal, bv. in context van nieuws en informatie
+[[Algoritmen]]
+- selecteren
+- signaleren
 
 
 

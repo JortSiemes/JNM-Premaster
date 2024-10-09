@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken Y2/New media & society/College 4.md",
+                "file": "Algoritmen.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken Y2/New media & society/College 3.md",
+                "file": "Vakken Y2/New media & society/College 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +34,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -105,8 +104,47 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "e75035efdb60a4aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Algoritmen.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9dd31374c3e55536",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "d2bc2656988f3da1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Algoritmen.md"
+              }
+            }
+          },
+          {
+            "id": "425eaebe7e08c266",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -124,20 +162,22 @@
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
-      "random-note:Open random note": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e46240856bb44aea",
+  "active": "986932770e3f3565",
   "lastOpenFiles": [
+    "Algoritmen.md",
+    "Vakken Y2/New media & society/College 1.md",
+    "Onderwerpen/variabiliteit.md",
     "Vakken Y2/New media & society/College 4.md",
+    "Vakken Y2/New media & society/College 3.md",
     "platform.md",
     "memes.md",
     "extreme standpunten.md",
     "Untitled.canvas",
     "API.md",
-    "Vakken Y2/New media & society/College 3.md",
     "Vakken Y2/Crossmediale onderzoeksweken/EliotHiggins/~WRL0001.tmp",
     "Vakken Y2/Crossmediale onderzoeksweken/EliotHiggins/~WRD0000.tmp",
     "Vakken Y2/Crossmediale onderzoeksweken/EliotHiggins/~$ndredacteurs document.docx",
@@ -165,9 +205,6 @@
     "Vakken Y2/New media & society/Programma NM&S_202425.doc",
     "Preteritio.md",
     "Onderwerpen/bagatelliseren.md",
-    "Onderwerpen/amplificeren.md",
-    "Onderwerpen/amplificatio.md",
-    "Onderwerpen/Preteritie.md",
     "Vakken Y2/Crossmediale onderzoeksweken/WhatsApp Image 2024-09-14 at 15.18.48 (1).jpeg",
     "Vakken Y2/Crossmediale onderzoeksweken/WhatsApp Image 2024-09-14 at 15.18.48.jpeg",
     "Vakken Y2/Crossmediale onderzoeksweken/WhatsApp Image 2024-09-14 at 15.19.55.jpeg",
