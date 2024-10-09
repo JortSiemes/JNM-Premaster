@@ -100,7 +100,11 @@ Manieren van artikel distributie
 
 artikel doorlinken voor extra traffic
 
+Europa: Directive on Copyright in the Digital Single Market
 
+Artikel 15 (11): Uitgevers van nieuws kunnen ergoeding vragen bij online link naar hun artikels
+
+Artikel 17 (15): platformen moeten er alles aan doen om au
 
 
 
