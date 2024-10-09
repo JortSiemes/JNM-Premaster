@@ -62,6 +62,19 @@ Niet neutraal, bv. in context van nieuws en informatie
 - selecteren
 - signaleren
 
+[[filter bubble]] een beperkte en eenzijdige toegang tot nieuws, informatie, media, ideologieen, op basis van algoritmische filtering. Leidt tot **'ideologische isolatie'**
+- blijkt tegengesproken te worden door meeste studies
+- socialemediagebruikers lijken diverser aanbod te hebben Idem voor zij die nieuws zoeken via zoekmachines
+
+[[echo chamber]]: ontstaat wanneer we onszelf vooral richten (of door algoritmes laten richten) op een bepaald standpunt en vooral gelijkgezinden opzoeken. Leidt tot **'ideologische polarisatie'**
+- groter probleem dan filter bubble
+
+Verschil hier is te vergelijken met een winkelcentrum vol winkels, je hebt toegang tot alle open deuren van het centrum. Je tijdlijn is het winkelcentrum
+Maar als je gaat shoppen ga je maar langs dezelfde specifieke winkel elke keer.
+Je hebt toegang tot alles, maar je kiest daar voel ik me goed bij. En de verkopers bevestigen dit alleen maar.
+
+
+
 
 
 
