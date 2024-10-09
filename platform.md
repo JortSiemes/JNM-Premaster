@@ -25,7 +25,5 @@ liggen onder vuur
 - self-characterization -> public discourse
 - vaag genoeg maar toch concreet
 
-Social media zorgen voor mainstreaming van [[extreme standpunten]]
-Door grappige beelden die doorspekt zijn met verwijzingen naar populaire cultuur (film, tv-series, bekende mensen, muziek)
 
-[[memes]] = grote vorm van mainstreaming
+

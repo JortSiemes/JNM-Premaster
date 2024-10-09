@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memes.md",
+                "file": "Vakken Y2/New media & society/College 4.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "memes.md",
+                "file": "Vakken Y2/New media & society/College 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,9 +111,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "memes.md",
+                "file": "Vakken Y2/New media & society/College 4.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "memes.md"
+                "file": "Vakken Y2/New media & society/College 4.md"
               }
             }
           },
@@ -145,9 +145,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "d2dc63a6cee57b7a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",

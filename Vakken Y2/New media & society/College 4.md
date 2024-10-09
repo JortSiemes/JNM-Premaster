@@ -40,6 +40,20 @@ eigenaars van platformen, spreken overzichzelf als [[platform]] (ipv techbedrijf
 Open source, volledige computational
 [[API]] = gelimiteerde versie hiervan
 
+Social [[media]] zorgen voor mainstreaming van [[extreme standpunten]]
+Door grappige beelden die doorspekt zijn met verwijzingen naar populaire cultuur (film, tv-series, bekende mensen, muziek)
+
+[[memes]] = grote vorm van mainstreaming
+
+Via sociale [[media]] platform worden deze verspreid
+- bypasses professional news media
+- new public sphere, alles kan en mag gezegd worden
+- extreme visies naar 'het midden', naar publieke forum brengen
+	- vb. via retweet, comments, like, ... worden ook opgepikt door mainstream media, doorgestuurd via whatsapp,
+- community standards >< open neutral platform
+- "we have an algorithm for that"
+
+
 
 
 
