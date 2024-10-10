@@ -30,11 +30,16 @@ Doelen:
 Aristoteles:
 drie overtuigingsmiddelen
 
-Ethos:
-Pathos
-Logos
+Ethos: spreker als autoriteit / president
+Pathos: inspelen op emotie van publiek
+Logos: argumentatie
 
 Waar gebeurt retorisch gezien vaak het meest?
-Exordium en Peroratio
+- Exordium en Peroratio
 
-C-span: film
+C-span: filmpje
+
+
+
+
+
