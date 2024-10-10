@@ -11,4 +11,30 @@ Technieken verschillen per rede + per publiek
 
 #### Retorische analyse volgorde
 Bondige versie:
-1, 
+1, Plaats: Congress
+Tekst, schrijversteam en adviseurs
+Soort toespraak: genus deliberativum
+
+Publiek:
+- congress
+- amerikaanse volk
+- buitenlandse leiders
+- Taliban
+
+Doelen:
+- Bush als leider: geloofwaardig, daadkrachtig
+- volk geruststellen
+- steun zoeken bij bondgenoten
+- oorlogsverklaring
+
+Aristoteles:
+drie overtuigingsmiddelen
+
+Ethos:
+Pathos
+Logos
+
+Waar gebeurt retorisch gezien vaak het meest?
+Exordium en Peroratio
+
+C-span: film
