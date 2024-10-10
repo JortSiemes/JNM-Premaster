@@ -1,4 +1,4 @@
-ABD overzicht inleidingstechnieken
+**ABD-overzicht inleidingstechnieken**
 ![[Pasted image 20241010133621.png]]
 
 Het aantal boodschappen in deze tijd is enorm, maar in het normale leven is dit niet te doen.
@@ -9,4 +9,6 @@ Technieken verschillen per rede + per publiek
 
 ![[Pasted image 20241010133517.png]]
 
-
+#### Retorische analyse volgorde
+Bondige versie:
+1, 
