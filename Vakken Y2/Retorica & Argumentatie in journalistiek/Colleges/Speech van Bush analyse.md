@@ -4,13 +4,13 @@ Mr. Speaker, Mr. President pro tem, members of Congress and fellow Americans:
 
 In the normal course of events, presidents come to this chamber to report on the state of the union. Tonight, no such report is needed. It has already been delivered by the American people.
 
-We have seen it in the courage of passengers who rushed terrorists to save others on the ground. Passengers like an exceptional man named Todd Beamer. And would you please help me welcome his wife, Lisa Beamer, here tonight.
+We have seen it in the courage of passengers who rushed terrorists to save others on the ground. <mark style="background: #BBFABBA6;">Passengers like an exceptional man named Todd Beamer</mark>. And would you please help me <mark style="background: #BBFABBA6;">welcome his wife, Lisa Beamer</mark>, here tonight. <mark style="background: #BBFABBA6;">(welwillendheid, lof en trots opwekken via pathos)</mark>
 
 We have seen the state of our union in the endurance of rescuers working past exhaustion. We've seen the unfurling of flags, the lighting of candles, the giving of blood, the saying of prayers in English, Hebrew and Arabic. We have seen the decency of a loving and giving people who have made the grief of strangers their own.
 
-<mark style="background: #FFB8EBA6;">My fellow citizens</mark>, for the last nine days, the entire world has seen for itself the state of our union, and it is strong. (applaus creeeren door laatste woord als een parabool uit te spreken, en dan stilte laten vallen)
+<mark style="background: #FFB8EBA6;">My fellow citizens</mark>, for the last nine days, the entire world has seen for itself the state of our union, and it is <mark style="background: #FFB8EBA6;">strong</mark>. <mark style="background: #FFB8EBA6;">(applaus creeeren door laatste woord als een parabool uit te spreken, en dan stilte laten vallen)</mark>
 
-Tonight we are a country awakened to danger and called to defend freedom. Our grief has turned to anger and anger to resolution. Whether we bring our enemies to justice or bring justice to our enemies, justice will be done.
+Tonight we are a <mark style="background: #ADCCFFA6;">country awakened to danger</mark> and called to <mark style="background: #ADCCFFA6;">defend freedom.</mark> (<mark style="background: #ADCCFFA6;">framing analyse, in dit passage is sleutel: land is in oorlog</mark>) Our grief has turned to anger and anger to resolution. <mark style="background: #FFF3A3A6;">Whether we bring our enemies to justice or bring justice to our enemies, justice will be done.</mark> 
 
 I thank the Congress for its leadership at such an important time. All of America was touched on the evening of the tragedy to see Republicans and Democrats joined together on the steps of this Capitol singing "God Bless America." And you did more than sing. You acted by delivering $40 billion to rebuild our communities and meet the needs of our military.
 
@@ -26,7 +26,7 @@ Once again we are joined together in a great cause. I'm so honored the British p
 
 On Sept. 11, enemies of freedom committed an act of war against our country. Americans have known wars. But for the past 136 years they have been wars on foreign soil, except for one Sunday in 1941. Americans have known the casualties of war. But not at the center of a great city on a peaceful morning. Americans have known surprise attacks. But never before on thousands of civilians. All of this was brought upon us in a single day. And night fell on a different world, a world where freedom itself is under attack.
 
-Americans have many questions tonight. Americans are asking, "Who attacked our country?"
+Americans have many questions tonight. Americans are asking, "<mark style="background: #FFF3A3A6;">Who attacked our country?</mark><mark style="background: #FFF3A3A6;">" (geef een antwoord in je eigen speech, je creert dialoog)</mark>
 
 The evidence we have gathered all points to a collection of loosely affiliated terrorist organizations known as Al Qaeda. They are some of the murderers indicted for bombing American Embassies in Tanzania and Kenya, and responsible for bombing the U.S.S. Cole.
 
