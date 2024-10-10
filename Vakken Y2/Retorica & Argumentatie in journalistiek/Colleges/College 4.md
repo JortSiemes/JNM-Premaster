@@ -60,5 +60,14 @@ Peroratio
 - Bush als spreker in oorlogstijd: overtuigender dan verwacht
 - speechschrijven is een vak
 - retorica beperkt zich niet tot de tekst: beeld en geluid
-	- sprekersactio (gebaren, stem, timing, kleding, vis. hulpmiddelen
-	- )
+	- sprekersactio (gebaren, stem, timing, kleding, vis. hulpmiddelen)
+
+
+Vijf W's en de H:
+- Wat is er gebeurd
+- wanneer
+- waar, wie is erbij betrokken,
+- waarom is het gebeurd
+- hoe is het gebeurd
+
+
