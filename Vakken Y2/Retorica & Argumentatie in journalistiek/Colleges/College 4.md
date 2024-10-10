@@ -41,5 +41,24 @@ C-span: filmpje
 
 [[Applaus theorie]]: 95% van alle applauzen kan je voorspellen
 
+[[Speech van Bush analyse]]
 
+Peroratio
+- [[attentum]]: 'tonight i thank my fellow americans [...] and ladies and gentlemen of the congress i thank you'
+- [[recapitulatio]]; 'great harm has been done to us'
+- [[Affectus]]: inspelen op emoties met gebruik van stilistisch arsenaal
+	- [[contrast]]: VS het goede en wereld zuiveren van het kwaad van het terrorisme
+	- concretiseren: iedereen weet waar hij was toen het gebeurde: ik boodschap verbonden met allen die iemand verloren (pathos)
+	- shield vna firefighter (prop)
+	- [[citaat]] (we will not tire, we will not falter, and we will not fail) [[allusie]] op churchill, herhalingsfiguren, tricola, vage waardeconcepten
+	- ik-boodschap: i will not yield, i will not rest, i will not relent (ethos)
+	- Ultieme argument: god aan onze kant (subtiel pathos)
 
+[[anafoor]] = herhaling maar moet aan het begin van de zin staan
+
+#### Conclusies
+- Bush als spreker in oorlogstijd: overtuigender dan verwacht
+- speechschrijven is een vak
+- retorica beperkt zich niet tot de tekst: beeld en geluid
+	- sprekersactio (gebaren, stem, timing, kleding, vis. hulpmiddelen
+	- )
