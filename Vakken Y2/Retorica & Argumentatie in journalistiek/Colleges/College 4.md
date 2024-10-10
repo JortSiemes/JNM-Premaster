@@ -39,7 +39,7 @@ Waar gebeurt retorisch gezien vaak het meest?
 
 C-span: filmpje
 
-
+[[Applaus theorie]]: 95% van alle applauzen kan je voorspellen
 
 
 
