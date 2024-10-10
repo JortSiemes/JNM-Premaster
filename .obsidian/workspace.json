@@ -11,8 +11,13 @@
             "id": "fb28dc6b29a4fe3b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Onderwerpen/Adblockers.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Onderwerpen/Adblockers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Onderwerpen/Adblockers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Onderwerpen/Adblockers.md"
+              }
             }
           },
           {
@@ -138,12 +147,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,6 +169,8 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "711edc3604777dc5",
-  "lastOpenFiles": []
+  "active": "19ae083ff19c868d",
+  "lastOpenFiles": [
+    "Vakken Y2/Retorica & Argumentatie in journalistiek/College 4.md"
+  ]
 }
