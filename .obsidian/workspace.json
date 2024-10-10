@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "5c92d775e2405873",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "383d07cee903a776",
             "type": "leaf",
             "state": {
@@ -34,6 +47,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken Y2/New media & society/College 4.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken Y2/New media & society/College 4.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -166,10 +180,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "986932770e3f3565",
+  "active": "5c92d775e2405873",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Vakken Y2/New media & society/College 4.md",
+    "Vakken Y2/Factchecken/~WRL0003.tmp",
+    "Vakken Y2/Factchecken/Factcheck Otters/Onderzoek naar drijfbaarheid Otters.pdf",
+    "Vakken Y2/Factchecken/Factcheck Otters",
     "Vakken Y2/Factchecken/Formulier Concept Factcheck V3.docx",
     "Vakken Y2/Crossmediale onderzoeksweken/Publicatie document.docx",
     "Vakken Y2/Crossmediale onderzoeksweken/Huib Modderkolk/JORIS VOORN.docx",
@@ -195,16 +212,12 @@
     "Vakken Y2/Crossmediale onderzoeksweken/EliotHiggins/~WRL0001.tmp",
     "Vakken Y2/Crossmediale onderzoeksweken/EliotHiggins/~WRD0000.tmp",
     "Vakken Y2/Crossmediale onderzoeksweken/EliotHiggins/~$ndredacteurs document.docx",
-    "Vakken Y2/Crossmediale onderzoeksweken/Huib Modderkolk/~$Huib redactie.pptx",
     "Vakken Y2/Factchecken/Eindpaper.md",
     "Vakken Y2/New media & society/College 2 (video).md",
-    "Vakken Y2/Crossmediale onderzoeksweken/EliotHiggins/HannahInterview.pkf",
-    "Vakken Y2/Crossmediale onderzoeksweken/Huib Modderkolk/Huib redactie.pptx",
     "Onderwerpen/verticale amplificatie.md",
     "Onderwerpen/shovelware.md",
     "Onderwerpen/refutatio.md",
     "Onderwerpen/reframen.md",
-    "Onderwerpen/media.md",
     "Vakken Y2/Crossmediale onderzoeksweken/WhatsApp Image 2024-09-14 at 15.18.48 (1).jpeg",
     "Vakken Y2/Crossmediale onderzoeksweken/WhatsApp Image 2024-09-14 at 15.18.48.jpeg",
     "Vakken Y2/Crossmediale onderzoeksweken/WhatsApp Image 2024-09-14 at 15.19.55.jpeg",
