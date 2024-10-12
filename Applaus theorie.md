@@ -1,0 +1,1 @@
+95% van alle applauzen kan je voorspellen

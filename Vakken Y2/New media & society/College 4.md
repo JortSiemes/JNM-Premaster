@@ -31,7 +31,7 @@ eigenaars van platformen, spreken overzichzelf als [[platform]] (ipv techbedrijf
 **Political**
 - cf. podium van waar politieke boodschappen verkondigd worden = [[standpunt]] van politicus en burger
 
-### [[Platform]]
+### [[platform]]
 - een plaast van waaruit activiteiten en opportuniteiten ontstaan
 - neutraal/open
 - progressief/egalitarian (democratisch, gelijkmakend)
