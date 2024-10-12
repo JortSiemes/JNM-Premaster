@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "aacc6089ca1410f3",
+    "id": "a6e343bb07bbb325",
     "type": "split",
     "children": [
       {
-        "id": "8faaf99ccbd8bbf0",
+        "id": "71a063e4f40c0e68",
         "type": "tabs",
         "children": [
           {
-            "id": "fb28dc6b29a4fe3b",
+            "id": "1fdfadce33cdafb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,21 +20,22 @@
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3c0c3c6469c1c66b",
+    "id": "b1b3c23f6a371631",
     "type": "split",
     "children": [
       {
-        "id": "1b3d61bac749104b",
+        "id": "c012c68ab0e2c1a6",
         "type": "tabs",
         "children": [
           {
-            "id": "19ae083ff19c868d",
+            "id": "e46240856bb44aea",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,12 +45,12 @@
             }
           },
           {
-            "id": "a0d191e7e12a4415",
+            "id": "0c6b787e688c66b2",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#MOCs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,7 +60,7 @@
             }
           },
           {
-            "id": "44b7158fb8d7dce8",
+            "id": "5798dde9ede5e945",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,15 +74,64 @@
     "width": 300
   },
   "right": {
-    "id": "dda436d81d6db802",
+    "id": "990de90adb7af7a7",
     "type": "split",
     "children": [
       {
-        "id": "c1d9afb49aebca61",
+        "id": "f426312ce41c0515",
         "type": "tabs",
         "children": [
           {
-            "id": "58c0ed13ee8c142b",
+            "id": "f9712ea4b461c517",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e75035efdb60a4aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9dd31374c3e55536",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "d2bc2656988f3da1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 4.md"
+              }
+            }
+          },
+          {
+            "id": "425eaebe7e08c266",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "5c257cfb7a3954e8",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -89,7 +139,7 @@
             }
           },
           {
-            "id": "40c6f4cb03e6e766",
+            "id": "a22aa95c8e540564",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -104,59 +154,16 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "c10a2923c2c0df2d",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 4.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "c3045240a8c047a0",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "e08856e493afdb85",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 4.md"
-              }
-            }
-          },
-          {
-            "id": "711edc3604777dc5",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
           }
         ],
         "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 366.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -164,35 +171,56 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
-      "publish:Publish changes...": false
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fb28dc6b29a4fe3b",
+  "active": "1fdfadce33cdafb6",
   "lastOpenFiles": [
-    "peroratio.md",
+    "de doxa.md",
     "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 4.md",
+    "Pasted image 20241010133621.png",
     "attentum.md",
+    "peroratio.md",
     "clickbait.md",
-    "contrast.md",
-    "allusie.md",
-    "citaat.md",
     "anafoor.md",
     "recapitulatio.md",
-    "Affectus.md",
     "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/Speech van Bush analyse.md",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/Toespraak_President_Bush_20_september_2001.doc",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/Unconfirmed 451980.crdownload",
     "Applaus theorie.md",
-    "de doxa.md",
-    "Pasted image 20241010133621.png",
-    "Pasted image 20241010133517.png",
+    "Vakken Y2/Crossmediale onderzoeksweken/Huib Modderkolk/CMO aflv Modderkolk To Do.md",
+    "contrast.md",
+    "citaat.md",
+    "allusie.md",
+    "Vakken Y2/Retorica & Argumentatie in journalistiek/Toespraak_President_Bush_20_september_2001.doc",
     "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 3 28 sept.md",
     "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 1.md",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/949833907787-10619137649-ticket.pdf",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/Dijk door Siemes en Visser.pdf",
     "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges",
-    "Onderwerpen/Adblockers.md"
+    "Pasted image 20241010133517.png",
+    "Onderwerpen/platform.md",
+    "Onderwerpen/memes.md",
+    "Onderwerpen/filter bubble.md",
+    "Onderwerpen/extreme standpunten.md",
+    "Onderwerpen/echo chamber.md",
+    "Onderwerpen/DSA.md",
+    "Onderwerpen/DMA.md",
+    "Onderwerpen/Algoritmen.md",
+    "Onderwerpen/Adblockers.md",
+    "Onderwerpen/API.md",
+    "Vakken Y2/Retorica & Argumentatie in journalistiek/~$dracht_JortSiemes_10oct.docx",
+    "Vakken Y2/Retorica & Argumentatie in journalistiek/~WRL0005.tmp",
+    "Vakken Y2/Retorica & Argumentatie in journalistiek/~WRD0004.tmp",
+    "Vakken Y2/Retorica & Argumentatie in journalistiek/Opdracht_JortSiemes_10oct.docx",
+    "Vakken Y2/Factchecken/~WRL3316.tmp",
+    "Vakken Y2/Factchecken/~WRD3308.tmp",
+    "Vakken Y2/Factchecken/~WRD3300.tmp",
+    "Vakken Y2/Factchecken/~WRL2280.tmp",
+    "Untitled.canvas",
+    "Vakken Y2/Crossmediale onderzoeksweken/WhatsApp Image 2024-09-14 at 15.18.48 (1).jpeg",
+    "Vakken Y2/Crossmediale onderzoeksweken/WhatsApp Image 2024-09-14 at 15.18.48.jpeg",
+    "Vakken Y2/Crossmediale onderzoeksweken/WhatsApp Image 2024-09-14 at 15.19.55.jpeg",
+    "Vakken Y2/Crossmediale onderzoeksweken/Frame.jpeg"
   ]
 }

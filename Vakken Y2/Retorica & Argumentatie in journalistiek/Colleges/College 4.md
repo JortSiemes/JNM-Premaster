@@ -70,7 +70,7 @@ Vijf W's en de H:
 - waarom is het gebeurd
 - hoe is het gebeurd
 
-[[clickbait
+[[clickbait]]
 
 
 [[peroratio]]
