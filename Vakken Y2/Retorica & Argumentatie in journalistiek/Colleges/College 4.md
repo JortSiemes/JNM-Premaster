@@ -73,9 +73,16 @@ Vijf W's en de H:
 [[clickbait
 
 
-[[peroratio]]
+## [[peroratio]] 
 [[attentum]]: Begin van einde
 [[recapitulatio]] samenvatting kern
 [[affectus]]: inspelen op emoties, met gebruik van stilistisch arsenaal
 
-1, welke van deze functies worden vervuld in nieu
+## Mogelijke tentamenvragen
+1, welke van deze functies worden vervuld in nieuwsberichten? geef een voorbeeld
+	- recapitulatio, bij NOS
+	- affectus door persoonlijke quotes tijdens nieuwsbericht
+2, welk van deze functies worden vervuld in opiniestukken? geef een voorbeeld.
+
+#todo 
+- [ ] beantwoord en post uiterlijk woensdag 16oct 12u, vraag 1 en 2
