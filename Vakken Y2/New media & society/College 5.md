@@ -121,3 +121,24 @@ Je moet ook de tegenstander aan woord laten is een idee in de journalistiek. Daa
 
 In het nieuws komen de meest extreme vaker voor, en in extremere woorden
 
+##### Anderzijds
+- breed-politieke [[media]] blijven referentiemedia
+- [[filter bubble]] < [[echo chamber]]
+- politieke interesse blijft belangrijke motivatie voor nieuwsconsumptie dan politieke overtuiging
+
+## Meer relativering van feiten?
+hoe meer keuzevrijheid om te consumeren, hoe meer dat je ergens munitie kan vinden. Ter bevestiging van jouw afwijkende mening.
+- post-truth/post-factual relativism
+- "truthiness" (Stephan Colbert) = something is true because it feels right
+- vernietigend voor politieke debat (geen gemeenschappelijk referentiepunt)
+"je kan het niet over klimaat hebben als mensen niet geloven dat er iets slechts gebeurt"
+
+
+## meer ongelijkheid
+- door de keuzevrijheid, leidt het tot veer gelijkheid of ongelijkheid?
+Gelijkheid: iedereen heeft toegang tot gratis en vooral veel makkelijk te bereiken bronnen. Je kan met vinden alles vinden en leren
+
+Ongelijkheid: increasing [[[[media]]|[[med]]ia]] choice will lead to increasing inequalities in the extent to which people make use of the news [[media]], and that this will result in increasing inequalities in knowledge about politics and current affairs among different groups in society.
+- more media choice allows for easier avoidance of political information those who are not interested, leading to less accidental exposure to the news, less political knowledge and as a consequence and exclusion of the unmotivated from democratic parties
+
+
