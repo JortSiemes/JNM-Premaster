@@ -138,7 +138,7 @@ hoe meer keuzevrijheid om te consumeren, hoe meer dat je ergens munitie kan vind
 - door de keuzevrijheid, leidt het tot veer gelijkheid of ongelijkheid?
 Gelijkheid: iedereen heeft toegang tot gratis en vooral veel makkelijk te bereiken bronnen. Je kan met vinden alles vinden en leren
 
-Ongelijkheid: increasing [[[[media]]|[[med]]ia]] choice will lead to increasing inequalities in the extent to which people make use of the news [[media]], and that this will result in increasing inequalities in knowledge about politics and current affairs among different groups in society.
-- more media choice allows for easier avoidance of political information those who are not interested, leading to less accidental exposure to the news, less political knowledge and as a consequence and exclusion of the unmotivated from democratic parties
+Ongelijkheid: increasing [[media]] choice will lead to increasing inequalities in the extent to which people make use of the news [[media]], and that this will result in increasing inequalities in knowledge about politics and current affairs among different groups in society.
+- more [[media]] choice allows for easier avoidance of political information those who are not interested, leading to less accidental exposure to the news, less political knowledge and as a consequence and exclusion of the unmotivated from democratic parties
 
 
