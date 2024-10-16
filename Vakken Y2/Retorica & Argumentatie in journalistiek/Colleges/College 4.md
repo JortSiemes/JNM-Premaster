@@ -76,7 +76,7 @@ Vijf W's en de H:
 ## [[peroratio]] 
 [[attentum]]: Begin van einde
 [[recapitulatio]] samenvatting kern
-[[affectus]]: inspelen op emoties, met gebruik van stilistisch arsenaal
+[[Affectus]]: inspelen op emoties, met gebruik van stilistisch arsenaal
 
 ## Mogelijke tentamenvragen
 1, welke van deze functies worden vervuld in nieuwsberichten? geef een voorbeeld

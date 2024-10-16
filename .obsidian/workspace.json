@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken Y2/New media & society/College 5.md",
+                "file": "Onderwerpen/news gap.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken Y2/New media & society/College 5.md",
+                "file": "Onderwerpen/news gap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken Y2/New media & society/College 5.md",
+                "file": "Onderwerpen/news gap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken Y2/New media & society/College 5.md"
+                "file": "Onderwerpen/news gap.md"
               }
             }
           },
@@ -171,10 +171,16 @@
   },
   "active": "fb28dc6b29a4fe3b",
   "lastOpenFiles": [
-    "high-choice media realiteit.md",
-    "techno-dystopisten.md",
-    "techno-utopisten.md",
     "Vakken Y2/New media & society/College 5.md",
+    "Onderwerpen/news gap.md",
+    "Onderwerpen/Affectus.md",
+    "Onderwerpen/news media preferences.md",
+    "Onderwerpen/Pasted image 20241010133517.png",
+    "Onderwerpen/Pasted image 20241010133621.png",
+    "Onderwerpen/news consumers preferences.md",
+    "Onderwerpen/high-choice media realiteit.md",
+    "Onderwerpen/techno-dystopisten.md",
+    "techno-utopisten.md",
     "Vakken Y2/Crossmediale onderzoeksweken/10-14-24 redactievergadering.md",
     "Vakken Y2/Crossmediale onderzoeksweken/2 sept CMO.md",
     "Vakken Y2/Crossmediale onderzoeksweken/Week 3 (21 jan) nog een extra CMO week.md",
@@ -191,22 +197,17 @@
     "conflict-files-obsidian-git.md",
     "Vakken Y2/Factchecken/Formulier Concept Factcheck_JortSiemes_14_10.docx",
     "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 4.md",
-    "peroratio.md",
-    "attentum.md",
-    "clickbait.md",
-    "contrast.md",
-    "allusie.md",
-    "citaat.md",
-    "anafoor.md",
-    "recapitulatio.md",
-    "Affectus.md",
+    "Onderwerpen/peroratio.md",
+    "Onderwerpen/attentum.md",
+    "Onderwerpen/clickbait.md",
+    "Onderwerpen/contrast.md",
+    "Onderwerpen/allusie.md",
+    "Onderwerpen/citaat.md",
+    "Onderwerpen/anafoor.md",
+    "Onderwerpen/recapitulatio.md",
     "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/Speech van Bush analyse.md",
-    "Applaus theorie.md",
-    "de doxa.md",
-    "Pasted image 20241010133621.png",
-    "Pasted image 20241010133517.png",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 3 28 sept.md",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 1.md",
-    "Onderwerpen/Adblockers.md"
+    "Onderwerpen/Applaus theorie.md",
+    "Onderwerpen/de doxa.md",
+    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 3 28 sept.md"
   ]
 }
