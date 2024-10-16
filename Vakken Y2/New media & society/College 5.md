@@ -30,7 +30,7 @@ Hoe meer kanalen er zijn van nieuws, hoe makkelijker het is om het te opt-out
 Increasing choice implies a growing interconnectedness between demand and supply, as it compels news [[media]] and other information providers to provide the kind of content that their target groups demand in order to remain competitive
 
 
-The News Gap, bepaalt hoe het komt dat journalistiek de huidige journalistiek die we kennen.
+The [[News Gap]], bepaalt hoe het komt dat journalistiek de huidige journalistiek die we kennen.
 En waarom er gekozen word voor huidige artikels waarvan je je afvraagt waarom het op de site komt.
 
 Er is een gat tussen: [[news media preferences]] <-> [[news consumers preferences]]
@@ -38,6 +38,29 @@ Algemeen zijn mensen meer geïnteresseerd in simpeler nieuws meer lage kwaliteit
 
 [[news gap]] 
 
-Journalisten nu moeten soms kiezen om dit gat te dichten door een drog
+Smart Octo geeft statistieken over je journalistieke producten
+
+Journalisten nu moeten soms kiezen om dit gat te dichten door een droog
 
 
+[[A-B testen]]
+Versie van 2 headlines, je stopt het in smart octo, want vraag is welke zorgt voor de beste kliks?
+Geeft de headlines aan een klein groepje en meet welke het beste doet, vervolgens beste wordt de permanente titel
+
+[[story placement]]
+Welke aandacht krijgt de post op de site?
+
+[[story imitation]]
+welke artikel doet het goed bij de concurrent?
+
+[[performance evaluation]]
+hoe kunnen we een soort van 'digital awareness' bij de journalisten brengen?
+Elk artikel apart evalueren -> individuele journalisten gaan evalueren
+
+Deze functie krijgt kritiek, dat dit gebruikt gaat worden om journalisten meer te belonen of straffen
+
+[[audience conception]]
+Kunnen we ons publiek beter leren kennen via deze metrics?
+
+
+## uitganspunt

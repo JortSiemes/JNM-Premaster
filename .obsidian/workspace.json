@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Onderwerpen/news gap.md",
+                "file": "Vakken Y2/New media & society/College 5.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3b86bd34851e225",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "story imitation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Onderwerpen/news gap.md",
+                "file": "Vakken Y2/New media & society/College 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Onderwerpen/news gap.md",
+                "file": "Vakken Y2/New media & society/College 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Onderwerpen/news gap.md"
+                "file": "Vakken Y2/New media & society/College 5.md"
               }
             }
           },
@@ -171,16 +184,21 @@
   },
   "active": "fb28dc6b29a4fe3b",
   "lastOpenFiles": [
+    "audience conception.md",
     "Vakken Y2/New media & society/College 5.md",
+    "performance evaluation.md",
+    "story imitation.md",
+    "story placement.md",
+    "A-B testen.md",
     "Onderwerpen/news gap.md",
-    "Onderwerpen/Affectus.md",
+    "Onderwerpen/news consumers preferences.md",
     "Onderwerpen/news media preferences.md",
+    "Onderwerpen/Affectus.md",
     "Onderwerpen/Pasted image 20241010133517.png",
     "Onderwerpen/Pasted image 20241010133621.png",
-    "Onderwerpen/news consumers preferences.md",
     "Onderwerpen/high-choice media realiteit.md",
     "Onderwerpen/techno-dystopisten.md",
-    "techno-utopisten.md",
+    "Onderwerpen/techno-utopisten.md",
     "Vakken Y2/Crossmediale onderzoeksweken/10-14-24 redactievergadering.md",
     "Vakken Y2/Crossmediale onderzoeksweken/2 sept CMO.md",
     "Vakken Y2/Crossmediale onderzoeksweken/Week 3 (21 jan) nog een extra CMO week.md",
@@ -204,10 +222,6 @@
     "Onderwerpen/allusie.md",
     "Onderwerpen/citaat.md",
     "Onderwerpen/anafoor.md",
-    "Onderwerpen/recapitulatio.md",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/Speech van Bush analyse.md",
-    "Onderwerpen/Applaus theorie.md",
-    "Onderwerpen/de doxa.md",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 3 28 sept.md"
+    "Onderwerpen/recapitulatio.md"
   ]
 }
