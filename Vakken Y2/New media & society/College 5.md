@@ -86,7 +86,29 @@ Weinig longitudinaal en comparatief (door ondeuidelijkheid over concepten) [[ond
 - algemeen aanvoelen is dat er wel meer aanbod is van soft news, als extra laag bovenop kwaliteitsvolle journalistiek.
 	- meer snelle behapbare nieuws berichten voor mensen
 
-Veel verschil tussen media en tussen nieuwsconsumenten onderling
+Veel verschil tussen [[media]] en tussen nieuwsconsumenten onderling
 **NIET ZEGGEN** dat kwaliteit van nieuws is gedaald
+
+
+## Meer concentratie, minder diversiteit?
+Concentratiebewegingen (overnames, fusies, samenwerkingen) zijn economische realiteit
+- kostenbesparing, versterking know-how
+- sterker worden op internationaal tonee
+- in stand houden vna kleinere titels
+- economische censuuer
+- VB. nederland quasi alle dagbladen in handen van mediahuis en DPG
+
+The key concern is tha tcincreased ownership concentration in a given political communication environment may lead to a more narrow 'idealogical debate' in the [[media]]
+
+- online zijn er tal van news outlets, maar in realiteit treedt er een 'diversity paradox' op
+	- more outlet
+
+Op politiek gebied veel homogenisering tussen kranten door meer samenwerking tussen kranten.
+
+## Meer polarisering en fragmentering?
+The polarization [[argument]] states that the increase in the number of available [[media]] channels in broadcasting but even more so online, has created a greater supply of niche or partisan media.
+
+CF. [[Filter bubble]], [[echo chamber]], [[balkanization]]
+
 
 
