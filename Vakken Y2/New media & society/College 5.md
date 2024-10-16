@@ -6,3 +6,5 @@ Geen nieuwsbook oprichten, met vrienden praten. Ga je niet alles overgeven aan F
 Itunes voor Nieuws (oplossing)
 - aansluiten bij groepen over onderwerpen 
 
+Op reddit geen posts van kranten zelf, geen leuke look en feel
+
