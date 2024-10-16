@@ -106,9 +106,18 @@ The key concern is tha tcincreased ownership concentration in a given political 
 Op politiek gebied veel homogenisering tussen kranten door meer samenwerking tussen kranten.
 
 ## Meer polarisering en fragmentering?
-The polarization [[argument]] states that the increase in the number of available [[media]] channels in broadcasting but even more so online, has created a greater supply of niche or partisan media.
+The polarization [[argument]] states that the increase in the number of available [[media]] channels in broadcasting but even more so online, has created a greater supply of niche or partisan [[media]].
 
 CF. [[Filter bubble]], [[echo chamber]], [[balkanization]]
 
+## polarized groups
+Vaak overdreven aandacht voor 'polarized groups' in de [[media]]
+- focus op conflict + entertainment-waarde
+- focus op 'he said, she said' - journalism 
+- silent majority 
 
+Bij hot topics, relatief klein gedeelte van mensen niet achter staan, die mensen krijgen een heel groot [[platform]].
+Je moet ook de tegenstander aan woord laten is een idee in de journalistiek. Daardoor krijg je groepen die steeds gehoord moeten worden, no fcking way dat geen gangbare ideeen
+
+In het nieuws komen de meest extreme vaker voor, en in extremere woorden
 
