@@ -63,4 +63,11 @@ Deze functie krijgt kritiek, dat dit gebruikt gaat worden om journalisten meer t
 Kunnen we ons publiek beter leren kennen via deze metrics?
 
 
-## uitganspunt
+## uitganspunt van paper
+Bezorgdheden qua supply en demand
+- teruglopende hoeveelheid politiek nieuws?
+- teruglopende kwaliteit van politiek nieuws?
+- meer concentratie, minder diversiteit
+- meer polarisering en fragmentering?
+- meer relativering
+
