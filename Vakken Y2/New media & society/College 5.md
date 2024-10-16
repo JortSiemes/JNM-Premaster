@@ -71,3 +71,22 @@ Bezorgdheden qua supply en demand
 - meer polarisering en fragmentering?
 - meer relativering
 
+## Teruglopende hoeveelheid?
+- meer [[media]] en platformen dan ooit, dus meer politieknieuws dan ooit
+- niet alleen in klassieke [[media]], maar ook in niet-klassieke [[media]] (online onlies, nieuwsaggregatore, blogs, podcasts)
+- online niet beperkt tot eigen land, regio of taal zoals vroeger
+
+- wel kans dat binnenin een medium er minder aanbod is, zkeer bij regionale nieuwsmedia
+- relatieve aanbod lijkt gedaald, wat tot meer news avoidance kan leiden
+
+## Teruglopende kwaliteit?
+termen voor kwaliteit afname nieuws
+- dumbing-down, tabloidization, infotainment, news softening
+Weinig longitudinaal en comparatief (door ondeuidelijkheid over concepten) [[onderzoek]] uitgevoerd
+- algemeen aanvoelen is dat er wel meer aanbod is van soft news, als extra laag bovenop kwaliteitsvolle journalistiek.
+	- meer snelle behapbare nieuws berichten voor mensen
+
+Veel verschil tussen media en tussen nieuwsconsumenten onderling
+**NIET ZEGGEN** dat kwaliteit van nieuws is gedaald
+
+
