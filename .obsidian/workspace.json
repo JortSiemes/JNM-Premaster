@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken Y2/New media & society/College 5.md",
+                "file": "Vakken Y2/Retorica & Argumentatie in journalistiek/College 5.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken Y2/New media & society/College 5.md",
+                "file": "Vakken Y2/Retorica & Argumentatie in journalistiek/College 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken Y2/New media & society/College 5.md",
+                "file": "Vakken Y2/Retorica & Argumentatie in journalistiek/College 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken Y2/New media & society/College 5.md"
+                "file": "Vakken Y2/Retorica & Argumentatie in journalistiek/College 5.md"
               }
             }
           },
@@ -184,8 +184,9 @@
   },
   "active": "fb28dc6b29a4fe3b",
   "lastOpenFiles": [
-    "Onderwerpen/platform.md",
     "Vakken Y2/New media & society/College 5.md",
+    "Vakken Y2/Retorica & Argumentatie in journalistiek/College 5.md",
+    "Onderwerpen/platform.md",
     "balkanization.md",
     "audience conception.md",
     "performance evaluation.md",
@@ -221,7 +222,6 @@
     "Onderwerpen/attentum.md",
     "Onderwerpen/clickbait.md",
     "Onderwerpen/contrast.md",
-    "Onderwerpen/allusie.md",
-    "Onderwerpen/citaat.md"
+    "Onderwerpen/allusie.md"
   ]
 }
