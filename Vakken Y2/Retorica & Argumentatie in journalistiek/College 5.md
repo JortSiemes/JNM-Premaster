@@ -27,3 +27,8 @@ Lees: Vasterman: De nieuwe reporter 10 sept 2013 n.a.v. Kroon (2013)
 - Het is niet erger dan vroeger (1989)
 	- 4% van alle persberichten 'ongecheckt' als enige infobron in krant (en [[onderzoek]] Kroon 1-2%)
 
+[[merkprominentie]]
+
+College 6: Stijlanalyseonderzoek
+
+
