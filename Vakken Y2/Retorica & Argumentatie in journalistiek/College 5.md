@@ -19,3 +19,11 @@ Hoe veranderen journalisten de bronnen?
 
 
 "geweldige", dit soort woorden uit persbericht halen
+
+
+Lees: Vasterman: De nieuwe reporter 10 sept 2013 n.a.v. Kroon (2013)
+- Het valt reuze mee met knip-en-plakjournalistiek
+	- van 700 persberichten van universiteiten werden er 68 opgevolgd (in 151 nieuwsberichten); 90% dus genegeerd; slechts 0,5 procent overgenomen bij ANP zonder extra info
+- Het is niet erger dan vroeger (1989)
+	- 4% van alle persberichten 'ongecheckt' als enige infobron in krant (en [[onderzoek]] Kroon 1-2%)
+
