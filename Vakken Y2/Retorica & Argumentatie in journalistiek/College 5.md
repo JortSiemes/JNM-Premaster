@@ -31,4 +31,28 @@ Lees: Vasterman: De nieuwe reporter 10 sept 2013 n.a.v. Kroon (2013)
 
 College 6: Stijlanalyseonderzoek
 
+# Tentamen info retorica
+31 oct
+Stof van tentamen is alle literatuur tot nu toe:
+- braet (2007) Retorische kritiek geheel
+- Andeweg & De Jong (2004) De eerste minuten pp. 7-83, 229-231
+- D.T. Max over Speech van Bush 9/20/2001
+- Pander Maat & De Jong (2012)
+- Peter Vasterman (10 september 2013) 'Goed nieuws: het valt reuze mee met de knip en plakjournalistiek. En het is niet erger dan vroeger' op De Nieuwe Reporter
+- Masterscriptie wackers: Grote lijnen
+
+Het tentamen bestaat uit enkele kennisvragen over balngrijke concepten en ontwikkelingen in de moderne retorica en retorisch [[onderzoek]] en enklee inzicht- en toepassingsvragen (bijv. lees deze speech/dit artikel en analyseer balans [[ethos]], [[pathos]] en [[logos]])
+
+### Dit komt op tentamen
+**CHECK ook de toespraak en je eigen retorische analyse van je Algemene Beschouwingen-spreker!** (ken de tekst globaal uit je hoofd  !komt vraag over)
+
+5 [[vragen]], anderhalf over kennis, bestudeer goed de taken van de redenaar, ehtos [[pathos]] [[logos]], stijlmiddelen (50 middelen van Braet, ken de functies van de stijlmiddelen)
+	- wat draagt de functie bij aan de overtuiginskracht
+
+meeste punten voor toepassingsvragen: 
+- een tekst voorleggen (toespraak) al niet gezien/gehoord, en daar moet je een analyse van maken ([[ethos]] [[pathos]] [[logos]]) analyse
+	- en hiervan dan het balans
+- Is dat verstandig of onverstandig
+
+
 
