@@ -28,3 +28,32 @@ Minder negatief verband tussen overload en [[efficacy]]
 ### Je kan hier dus wel iets aan doen (mensen die nieuws vermijden)
 
 
+---
+
+# [[platformization]]
+the power of the social [[media]] [[platform]], beïnvloed de actoren op de platformen.
+
+ze maken niet alleen denken en conversatie mogelijk, maar veranderen het denken. 
+
+Onze manier van nieuws consumeren is veranderd, door de logica van algoritmes en tijdlijnen.
+Heeft het invloed op belangrijke routines, van belangrijke nieuwsmedia?
+
+Digital platforms not only facilitate the publication of and interaction with cultural products, but also organize and steer these processes via the algorithms.
+
+- en dit heeft dus ook invloed op het soort nieuws dat we bekijken.
+De [[nieuwswaarden]], zijn de laatste 20 jaren vertroebeld
+
+
+[[shareability]] als nieuwe nieuwswaarde
+1. Power elite
+2. celebrity
+3. entertainment!!
+4. surprise!!
+5. bad news!!
+
+[[news softening]] het minder serieus, en gekker maken van nieuws.
+What the metrics say, the softening of news on the facebook pages of mainstream media outlets.
+
+De editors moeten keuze maken, 1/5 of 1/10 word slechts overgezet. Hoeveel nieuws word overgezet, dit vormt ook het nieuws dat uiteindelijk allemaal te zien is op sociale media.
+Dingen die het goed doen 3,
+
