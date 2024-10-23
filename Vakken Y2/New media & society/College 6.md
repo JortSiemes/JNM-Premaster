@@ -98,7 +98,6 @@ Measuring subjectivity and tone: (studie docent)
 
 
 
-
 ### Voorbeeldvragen:
 in ppt
 
