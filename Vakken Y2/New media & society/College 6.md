@@ -75,3 +75,13 @@ korte termijn positief effect voor kranten, lange termijn negatief
 
 Headlines, doen je laten klikken op het nieuws.
 Veel nieuws achter een paywall, de koppen kunnen we wel consumeren. 
+
+
+Zoek ik powerpoint naar Tabel10 overzicht van soorten remediatie
+- minder nuance van brontekst > facebook
+- veel duiding verwijderd 35% brontekst>facebook
+
+
+### Voorbeeldvragen:
+in ppt
+
