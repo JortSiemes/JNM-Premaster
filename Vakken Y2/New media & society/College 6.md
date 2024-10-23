@@ -70,4 +70,8 @@ Nieuws organisaties, richten zich nu op mensen dat het nieuws lezen
 
 News metrics volgen wat leidt tot [[news softening]]
 
+[[clickbait]]
+korte termijn positief effect voor kranten, lange termijn negatief
 
+Headlines, doen je laten klikken op het nieuws.
+Veel nieuws achter een paywall, de koppen kunnen we wel consumeren. 
