@@ -23,7 +23,7 @@ V
 1. Social [[media]] news avoidance
 2. social filtering (als mijn vrienden, dit delen) (niet meer bewust volgen, alleen consumeren wat je krijgt van vrienden op je feed)
 
-In onderzoek komt dit ook heel duidelijk terug.
+In [[onderzoek]] komt dit ook heel duidelijk terug.
 Negatieve relatie 
 
 Overload stijgt > Efficacy daalt > Avoidance stijgt

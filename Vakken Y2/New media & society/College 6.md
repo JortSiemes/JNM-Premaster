@@ -16,5 +16,15 @@ Een groeiende trend waarin mensen meer en meer het nieuws niet meer bekijken.
 
 
 Gedrag: [[Social media news overload]]
-1. Social media news avoidance
+1. Social [[media]] news avoidance
 2. social filtering (als mijn vrienden, dit delen) (niet meer bewust volgen, alleen consumeren wat je krijgt van vrienden op je feed)
+
+
+Door [[social media news overload]], kun je gaan kijken naar het probleem van te veel nieuws.
+Je kan ervan uitgaan dat de nieuws overload, je zou moeten zorgen dat mensen hun nieuws [[efficacy]] niet daalt als er een overload is aan informatie.
+
+Minder negatief verband tussen overload en [[efficacy]]
+
+### Je kan hier dus wel iets aan doen (mensen die nieuws vermijden)
+
+
