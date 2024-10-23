@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken Y2/Factchecken/College 5.md",
+                "file": "Vakken Y2/New media & society/College 6.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "College 5"
+              "title": "College 6"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken Y2/Factchecken/College 5.md",
+                "file": "Vakken Y2/New media & society/College 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from College 5"
+              "title": "Outgoing links from College 6"
             }
           },
           {
@@ -206,14 +206,16 @@
   },
   "active": "fb28dc6b29a4fe3b",
   "lastOpenFiles": [
+    "Nieuwsmijding.md",
+    "Onderwerpen/story imitation.md",
+    "Vakken Y2/New media & society/College 6.md",
+    "Vakken Y2/Factchecken/College 5.md",
     "Vakken Y2/Factchecken/~$rmulier-literatuurlijst-05142.docx",
     "Vakken Y2/Factchecken/formulier-literatuurlijst-05142.docx",
     "Vakken Y2/Factchecken/Unconfirmed 779341.crdownload",
     "Vakken Y2/New media & society/College 5.md",
-    "Vakken Y2/Factchecken/College 5.md",
     "Vakken Y2/Retorica & Argumentatie in journalistiek/College 5.md",
     "Onderwerpen/A-B testen.md",
-    "Onderwerpen/story imitation.md",
     "Beelden/Pasted image 20231030195610.png",
     "Onderwerpen/merkprominentie.md",
     "Onderwerpen/the hamster wheel.md",
@@ -243,8 +245,6 @@
     "Vakken Y2/Crossmediale onderzoeksweken/~WRD0002.tmp",
     "Vakken Y2/Crossmediale onderzoeksweken/~$terview Triebert.docx",
     "Vakken Y2/Crossmediale onderzoeksweken/~WRL3561.tmp",
-    "Vakken Y2/Crossmediale onderzoeksweken/~WRD3545.tmp",
-    "conflict-files-obsidian-git.md",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 4.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
