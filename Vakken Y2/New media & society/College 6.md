@@ -20,7 +20,7 @@ Gedrag: [[Social media news overload]]
 2. social filtering (als mijn vrienden, dit delen) (niet meer bewust volgen, alleen consumeren wat je krijgt van vrienden op je feed)
 
 
-Door [[social media news overload]], kun je gaan kijken naar het probleem van te veel nieuws.
+Door [[Social media news overload]], kun je gaan kijken naar het probleem van te veel nieuws.
 Je kan ervan uitgaan dat de nieuws overload, je zou moeten zorgen dat mensen hun nieuws [[efficacy]] niet daalt als er een overload is aan informatie.
 
 Minder negatief verband tussen overload en [[efficacy]]
@@ -80,6 +80,23 @@ Veel nieuws achter een paywall, de koppen kunnen we wel consumeren.
 Zoek ik powerpoint naar Tabel10 overzicht van soorten remediatie
 - minder nuance van brontekst > facebook
 - veel duiding verwijderd 35% brontekst>facebook
+
+
+Vermoeden dat [[social media editors]] subjectieve, emotierijke elementen in hun FB-berichten integreren
+
+Hypothesen
+h1: in news articles published by newspapers on Facebook, the news caption contains **more subjective language** than the headline and lead
+
+h2: in news articles published by newspapers on facebook, the news caption contains **more positive language** than the headline and lead
+
+Measuring subjectivity and tone: (studie docent)
+-> adjectieven (welke graad van verschil in synoniemen beoordelen mensen)
+-> emoticons 
+
+[[polariteit]]
+[[subjectiviteit]]
+
+
 
 
 ### Voorbeeldvragen:
