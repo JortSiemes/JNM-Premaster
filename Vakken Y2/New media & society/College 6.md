@@ -52,8 +52,22 @@ De [[nieuwswaarden]], zijn de laatste 20 jaren vertroebeld
 5. bad news!!
 
 [[news softening]] het minder serieus, en gekker maken van nieuws.
-What the metrics say, the softening of news on the facebook pages of mainstream media outlets.
+What the metrics say, the softening of news on the facebook pages of mainstream [[media]] outlets.
 
-De editors moeten keuze maken, 1/5 of 1/10 word slechts overgezet. Hoeveel nieuws word overgezet, dit vormt ook het nieuws dat uiteindelijk allemaal te zien is op sociale media.
-Dingen die het goed doen 3,
+De editors moeten keuze maken, 1/5 of 1/10 word slechts overgezet. Hoeveel nieuws word overgezet, dit vormt ook het nieuws dat uiteindelijk allemaal te zien is op sociale [[media]].
+Dingen die het goed doen 3,4,5, onder [[shareability]], worden veel gedeeld maar dit moet niet enige nieuws zijn op platforms, want dan krijg je [[news softening]] op sociale [[media]].
+
+
+Er is een verschil (maar wel subtiele [[news softening]])
+Crime, environment en energy (hard news, wordt vaak overgezet)
+	economy en finance (niet vaak overgezet naar platformen)
+
+-> amidst the heavy struggle for audience attention, news production is likely to become more metrics-driven. This situation has given rise to fears that journalistic content on digital news [[media]] and especially on social [[media]] is becoming softer. The study at hand has showed that **News outlets have a slightly stronger tendency to soften their news supply on Facebook as compared to their websites** 
+
+(Een bom die valt op gaza is sensatie, diepe politieke analyse staat vaker in de krant)
+
+Nieuws organisaties, richten zich nu op mensen dat het nieuws lezen
+
+News metrics volgen wat leidt tot [[news softening]]
+
 
