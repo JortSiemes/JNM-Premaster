@@ -96,7 +96,8 @@ Measuring subjectivity and tone: (studie docent)
 [[polariteit]]
 [[subjectiviteit]]
 
-
+### Conclusie
+facebook status updates zijn subjectiever
 
 ### Voorbeeldvragen:
 in ppt
