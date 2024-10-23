@@ -97,7 +97,24 @@ Measuring subjectivity and tone: (studie docent)
 [[subjectiviteit]]
 
 ### Conclusie
-facebook status updates zijn subjectiever
+facebook status updates zijn subjectiever en positiever dan andere elementen in het nieuwsartikel
+
+strategie om emoties, en engaging strategies te outsourcen naar een plaats buiten het artikel
+
+Effect op:
+- attitude (aantrekkelijker, maar ook oppervlakkiger/onbetrouwbaarder)
+- information-processing (ander frame, beter/slechter onthouden)
+- engagement
+aanwijzingen dat dit zeker ook op andere platformen het geval is
+
+# tentamen
+woensdag 13:00 - 15:00
+0.28 lips
+
+5 Open [[vragen]], schriftelijk te beantwoorden, max bladzijde per vraag
+- waarvan 1 studenten-vraag (lijst van 10-15 [[vragen]] wordt zaterdag online geplaatst)
+(online komen er 10-15 open [[vragen]] die zaterdag online worden geplaatst, van studenten)
+
 
 ### Voorbeeldvragen:
 in ppt
