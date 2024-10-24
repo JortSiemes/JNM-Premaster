@@ -16,9 +16,27 @@ vier [[stijldeugden]]:
 
 50 stijlfiguren naar functie indelen:
 - [[expressief]]
-	- [[exclamatie]]
-	- [[hyperbool]]
-	- [[retorische vraag]]: "iedereen weet toch wat een retorische vraag is?"
+	- [[exclamatie]]: Het gaat om een om het effect bedoelde uitroep.
+	- [[hyperbool]]: uitvergroting
+	- [[retorische vraag]]: "iedereen weet toch wat een [[retorische vraag]] is
+- sociaal
+	- [[aanspreking als groepsgenoot]]
+	- [[inclusieve we]]
+	- [[allusie]]
+- diverterend (grappig)
+	- [[woordspeling]]
+	- [[eufemisme]]
+	- [[preteritio]]
+	- [[sarcasme]]
+	- [[ironie]]
+- referentieel/gekleurd informatief
+	- [[evidentie]]
+	- [[amplificatie]]
+- appelerend (moet publiek aanroepen/wakker maken)
+	- [[aanspreking]]
+	- [[vraagfiguren subiectie]]
+	- quaestio
+	- enumeratie met climax
 
 
 

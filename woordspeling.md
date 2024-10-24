@@ -1,0 +1,1 @@
+**het bewust gebruiken van de dubbele betekenissen van een woord(combinatie), meestal met het oog op een grappig effect**. Drink met maten, nooit alleen. Vegetariërs met ijzertekort snijden in eigen vlees. Landbouwsector boert achteruit.
