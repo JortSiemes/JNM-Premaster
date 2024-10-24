@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken Y2/New media & society/College 6.md",
+                "file": "Vakken Y2/Retorica & Argumentatie in journalistiek/College 6.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken Y2/New media & society/College 6.md",
+                "file": "Vakken Y2/Retorica & Argumentatie in journalistiek/College 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -165,10 +165,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken Y2/Retorica & Argumentatie in journalistiek/College 5.md"
+                "file": "Vakken Y2/Retorica & Argumentatie in journalistiek/College 6.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of College 5"
+              "title": "Outline of College 6"
             }
           },
           {
@@ -182,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -204,10 +204,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "fb28dc6b29a4fe3b",
+  "active": "c3045240a8c047a0",
   "lastOpenFiles": [
-    "Onderwerpen/subjectiviteit.md",
     "Vakken Y2/New media & society/College 6.md",
+    "Vakken Y2/Retorica & Argumentatie in journalistiek/College 6.md",
+    "Onderwerpen/subjectiviteit.md",
     "Onderwerpen/efficacy.md",
     "Onderwerpen/social media editors.md",
     "Onderwerpen/polariteit.md",
@@ -235,7 +236,6 @@
     "Onderwerpen/news gap.md",
     "Onderwerpen/news consumers preferences.md",
     "Onderwerpen/news media preferences.md",
-    "Onderwerpen/Affectus.md",
     "Beelden/Pasted image 20241010133517.png",
     "Beelden/Pasted image 20241010133621.png",
     "Vakken Y2/Crossmediale onderzoeksweken/Frame.jpeg",

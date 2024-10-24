@@ -1,2 +1,2 @@
 #todo 
-- [ ] Inleveren 2 tentamenvragen
+- [x] Inleveren 2 tentamenvragen

@@ -85,4 +85,4 @@ Vijf W's en de H:
 2, welk van deze functies worden vervuld in opiniestukken? geef een voorbeeld.
 
 #todo 
-- [ ] beantwoord en post uiterlijk woensdag 16oct 12u, vraag 1 en 2
+- [x] beantwoord en post uiterlijk woensdag 16oct 12u, vraag 1 en 2

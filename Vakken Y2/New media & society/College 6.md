@@ -115,7 +115,7 @@ woensdag 13:00 - 15:00
 - waarvan 1 studenten-vraag (lijst van 10-15 [[vragen]] wordt zaterdag online geplaatst)
 (online komen er 10-15 open [[vragen]] die zaterdag online worden geplaatst, van studenten)
 
-
+Groene literatuur moet je kennen
 ### Voorbeeldvragen:
 in ppt
 
