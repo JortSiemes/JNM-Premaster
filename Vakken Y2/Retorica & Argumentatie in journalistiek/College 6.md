@@ -35,8 +35,12 @@ vier [[stijldeugden]]:
 - appelerend (moet publiek aanroepen/wakker maken)
 	- [[aanspreking]]
 	- [[vraagfiguren subiectie]]
-	- quaestio
-	- enumeratie met climax
+	- [[quaestio]]
+	- [[enumeratie met climax]]
 
+Stijlsoorten of niveaus: 
+[[hoge stijl]] veel stijlfiguren
+[[midden stijl]] 
+[[lage stijl]] weinig stijlfiguren
 
 
