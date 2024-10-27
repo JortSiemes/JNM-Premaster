@@ -32,3 +32,22 @@ om positieve berichten te verspreiden op Twitter. Gebruikers konden met deze has
 8. Leg aan de hand van het lift voorbeeld uit hoe algoritmes werken, wat de consequenties er van zijn in dit voorbeeld en voor sociale media platformen.
 
 9. Een Ajax-supporter krijgt op zijn sociale media berichten te zien van rechtse politieke partijen ondanks dat hij deze partijen niet aanhangt. Verklaar hoe Algoritmes dit fenomeen door middel van selectie kunnen veroorzaken
+
+
+voorbeeld structuur vragen: Bespreek kort XXX en bespreek waarom we dit besproken hebben in het kader van
+
+deze collegereeks.
+
+
+
+Beschrijf de studie van XXX uit XXX naar XXX. Wat was de aanleiding? Welke
+
+hoofdvraag wilden ze beantwoorden? Hoe hebben ze het aangepakt? En wat
+
+waren de belangrijkste inzichten?
+
+
+
+Beargumenteer de keuze van medium X voor Y in het kader van wat we gezien
+
+hebben tijdens de colleges.
