@@ -1,0 +1,1 @@
+mensen met opvallende woorden aanspreken om aandacht te krijgen

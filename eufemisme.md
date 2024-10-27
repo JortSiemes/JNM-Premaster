@@ -1,0 +1,1 @@
+**een woord of een formulering met een verzachtend, verhullend of verbloemend karakter**

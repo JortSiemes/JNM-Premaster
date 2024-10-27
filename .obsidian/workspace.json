@@ -1,70 +1,92 @@
 {
   "main": {
-    "id": "a6e343bb07bbb325",
+    "id": "aacc6089ca1410f3",
     "type": "split",
     "children": [
       {
-        "id": "71a063e4f40c0e68",
+        "id": "8faaf99ccbd8bbf0",
         "type": "tabs",
         "children": [
           {
-            "id": "1fdfadce33cdafb6",
+            "id": "fb28dc6b29a4fe3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken Y2/New media & society/College 4.md",
+                "file": "hoge stijl.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "hoge stijl"
+            }
+          },
+          {
+            "id": "f3b86bd34851e225",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Onderwerpen/story imitation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "story imitation"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b1b3c23f6a371631",
+    "id": "3c0c3c6469c1c66b",
     "type": "split",
     "children": [
       {
-        "id": "c012c68ab0e2c1a6",
+        "id": "1b3d61bac749104b",
         "type": "tabs",
         "children": [
           {
-            "id": "e46240856bb44aea",
+            "id": "19ae083ff19c868d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "0c6b787e688c66b2",
+            "id": "a0d191e7e12a4415",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#MOCs",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "5798dde9ede5e945",
+            "id": "44b7158fb8d7dce8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -74,77 +96,30 @@
     "width": 300
   },
   "right": {
-    "id": "990de90adb7af7a7",
+    "id": "dda436d81d6db802",
     "type": "split",
     "children": [
       {
-        "id": "f426312ce41c0515",
+        "id": "c1d9afb49aebca61",
         "type": "tabs",
         "children": [
           {
-            "id": "f9712ea4b461c517",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "e75035efdb60a4aa",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Vakken Y2/New media & society/College 4.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "9dd31374c3e55536",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "d2bc2656988f3da1",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Vakken Y2/New media & society/College 4.md"
-              }
-            }
-          },
-          {
-            "id": "425eaebe7e08c266",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "5c257cfb7a3954e8",
+            "id": "58c0ed13ee8c142b",
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
-            "id": "a22aa95c8e540564",
+            "id": "40c6f4cb03e6e766",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken Y2/New media & society/College 4.md",
+                "file": "Vakken Y2/Retorica & Argumentatie in journalistiek/College 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +127,58 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for College 5"
+            }
+          },
+          {
+            "id": "c10a2923c2c0df2d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "hoge stijl.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from hoge stijl"
+            }
+          },
+          {
+            "id": "c3045240a8c047a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e08856e493afdb85",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "hoge stijl.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of hoge stijl"
+            }
+          },
+          {
+            "id": "711edc3604777dc5",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           }
         ],
@@ -160,10 +186,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -171,56 +199,52 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
-      "publish:Publish changes...": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "1fdfadce33cdafb6",
+  "active": "fb28dc6b29a4fe3b",
   "lastOpenFiles": [
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 4.md",
-    "de doxa.md",
-    "Pasted image 20241010133621.png",
-    "attentum.md",
-    "peroratio.md",
-    "clickbait.md",
-    "anafoor.md",
-    "recapitulatio.md",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/Speech van Bush analyse.md",
-    "Applaus theorie.md",
-    "Vakken Y2/Crossmediale onderzoeksweken/Huib Modderkolk/CMO aflv Modderkolk To Do.md",
-    "contrast.md",
-    "citaat.md",
-    "allusie.md",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/Toespraak_President_Bush_20_september_2001.doc",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 3 28 sept.md",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 1.md",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges",
-    "Pasted image 20241010133517.png",
-    "Onderwerpen/platform.md",
-    "Onderwerpen/memes.md",
-    "Onderwerpen/filter bubble.md",
-    "Onderwerpen/extreme standpunten.md",
-    "Onderwerpen/echo chamber.md",
-    "Onderwerpen/DSA.md",
-    "Onderwerpen/DMA.md",
-    "Onderwerpen/Algoritmen.md",
-    "Onderwerpen/Adblockers.md",
-    "Onderwerpen/API.md",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/~$dracht_JortSiemes_10oct.docx",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/~WRL0005.tmp",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/~WRD0004.tmp",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/Opdracht_JortSiemes_10oct.docx",
-    "Vakken Y2/Factchecken/~WRL3316.tmp",
-    "Vakken Y2/Factchecken/~WRD3308.tmp",
-    "Vakken Y2/Factchecken/~WRD3300.tmp",
-    "Vakken Y2/Factchecken/~WRL2280.tmp",
-    "Untitled.canvas",
-    "Vakken Y2/Crossmediale onderzoeksweken/WhatsApp Image 2024-09-14 at 15.18.48 (1).jpeg",
-    "Vakken Y2/Crossmediale onderzoeksweken/WhatsApp Image 2024-09-14 at 15.18.48.jpeg",
-    "Vakken Y2/Crossmediale onderzoeksweken/WhatsApp Image 2024-09-14 at 15.19.55.jpeg",
-    "Vakken Y2/Crossmediale onderzoeksweken/Frame.jpeg"
+    "Vakken Y2/Retorica & Argumentatie in journalistiek/College 6.md",
+    "hoge stijl.md",
+    "lage stijl.md",
+    "midden stijl.md",
+    "enumeratie met climax.md",
+    "enumaratie.md",
+    "quaestio.md",
+    "vraagfiguren subiectie.md",
+    "aanspreking.md",
+    "amplificatie.md",
+    "evidentie.md",
+    "Onderwerpen/Preteritio.md",
+    "woordspeling.md",
+    "eufemisme.md",
+    "ironie.md",
+    "sarcasme.md",
+    "inclusieve we.md",
+    "Onderwerpen/allusie.md",
+    "aanspreking als groepsgenoot.md",
+    "exclamatie.md",
+    "hyperbool.md",
+    "retorische vraag.md",
+    "Vakken Y2/New media & society/College 6.md",
+    "expressief.md",
+    "vormfiguur.md",
+    "gedachtenfiguur.md",
+    "Vakken Y2/Factchecken/~$rmulier-literatuurlijst-05142.docx",
+    "Vakken Y2/Factchecken/formulier-literatuurlijst-05142.docx",
+    "Vakken Y2/Factchecken/Unconfirmed 779341.crdownload",
+    "Beelden/Pasted image 20231030195610.png",
+    "Beelden/Pasted image 20241010133517.png",
+    "Beelden/Pasted image 20241010133621.png",
+    "Vakken Y2/Crossmediale onderzoeksweken/Frame.jpeg",
+    "Vakken Y2/Crossmediale onderzoeksweken/~WRL2213.tmp",
+    "Vakken Y2/Crossmediale onderzoeksweken/~WRD2205.tmp",
+    "Vakken Y2/Crossmediale onderzoeksweken/~WRD2197.tmp",
+    "Vakken Y2/Crossmediale onderzoeksweken/~WRL0003.tmp",
+    "Vakken Y2/Crossmediale onderzoeksweken/~WRD0002.tmp",
+    "Vakken Y2/Crossmediale onderzoeksweken/~$terview Triebert.docx",
+    "Vakken Y2/Crossmediale onderzoeksweken/~WRL3561.tmp"
   ]
 }

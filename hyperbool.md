@@ -1,0 +1,1 @@
+Een hyperbool is de stijlfiguur van de overdrijving. Een reden om een hyperbool te gebruiken kan zijn om bijvoorbeeld een emotie of een mening extra nadruk te geven.

@@ -1,0 +1,1 @@
+Kunnen we ons publiek beter leren kennen via deze metrics?
