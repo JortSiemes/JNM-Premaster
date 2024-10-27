@@ -17,7 +17,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Tentamen 30-10"
             }
           }
         ],
@@ -41,7 +43,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -56,7 +60,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -64,7 +70,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -89,7 +97,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -101,7 +111,9 @@
                 "file": "Vakken Y2/New media & society/Tentamen 30-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Tentamen 30-10"
             }
           },
           {
@@ -109,7 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "todo",
-              "state": {}
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           },
           {
@@ -119,7 +133,9 @@
               "type": "outline",
               "state": {
                 "file": "Vakken Y2/New media & society/Tentamen 30-10.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Tentamen 30-10"
             }
           },
           {
@@ -127,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -135,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -152,7 +172,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Tentamen 30-10"
             }
           }
         ],
@@ -180,6 +202,7 @@
   },
   "active": "1fdfadce33cdafb6",
   "lastOpenFiles": [
+    "Vakken Y2/New media & society/~$menvatting_ New media .docx",
     "Vakken Y2/Retorica & Argumentatie in journalistiek/Retorische Kritiek Samenvatting HS 1-4.pdf",
     "Vakken Y2/Retorica & Argumentatie in journalistiek/Retorische Kritiek Samenvatting HS 1-4.pdf.crdownload",
     "Vakken Y2/New media & society/Samenvatting_ New media .docx",
@@ -223,7 +246,6 @@
     "Pasted image 20241010133517.png",
     "Vakken Y2/Retorica & Argumentatie in journalistiek/~$dracht_JortSiemes_10oct.docx",
     "Vakken Y2/Retorica & Argumentatie in journalistiek/~WRL0005.tmp",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/~WRD0004.tmp",
     "Untitled.canvas",
     "Vakken Y2/Crossmediale onderzoeksweken/WhatsApp Image 2024-09-14 at 15.18.48 (1).jpeg",
     "Vakken Y2/Crossmediale onderzoeksweken/WhatsApp Image 2024-09-14 at 15.18.48.jpeg"
