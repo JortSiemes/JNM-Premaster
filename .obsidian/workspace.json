@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken Y2/New media & society/Tentamen 30-10.md",
+                "file": "Onderwerpen/transcoding.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tentamen 30-10"
+              "title": "transcoding"
             }
           }
         ],
@@ -108,12 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken Y2/New media & society/Tentamen 30-10.md",
+                "file": "Onderwerpen/transcoding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tentamen 30-10"
+              "title": "Outgoing links from transcoding"
             }
           },
           {
@@ -132,10 +132,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken Y2/New media & society/Tentamen 30-10.md"
+                "file": "Onderwerpen/transcoding.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Tentamen 30-10"
+              "title": "Outline of transcoding"
             }
           },
           {
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken Y2/New media & society/Tentamen 30-10.md",
+                "file": "Onderwerpen/transcoding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tentamen 30-10"
+              "title": "Backlinks for transcoding"
             }
           }
         ],
@@ -202,6 +202,14 @@
   },
   "active": "1fdfadce33cdafb6",
   "lastOpenFiles": [
+    "Onderwerpen/disinhibitie-effect.md",
+    "Onderwerpen/transcoding.md",
+    "Vakken Y2/New media & society/College 1.md",
+    "Onderwerpen/automatisering.md",
+    "Onderwerpen/modulariteit.md",
+    "Onderwerpen/numerieke representatie.md",
+    "Onderwerpen/woordspeling.md",
+    "Vakken Y2/New media & society/Tentamen 30-10.md",
     "Vakken Y2/New media & society/~WRL0005.tmp",
     "Vakken Y2/New media & society/~WRD0004.tmp",
     "Vakken Y2/New media & society/~$LEIDEN_NMenS_202425_intro_kenmerken_onzichtbaarheid.pptx",
@@ -212,32 +220,24 @@
     "Vakken Y2/Retorica & Argumentatie in journalistiek/Retorische Kritiek Samenvatting HS 1-4.pdf.crdownload",
     "Vakken Y2/New media & society/Samenvatting_ New media .docx",
     "Vakken Y2/New media & society/Niet bevestigd 33317.crdownload",
-    "Vakken Y2/New media & society/Studentententamenvragen NMS.docx",
     "Vakken Y2/New media & society/College 4.md",
-    "Vakken Y2/New media & society/Tentamen 30-10.md",
-    "woordspeling.md",
-    "vraagfiguren subiectie.md",
-    "vormfiguur.md",
-    "sarcasme.md",
-    "retorische vraag.md",
-    "quaestio.md",
-    "midden stijl.md",
-    "lage stijl.md",
-    "ironie.md",
-    "inclusieve we.md",
-    "hyperbool.md",
-    "hoge stijl.md",
-    "gedachtenfiguur.md",
-    "expressief.md",
-    "exclamatie.md",
-    "evidentie.md",
+    "Onderwerpen/vraagfiguren subiectie.md",
+    "Onderwerpen/vormfiguur.md",
+    "Onderwerpen/sarcasme.md",
+    "Onderwerpen/retorische vraag.md",
+    "Onderwerpen/quaestio.md",
+    "Onderwerpen/midden stijl.md",
+    "Onderwerpen/lage stijl.md",
+    "Onderwerpen/ironie.md",
+    "Onderwerpen/inclusieve we.md",
+    "Onderwerpen/hyperbool.md",
+    "Onderwerpen/hoge stijl.md",
+    "Onderwerpen/gedachtenfiguur.md",
+    "Onderwerpen/expressief.md",
+    "Onderwerpen/exclamatie.md",
+    "Onderwerpen/evidentie.md",
     "Onderwerpen/attentum.md",
     "Onderwerpen/anafoor.md",
-    "Onderwerpen/allusie.md",
-    "Onderwerpen/Social media news overload.md",
-    "Onderwerpen/Nieuwsmijding.md",
-    "Onderwerpen/Applaus theorie.md",
-    "Onderwerpen/Affectus.md",
     "Beelden/Pasted image 20241010133621.png",
     "Beelden/Pasted image 20241010133517.png",
     "Beelden/Pasted image 20240325125521.png",
