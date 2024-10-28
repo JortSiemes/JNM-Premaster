@@ -1,0 +1,1 @@
+een digitale filmcamera, licht is meteen digitaal

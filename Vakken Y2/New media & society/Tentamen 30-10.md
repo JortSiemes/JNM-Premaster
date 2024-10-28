@@ -2,14 +2,53 @@
 
 # Tentamenstof
 
+Week 1:
+<mark style="background: #FFB8EBA6;">Manovich (2001) The language of media</mark>
+5 Hoofdkenmerken van nieuwe media
+
+## 1. [[Numerieke representatie]]
+= digitaliteit, de digitale wereld is een numerieke representatie alles staat in codes en formules. 
+
+verschil in [[digitalisering]] & [[direct numeriek]]
+[[Digitalisering]] = van analoog naar numeriek, een filmstrip inscannen
+[[Direct numeriek]] = een digitale filmcamera, licht is meteen digitaal
+
+## 2. [[Modulariteit]]
+= 
+
+## 3. [[Automatisering]]
+## 4. [[Transcoding]]
+## 5. [[Variabiliteit]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Oefenvragen
 
 1. Het eerste NTS-Journaal werd op donderdag 5 januari 1956 uitgezonden op de 
 Nederlandse televisie (tegenwoordig het NOS Journaal). Vroeger keek men het 
 journaal op een gegeven tijd, thuis op de buis. Nieuwe vormen van media kunnen
-tegenwoordig op verschillende manieren geconsumeerd worden. Leg aan de hand van het platform YouTube uit wat het verschil is tussen oude media en nieuwe media.
+tegenwoordig op verschillende manieren geconsumeerd worden. Leg aan de hand van het [[platform]] YouTube uit wat het verschil is tussen oude media en nieuwe media.
 
-2. Leg het concept van 'Networked individualism' uit en analyseer hoe dit zich manifesteert op social media platforms zoals TikTok. Hoe weerspiegelen TikTok-niches (cottagecore, dark academia, corecore etc.) de principes van networked individualism?
+2. Leg het concept van '[[Networked individualism]]' uit en analyseer hoe dit zich manifesteert op social media platforms zoals TikTok. Hoe weerspiegelen TikTok-niches (cottagecore, dark academia, corecore etc.) de principes van [[networked individualism]]?
 
 3. Op Tiktok worden door influencers regelmatig fabels verspreid, zoals over de helende 
 werking van knoflook voor acne bijvoorbeeld. Dit is in eerste instantie geen erkend nationaal nieuws, totdat de Telegraaf hierover publiceert. Hoe beargumenteer je dit proces (het maken van een tiktok dat leidt tot een online artikel op de Telegraaf) als je kennis hebt van de convergentie theorie van Jenkins. Welke krachten van consumenten en mainstream media treden hier op?

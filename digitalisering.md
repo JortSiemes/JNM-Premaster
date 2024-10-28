@@ -1,0 +1,1 @@
+van analoog naar numeriek, een filmstrip inscannen
