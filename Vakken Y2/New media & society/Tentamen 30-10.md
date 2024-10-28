@@ -165,9 +165,28 @@ Deze twee partijen zijn door technologische ontwikkelingen gaan convergeren (sam
 2, collective intelligence (Framing en innovation)
 	het publiek kan boodschappen van mainstream media framen en reframen. Ze kunnen nuances aanbrengen, interpreteren, bekritiseren, protesteren en kortom: **zij kunnen het nieuws kritisch bekijken en innoveren.**
 
+[[Top-down]] & [[Bottom-up]]
+Top-down verwijst naar processen die worden gedreven door bedrijven of instellingen, terwijl bottom-up processen voortkomen uit acties en invloeden van consumenten of individuen.
 
+bloggers [[reframen]] de media inhouden (bekritiseren teksten die )
+(= top-down)
 
+bloggers creëren media-inhouden (maken eigen teksten die worden opgepikt)
+(= bottom-up)
+- voorbeeld: Salam Pax vanuit Bagdad tijdens Irakoorlog (2003)
+	- Dit werd gezien als nieuwe media inhoud
 
+Top-down corporate driven process (bedrijfsgestuurd proces) 
+Producenten / de mainstream media plaatsen iets en consumenten (consumers) reframen dat. 
+- Versterking: 
+	- a) Crowdsourcing (Publiek gebruiken als bron. Bijvoorbeeld: declaraties van politici laten checken door lezerspubliek.) 
+	- b) Bèta-versies voor testers (Bijvoorbeeld: nieuwe versies van games laten testen door fans.) 
+	- c) Content manipuleerbaar maken (Content voor het publiek verbeteren. Bijvoorbeeld: zelf ondertitels toevoegen aan een grappig filmpje). 
+	- d) Viral video’s: Veel publiek moet erop klikken. 
+- Tegenwerking 
+	- a) Rechtszaken auteursrecht (Pirate bay.. Napster. Rechten van muziek). 
+	- b) Privacyproblemen (Convergentie wringt. Data lekken, data diefstal. Misbruik data voor commerciële doeleinden). 
+	- c) Censuur (Facebook, sociale media in het algemeen. Veel nieuws wordt gecensureerd. Geen evenwichtige top-down relatie. Macht nog altijd bij Facebook; zij kunnen oorlogsbeelden, beelden van kinderen of naakt censureren. Redenen censureren: - Globaal netwerk, dus rekening houden met verschillende wetten, normen en gewoonten over de hele wereld. (Naaktbeelden worden niet in alle landen / culturen hetzelfde behandeld.) - Commerciële belangen - Veel te ijverige algoritmen d) Doofstom blijven voor lezersreacties
 
 
 
