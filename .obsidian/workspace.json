@@ -38,7 +38,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -124,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken Y2/New media & society/Tentamen 30-10.md",
+                "file": "Vakken Y2/New media & society/College 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tentamen 30-10"
+              "title": "Outgoing links from College 1"
             }
           },
           {
@@ -216,11 +215,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1fdfadce33cdafb6",
+  "active": "7c9def9b44e84745",
   "lastOpenFiles": [
-    "Onderwerpen/Format shifting.md",
+    "Onderwerpen/Networked Individualism.md",
     "Vakken Y2/New media & society/Tentamen 30-10.md",
     "Vakken Y2/New media & society/College 1.md",
+    "Onderwerpen/Format shifting.md",
     "Onderwerpen/variabiliteit.md",
     "Onderwerpen/transcoding.md",
     "Onderwerpen/automatisering.md",
@@ -253,7 +253,6 @@
     "Onderwerpen/hyperbool.md",
     "Onderwerpen/hoge stijl.md",
     "Onderwerpen/gedachtenfiguur.md",
-    "Onderwerpen/expressief.md",
     "Beelden/Pasted image 20241010133621.png",
     "Beelden/Pasted image 20241010133517.png",
     "Beelden/Pasted image 20240325125521.png",

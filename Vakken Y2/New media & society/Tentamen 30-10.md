@@ -3,14 +3,14 @@
 # Tentamenstof
 
 Week 1:
-New media wordt onderscheiden niet door inhoud maar platform 
+New media wordt onderscheiden niet door inhoud maar [[platform]] 
 **Krant = oud** > **Ipad krant = nieuw**
 
 <mark style="background: #FFB8EBA6;">Manovich (2001) The language of media</mark>
 5 Hoofdkenmerken van nieuwe media
 
 ## 1. [[Numerieke representatie]]
-= digitaliteit, de digitale wereld is een numerieke representatie alles staat in codes en formules. 
+= digitaliteit, de digitale wereld is een [[numerieke representatie]] alles staat in codes en formules. 
 
 verschil in [[digitalisering]] & [[direct numeriek]]
 [[Digitalisering]] = van analoog naar numeriek, een filmstrip inscannen
@@ -19,9 +19,9 @@ verschil in [[digitalisering]] & [[direct numeriek]]
 ## 2. [[Modulariteit]]
 = verbinding in digitale wereld. 
 **bij analoge media** spreek je over een geheel (geprinte foto vast in de krant)
-**bij digitale media** spreek je over deeltjes die opgebouwd zijn uit verschillende stukjes (foto komt uit een twitter post, Are.na is toppunt modulariteit)
+**bij digitale media** spreek je over deeltjes die opgebouwd zijn uit verschillende stukjes (foto komt uit een twitter post, Are.na is toppunt [[modulariteit]])
 
-*Voorbeeld modulariteit is YouTube filmpje [[embedden]] in een nieuwsartikel*
+*Voorbeeld [[modulariteit]] is YouTube filmpje [[embedden]] in een nieuwsartikel*
 
 > Nieuwe media betekend ook dat je niet meer verantwoordelijk bent voor alle stukjes, 
 > 
@@ -29,7 +29,7 @@ verschil in [[digitalisering]] & [[direct numeriek]]
 ## 3. [[Automatisering]]
 = verschillende processen worden geautomatiseerd, stappen kunnen automatisch gebeuren en met veel assistentie voor gebruiker.
 
-Automatisering niveau's:
+[[Automatisering]] niveau's:
 1. **Creatie** (makkelijker maken):
 	1. low level: photoshop/word/cms
 	2. AI, deepfakes/robotjournalism
@@ -55,7 +55,7 @@ Islam opzoeken:
 
 ## 5. [[Variabiliteit]]
 = Alles is variable (verschillende versies) 
-door modulariteit, krijg je mogelijkheid de produceren en consumeren on demand .
+door [[modulariteit]], krijg je mogelijkheid de produceren en consumeren on demand .
 
 **Op nieuwe media platformen bepalen gebruikers wat de inhoud en vorm is.** 
 
@@ -72,6 +72,18 @@ media-aanbod
 
 Als je niet kan shiften vinden wij dit heel moeilijk
 
+
+## Door [[digitalisering]]:
+**Divergentie:** Voor alles zijn meer alternatieven en platformen gekomen: Youtube, Twitch, Netflix, bioscoop, Tiktok etc
+
+**Convergentie:** 1. producten komen bij elkaar door tv en krant en radio en chat allemaal bij elkaar. 2.  Je kan dit ook als een nieuwsbericht plaatsen, tekst, video en live reacties
+
+Silent Disco wereld waarbij je zelf consumeert maar wel bij elkaar bent
+
+[[Networked individualism]]
+
+**Mensen willen personalities die het nieuws vertellen op de nieuwe media**
+ACID (is de kanarie in de koolmijn)
 
 
 
