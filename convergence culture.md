@@ -1,0 +1,1 @@
+het idee dat de grenzen tussen producenten en consumenten van media vervagen, waarbij consumenten ook actief deelnemen aan de productie en verspreiding van mediacontent

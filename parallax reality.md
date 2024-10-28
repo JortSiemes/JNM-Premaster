@@ -1,0 +1,1 @@
+mensen in media life zijn onvermijdelijk bezig met de realiteit op basis van een constante beweging tussen idealisme (wat we waarnemen) en materialisme (wat we hebben), waarbij ze de tools en technieken van hedendaagse digitale media gebruiken om zowel hun percepties van en de verschijning van de realiteit aanpassen.

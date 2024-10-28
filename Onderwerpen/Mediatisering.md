@@ -1,3 +1,8 @@
+Media steeds meer centrale rol in levens
+
+het proces waarbij media een steeds centralere rol spelen in sociale, culturele en politieke processen, waardoor ze een fundamentele invloed hebben op hoe we de wereld om ons heen begrijpen en ervaren
+
+
 Wisselwerking tussen politiek en media, waar media steeds meer invloed krijgt op de politiek.
 
 **Punten:**
@@ -8,3 +13,4 @@ Wisselwerking tussen politiek en media, waar media steeds meer invloed krijgt op
 - Media hechten nieuwswaarde aan conflict en strijd, dus zullen politici - als hen dat goed uitkomt - hun standpunten ook op die manier verwoorden. 
 
 - Politici gebruiken kwesties die de media aankaarten om publiciteit te krijgen. Bijvoorbeeld door Kamervragen te stellen op basis van mediaberichtgeving.
+

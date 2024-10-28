@@ -1,0 +1,1 @@
+het idee dat media zo alomtegenwoordig zijn dat we ons niet altijd beuwst zijn van hun invloed op ons leven, waardoor ze in zekere zin "onzichtbaar" worden

@@ -1,1 +1,1 @@
-fenomeen waarbij individuen hun eigen mediaplatforms creeeren en hun eigen verhalen vertellen 
+fenomeen waarbij individuen hun eigen mediaplatforms creeeren en hun eigen verhalen vertellen vaak via digitale netwerken zoals blogs en sociale media

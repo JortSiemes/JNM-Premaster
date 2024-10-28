@@ -1,0 +1,1 @@
+de notie dat media zo geintegreerd zijn in ons dagelijks leven dat we ons niet meer volledig bewust zijn van hun invloed. **We leven niet met media maar in media**

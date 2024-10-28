@@ -1,0 +1,1 @@
+het vermogen van individuen om hun identiteit voortdurend te herscheppen en aan te passen door middel van media, waardoor ze meerdere versies van zichzelf kunnen presenteren
