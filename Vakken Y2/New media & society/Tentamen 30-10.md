@@ -44,9 +44,33 @@ Automatisering niveau's:
 
 > *Logic of the computer influences how we understand and represent ourselves*
 
-Bijvoorbeeld Google geeft je resultaten op basis van zoekgedrag, naar zijn eigen
+Bijvoorbeeld Google geeft je resultaten op basis van zoekgedrag, naar zijn eigen mening namelijk plek waar je woont, leeftijd, sex.
+
+**De COMPUTER MEANING bepaald hoe mensen over informatie denken.**
+Islam opzoeken:
+- krijgt mooie biddende foto's te zien geeft een beeld
+- krijgt van aanslagen foto's te zien geeft ander beeld
+
+[[Disinhibitie-effect]] 
 
 ## 5. [[Variabiliteit]]
+= Alles is variable (verschillende versies) 
+door modulariteit, krijg je mogelijkheid de produceren en consumeren on demand .
+
+**Op nieuwe media platformen bepalen gebruikers wat de inhoud en vorm is.** 
+
+
+#### [[Mediaconsumptie-op-maat]]
+door [[modulariteit]] en [[variabiliteit]]
+
+We kunnen nu shiften
+- [[place shifting]] = de gebruiker consumeert waar hij wil
+- [[time shifting]] = de gebruiker consumeert wanneer hij wil
+
+media-aanbod
+- [[Format shifting]] = Film,clip,song,fragment
+
+Als je niet kan shiften vinden wij dit heel moeilijk
 
 
 
