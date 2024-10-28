@@ -38,6 +38,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -123,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken Y2/New media & society/College 1.md",
+                "file": "Vakken Y2/New media & society/Tentamen 30-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from College 1"
+              "title": "Outgoing links from Tentamen 30-10"
             }
           },
           {
@@ -215,7 +216,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7c9def9b44e84745",
+  "active": "1fdfadce33cdafb6",
   "lastOpenFiles": [
     "Onderwerpen/Networked Individualism.md",
     "Vakken Y2/New media & society/Tentamen 30-10.md",

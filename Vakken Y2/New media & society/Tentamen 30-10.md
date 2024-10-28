@@ -86,11 +86,24 @@ Silent Disco wereld waarbij je zelf consumeert maar wel bij elkaar bent
 ACID (is de kanarie in de koolmijn)
 
 
+<mark style="background: #BBFABBA6;">
+Deuze (2001) Media Life</mark>
 
+We leven **IN** media niet met media
 
+[[Networked individualism]]
+Verschuiving van kleine, hechte groepen (bijv. familie, gezin of dorp) naar grotere, losse, gefragmenteerde netwerken (vaak online).
 
+Gevolgen networked individualism
+Bestaande, klassieke actoren en media hebben het moeilijk hieraan te beantwoorden. Mogelijk disruptie: het volledig omvallen van klassieke principes naar nieuwe actoren die wél weten hoe ze kunnen inspelen op het networked individualism. 
+	- Vergelijk: Kruideniers (nu: online shopping, Hello Fresh), vervoersmaatschappijen (nu: Uber), plaatsen/filmmaatschappijen (nu: Napster, Torrents, Popcorn Time, Spotify, televisie (nu: facebook live, facebook watch, YouTube series, Apple TV, IGTV en Netflix). 
+Vraag bij networked individualism mbt journalistiek: op welke manier is journalistiek onderhevig aan deze onderhandelingen? Welke concurrenten opgekomen? Op welke manier disruptie ook in journalistiek aanwezig? Welke bedrijven spelen daar goed op in? Welke minder?
 
+Convergence culture = de grens tussen het maken van media en het gebruiken ervan is onduidelijk geworden
 
+Social media life: eigen tijdlijn vastleggen op Facebook en terugblikken
+	- aankondiging zwangerschop met foto embryo, baby heeft al een facebooklife
+	- Zelfmoord delen, mensen vermoorden Christchurch Livestream, Weeen via contraction ap
 
 
 
