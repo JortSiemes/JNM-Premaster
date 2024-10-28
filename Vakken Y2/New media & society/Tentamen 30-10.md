@@ -151,7 +151,19 @@ begrippenlijst:
 ---
 
 week 2
-Jenkins, h
+<mark style="background: #FFF3A3A6;">Jenkins (2004) The Cultural Logic of Media Convergence</mark>
+
+twee partijen: 
+Powerful consumers (gewone mensen)
+Powerful mainstream media (grote media bedrijven)
+
+Deze twee partijen zijn door technologische ontwikkelingen gaan convergeren (samenvloeien) 
+
+2 soorten macht
+1, media concentration (agenda setting & consolidation)
+	media hebben een macht, zij hebben een monopolie op nieuws en informatie, zijn gatekeepers (bepalen welk nieuws wij lezen / zien / horen) en bepalen de agenda waarover wij praten
+2, collective intelligence (Framing en innovation)
+	het publiek kan boodschappen van mainstream media framen en reframen. Ze kunnen nuances aanbrengen, interpreteren, bekritiseren, protesteren en kortom: **zij kunnen het nieuws kritisch bekijken en innoveren.**
 
 
 
