@@ -1,0 +1,1 @@
+fenomeen waarbij individuen hun eigen mediaplatforms creeeren en hun eigen verhalen vertellen 

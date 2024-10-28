@@ -136,6 +136,11 @@ Deuze concludeert dat media in de moderne wereld niet langer een externe invloed
 
 De toekomst van mediaonderzoek zou zich volgens Deuze moeten richten op hoe media onzichtbaar worden in het leven van mensen en hoe dit onze ervaring van de werkelijkheid beïnvloedt. Daarnaast suggereert hij dat we moeten nadenken over hoe we verantwoordelijk kunnen zijn voor onze eigen creatie in een wereld die ons voortdurend nieuwe identiteiten en realiteiten biedt.
 
+begrippenlijst:
+[[mediapolis]]
+[[mass self-communication]]
+convergence culture
+
 
 
 
