@@ -89,7 +89,7 @@ ACID (is de kanarie in de koolmijn)
 <mark style="background: #BBFABBA6;">
 Deuze (2001) Media Life</mark>
 
-We leven **IN** media niet met media
+We leven **IN** media niet met media "mediapool"
 
 [[Networked individualism]]
 Verschuiving van kleine, hechte groepen (bijv. familie, gezin of dorp) naar grotere, losse, gefragmenteerde netwerken (vaak online).
@@ -103,7 +103,38 @@ Convergence culture = de grens tussen het maken van media en het gebruiken ervan
 
 Social media life: eigen tijdlijn vastleggen op Facebook en terugblikken
 	- aankondiging zwangerschop met foto embryo, baby heeft al een facebooklife
-	- Zelfmoord delen, mensen vermoorden Christchurch Livestream, Weeen via contraction ap
+	- Zelfmoord delen, mensen vermoorden Christchurch Livestream, Weeen via contraction timer app koppeling met facebook.
+
+### Belangrijkste punten en bevindingen
+
+1. **Media als een integraal deel van het leven**:
+	Deuze stelt dat media zo alomtegenwoordig en geïntegreerd zijn in ons dagelijks leven dat ze onzichtbaar zijn geworden. Dit proces van "onzichtbaarheid" betekent dat media ons leven doordringen en onze ervaringen vormgeven zonder dat we ons altijd bewust zijn van hun invloed. Media worden de infrastructuur van onze ervaringen en relaties in plaats van alleen de tools die we gebruiken.
+	
+2. **Het verdwijnen van media**: 
+	Een van de belangrijkste stellingen van het artikel is dat media in de 21e eeuw steeds meer verdwijnen uit ons bewustzijn, terwijl ze juist meer invloed uitoefenen. Deze "verdwijning" komt door hun pervasieve aanwezigheid en de manier waarop ze op de achtergrond van ons leven opereren. Dit is vergelijkbaar met het concept van "mediapolis", waar media de onderliggende basis vormen voor publieke en privé-ervaringen.
+	
+3. **De rol van technologie en mediaconsumptie**: 
+	De grens tussen producenten en consumenten van mediacontent vervaagt door de technologische mogelijkheden van digitale platforms. Henry Jenkins’ concept van _convergence culture_ komt hier aan bod, waarbij mediaconsumenten ook mediaproducenten worden. Dit heeft geleid tot een cultuur waarin individuen hun eigen media-ecosysteem samenstellen, waarbij ze content consumeren, produceren en co-creëren.
+	
+4. **De Truman Show metaforiek**: 
+	Deuze gebruikt de film _The Truman Show_ als metafoor om te illustreren hoe mensen in de moderne wereld hun leven in media leven. In de film leeft het personage Truman in een volledig gemedieerde wereld zonder dat hij dit beseft. Deze metafoor toont hoe mensen in het echte leven ook in een gemedieerde wereld leven, zonder vaak stil te staan bij de constante aanwezigheid van media. De "Truman Show Delusion" is een extremere psychologische reactie op deze mediagesatureerde wereld, waarbij mensen geloven dat ze constant worden bekeken en gemanipuleerd.
+	
+5. **De opkomst van mass self-communication**: 
+	Manuel Castells introduceert het concept van _mass self-communication_, waarbij individuen hun eigen mediaplatforms creëren door gebruik te maken van digitale netwerken zoals blogs, sociale media en video’s. Deze nieuwe vorm van communicatie is gedecentraliseerd en stelt mensen in staat hun eigen verhalen te vertellen, los van traditionele mediabronnen. Dit vormt een belangrijk onderdeel van het leven in media, omdat mensen actief deelnemen aan de productie van inhoud en zo hun eigen verhalen en realiteiten creëren.
+6. **De uitdaging van een media-levensperspectief**: 
+	Deuze suggereert dat we niet alleen moeten analyseren hoe mensen media gebruiken, maar hoe media deel uitmaken van hun perceptie van de realiteit. Dit vereist een verschuiving in mediaonderzoek: in plaats van te focussen op producties en media-inhoud, moeten we erkennen hoe media onze ervaringen vormen en beïnvloeden. Deuze pleit voor een nieuw soort onderzoek dat deze verschuiving in de focus weerspiegelt.
+
+7. **Zelf-creatie en identiteit**: 
+	Mensen hebben in een gemedieerde wereld de mogelijkheid om zichzelf te creëren en opnieuw vorm te geven. De samenleving biedt talloze versies van de werkelijkheid, en door media kunnen individuen hun identiteit voortdurend aanpassen. Dit roept de vraag op of mensen werkelijk vrij kunnen zijn in een wereld die volledig gemedieerd is, en of ze deze vrijheid kunnen vinden door media op creatieve en constructieve manieren te gebruiken.
+	
+8. **De paradox van verbondenheid en isolatie**: 
+	Media verbinden mensen op manieren die voorheen onmogelijk waren, maar ze kunnen ook leiden tot een gevoel van isolatie. De "Silent Disco" metafoor illustreert dit idee: mensen kunnen samen dansen terwijl ze naar hun eigen muziek luisteren via draadloze hoofdtelefoons. Dit staat symbool voor de manier waarop mensen in een gemediatiseerde wereld tegelijkertijd verbonden en geïsoleerd zijn.
+
+### **Conclusies**
+
+Deuze concludeert dat media in de moderne wereld niet langer een externe invloed zijn, maar een fundamenteel onderdeel van ons bestaan. We leven niet langer met media, maar in media. Media vervormen onze perceptie van realiteit, identiteit en sociale relaties. Deze "media life" benadering stelt ons voor de uitdaging om te begrijpen hoe media ons dagelijks leven vormen en beïnvloeden zonder dat we ons er altijd van bewust zijn. Bovendien roept het vragen op over autonomie en vrijheid in een wereld waarin media overal aanwezig zijn.
+
+De toekomst van mediaonderzoek zou zich volgens Deuze moeten richten op hoe media onzichtbaar worden in het leven van mensen en hoe dit onze ervaring van de werkelijkheid beïnvloedt. Daarnaast suggereert hij dat we moeten nadenken over hoe we verantwoordelijk kunnen zijn voor onze eigen creatie in een wereld die ons voortdurend nieuwe identiteiten en realiteiten biedt.
 
 
 
