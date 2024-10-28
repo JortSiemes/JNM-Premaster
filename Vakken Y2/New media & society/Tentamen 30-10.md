@@ -30,11 +30,22 @@ verschil in [[digitalisering]] & [[direct numeriek]]
 = verschillende processen worden geautomatiseerd, stappen kunnen automatisch gebeuren en met veel assistentie voor gebruiker.
 
 Automatisering niveau's:
-1. Creatie:
+1. **Creatie** (makkelijker maken):
 	1. low level: photoshop/word/cms
-	2. AI, deepfakes 
-
+	2. AI, deepfakes/robotjournalism
+2. **Acces** (makkelijker toegang en verkennen): 
+	- Google, iBeacon
+1. **Storage** (makkelijker opslag)
+	-  iCloud
 ## 4. [[Transcoding]]
+= alle media producten hebben twee betekenissen
+- Human meaning
+- Computer meaning
+
+> *Logic of the computer influences how we understand and represent ourselves*
+
+Bijvoorbeeld Google geeft je resultaten op basis van zoekgedrag, naar zijn eigen
+
 ## 5. [[Variabiliteit]]
 
 
