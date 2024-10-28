@@ -186,7 +186,12 @@ Producenten / de mainstream media plaatsen iets en consumenten (consumers) refra
 - Tegenwerking 
 	- a) Rechtszaken auteursrecht (Pirate bay.. Napster. Rechten van muziek). 
 	- b) Privacyproblemen (Convergentie wringt. Data lekken, data diefstal. Misbruik data voor commerciële doeleinden). 
-	- c) Censuur (Facebook, sociale media in het algemeen. Veel nieuws wordt gecensureerd. Geen evenwichtige top-down relatie. Macht nog altijd bij Facebook; zij kunnen oorlogsbeelden, beelden van kinderen of naakt censureren. Redenen censureren: - Globaal netwerk, dus rekening houden met verschillende wetten, normen en gewoonten over de hele wereld. (Naaktbeelden worden niet in alle landen / culturen hetzelfde behandeld.) - Commerciële belangen - Veel te ijverige algoritmen d) Doofstom blijven voor lezersreacties
+	- c) Censuur (Facebook, sociale media in het algemeen. Veel nieuws wordt gecensureerd. Geen evenwichtige top-down relatie. Macht nog altijd bij Facebook; zij kunnen oorlogsbeelden, beelden van kinderen of naakt censureren. 
+	**Redenen censureren:** 
+	- Globaal netwerk, dus rekening houden met verschillende wetten, normen en gewoonten over de hele wereld. (Naaktbeelden worden niet in alle landen / culturen hetzelfde behandeld.) 
+	- Commerciële belangen 
+	- Veel te ijverige algoritmen 
+	d) Doofstom blijven voor lezersreacties
 
 
 
