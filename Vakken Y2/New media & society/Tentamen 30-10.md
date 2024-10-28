@@ -3,6 +3,9 @@
 # Tentamenstof
 
 Week 1:
+New media wordt onderscheiden niet door inhoud maar platform 
+**Krant = oud** > **Ipad krant = nieuw**
+
 <mark style="background: #FFB8EBA6;">Manovich (2001) The language of media</mark>
 5 Hoofdkenmerken van nieuwe media
 
@@ -14,9 +17,23 @@ verschil in [[digitalisering]] & [[direct numeriek]]
 [[Direct numeriek]] = een digitale filmcamera, licht is meteen digitaal
 
 ## 2. [[Modulariteit]]
-= 
+= verbinding in digitale wereld. 
+**bij analoge media** spreek je over een geheel (geprinte foto vast in de krant)
+**bij digitale media** spreek je over deeltjes die opgebouwd zijn uit verschillende stukjes (foto komt uit een twitter post, Are.na is toppunt modulariteit)
 
+*Voorbeeld modulariteit is YouTube filmpje [[embedden]] in een nieuwsartikel*
+
+> Nieuwe media betekend ook dat je niet meer verantwoordelijk bent voor alle stukjes, 
+> 
+> je kan nu verantwoordelijk zijn voor alleen maar video artikels. Je kan de jobs nu opdelen in blokjes
 ## 3. [[Automatisering]]
+= verschillende processen worden geautomatiseerd, stappen kunnen automatisch gebeuren en met veel assistentie voor gebruiker.
+
+Automatisering niveau's:
+1. Creatie:
+	1. low level: photoshop/word/cms
+	2. AI, deepfakes 
+
 ## 4. [[Transcoding]]
 ## 5. [[Variabiliteit]]
 
