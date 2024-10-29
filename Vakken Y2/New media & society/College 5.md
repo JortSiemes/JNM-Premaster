@@ -81,7 +81,7 @@ Bezorgdheden qua supply en demand
 
 ## Teruglopende kwaliteit?
 termen voor kwaliteit afname nieuws
-- dumbing-down, tabloidization, infotainment, news softening
+- dumbing-down, tabloidization, infotainment, [[news softening]]
 Weinig longitudinaal en comparatief (door ondeuidelijkheid over concepten) [[onderzoek]] uitgevoerd
 - algemeen aanvoelen is dat er wel meer aanbod is van soft news, als extra laag bovenop kwaliteitsvolle journalistiek.
 	- meer snelle behapbare nieuws berichten voor mensen
