@@ -38,6 +38,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -123,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken Y2/New media & society/College 2 (video).md",
+                "file": "Vakken Y2/New media & society/Tentamen 30-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from College 2 (video)"
+              "title": "Outgoing links from Tentamen 30-10"
             }
           },
           {
@@ -215,13 +216,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9f8058d7567334a5",
+  "active": "1fdfadce33cdafb6",
   "lastOpenFiles": [
+    "mass self-communication.md",
     "Vakken Y2/New media & society/Tentamen 30-10.md",
+    "Vakken Y2/New media & society/College 2 (video).md",
     "Vakken Y2/Retorica & Argumentatie in journalistiek/Retorische Kritiek Samenvatting volledig.pdf",
     "Vakken Y2/Retorica & Argumentatie in journalistiek/Retorische Kritiek Samenvatting volledig.pdf.crdownload",
     "Vakken Y2/New media & society/~$menvatting_ New media .docx",
-    "Vakken Y2/New media & society/College 2 (video).md",
     "Bottom-up.md",
     "Top-down.md",
     "parallax reality.md",
@@ -233,7 +235,6 @@
     "Media life.md",
     "Truman show delusion.md",
     "convergence culture.md",
-    "mass self-communication.md",
     "mediapolis.md",
     "Onderwerpen/Networked Individualism.md",
     "Vakken Y2/New media & society/College 1.md",
