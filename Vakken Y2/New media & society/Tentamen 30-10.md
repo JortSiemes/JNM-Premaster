@@ -169,10 +169,10 @@ Deze twee partijen zijn door technologische ontwikkelingen gaan convergeren (sam
 Top-down verwijst naar processen die worden gedreven door bedrijven of instellingen, terwijl bottom-up processen voortkomen uit acties en invloeden van consumenten of individuen.
 
 bloggers [[reframen]] de media inhouden (bekritiseren teksten die )
-(= top-down)
+(= top-down) (mainstream maakt > consument reframed)
 
 bloggers creëren media-inhouden (maken eigen teksten die worden opgepikt)
-(= bottom-up)
+(= bottom-up) (consument maakt > mainstream reframed)
 - voorbeeld: Salam Pax vanuit Bagdad tijdens Irakoorlog (2003)
 	- Dit werd gezien als nieuwe media inhoud
 
@@ -192,6 +192,7 @@ Producenten / de mainstream media plaatsen iets en consumenten (consumers) refra
 	- Commerciële belangen 
 	- Veel te ijverige algoritmen 
 	d) Doofstom blijven voor lezersreacties
+
 
 
 
