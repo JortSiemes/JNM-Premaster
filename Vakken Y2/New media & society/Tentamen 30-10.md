@@ -247,3 +247,4 @@ waren de belangrijkste inzichten?
 Beargumenteer de keuze van medium X voor Y in het kader van wat we gezien
 
 hebben tijdens de colleges.
+
