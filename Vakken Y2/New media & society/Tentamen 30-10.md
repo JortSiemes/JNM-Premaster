@@ -9,6 +9,11 @@ New media wordt onderscheiden niet door inhoud maar [[platform]]
 <mark style="background: #FFB8EBA6;">Manovich (2001) The language of media</mark>
 5 Hoofdkenmerken van nieuwe media
 
+De vraag wat het onderscheid is tussen oude en nieuwe media ligt niet bij de inhoud, een analoge foto en digitaal schillen amper. Het ligt aan het platform van de media. In het onderzoek van Manovich (2001) geeft hij 5 duidelijk voorstellen waar de grens van oud naar nieuwe media ligt.
+1, numerieke representatie, de basis van nieuwe media is dat het bestaat uit digitale codes en nummers. Dit heeft voordelen zoals het makkelijker opslaan en veranderen van inhoud. 
+2, modulariteit, je had vroeger een krantenartikel en dat was 1 product. Nieuwe media trekt alle losse elementen los, je kan alles individueel aanpassen en toevoegen. Het is een blokkensysteem waarbij dingen wa
+
+
 ## 1. [[Numerieke representatie]]
 = digitaliteit, de digitale wereld is een [[numerieke representatie]] alles staat in codes en formules. 
 

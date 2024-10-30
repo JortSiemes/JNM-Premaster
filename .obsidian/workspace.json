@@ -35,6 +35,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -120,12 +121,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken Y2/New media & society/Samenvatting.pdf",
+                "file": "Vakken Y2/New media & society/Tentamen 30-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Samenvatting"
+              "title": "Outgoing links from Tentamen 30-10"
             }
           },
           {
@@ -212,10 +213,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e0cd0321875f69b0",
+  "active": "6e0987ff15fc0d4f",
   "lastOpenFiles": [
-    "Vakken Y2/New media & society/Tentamen 30-10.md",
     "Vakken Y2/New media & society/Samenvatting.pdf",
+    "Vakken Y2/New media & society/Tentamen 30-10.md",
     "Vakken Y2/New media & society/Antwoorden Oefententamen.md",
     "Vakken Y2/New media & society/Samenvatting 2.pdf",
     "Vakken Y2/Retorica & Argumentatie in journalistiek/Retorische Kritiek Samenvatting HS 1-4.pdf",
