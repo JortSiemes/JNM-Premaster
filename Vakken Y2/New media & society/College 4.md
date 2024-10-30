@@ -66,8 +66,8 @@ Niet neutraal, bv. in context van nieuws en informatie
 - blijkt tegengesproken te worden door meeste studies
 - socialemediagebruikers lijken diverser aanbod te hebben Idem voor zij die nieuws zoeken via zoekmachines
 
-[[echo chamber]]: ontstaat wanneer we onszelf vooral richten (of door algoritmes laten richten) op een bepaald standpunt en vooral gelijkgezinden opzoeken. Leidt tot **'ideologische polarisatie'**
-- groter probleem dan filter bubble
+[[echo chamber]]: ontstaat wanneer we onszelf vooral richten (of door algoritmes laten richten) op een bepaald [[standpunt]] en vooral gelijkgezinden opzoeken. Leidt tot **'ideologische polarisatie'**
+- groter probleem dan [[filter bubble]]
 
 Verschil hier is te vergelijken met een winkelcentrum vol winkels, je hebt toegang tot alle open deuren van het centrum. Je tijdlijn is het winkelcentrum
 Maar als je gaat shoppen ga je maar langs dezelfde specifieke winkel elke keer.
@@ -116,7 +116,7 @@ Artikel 17 (15): platformen moeten er alles aan doen om auteursrechtelijk besche
 - >< gift economy van het internet
 - in het voordeel van grote spelers die zich in orde kunnen stellen
 
-Next: DSA + DMA
+Next: [[DSA]] + [[DMA]]
 - europese commissie: update van de in 2000 aangenomen richtlijn inzake elektronische handel
 - vooral gericht op regulering online- en socialmediaplatformen
 - in navolging van GDPR-wetgeving wil europa voortrekkersrol spelen in strijd tegen desinformatie, onduidelijke werking van algoritmes, oneerlijke digitale concurrentie,...

@@ -9,6 +9,40 @@ New media wordt onderscheiden niet door inhoud maar [[platform]]
 <mark style="background: #FFB8EBA6;">Manovich (2001) The language of media</mark>
 5 Hoofdkenmerken van nieuwe media
 
+De vraag wat het onderscheid is tussen oude en nieuwe media ligt niet bij de inhoud, een analoge foto en digitaal schillen amper. Het ligt aan het platform van de media. In het onderzoek van Manovich (2001) geeft hij 5 duidelijk voorstellen waar de grens van oud naar nieuwe media ligt.
+1, numerieke representatie, de basis van nieuwe media is dat het bestaat uit digitale codes en nummers. Dit heeft voordelen zoals het makkelijker opslaan en veranderen van inhoud. 
+2, modulariteit, je had vroeger een krantenartikel en dat was 1 product. Nieuwe media trekt alle losse elementen los, je kan alles individueel aanpassen en toevoegen. Het is een blokkensysteem waarbij dingen aan elkaar zijn gelinked. Een goed voorbeeld is de designer website Are.na waar gebruikers blokjes kunnen aanmaken en in collecties zetten. Deze blokjes kunnen van compleet andere websites zoals youtube zijn of fotos gelinked uit andere portfolio websites.
+3, Automatisering, nieuwe media bestaat uit een numerieke representatie, in deze talen en codes kunnen formules zoals algoritmen en software gemaakt worden. Het voordeel hiervan is dat taken automatisch kunnen gebeuren. Je kan live updates krijgen doordat nieuwe media constant informatie voor je pullt, of in photoshop een foto bewerken met drie knop klikjes, deze automatisering word opgedeeld in 2 verschillende versies: lage en hoge creatie: je kan namelijk een auto correct hebben op word maar er zijn ook tools zoals ai die misschien wel alles kunnen gaan doen. 
+4, Transcoding, in de nieuwe media zijn er naast de menselijke mening die verschilt, zoals als je iemand zn mening over de Islam vraagt. Dan krijg je per persoon ver uiteenlopende antwoorden. Nieuwe media introduceerd computer mening waarbij de computer ook door weights in algoritmes bepaald wat belangrijker of zelfs correct is. Dit bepaald vervolgens wat mensen te zien krijgen en beinvloed hierdoor jouw mening over onderwerpen.
+Je kan hierdoor in een filter bubbel raken. omdat jouw door computer bepaalde algoritmes jou na een keer klikken op een anti vaccinatie filmpje filmpjes in die bubbel aanraden, totdat je dusver komt dat alles waar de algoritme mee komt dit onderwerp hebben.
+5, variabiliteit, mensen bepalen nu hoe ze dingen consumeren volgorde van albums door eigen playlist of samenvattingen van tv opnames op youtube.
+
+Mediaconsumptie op maat
+mensen kunnen time, place en format shiften
+
+Door digitalisering zien we meer:
+Divergentie: het gebruik van verschillende platformen om media: Youtube Netflix NPO Twitch, het groeit uit elkaar.
+
+Convergentie: je kan nu alles terugvinen digitaal, je kan kranten lezen radio luister tv kijken allemaal op digitale portalen als je telefoon
+
+Networked individualism, er bestaan steeds meer grote losse en gefragmenteerde netwerken, mensen zitten hier dus meer in voor zichzelf dan voor de groep en zijn niet per se heel groepstrouw. Het is een silent disco samenleving waarbij we allemaal in eigen hyperspecifieke niches zitten maar wel bij een groep willen horen.  In deze networked individualism groepen is er weinig hierarchie, en zijn eer veel technische vernieuwingen.
+
+
+Jenkins (2004) heeft het over 2 machtige actoren in de media, kant 1 is de powerful mainstream media is waar de macht zit over wat we in de media te zien krijgen en wat het discours in de samenleving waar de media concentration plaatsvindt: de agenda setting en de framing
+- Top-down, corporate driven process: begint met van de bedrijven van de mainstream media, Versterkende effecten: bijvoorbeeld crowdsourcen: een krant kan geld verzamelen onder lezers om de onkosten voor onderzoek naar politiek wangedrag te dekken. 
+	- tegenwerking = censuur
+- bottom-up consumer driven: versterken: accidental journalism vindt plaats wanneer mensen bijvoorbeeld zelf een foto maken van een nieuwswaardige gebeurtenis en deze foto groot wordt in de media
+	- tegenwerking = trollen
+
+Medialogica
+- hoge instapkosten
+
+
+
+
+
+
+
 ## 1. [[Numerieke representatie]]
 = digitaliteit, de digitale wereld is een [[numerieke representatie]] alles staat in codes en formules. 
 
@@ -247,4 +281,11 @@ waren de belangrijkste inzichten?
 Beargumenteer de keuze van medium X voor Y in het kader van wat we gezien
 
 hebben tijdens de colleges.
+
+
+
+
+
+
+
 
