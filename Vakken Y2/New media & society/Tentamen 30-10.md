@@ -23,7 +23,23 @@ mensen kunnen time, place en format shiften
 Door digitalisering zien we meer:
 Divergentie: het gebruik van verschillende platformen om media: Youtube Netflix NPO Twitch, het groeit uit elkaar.
 
-Convergentie
+Convergentie: je kan nu alles terugvinen digitaal, je kan kranten lezen radio luister tv kijken allemaal op digitale portalen als je telefoon
+
+Networked individualism, er bestaan steeds meer grote losse en gefragmenteerde netwerken, mensen zitten hier dus meer in voor zichzelf dan voor de groep en zijn niet per se heel groepstrouw. Het is een silent disco samenleving waarbij we allemaal in eigen hyperspecifieke niches zitten maar wel bij een groep willen horen.  In deze networked individualism groepen is er weinig hierarchie, en zijn eer veel technische vernieuwingen.
+
+
+Jenkins (2004) heeft het over 2 machtige actoren in de media, kant 1 is de powerful mainstream media is waar de macht zit over wat we in de media te zien krijgen en wat het discours in de samenleving waar de media concentration plaatsvindt: de agenda setting en de framing
+- Top-down, corporate driven process: begint met van de bedrijven van de mainstream media, Versterkende effecten: bijvoorbeeld crowdsourcen: een krant kan geld verzamelen onder lezers om de onkosten voor onderzoek naar politiek wangedrag te dekken. 
+	- tegenwerking = censuur
+- bottom-up consumer driven: versterken: accidental journalism vindt plaats wanneer mensen bijvoorbeeld zelf een foto maken van een nieuwswaardige gebeurtenis en deze foto groot wordt in de media
+	- tegenwerking = trollen
+
+Medialogica
+- hoge instapkosten
+- 
+
+
+
 
 
 ## 1. [[Numerieke representatie]]
