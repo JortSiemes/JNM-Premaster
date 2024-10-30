@@ -36,7 +36,8 @@ Jenkins (2004) heeft het over 2 machtige actoren in de media, kant 1 is de power
 
 Medialogica
 - hoge instapkosten
-- 
+
+
 
 
 
@@ -280,4 +281,11 @@ waren de belangrijkste inzichten?
 Beargumenteer de keuze van medium X voor Y in het kader van wat we gezien
 
 hebben tijdens de colleges.
+
+
+
+
+
+
+
 
