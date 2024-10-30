@@ -4,38 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "71a063e4f40c0e68",
+        "id": "0164d12fead19e4a",
         "type": "tabs",
         "children": [
           {
-            "id": "e0cd0321875f69b0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Vakken Y2/New media & society/Samenvatting.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Samenvatting"
-            }
-          },
-          {
-            "id": "6e0987ff15fc0d4f",
+            "id": "da57874023925156",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken Y2/New media & society/College 4.md",
+                "file": "Vakken Y2/Crossmediale onderzoeksweken/College Tour.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "College 4"
+              "title": "College Tour"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -121,12 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken Y2/New media & society/College 4.md",
+                "file": "Vakken Y2/Crossmediale onderzoeksweken/College Tour.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from College 4"
+              "title": "Outgoing links from College Tour"
             }
           },
           {
@@ -191,11 +178,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 445.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,8 +200,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6e0987ff15fc0d4f",
+  "active": "da57874023925156",
   "lastOpenFiles": [
+    "Onderwerpen/Bottom-up.md",
+    "Vakken Y2/Crossmediale onderzoeksweken/College Tour.md",
     "Vakken Y2/New media & society/Samenvatting.pdf",
     "Vakken Y2/New media & society/College 4.md",
     "Vakken Y2/New media & society/College 5.md",
@@ -233,21 +222,20 @@
     "Vakken Y2/New media & society/College 6.md",
     "Vakken Y2/New media & society/College 3.md",
     "Vakken Y2/New media & society/College 2 (video).md",
-    "mass self-communication.md",
+    "Onderwerpen/mass self-communication.md",
     "Vakken Y2/Retorica & Argumentatie in journalistiek/Retorische Kritiek Samenvatting volledig.pdf.crdownload",
     "Vakken Y2/New media & society/~$menvatting_ New media .docx",
-    "Bottom-up.md",
-    "Top-down.md",
-    "parallax reality.md",
+    "Onderwerpen/Top-down.md",
+    "Onderwerpen/parallax reality.md",
     "Onderwerpen/Mediatisering.md",
-    "invisibiliteit van media.md",
-    "flexibele zelfcreatie.md",
-    "ontologische draai in mediaonderzoek.md",
+    "Onderwerpen/invisibiliteit van media.md",
+    "Onderwerpen/flexibele zelfcreatie.md",
+    "Onderwerpen/ontologische draai in mediaonderzoek.md",
     "ontologische draa in mediaonderzoek.md",
-    "Media life.md",
-    "Truman show delusion.md",
-    "convergence culture.md",
-    "mediapolis.md",
+    "Onderwerpen/Media life.md",
+    "Onderwerpen/Truman show delusion.md",
+    "Onderwerpen/convergence culture.md",
+    "Onderwerpen/mediapolis.md",
     "Onderwerpen/Networked Individualism.md",
     "Vakken Y2/New media & society/College 1.md",
     "Beelden/Pasted image 20241010133621.png",

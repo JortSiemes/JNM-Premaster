@@ -47,8 +47,8 @@ Medialogica
 = digitaliteit, de digitale wereld is een [[numerieke representatie]] alles staat in codes en formules. 
 
 verschil in [[digitalisering]] & [[direct numeriek]]
-[[Digitalisering]] = van analoog naar numeriek, een filmstrip inscannen
-[[Direct numeriek]] = een digitale filmcamera, licht is meteen digitaal
+[[digitalisering]] = van analoog naar numeriek, een filmstrip inscannen
+[[direct numeriek]] = een digitale filmcamera, licht is meteen digitaal
 
 ## 2. [[Modulariteit]]
 = verbinding in digitale wereld. 
@@ -133,9 +133,9 @@ Bestaande, klassieke actoren en media hebben het moeilijk hieraan te beantwoorde
 	- Vergelijk: Kruideniers (nu: online shopping, Hello Fresh), vervoersmaatschappijen (nu: Uber), plaatsen/filmmaatschappijen (nu: Napster, Torrents, Popcorn Time, Spotify, televisie (nu: facebook live, facebook watch, YouTube series, Apple TV, IGTV en Netflix). 
 Vraag bij [[networked individualism]] mbt journalistiek: op welke manier is journalistiek onderhevig aan deze onderhandelingen? Welke concurrenten opgekomen? Op welke manier disruptie ook in journalistiek aanwezig? Welke bedrijven spelen daar goed op in? Welke minder?
 
-[[Convergence culture]] = de grens tussen het maken van media en het gebruiken ervan is onduidelijk geworden
+[[convergence culture]] = de grens tussen het maken van media en het gebruiken ervan is onduidelijk geworden
 
-Social [[media life]]: eigen tijdlijn vastleggen op Facebook en terugblikken
+Social [[Media life]]: eigen tijdlijn vastleggen op Facebook en terugblikken
 	- aankondiging zwangerschop met foto embryo, baby heeft al een facebooklife
 	- Zelfmoord delen, mensen vermoorden Christchurch Livestream, Weeen via contraction timer app koppeling met facebook.
 
@@ -151,7 +151,7 @@ Social [[media life]]: eigen tijdlijn vastleggen op Facebook en terugblikken
 	De grens tussen producenten en consumenten van mediacontent vervaagt door de technologische mogelijkheden van digitale platforms. Henry Jenkins’ concept van _[[convergence culture]]_ komt hier aan bod, waarbij mediaconsumenten ook mediaproducenten worden. Dit heeft geleid tot een cultuur waarin individuen hun eigen media-ecosysteem samenstellen, waarbij ze content consumeren, produceren en co-creëren.
 	
 4. **De Truman Show metaforiek**: 
-	Deuze gebruikt de film _The Truman Show_ als metafoor om te illustreren hoe mensen in de moderne wereld hun leven in media leven. In de film leeft het personage Truman in een volledig gemedieerde wereld zonder dat hij dit beseft. Deze metafoor toont hoe mensen in het echte leven ook in een gemedieerde wereld leven, zonder vaak stil te staan bij de constante aanwezigheid van media. De "[[Truman Show Delusion]]" is een extremere psychologische reactie op deze mediagesatureerde wereld, waarbij mensen geloven dat ze constant worden bekeken en gemanipuleerd.
+	Deuze gebruikt de film _The Truman Show_ als metafoor om te illustreren hoe mensen in de moderne wereld hun leven in media leven. In de film leeft het personage Truman in een volledig gemedieerde wereld zonder dat hij dit beseft. Deze metafoor toont hoe mensen in het echte leven ook in een gemedieerde wereld leven, zonder vaak stil te staan bij de constante aanwezigheid van media. De "[[Truman show delusion]]" is een extremere psychologische reactie op deze mediagesatureerde wereld, waarbij mensen geloven dat ze constant worden bekeken en gemanipuleerd.
 	
 5. **De opkomst van [[mass self-communication]]**: 
 	Manuel Castells introduceert het concept van _[[mass self-communication]]_, waarbij individuen hun eigen mediaplatforms creëren door gebruik te maken van digitale netwerken zoals blogs, sociale media en video’s. Deze nieuwe vorm van communicatie is gedecentraliseerd en stelt mensen in staat hun eigen verhalen te vertellen, los van traditionele mediabronnen. Dit vormt een belangrijk onderdeel van het leven in media, omdat mensen actief deelnemen aan de productie van inhoud en zo hun eigen verhalen en realiteiten creëren.
