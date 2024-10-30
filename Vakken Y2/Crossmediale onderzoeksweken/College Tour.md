@@ -16,9 +16,18 @@ Inhoudelijke montage, aanpassingen
 - [ ] EH Update: Research document
 - [ ] EH: beginnen aan draaiboek (bernette aanbod)
 - [ ] EH: Check met productie Fabriq
-- [ ] huib: checken opname datum vriend
+- [ ] Huib: checken opname datum vriend
 - [ ] Huib: AIVD oplossing zoeken, Erik Akerboom bel mogelijkheden
 - [ ] EH: update mail sturen naar Eliot
+- [ ] EH: maken callsheets voor opnames
+- [ ] Huib: voorbereiden opname met logtenberg
+- [ ] Huib: Eelco datum bevestiging
+- [ ] Suggesties vragen redactie voor titels losse clipsjes, titel volledige aflevering, ideeën uit 4 yt clips voor reels
+
+
+Voorbereidingen zelf interview:
+eigen camera + bernette camera (ct cameras)
+Opname met rode van
 
 
 
