@@ -19,5 +19,5 @@ Die zijn er om sneller een patroon in een gesprek te vinden
 
 # Jimmy Dijk analyse
 voornamelijk gebaseerd op Logos en Pathos, Jimmy presenteert zichzelf als een gewone man in spijkerbroek. De Ethos die hij inzet gaat vooral over eerlijkheid maar hij gaat heel weinig in op zijn deskundigheid. 
-Waar hij goed in was tijdens de APB was het terugbrengen naar de inhoudelijke punten van de SP, 
+Waar hij goed in was tijdens de APB was het terugbrengen naar de inhoudelijke punten van de SP, Hij beargumenteerd op getallen zoals aantallen jongeren in de armoede of lagere belastingen op dividend. Ook zijn Pathos is enorm merkbaar hij kan vele
 
