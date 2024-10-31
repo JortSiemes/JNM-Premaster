@@ -39,3 +39,34 @@ stijlfiguren die jimmy dijk gebruikt zijn:
 - recapitulatio
 - affectus
 
+vierstijldeugden
+- correctheid (taal moet kloppend zijn)
+- duidelijkheid (taal te formeel of lastig, academisch)
+- aantrekkelijkheid (beeldspraak en stijlfiguren, gedachtenfiguren en vormfiguren)
+- passendheid (of een stijlkeuze past bij het deel van de tekst, koning die haags spreekt past niet altijd. interne afstemming op tekstdelen en externe afstemming op de situatie (spreker, onderwerp en publiek))
+
+
+50 stijlfiguren naar functie indelen
+- expressief
+	- exclamatie: het gaat om een "om het effect bedoelde uitroep"
+	- hyperbool: uitvergroting
+	- retorische vraag: iedereen weet toch wat een retorische vraag is?
+- sociaal
+	- aanspreking als groepsgenoot
+	- inclusieve we
+	- allusie
+- diverterend (grappig)
+	- woordspeling
+	- eufemisme
+	- preteritio
+	- sarcasme
+	- ironie
+- referentieel/gekleurd informatief
+	- evidentie
+	- amplificatie
+- appelerend (moet publiek aanroepen/wakker maken)
+	- aanspreking
+	- vraagfiguren subjectie
+	- quaestio
+	- enumeratie met climax
+
