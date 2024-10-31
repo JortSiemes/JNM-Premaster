@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "67ffefb7886502b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "10da2dd60d75cba1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2896f5ab14596f6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Vakken Y2/Retorica & Argumentatie in journalistiek/Retorische Kritiek Samenvatting HS 1-4.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Retorische Kritiek Samenvatting HS 1-4"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1515a54592220dc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "de58b8948faaef4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "273ae7cea3fc772a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b7edd94bcbb8a8ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "35e973870ea2c915",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1b495daca6cca292",
+    "type": "split",
+    "children": [
+      {
+        "id": "5de4f6e479fd50fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68ad3d97e2a91ab8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vakken Y2/Retorica & Argumentatie in journalistiek/Retorische Kritiek Samenvatting HS 1-4.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Retorische Kritiek Samenvatting HS 1-4"
+            }
+          },
+          {
+            "id": "b8d6f59f0e108c27",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vakken Y2/Retorica & Argumentatie in journalistiek/Retorische Kritiek Samenvatting HS 1-4.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Retorische Kritiek Samenvatting HS 1-4"
+            }
+          },
+          {
+            "id": "18e95302930a2e14",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d651224a6a77294a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vakken Y2/Retorica & Argumentatie in journalistiek/Retorische Kritiek Samenvatting HS 1-4.pdf"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Retorische Kritiek Samenvatting HS 1-4"
+            }
+          },
+          {
+            "id": "d0498c368f10d9ad",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "753ea29ca5bdd1a0",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes...": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "d2896f5ab14596f6",
+  "lastOpenFiles": [
+    "Vakken Y2/Retorica & Argumentatie in journalistiek/Retorica.pdf"
+  ]
+}
