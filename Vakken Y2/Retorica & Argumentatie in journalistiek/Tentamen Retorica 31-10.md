@@ -27,10 +27,15 @@ stijlfiguren die jimmy dijk gebruikt zijn:
 - herhaling 
 - anafoor (herhaling aan begin van de zin)
 - metafoor
+- citaat
 
 - hyperbool
 - allusie
 - inclusief we
 
 
+### Peroratio (slot)
+- attentum
+- recapitulatio
+- affectus
 
