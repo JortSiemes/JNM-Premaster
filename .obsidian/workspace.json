@@ -1,43 +1,39 @@
 {
   "main": {
-    "id": "a6e343bb07bbb325",
+    "id": "67ffefb7886502b2",
     "type": "split",
     "children": [
       {
-        "id": "985f48072a719f88",
+        "id": "10da2dd60d75cba1",
         "type": "tabs",
         "children": [
           {
-            "id": "5a82a5d4cafd24b4",
+            "id": "d2896f5ab14596f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/Speech van Bush analyse.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Vakken Y2/Retorica & Argumentatie in journalistiek/Retorische Kritiek Samenvatting HS 1-4.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Speech van Bush analyse"
+              "icon": "lucide-file-text",
+              "title": "Retorische Kritiek Samenvatting HS 1-4"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b1b3c23f6a371631",
+    "id": "1515a54592220dc9",
     "type": "split",
     "children": [
       {
-        "id": "c012c68ab0e2c1a6",
+        "id": "de58b8948faaef4c",
         "type": "tabs",
         "children": [
           {
-            "id": "e46240856bb44aea",
+            "id": "273ae7cea3fc772a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -49,12 +45,12 @@
             }
           },
           {
-            "id": "0c6b787e688c66b2",
+            "id": "b7edd94bcbb8a8ce",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#MOCs",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +62,7 @@
             }
           },
           {
-            "id": "5798dde9ede5e945",
+            "id": "35e973870ea2c915",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,15 +78,48 @@
     "width": 300
   },
   "right": {
-    "id": "990de90adb7af7a7",
+    "id": "1b495daca6cca292",
     "type": "split",
     "children": [
       {
-        "id": "f426312ce41c0515",
+        "id": "5de4f6e479fd50fb",
         "type": "tabs",
         "children": [
           {
-            "id": "f9712ea4b461c517",
+            "id": "68ad3d97e2a91ab8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vakken Y2/Retorica & Argumentatie in journalistiek/Retorische Kritiek Samenvatting HS 1-4.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Retorische Kritiek Samenvatting HS 1-4"
+            }
+          },
+          {
+            "id": "b8d6f59f0e108c27",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vakken Y2/Retorica & Argumentatie in journalistiek/Retorische Kritiek Samenvatting HS 1-4.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Retorische Kritiek Samenvatting HS 1-4"
+            }
+          },
+          {
+            "id": "18e95302930a2e14",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -103,53 +132,19 @@
             }
           },
           {
-            "id": "e75035efdb60a4aa",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/Speech van Bush analyse.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Speech van Bush analyse"
-            }
-          },
-          {
-            "id": "9dd31374c3e55536",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
-            }
-          },
-          {
-            "id": "d2bc2656988f3da1",
+            "id": "d651224a6a77294a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Onderwerpen/transcoding.md"
+                "file": "Vakken Y2/Retorica & Argumentatie in journalistiek/Retorische Kritiek Samenvatting HS 1-4.pdf"
               },
               "icon": "lucide-list",
-              "title": "Outline of transcoding"
+              "title": "Outline of Retorische Kritiek Samenvatting HS 1-4"
             }
           },
           {
-            "id": "425eaebe7e08c266",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "5c257cfb7a3954e8",
+            "id": "d0498c368f10d9ad",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -159,95 +154,51 @@
             }
           },
           {
-            "id": "a22aa95c8e540564",
+            "id": "753ea29ca5bdd1a0",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Onderwerpen/transcoding.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for transcoding"
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
       "publish:Publish changes...": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5a82a5d4cafd24b4",
+  "active": "d2896f5ab14596f6",
   "lastOpenFiles": [
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 4.md",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 1.md",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/Speech van Bush analyse.md",
-    "Onderwerpen/peroratio.md",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 3 28 sept.md",
-    "Onderwerpen/standaardgeschilpunten.md",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/~WRL0003.tmp",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/~WRD0002.tmp",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/~$menvatting retorica literatuur week 4.docx",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/Samenvatting retorica literatuur week 4.docx",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/Niet bevestigd 437355.crdownload",
-    "Vakken Y2/New media & society/College 5.md",
-    "Vakken Y2/New media & society/Studentenvragen.docx",
-    "Vakken Y2/New media & society/Antwoorden Oefententamen.md",
-    "Vakken Y2/Factchecken/~$rmulier-literatuurlijst-05142.docx",
-    "Vakken Y2/New media & society/College 6.md",
-    "Vakken Y2/New media & society/College 4.md",
-    "Vakken Y2/New media & society/College 3.md",
-    "Vakken Y2/New media & society/College 2 (video).md",
-    "Vakken Y2/New media & society/Tentamen 30-10.md",
-    "mass self-communication.md",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/Retorische Kritiek Samenvatting volledig.pdf",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/Retorische Kritiek Samenvatting volledig.pdf.crdownload",
-    "Vakken Y2/New media & society/~$menvatting_ New media .docx",
-    "Bottom-up.md",
-    "Top-down.md",
-    "parallax reality.md",
-    "Onderwerpen/Mediatisering.md",
-    "invisibiliteit van media.md",
-    "flexibele zelfcreatie.md",
-    "ontologische draai in mediaonderzoek.md",
-    "ontologische draa in mediaonderzoek.md",
-    "Media life.md",
-    "Truman show delusion.md",
-    "convergence culture.md",
-    "mediapolis.md",
-    "Beelden/Pasted image 20241010133621.png",
-    "Beelden/Pasted image 20241010133517.png",
-    "Beelden/Pasted image 20240325125521.png",
-    "Beelden/Pasted image 20240325125312.png",
-    "Beelden/Pasted image 20240325125208.png",
-    "Beelden/Pasted image 20231030195610.png",
-    "Pasted image 20241010133621.png",
-    "Pasted image 20241010133517.png",
-    "Untitled.canvas",
-    "Vakken Y2/Crossmediale onderzoeksweken/WhatsApp Image 2024-09-14 at 15.18.48 (1).jpeg",
-    "Vakken Y2/Crossmediale onderzoeksweken/WhatsApp Image 2024-09-14 at 15.18.48.jpeg"
+    "Vakken Y2/Crossmediale onderzoeksweken/EliotHiggins/mso4F14.tmp",
+    "Vakken Y2/Crossmediale onderzoeksweken/EliotHiggins/~WRL2915.tmp",
+    "Vakken Y2/Crossmediale onderzoeksweken/EliotHiggins/~WRD2888.tmp",
+    "Vakken Y2/Crossmediale onderzoeksweken/EliotHiggins/mso2126.tmp",
+    "Vakken Y2/Crossmediale onderzoeksweken/EliotHiggins/~WRL3070.tmp",
+    "Vakken Y2/Crossmediale onderzoeksweken/EliotHiggins/~WRD3043.tmp",
+    "Vakken Y2/Crossmediale onderzoeksweken/EliotHiggins/Draaiboek_Gastinterview_ChristiaanTriebert.pdf",
+    "Vakken Y2/Crossmediale onderzoeksweken/EliotHiggins/mso1774.tmp",
+    "Vakken Y2/Crossmediale onderzoeksweken/EliotHiggins/~$aaiboek_Gastinterview_ChristiaanTriebert.docx",
+    "Vakken Y2/Crossmediale onderzoeksweken/EliotHiggins/~WRL0005.tmp",
+    "Vakken Y2/Crossmediale onderzoeksweken/EliotHiggins/~WRD0004.tmp"
   ]
 }
