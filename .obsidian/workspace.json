@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken Y2/Crossmediale onderzoeksweken/Feedback 12-11.md",
+                "file": "Onderwerpen/echo chamber.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Feedback 12-11"
+              "title": "echo chamber"
+            }
+          },
+          {
+            "id": "b20c307a2bce9857",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -200,25 +216,25 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5a82a5d4cafd24b4",
+  "active": "b20c307a2bce9857",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Onderwerpen/echo chamber.md",
     "Vakken Y2/Crossmediale onderzoeksweken/Huisstijl CT/Gradient College Tour.psd",
     "Vakken Y2/Crossmediale onderzoeksweken/Huisstijl CT/Gradient College Tour.png",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/Speech van Bush analyse.md",
     "Vakken Y2/Crossmediale onderzoeksweken/Feedback 12-11.md",
-    "Vakken Y2/Factchecken/FINAL_Formulier Concept Factcheck_JortSiemes_14_10.docx",
-    "Vakken Y2/Crossmediale onderzoeksweken/EliotHiggins/Minor JNM.pdf",
-    "Vakken Y2/Crossmediale onderzoeksweken/EliotHiggins/Minor JNM.docx",
-    "Vakken Y2/Crossmediale onderzoeksweken/EliotHiggins/Callsheet Hans Pool 8 november 2024.docx",
-    "Vakken Y2/Crossmediale onderzoeksweken/EliotHiggins/Callsheet Eliot Higgins 19 november 2024.docx",
-    "Vakken Y2/Crossmediale onderzoeksweken/EliotHiggins/Call Sheet Hans Pool08_11_24.pdf",
-    "Vakken Y2/Crossmediale onderzoeksweken/Callsheet Sinan Can 14 oktober 2024 (1).pdf",
-    "Vakken Y2/Crossmediale onderzoeksweken/CALLSHEET NASRAH HABIBALLAH 22 OKTOBER 2024.pdf",
+    "Vakken Y2/New media & society/College 5.md",
+    "Vakken Y2/New media & society/College 6.md",
+    "Vakken Y2/New media & society/College 4.md",
+    "Vakken Y2/New media & society/College 3.md",
+    "Vakken Y2/New media & society/Tentamen 30-10.md",
+    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/Speech van Bush analyse.md",
     "Vakken Y2/Retorica & Argumentatie in journalistiek/Tentamen Retorica 31-10.md",
     "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 6.md",
     "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 5.md",
     "Vakken Y2/Crossmediale onderzoeksweken/EliotHiggins/~$aaiboek_Gastinterview_ChristiaanTriebert.docx",
     "Vakken Y2/Crossmediale onderzoeksweken/EliotHiggins/Draaiboek_Gastinterview_ChristiaanTriebert.pdf",
+    "Vakken Y2/Crossmediale onderzoeksweken/EliotHiggins/Draaiboek_Gastinterview_ChristiaanTriebert.docx",
     "Vakken Y2/Crossmediale onderzoeksweken/College Tour.md",
     "Onderwerpen/parallax reality.md",
     "Onderwerpen/ontologische draai in mediaonderzoek.md",
@@ -233,12 +249,12 @@
     "Onderwerpen/Top-down.md",
     "Onderwerpen/Media life.md",
     "Onderwerpen/Bottom-up.md",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 4.md",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 1.md",
-    "Onderwerpen/peroratio.md",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 3 28 sept.md",
-    "Onderwerpen/standaardgeschilpunten.md",
-    "Vakken Y2/New media & society/College 5.md",
+    "Vakken Y2/Retorica & Argumentatie in journalistiek/~WRL0003.tmp",
+    "Vakken Y2/Retorica & Argumentatie in journalistiek/~WRD0002.tmp",
+    "Vakken Y2/Retorica & Argumentatie in journalistiek/~$menvatting retorica literatuur week 4.docx",
+    "Vakken Y2/Retorica & Argumentatie in journalistiek/Samenvatting retorica literatuur week 4.docx",
+    "Vakken Y2/Retorica & Argumentatie in journalistiek/Niet bevestigd 437355.crdownload",
+    "Vakken Y2/New media & society/Studentenvragen.docx",
     "Beelden/Pasted image 20241010133621.png",
     "Beelden/Pasted image 20241010133517.png",
     "Beelden/Pasted image 20240325125521.png",
