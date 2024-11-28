@@ -13,32 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Onderwerpen/echo chamber.md",
+                "file": "Onderwerpen/standaardgeschilpunten.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "echo chamber"
-            }
-          },
-          {
-            "id": "b20c307a2bce9857",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "standaardgeschilpunten"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -70,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#MOCs",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +75,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -216,10 +201,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b20c307a2bce9857",
+  "active": "5a82a5d4cafd24b4",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Onderwerpen/politieke rede.md",
+    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 1.md",
+    "Vakken Y1/Blok 1/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 1 Journalistiek en Redactionele Vaardigheden.md",
+    "Vakken Y1/Blok 2/Argumenteren en overtuigen/Week 10.md",
+    "Vakken Y1/Blok 2/Argumenteren en overtuigen/Totaal Tentamenstof AenO.md",
+    "Onderwerpen/Stijl.md",
     "Onderwerpen/echo chamber.md",
+    "conflict-files-obsidian-git.md",
     "Vakken Y2/Crossmediale onderzoeksweken/Huisstijl CT/Gradient College Tour.psd",
     "Vakken Y2/Crossmediale onderzoeksweken/Huisstijl CT/Gradient College Tour.png",
     "Vakken Y2/Crossmediale onderzoeksweken/Feedback 12-11.md",
@@ -243,12 +234,6 @@
     "Onderwerpen/invisibiliteit van media.md",
     "Onderwerpen/flexibele zelfcreatie.md",
     "Onderwerpen/direct numeriek.md",
-    "Onderwerpen/digitalisering.md",
-    "Onderwerpen/convergence culture.md",
-    "Onderwerpen/Truman show delusion.md",
-    "Onderwerpen/Top-down.md",
-    "Onderwerpen/Media life.md",
-    "Onderwerpen/Bottom-up.md",
     "Vakken Y2/Retorica & Argumentatie in journalistiek/~WRL0003.tmp",
     "Vakken Y2/Retorica & Argumentatie in journalistiek/~WRD0002.tmp",
     "Vakken Y2/Retorica & Argumentatie in journalistiek/~$menvatting retorica literatuur week 4.docx",
