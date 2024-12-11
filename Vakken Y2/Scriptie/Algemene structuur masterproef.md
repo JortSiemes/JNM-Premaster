@@ -33,6 +33,12 @@ om geen dubbel werk te doen
 
 om de huidige **inzichten** over het fenomeen en de gangbare **onderzoekspraktijken** te leren begrijpen (cfr. vorige onderzoeken/inzichten/theorieen/methoden)
 
+Hoofddoel: om precieze onderzoeksvragen/hypothesen te kunnen identificeren en formuleren
+- afbakening onderzoek en bespreking concepten
+- overkoepelend theoretisch kader (indien mogelijk)
+- op zoek naar 'lacunes' in voorgaand onderzoek
+- idee/probleemstelling omvormen tot Onderzoeksvraag & Hypothese
+
 
 
 
