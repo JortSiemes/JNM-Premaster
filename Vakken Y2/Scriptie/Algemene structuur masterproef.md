@@ -41,5 +41,20 @@ Hoofddoel: om precieze onderzoeksvragen/hypothesen te kunnen identificeren en fo
 
 
 
+**Op zoek naar een 'leemte'**
+- de onderzoeker moet in de literatuur op zoek naar leemte, die fungeert als een ankerpunt en die aanleiding geeft tot de eigen onderzoeksvragen of hypothesen. Op die manier wordt het onderzoek een deel van het studiedomein
+	- speciale insteek die nog niet onderzocht is
+	- andere manier van meten
+	- andere populatie/steekproef
+- opgelet: leemtes zijn geen 'blunders'
+
+**opnieuw lezen rond de 'leemte'**
+- eens de onderzoeker een 'leemte' heeft gevonden moet hij de literatuur opnieuw lezen om (1) de leemte te documenteren en (2) de relevantie van de leemte te duiden
+
+en zo kan er tot een onderzoeksvraag en/of hypothese gekomen worden
+
+
+
+
 
 
