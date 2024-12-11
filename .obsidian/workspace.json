@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "standaardgeschilpunten"
             }
+          },
+          {
+            "id": "271f388aa6617fbd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -201,7 +214,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5a82a5d4cafd24b4",
+  "active": "271f388aa6617fbd",
   "lastOpenFiles": [
     "Vakken Y2/Factchecken/Paper/Paper_Factcheck_JortSiemes_27_11_24.docx",
     "Vakken Y2/Factchecken/Paper/Paper_Factcheck_JortSiemes_02_12_24.docx",
