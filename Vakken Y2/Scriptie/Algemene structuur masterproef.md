@@ -17,6 +17,23 @@ Scriptie gaat als het volgt uitzien:
 - conclusie (wat leren we van deze studie?)
 - discussie
 
+#### Fase 1 inleiding (1-2pgs)
+
+het ruwe onderzoeksidee introduceren bij de lezer
+- een anekdote, eigen ervaring
+- een recent rapport
+- een nieuwsbericht
+
+de wetenschappelijke en maatschappelijke relevantie aantonen (waarom bestuderen we dit?)
+
+algemene opzet/structuur van scriptie (kort verwijzen naar onderzoeksidee, methodologie, misschien al enkele belangrijke resultaten)
+
+### Fase 2: Literatuurstudie (10-15pgs)
+om geen dubbel werk te doen
+
+om de huidige **inzichten** over het fenomeen en de gangbare **onderzoekspraktijken** te leren begrijpen (cfr. vorige onderzoeken/inzichten/theorieen/methoden)
+
+
 
 
 
