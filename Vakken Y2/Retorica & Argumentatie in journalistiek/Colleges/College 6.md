@@ -1,7 +1,7 @@
 
 Eindopdracht:
 #todo 
-- [ ] analyse- en betoog opdracht van 1 tekst, tegen het beleid van de minister. Betoogopdracht, in met Bernette, bepleit het beleid van de minister.
+- [x] analyse- en betoog opdracht van 1 tekst, tegen het beleid van de minister. Betoogopdracht, in met Bernette, bepleit het beleid van de minister.
 
 ## retorica van verwoording: [[Stijl]]
 vier [[stijldeugden]]:

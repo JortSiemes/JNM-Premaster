@@ -13,29 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Onderwerpen/standaardgeschilpunten.md",
+                "file": "Vakken Y2/Scriptie/Algemene structuur masterproef.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "standaardgeschilpunten"
-            }
-          },
-          {
-            "id": "271f388aa6617fbd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "Algemene structuur masterproef"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -88,8 +75,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,12 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/Speech van Bush analyse.md",
-                "linksCollapsed": false,
+                "file": "Vakken Y2/Scriptie/Algemene structuur masterproef.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Speech van Bush analyse"
+              "title": "Outgoing links from Algemene structuur masterproef"
             }
           },
           {
@@ -192,11 +178,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,8 +200,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "271f388aa6617fbd",
+  "active": "e75035efdb60a4aa",
   "lastOpenFiles": [
+    "Onderwerpen/standaardgeschilpunten.md",
+    "Vakken Y2/Scriptie/Algemene structuur masterproef.md",
     "Vakken Y2/Factchecken/Paper/Paper_Factcheck_JortSiemes_27_11_24.docx",
     "Vakken Y2/Factchecken/Paper/Paper_Factcheck_JortSiemes_02_12_24.docx",
     "Vakken Y2/Crossmediale onderzoeksweken/Showreel College Tour_2.docx",
@@ -251,8 +239,6 @@
     "Onderwerpen/mediapolis.md",
     "Onderwerpen/mass self-communication.md",
     "Onderwerpen/invisibiliteit van media.md",
-    "Onderwerpen/flexibele zelfcreatie.md",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/~WRL0003.tmp",
     "Beelden/Pasted image 20241010133621.png",
     "Beelden/Pasted image 20241010133517.png",
     "Beelden/Pasted image 20240325125521.png",

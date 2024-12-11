@@ -1,8 +1,8 @@
 
 #todo 
 - [x] Terugmailen Christiaan Triebert
-- [ ] Maken 3 vragen artikel
-- [ ] appen Hannah over Discord mods
+- [x] Maken 3 vragen artikel
+- [x] appen Hannah over Discord mods
 
 
 
