@@ -96,7 +96,32 @@ beeld je tijdens het schrijven een kritische lezer in. Dit helpt je om:
 	- goed gebruik te maken van tussentitels en structuuraanduiders
 		- Hou het complex maar maak het niet saai
 
-Structuuraan
+Structuuraanduiders
+- bij opsommingen, ook voorts, bovendien, daarbij,
+- samenvattingen: kortom, samenvattend
+- argumenten: de volgende redenen
+
+
+Schrijven kan nooit in een fase, dit is een circulair proces.
+Mensen moeten dit bekijken en zelf kritisch lezen
+
+1. brent de tekst de boodschap duidelijk genoeg
+2. wordt de kernvraag van de tekst afdoende beantwoord
+
+laten nalezen
+	de testlezer uitdrukkelijk vragen om kritisch te zijn; wat is onduidelijk? waar zijn er sprongen in de redenering? Wat begrijpt hij niet? Is de structuur duidelijk?
+
+### Gouden tip voor literatuurstudie
+
+**waneer je begint met het LO > een ruw schema maken van het literatuuroverzicht**
+- zet een probleem in je onderzoek onderaan, verzin titels die opbouwen naar je onderzoeksidee. 
+
+- schrijf de centrale leemte/probleemstelling (die verwijst naar de onderzoeksvragen/hypothese) onderaan een blad papier.
+- lees de literatuur opnieuw en werk terwijl je leest een algemeen schema uit van hoe je literatuuroverzicht er moet gaan uitzien.
+
+
+
+
 
 
 
