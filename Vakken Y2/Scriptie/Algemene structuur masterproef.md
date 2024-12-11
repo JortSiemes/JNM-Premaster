@@ -55,6 +55,16 @@ en zo kan er tot een onderzoeksvraag en/of hypothese gekomen worden
 
 
 
+### kenmerken onderzoeksvraag
+
+**duidelijk en specifiek**
+- ondubbelzinnig
+- lezers moeten alleen op basis van de onderzoeksvraag kunnen weten wat er precies bestudeerd wordt
+
+X *Hoe gebruiken mensen Tiktok voor nieuws?*
+V *hoe gebruiken nederlandse jongeren tussen de 15 en 18 jaar Tiktok als primaire nieuwsbron voor actuele gebeurtenissen?*
+
+
 
 
 
