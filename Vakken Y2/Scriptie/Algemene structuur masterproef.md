@@ -64,7 +64,39 @@ en zo kan er tot een onderzoeksvraag en/of hypothese gekomen worden
 X *Hoe gebruiken mensen Tiktok voor nieuws?*
 V *hoe gebruiken nederlandse jongeren tussen de 15 en 18 jaar Tiktok als primaire nieuwsbron voor actuele gebeurtenissen?*
 
+ **open en objectief**
 
+X waarom is TikTok een onbetrouwbare bron
+
+
+**Niet te eenvoudig met Ja/Nee te beantwoorden / antwoord al gekend**
+
+X Gebruiken Nederlandse jongeren Tiktok?
+V Welke rol speelt Tiktok bij het verspreiden van desinformatie onder nederlandse jongeren tussen 16 en 25 jaar?
+
+
+### Hypothese
+een beredeneerde/geinformeerde voorspelling over een relatie tussen 2 of meer variabelen; doorgaans tussen een onafhankelijke en een afhankelijke variabele
+- vb."adolescenten gebruiken de computer vooral voor entertainment
+- vb."adolescenten met computer op slaapkamer slapen minder uren dan zijn zonder computer.
+
+	- zelfde kenmerken als bij onderzoeksvraag
+	- hypothese is meer gericht dan onderzoeksvraag, doet je minder 'zweven'
+	- hypothese mag je alleen formuleren als je in de literatuur aanwijzingen hebt gevonden voor de assumptie!! (op basis van voorgaand onderzoek, vergelijkbare studies in andere landen, theoretische gevolgtrekkingen)
+	- er is niks mis met een onderzoeksvraag, maar durf ook een hypothese te formuleren als het kan
+
+#### Tips bij schrijven literatuurstudie
+schrijf voor een (onbekende) lezer
+
+beeld je tijdens het schrijven een kritische lezer in. Dit helpt je om:
+	- steeds voldoende informatie te geven
+	- dubbelzinnigheid te vermijden
+	- neutraliteit en afstandigheid
+	- geen ik vorm en wij gebruik
+	- goed gebruik te maken van tussentitels en structuuraanduiders
+		- Hou het complex maar maak het niet saai
+
+Structuuraan
 
 
 
