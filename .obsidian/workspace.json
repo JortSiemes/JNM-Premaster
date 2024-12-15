@@ -75,8 +75,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,9 +176,19 @@
               "icon": "links-coming-in",
               "title": "Backlinks for transcoding"
             }
+          },
+          {
+            "id": "a4d33bc35a3d9e93",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -201,7 +210,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5a82a5d4cafd24b4",
+  "active": "e46240856bb44aea",
   "lastOpenFiles": [
     "Vakken Y2/Factchecken/Paper/Paper_Factcheck_JortSiemes_27_11_24.docx",
     "Vakken Y2/Factchecken/Paper/Paper_Factcheck_JortSiemes_02_12_24.docx",
