@@ -1,7 +1,7 @@
 
 #todo
 - [x] Mail sturen Eelco
-- [ ] Bronvermelding in beeld branden Joris Hentenaar
-- [ ] lezen het is oorlog maar niemand die het ziet
+- [x] Bronvermelding in beeld branden Joris Hentenaar
+- [x] lezen het is oorlog maar niemand die het ziet
 
 
