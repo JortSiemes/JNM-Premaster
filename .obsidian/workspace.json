@@ -13,16 +13,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken Y2/Scriptie/Algemene structuur masterproef.md",
+                "file": "Onderwerpen/standaardgeschilpunten.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Algemene structuur masterproef"
+              "title": "standaardgeschilpunten"
+            }
+          },
+          {
+            "id": "524fc2d46915d471",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "College 1"
+            }
+          },
+          {
+            "id": "48f04a3e53fe6e69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -108,12 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakken Y2/Scriptie/Algemene structuur masterproef.md",
-                "linksCollapsed": true,
+                "file": "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/Speech van Bush analyse.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Algemene structuur masterproef"
+              "title": "Outgoing links from Speech van Bush analyse"
             }
           },
           {
@@ -164,25 +195,35 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Onderwerpen/transcoding.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for transcoding"
+              "title": "Backlinks for conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "a4d33bc35a3d9e93",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 366.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,25 +241,30 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e75035efdb60a4aa",
+  "active": "48f04a3e53fe6e69",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 1.md",
+    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/coll 10 Ret analyse Aantjes 2024.ppt",
+    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/Niet bevestigd 783311.crdownload",
+    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/coll 6 Stijlanalyse 2024.ppt",
+    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/Niet bevestigd 851449.crdownload",
+    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/coll 5 Persberichten 2024.ppt",
+    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/Niet bevestigd 115081.crdownload",
+    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 4 retorica 2024.ppt",
+    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/Niet bevestigd 721634.crdownload",
+    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/Bush transcript.doc",
+    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/Niet bevestigd 759046.crdownload",
+    "Vakken Y2/Retorica & Argumentatie in journalistiek/Introductie 2 sept RAJ.md",
+    "Vakken Y2/New media & society/College 1.md",
     "Onderwerpen/standaardgeschilpunten.md",
     "Vakken Y2/Scriptie/Algemene structuur masterproef.md",
-    "Vakken Y2/Factchecken/Paper/Paper_Factcheck_JortSiemes_27_11_24.docx",
-    "Vakken Y2/Factchecken/Paper/Paper_Factcheck_JortSiemes_02_12_24.docx",
-    "Vakken Y2/Crossmediale onderzoeksweken/Showreel College Tour_2.docx",
-    "Vakken Y2/Crossmediale onderzoeksweken/Huib Modderkolk/VragenPaulAbels.pdf",
-    "Vakken Y2/Crossmediale onderzoeksweken/Huib Modderkolk/VragenPaulAbels.docx",
-    "Vakken Y2/Crossmediale onderzoeksweken/Huib Modderkolk/Biografie Paul Abels.docx",
     "Onderwerpen/politieke rede.md",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 1.md",
     "Vakken Y1/Blok 1/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 1 Journalistiek en Redactionele Vaardigheden.md",
     "Vakken Y1/Blok 2/Argumenteren en overtuigen/Week 10.md",
     "Vakken Y1/Blok 2/Argumenteren en overtuigen/Totaal Tentamenstof AenO.md",
     "Onderwerpen/Stijl.md",
     "Onderwerpen/echo chamber.md",
-    "conflict-files-obsidian-git.md",
-    "Vakken Y2/Crossmediale onderzoeksweken/Huisstijl CT/Gradient College Tour.psd",
     "Vakken Y2/Crossmediale onderzoeksweken/Huisstijl CT/Gradient College Tour.png",
     "Vakken Y2/Crossmediale onderzoeksweken/Feedback 12-11.md",
     "Vakken Y2/New media & society/College 5.md",
@@ -230,15 +276,9 @@
     "Vakken Y2/Retorica & Argumentatie in journalistiek/Tentamen Retorica 31-10.md",
     "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 6.md",
     "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 5.md",
-    "Vakken Y2/Crossmediale onderzoeksweken/EliotHiggins/~$aaiboek_Gastinterview_ChristiaanTriebert.docx",
-    "Vakken Y2/Crossmediale onderzoeksweken/EliotHiggins/Draaiboek_Gastinterview_ChristiaanTriebert.pdf",
-    "Vakken Y2/Crossmediale onderzoeksweken/EliotHiggins/Draaiboek_Gastinterview_ChristiaanTriebert.docx",
     "Vakken Y2/Crossmediale onderzoeksweken/College Tour.md",
     "Onderwerpen/parallax reality.md",
     "Onderwerpen/ontologische draai in mediaonderzoek.md",
-    "Onderwerpen/mediapolis.md",
-    "Onderwerpen/mass self-communication.md",
-    "Onderwerpen/invisibiliteit van media.md",
     "Beelden/Pasted image 20241010133621.png",
     "Beelden/Pasted image 20241010133517.png",
     "Beelden/Pasted image 20240325125521.png",
