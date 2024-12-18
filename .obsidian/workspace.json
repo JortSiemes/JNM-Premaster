@@ -36,21 +36,9 @@
               "icon": "lucide-file",
               "title": "College 1"
             }
-          },
-          {
-            "id": "9aa473372bf5a1fe",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -237,7 +225,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9aa473372bf5a1fe",
+  "active": "a22aa95c8e540564",
   "lastOpenFiles": [
     "Vakken Y2/Retorica & Argumentatie in journalistiek/~WRL0979.tmp",
     "Vakken Y2/Retorica & Argumentatie in journalistiek/~WRD0976.tmp",
