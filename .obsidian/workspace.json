@@ -180,6 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Onderwerpen/standaardgeschilpunten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +190,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for standaardgeschilpunten"
             }
           },
           {
