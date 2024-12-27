@@ -37,9 +37,7 @@
               "title": "College 1"
             }
           }
-        ],
-        "currentTab": 1,
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,7 +224,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a22aa95c8e540564",
+  "active": "5a82a5d4cafd24b4",
   "lastOpenFiles": [
     "Vakken Y2/Retorica & Argumentatie in journalistiek/~$ntamenOefen.docx",
     "Vakken Y2/Retorica & Argumentatie in journalistiek/~$ oktober - Retorica.docx",
