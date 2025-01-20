@@ -11,3 +11,5 @@ Volgorde:
 Inleiding = [[midden stijl]]
 kern = [[lage stijl]] (argumenteren vooral informatief, nog wel een stijlmiddel)
 slot = hoge [[stijl]]
+
+
