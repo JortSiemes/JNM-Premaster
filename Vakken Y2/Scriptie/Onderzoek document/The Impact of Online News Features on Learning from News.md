@@ -1,0 +1,4 @@
+January 2011
+[Michael Opgenhaffen](https://www.researchgate.net/profile/Michael-Opgenhaffen?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19)[Leen d'Haenens](https://www.researchgate.net/profile/Leen-Dhaenens?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19)
+
+https://www.researchgate.net/publication/235436075_The_Impact_of_Online_News_Features_on_Learning_from_News_A_Knowledge_Experiment

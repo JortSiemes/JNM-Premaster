@@ -1,0 +1,6 @@
+An exploratory study of Flemish online news (March 2011)
+
+[Michael Opgenhaffen](https://www.researchgate.net/profile/Michael-Opgenhaffen?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19)
+
+https://www.researchgate.net/publication/220167299_Multimedia_interactive_and_hypertextual_features_in_divergent_online_news_platforms_An_exploratory_study_of_Flemish_online_news
+

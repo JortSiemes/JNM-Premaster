@@ -26,12 +26,15 @@
             "id": "d2346fe8c33f1ae1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Vakken Y2/Scriptie/Bronnen/Multimedia/Simply Bells and Whistles .pdf"
+                "file": "Vakken Y2/Scriptie/Onderzoek document/The Impact of Online News Features on Learning from News.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Simply Bells and Whistles"
+              "icon": "lucide-file",
+              "title": "The Impact of Online News Features on Learning from News"
             }
           }
         ],
@@ -177,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken Y2/Scriptie/Bronnen/Multimedia/Simply Bells and Whistles .pdf",
+                "file": "Vakken Y2/Scriptie/Onderzoek document/The Impact of Online News Features on Learning from News.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +190,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Simply Bells and Whistles"
+              "title": "Backlinks for The Impact of Online News Features on Learning from News"
             }
           },
           {
@@ -225,10 +228,13 @@
   },
   "active": "d2346fe8c33f1ae1",
   "lastOpenFiles": [
-    "Vakken Y2/Scriptie/Bronnen/Vertrouwen/Journalism_trust_and_credibility.pdf",
-    "Vakken Y2/Scriptie/Bronnen/Vertrouwen/Journalism_trust_and_credibility.pdf.crdownload",
+    "Vakken Y2/Scriptie/Onderzoek document/Multimedia, interactive and hypertextual features in divergent online news platforms.md",
+    "Vakken Y2/Scriptie/Onderzoek document/The Impact of Online News Features on Learning from News.md",
+    "Vakken Y2/Scriptie/Onderzoek document/Online News Production in Flanders.md",
     "Vakken Y2/Scriptie/Onderzoek document/SIMPLY BELLS AND WHISTLES.md",
     "Vakken Y2/Scriptie/Bronnen/Multimedia/Simply Bells and Whistles .pdf",
+    "Vakken Y2/Scriptie/Bronnen/Vertrouwen/Journalism_trust_and_credibility.pdf",
+    "Vakken Y2/Scriptie/Bronnen/Vertrouwen/Journalism_trust_and_credibility.pdf.crdownload",
     "Vakken Y2/Retorica & Argumentatie in journalistiek/Tentamen Retorica 31-10.md",
     "Vakken Y2/Scriptie/Bronnen/Multimedia/Can We  Snowfall  This .pdf",
     "Vakken Y2/Scriptie/Bronnen/Multimedia/PotentialsOfDigitalLongformsInJournalismAsurveyamongmobileInternetUsersAbouttheRelevance.pdf",
@@ -239,7 +245,6 @@
     "Vakken Y2/Scriptie/Scriptietutorial Transparantie en Vertrouwen.pdf",
     "Onderwerpen/standaardgeschilpunten.md",
     "Vakken Y2/Scriptie/Onderzoek document",
-    "Vakken Y2/Scriptie/~$Multimediavoorbeelden_Scriptie.xlsx",
     "conflict-files-obsidian-git.md",
     "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 1.md",
     "Vakken Y2/Retorica & Argumentatie in journalistiek/Introductie 2 sept RAJ.md",
@@ -260,8 +265,6 @@
     "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/Speech van Bush analyse.md",
     "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 6.md",
     "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 5.md",
-    "Vakken Y2/Crossmediale onderzoeksweken/College Tour.md",
-    "Onderwerpen/parallax reality.md",
     "Beelden/Pasted image 20241010133621.png",
     "Beelden/Pasted image 20241010133517.png",
     "Beelden/Pasted image 20240325125521.png",
