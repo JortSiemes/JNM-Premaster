@@ -1,1 +1,10 @@
-{}
+{
+  "obsidian-zotero-desktop-connector:show-zotero-debug-view": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "0"
+    }
+  ]
+}
