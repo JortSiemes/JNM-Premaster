@@ -17,8 +17,9 @@ The content-connectivity domain intersects with (vertical axis) the participator
 
 ## 4 categories of digital journalism websites
 **Mainstream News Sites**, most widespread which resemble traditional journalism by offering editorial content and limited audience participation, high concentration of editorial content with closed participatory communication; 
-**Index & Category Sites**, which primarily curate and link to news from other sources, mostly concentration on editorial content and closed participatory communication. 
-**Meta & Comment Sites** analyze and critique media practices, have an concentration of mostly public connectivity **Share & Discussion Sites** focus on user interaction, fostering conversations and community engagement around news topics.
+**Index & Category Sites**, which primarily curate and link to news from other sources, mostly concentration on editorial content and closed participatory communication. (User content like blogs)
+**Meta & Comment Sites** analyze and critique media practices, have an concentration of mostly public connectivity, with mostly open participatory communication 
+**Share & Discussion Sites** focus on user interaction, fostering conversations and community engagement around news topics, that rely on open participation communication and public connectivity
 
 
 ### Mainstream News sites
