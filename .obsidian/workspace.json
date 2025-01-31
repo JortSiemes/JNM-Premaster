@@ -43,18 +43,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken Y2/Scriptie/Onderzoek document/Online News Production in Flanders.md",
+                "file": "Onderwerpen/Onderzoeksmethode.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Online News Production in Flanders"
+              "title": "Onderzoeksmethode"
             }
           }
         ],
-        "currentTab": 2,
-        "stacked": true
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken Y2/Scriptie/Onderzoek document/SIMPLY BELLS AND WHISTLES.md",
+                "file": "Onderwerpen/Onderzoeksmethode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +204,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SIMPLY BELLS AND WHISTLES"
+              "title": "Backlinks for Onderzoeksmethode"
             }
           },
           {
@@ -223,7 +222,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 366.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,12 +241,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e46240856bb44aea",
+  "active": "39ea903d4b830506",
   "lastOpenFiles": [
+    "Vakken Y1/Blok 1/Methoden en theorieen van Journalism Studies/onderwerpen/Inhoudsanalyse.md",
+    "Vakken Y2/Factchecken/College 2.md",
+    "Vakken Y2/Scriptie/Onderzoek document/Online News Production in Flanders.md",
+    "Vakken Y2/Scriptie/Onderzoek document/SIMPLY BELLS AND WHISTLES.md",
     "Vakken Y2/Scriptie/Onderzoek document/Multimedia, interactive and hypertextual features in divergent online news platforms.md",
     "Vakken Y2/Scriptie/Onderzoek document/The Impact of Online News Features on Learning from News.md",
-    "Vakken Y2/Scriptie/Onderzoek document/SIMPLY BELLS AND WHISTLES.md",
-    "Vakken Y2/Scriptie/Onderzoek document/Online News Production in Flanders.md",
     "conflict-files-obsidian-git.md",
     "Vakken Y2/Scriptie/Bronnen/Multimedia/Simply Bells and Whistles .pdf",
     "Vakken Y2/Scriptie/Bronnen/Vertrouwen/Journalism_trust_and_credibility.pdf",
@@ -278,8 +280,6 @@
     "Vakken Y2/New media & society/College 3.md",
     "Vakken Y2/New media & society/Tentamen 30-10.md",
     "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/Speech van Bush analyse.md",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 6.md",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 5.md",
     "Beelden/Pasted image 20241010133621.png",
     "Beelden/Pasted image 20241010133517.png",
     "Beelden/Pasted image 20240325125521.png",
