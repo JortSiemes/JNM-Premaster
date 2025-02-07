@@ -51,9 +51,24 @@
               "icon": "lucide-file",
               "title": "Onderzoeksmethode"
             }
+          },
+          {
+            "id": "0b8e53b40463392a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -194,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Onderwerpen/Onderzoeksmethode.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +219,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Onderzoeksmethode"
+              "title": "Backlinks for conflict-files-obsidian-git"
             }
           },
           {
@@ -241,28 +256,39 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "39ea903d4b830506",
+  "active": "0b8e53b40463392a",
   "lastOpenFiles": [
+    "Onderwerpen/Onderzoeksmethode.md",
+    "conflict-files-obsidian-git.md",
+    "Vakken Y2/Crossmediale onderzoeksweken/CT_SpotifyIMGS/StepCT.jpg",
+    "Vakken Y2/Crossmediale onderzoeksweken/CT_SpotifyIMGS/SonjaCT.jpg",
+    "Vakken Y2/Crossmediale onderzoeksweken/CT_SpotifyIMGS/SinanCT.jpg",
+    "Vakken Y2/Crossmediale onderzoeksweken/CT_SpotifyIMGS/NoaCT.jpg",
+    "Vakken Y2/Crossmediale onderzoeksweken/CT_SpotifyIMGS/Nasrah_CT.jpg",
+    "Vakken Y2/Crossmediale onderzoeksweken/CT_SpotifyIMGS/JanineCT.jpg",
+    "Vakken Y2/Crossmediale onderzoeksweken/CT_SpotifyIMGS/IrisCT.jpg",
+    "Vakken Y2/Crossmediale onderzoeksweken/CT_SpotifyIMGS/HuibCT.jpg",
+    "Vakken Y2/Crossmediale onderzoeksweken/CT_SpotifyIMGS/DerkCT.jpg",
+    "Vakken Y2/Crossmediale onderzoeksweken/CT_SpotifyIMGS",
+    "Vakken Y2/Scriptie/Zotero/translators/Library Catalog (Encore).js",
+    "Vakken Y2/Scriptie/Zotero/translators/Library Catalog (Dynix).js",
+    "Vakken Y2/Scriptie/Zotero/storage/U8TJVUAG/image.jpg",
+    "Vakken Y2/Scriptie/Zotero/translators/ISTC.js",
+    "Vakken Y2/Scriptie/Zotero/translators/IPCC.js",
+    "Vakken Y2/Scriptie/Zotero/translators/Internet Archive Wayback Machine.js",
+    "Vakken Y2/Scriptie/Zotero/translators/Internet Archive Scholar.js",
+    "Vakken Y2/Scriptie/Zotero/translators/International Nuclear Information System.js",
+    "Vakken Y2/Scriptie/Zotero/translators/Intellixir.js",
+    "Vakken Y2/Scriptie/Zotero/translators/Inter-Research Science Center.js",
     "Vakken Y1/Blok 1/Methoden en theorieen van Journalism Studies/onderwerpen/Inhoudsanalyse.md",
     "Vakken Y2/Factchecken/College 2.md",
     "Vakken Y2/Scriptie/Onderzoek document/Online News Production in Flanders.md",
     "Vakken Y2/Scriptie/Onderzoek document/SIMPLY BELLS AND WHISTLES.md",
     "Vakken Y2/Scriptie/Onderzoek document/Multimedia, interactive and hypertextual features in divergent online news platforms.md",
     "Vakken Y2/Scriptie/Onderzoek document/The Impact of Online News Features on Learning from News.md",
-    "conflict-files-obsidian-git.md",
-    "Vakken Y2/Scriptie/Bronnen/Multimedia/Simply Bells and Whistles .pdf",
-    "Vakken Y2/Scriptie/Bronnen/Vertrouwen/Journalism_trust_and_credibility.pdf",
-    "Vakken Y2/Scriptie/Bronnen/Vertrouwen/Journalism_trust_and_credibility.pdf.crdownload",
     "Vakken Y2/Retorica & Argumentatie in journalistiek/Tentamen Retorica 31-10.md",
-    "Vakken Y2/Scriptie/Bronnen/Multimedia/Can We  Snowfall  This .pdf",
-    "Vakken Y2/Scriptie/Bronnen/Multimedia/PotentialsOfDigitalLongformsInJournalismAsurveyamongmobileInternetUsersAbouttheRelevance.pdf",
-    "Vakken Y2/Scriptie/Bronnen/Lisa Belt_Bachelor thesis_final submission_PDF.pdf",
-    "Vakken Y2/Scriptie/Bronnen/Multimedia/Immersive Longform Storytelling_25_01_07_15_13_33.pdf",
     "Vakken Y2/Scriptie/Algemene structuur masterproef.md",
-    "Vakken Y2/Scriptie/PropositieScriptie_Vertrouwen_JortSiemes_Pleijter.pdf",
-    "Vakken Y2/Scriptie/Scriptietutorial Transparantie en Vertrouwen.pdf",
     "Onderwerpen/standaardgeschilpunten.md",
-    "Vakken Y2/Scriptie/Onderzoek document",
     "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 1.md",
     "Vakken Y2/Retorica & Argumentatie in journalistiek/Introductie 2 sept RAJ.md",
     "Vakken Y2/New media & society/College 1.md",
@@ -272,23 +298,12 @@
     "Vakken Y1/Blok 2/Argumenteren en overtuigen/Totaal Tentamenstof AenO.md",
     "Onderwerpen/Stijl.md",
     "Onderwerpen/echo chamber.md",
-    "Vakken Y2/Crossmediale onderzoeksweken/Huisstijl CT/Gradient College Tour.png",
     "Vakken Y2/Crossmediale onderzoeksweken/Feedback 12-11.md",
     "Vakken Y2/New media & society/College 5.md",
     "Vakken Y2/New media & society/College 6.md",
     "Vakken Y2/New media & society/College 4.md",
     "Vakken Y2/New media & society/College 3.md",
     "Vakken Y2/New media & society/Tentamen 30-10.md",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/Speech van Bush analyse.md",
-    "Beelden/Pasted image 20241010133621.png",
-    "Beelden/Pasted image 20241010133517.png",
-    "Beelden/Pasted image 20240325125521.png",
-    "Beelden/Pasted image 20240325125312.png",
-    "Beelden/Pasted image 20240325125208.png",
-    "Beelden/Pasted image 20231030195610.png",
-    "Pasted image 20241010133621.png",
-    "Pasted image 20241010133517.png",
-    "Untitled.canvas",
-    "Vakken Y2/Crossmediale onderzoeksweken/WhatsApp Image 2024-09-14 at 15.18.48 (1).jpeg"
+    "Untitled.canvas"
   ]
 }
