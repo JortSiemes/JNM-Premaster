@@ -1,0 +1,38 @@
+<fulfillmentToken fulfillmentType="loan" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:9cb786e8-586a-4950-8901-fff8d2ee6025</distributor>
+  <operatorURL>https://acs.ebookcentral.proquest.com/fulfillment</operatorURL>
+  <transaction>31360231_581473155</transaction>
+  <purchase>2025-02-25T03:55:54+00:00</purchase>
+  <expiration>2025-02-25T09:55:54+00:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:00000000-0000-0000-0000-000031360231</resource>
+    <resourceItem>0</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Two Decades of Multimedia Storytelling in Digital Journalism</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Planer, Rosanna;</dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Springer Vieweg. in Springer Fachmedien Wiesbaden GmbH</dc:publisher>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">31360231</dc:identifier>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/pdf</dc:format>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:00000000-0000-0000-0000-000031360231</resource>
+      <permissions>
+        <display>
+          <duration>259199</duration>
+        </display>
+        <excerpt>
+          <duration>259199</duration>
+          <count initial="72" max="72" incrementInterval="3599"/>
+        </excerpt>
+        <print>
+          <duration>259199</duration>
+          <count initial="144" max="144" incrementInterval="1799"/>
+        </print>
+        <play>
+          <duration>259199</duration>
+        </play>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>NM9iO5DSBu5J3ONSuG/XsgRDeQg=</hmac>
+</fulfillmentToken>
