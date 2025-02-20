@@ -45,15 +45,36 @@
               "state": {
                 "file": "Vakken Y2/Innovaties in de Journalistiek/College 1.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "College 1"
             }
+          },
+          {
+            "id": "7171a1db0d82179d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -72,7 +93,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -241,7 +263,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "39ea903d4b830506",
+  "active": "7171a1db0d82179d",
   "lastOpenFiles": [
     "Vakken Y2/Stage/RutgerBetlem.docx",
     "Vakken Y2/Scriptie/ScriptieOpzetTK_17_02_25.docx",
