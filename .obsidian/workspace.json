@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken Y2/Innovaties in de Journalistiek/College 1.md",
+                "file": "Vakken Y2/Innovaties in de Journalistiek/College 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -58,23 +58,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "College 1"
-            }
-          },
-          {
-            "id": "7171a1db0d82179d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "title": "College 2"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -263,8 +251,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7171a1db0d82179d",
+  "active": "39ea903d4b830506",
   "lastOpenFiles": [
+    "Vakken Y2/Innovaties in de Journalistiek/College 1.md",
+    "Vakken Y2/Innovaties in de Journalistiek/College 2.md",
     "Vakken Y2/Stage/RutgerBetlem.docx",
     "Vakken Y2/Scriptie/ScriptieOpzetTK_17_02_25.docx",
     "Vakken Y2/Scriptie/ScriptieOpzetTK_15_02_25.docx",
@@ -275,13 +265,11 @@
     "Vakken Y2/Scriptie/ScriptieOpzetTK_08_02_25.docx",
     "Vakken Y2/Scriptie/ScriptieOpzetTK_03_02_25.pdf",
     "Vakken Y2/Scriptie/ScriptieOpzetTK_03_02_25.docx",
-    "Vakken Y2/Scriptie/Meetings/ScriptieOpzetTK_03_02_25.docx",
     "Vakken Y2/Crossmediale onderzoeksweken/Interview_MarijnJOngsma/Ondernemers geven Nederland een 6_ ‘Het gaat de verkeerde kant op’ _ Macro met Marijn Jongsma (FD) 9-3 screenshot.png",
     "Vakken Y2/Crossmediale onderzoeksweken/Interview_MarijnJOngsma/Ondernemers geven Nederland een 6_ ‘Het gaat de verkeerde kant op’ _ Macro met Marijn Jongsma (FD) 5-11 screenshot.png",
     "Vakken Y2/Crossmediale onderzoeksweken/Interview_MarijnJOngsma/Ondernemers geven Nederland een 6_ ‘Het gaat de verkeerde kant op’ _ Macro met Marijn Jongsma (FD) 2-29 screenshot.png",
     "Vakken Y2/Crossmediale onderzoeksweken/Interview_MarijnJOngsma/Marijn.png",
     "Vakken Y2/Scriptie/Onderzoek document/SIMPLY BELLS AND WHISTLES.md",
-    "Vakken Y2/Innovaties in de Journalistiek/College 1.md",
     "Vakken Y2/Scriptie/Onderzoek document/The Impact of Online News Features on Learning from News.md",
     "Onderwerpen/Onderzoeksmethode.md",
     "conflict-files-obsidian-git.md",
