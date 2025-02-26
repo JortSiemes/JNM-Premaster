@@ -1,15 +1,15 @@
 {
 	"translatorID": "a14ac3eb-64a0-4179-970c-92ecc2fec992",
+	"translatorType": 4,
 	"label": "Scopus",
 	"creator": "Michael Berkowitz, Rintze Zelle and Avram Lyon",
 	"target": "^https?://www\\.scopus\\.com[^/]*",
 	"minVersion": "2.1",
-	"maxVersion": "",
+	"maxVersion": null,
 	"priority": 100,
 	"inRepository": true,
-	"translatorType": 4,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2023-08-25 02:42:41"
+	"lastUpdated": "2025-02-20 03:45:00"
 }
 
 /*
@@ -48,7 +48,8 @@ function getEID(url) {
 function getSearchResults(doc, checkOnly) {
 	var items = {};
 	var found = false;
-	var rows = doc.querySelectorAll('tr[id *= resultDataRow] td a[title = "Show document details"], tr[class *= "resultsRow"] h4 a[title = "Show document details"], div.table-title h4 a');
+	// Last version added 2025-02-19 -- not clear we need the others still
+	var rows = doc.querySelectorAll('tr[id *= resultDataRow] td a[title = "Show document details"], tr[class *= "resultsRow"] h4 a[title = "Show document details"], div.table-title h4 a, div.document-results-list-layout table h3 a');
 	for (var i = 0; i < rows.length; i++) {
 		var href = rows[i].href;
 		var title = ZU.trimInternal(rows[i].textContent);
