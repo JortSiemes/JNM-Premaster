@@ -1,0 +1,148 @@
+Skip to main content
+
+An official website of the United States government
+
+Here’s how you know
+ 
+
+COMPONENTS
+
+Range slider
+
+A range slider allows users to choose an approximate number from a range.
+
+Component preview
+Range slider
+Component code
+ Guidance
+ When to use the range slider component
+When the range is more important than precision. For instance, it could be more important for a target price selector to communicate where the target price falls within a certain range than the precise dollar amount selected.
+When a relative value is more important than an exact value. For instance, a volume slider is typically more focussed on the relative loudness of the output rather than the specific decibel level.
+ When to consider something else
+Use a regular text input if a user needs to enter a precise number.
+Usability guidance
+Highlight the control when selected. The slider control should change color to indicate it is active when a user selects it.
+The control must be draggable. Users should be able to drag the slider control or select somewhere along the slider itself to change the value.
+Label the limits of the range. When appropriate, label the ends of the slider with the limits of the range (for example: “0/100”, “small/large” or “less expensive/more expensive”).
+Don’t be too granular. In a range slider, the relative value is more important than the specific value, so set the step attribute so it’s not too granular. By setting the step to a value of 10-20% of the total range you prevent unnecessary precision and cognitive strain in your users. For example, set step="10" in a total range of 100.
+ Accessibility guidance
+Customize form controls accessibly. If you customize this component, ensure that it continues to meet the accessibility requirements that apply to all form controls.
+ Using the range slider component
+Set the min and max attribute of the input element to correspond to the instructions or labels that accompany the slider.
+Range slider initialization properties
+Property Description Default
+
+data-text-unit
+
+Adds a unit to screen reader callouts. The unit will be read after the current value. For example, adding a value of “stars” enables a readout like “3.5 stars of 5.”
+
+Undefined by default
+
+data-text-preposition
+
+Changes the preposition between current value and max value in screen reader readouts. For example, adding a value with the Spanish translation “de” enables a readout “like 20 de 100”. When adding a range slider to a non-English page, be sure to update the preposition as necessary.
+
+of
+
+Range slider settings
+
+This component has no settings.
+
+Range slider variants
+
+This component has no variants.
+
+References
+Slider Design: Rules of Thumb [Nielsen Norman Group]
+Four Dangerous Navigation Approaches that Can Increase Cognitive Strain [Nielsen Norman Group; See example #4]
+Package
+Package usage: @forward "usa-range";
+Dependencies: uswds-fonts, usa-label
+Latest updates
+
+Meaningful code and guidance updates are listed in the following table:
+
+Date
+USWDS version
+Affects
+Breaking
+Description
+2023-11-09
+3.7.0
+Accessibility
+Guidance
+JavaScript
+Markup
+No
+
+Added optional data attributes to customize text for screen readers. The data-text-unit attribute provides additional context to screen reader users, and data-text-preposition allows for proper preposition translations on non-English pages. More information: USWDS#5472
+
+2023-11-09
+3.7.0
+Accessibility
+Markup
+No
+
+Removed redundant ARIA attributes to improve the screen reader experience. To incorporate these changes, update your range component markup. More information: uswds#5413
+
+2023-06-09
+3.5.0
+Accessibility
+Styles
+No
+
+Improved legibility in forced colors mode. Adds a consistent border in forced colors mode. More information: uswds#5147
+
+2022-04-28
+3.0.0
+Assets
+JavaScript
+Styles
+Breaking
+
+Updated to Sass module syntax and new package structure. More information: uswds#4656
+
+2022-04-11
+2.13.3
+Accessibility
+Styles
+No
+
+Added support for forced colors mode. All our components now support proper display when users have a forced colors mode set in their operating system. More information: uswds#4610
+
+2021-08-18
+2.12.1
+Accessibility
+Markup
+No
+
+Added appropriate ARIA attributes to the input element. More information: uswds#4270
+
+Was this page helpful?
+Become part of the community
+
+USWDS is an active open source community of government engineers, content specialists, and designers. Our contributors both in and out of government support dozens of agencies and nearly 200 sites.
+
+Have an idea or an issue?
+Reach out in GitHub
+Engage with the community
+Find a channel that works for you
+Subscribe to our newsletter
+Sign up for USWDS updates
+Get support
+Email the USWDS team
+Looking for USWDS v1 documentation? Visit v1.designsystem.digital.gov
+
+designsystem.digital.gov
+
+An official website of theGeneral Services Administration
+
+About GSA
+Accessibility statement
+FOIA requests
+No FEAR Act data
+Office of the Inspector General
+Performance reports
+Privacy policy
+Looking for U.S. government information and services?
+Visit USA.gov
