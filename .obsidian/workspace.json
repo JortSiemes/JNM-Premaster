@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken Y2/Innovaties in de Journalistiek/College 2.md",
+                "file": "Vakken Y2/Innovaties in de Journalistiek/College 3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -58,7 +58,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "College 2"
+              "title": "College 3"
             }
           }
         ],
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Vakken Y2/Innovaties in de Journalistiek/College 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for conflict-files-obsidian-git"
+              "title": "Backlinks for College 3"
             }
           },
           {
@@ -232,8 +232,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5,
-    "collapsed": true
+    "width": 366.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,8 +252,12 @@
   },
   "active": "39ea903d4b830506",
   "lastOpenFiles": [
-    "Vakken Y2/Innovaties in de Journalistiek/College 1.md",
     "Vakken Y2/Innovaties in de Journalistiek/College 2.md",
+    "Vakken Y2/Innovaties in de Journalistiek/College 3.md",
+    "Vakken Y2/Scriptie/Zotero/storage/9I3Y6AJD/range-slider.html",
+    "Vakken Y2/Scriptie/Zotero/storage/9I3Y6AJD",
+    "Vakken Y2/Scriptie/ScriptieOpzetTK_06_03_25.docx",
+    "Vakken Y2/Innovaties in de Journalistiek/College 1.md",
     "Vakken Y2/Stage/RutgerBetlem.docx",
     "Vakken Y2/Scriptie/ScriptieOpzetTK_17_02_25.docx",
     "Vakken Y2/Scriptie/ScriptieOpzetTK_15_02_25.docx",
@@ -262,9 +265,6 @@
     "Vakken Y2/Scriptie/ScriptieOpzetTK_11_02_25_feedback.docx",
     "Vakken Y2/Scriptie/ScriptieOpzetTK_11_02_25.pdf",
     "Vakken Y2/Scriptie/ScriptieOpzetTK_11_02_25.docx",
-    "Vakken Y2/Scriptie/ScriptieOpzetTK_08_02_25.docx",
-    "Vakken Y2/Scriptie/ScriptieOpzetTK_03_02_25.pdf",
-    "Vakken Y2/Scriptie/ScriptieOpzetTK_03_02_25.docx",
     "Vakken Y2/Crossmediale onderzoeksweken/Interview_MarijnJOngsma/Ondernemers geven Nederland een 6_ ‘Het gaat de verkeerde kant op’ _ Macro met Marijn Jongsma (FD) 9-3 screenshot.png",
     "Vakken Y2/Crossmediale onderzoeksweken/Interview_MarijnJOngsma/Ondernemers geven Nederland een 6_ ‘Het gaat de verkeerde kant op’ _ Macro met Marijn Jongsma (FD) 5-11 screenshot.png",
     "Vakken Y2/Crossmediale onderzoeksweken/Interview_MarijnJOngsma/Ondernemers geven Nederland een 6_ ‘Het gaat de verkeerde kant op’ _ Macro met Marijn Jongsma (FD) 2-29 screenshot.png",
@@ -298,7 +298,6 @@
     "Vakken Y2/Crossmediale onderzoeksweken/Feedback 12-11.md",
     "Vakken Y2/New media & society/College 5.md",
     "Vakken Y2/New media & society/College 6.md",
-    "Vakken Y2/New media & society/College 4.md",
     "Untitled.canvas"
   ]
 }
