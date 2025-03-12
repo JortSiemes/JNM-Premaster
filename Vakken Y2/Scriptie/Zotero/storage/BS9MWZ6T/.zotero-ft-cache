@@ -1,0 +1,130 @@
+MAIN MENU
+SKIP TO CONTENT
+TUTORIALS
+TOOLS
+JOBS
+BOOK STORE
+SUBSCRIBE
+TWITTERVIMEORSS
+HOME ABOUT ADVERTISE SUBSCRIBE
+MultimediaShooter
+keeping track, so you don't have to…
+The ‘Snow Fall’ effect and dissecting the multimedia longform narrative
+
+By Jeremy Rue
+
+“It’s become a verb in our newsroom,” a New York Times graphics producer tells me. “People are now saying, ‘can we snowfall this story?’”
+
+Snow Fall: The Avalanche at Tunnel Creek has become a watershed in multimedia journalism. The story by John Branch recently won a Pulitzer prize in feature writing, and as noted by the Pulitzer website it was “a project enhanced by its deft integration of multimedia elements.”
+
+As a journalism educator, I’m constantly collecting links to examples of stories that attempt innovate and redefine the narrative form online. For years, story structures online have mostly been a repurposing of legacy formats — TV, radio and print. While we are starting to see the journalism industry leverage digital media in very powerful ways, more often it’s a complementary component to a more traditional story structure. For example, you might see an interactive graphic or map or audio slideshow off to the side of a text story.
+
+Then came Snow Fall.
+
+It was posted on the front page of the NYTimes.com website in late 2012. The day it published, I received a dozen e-mails from faculty members, students and non-journalism colleagues with messages akin to ‘Hey, did you see this?’
+
+A few of us at the Berkeley j-school who specialize in multimedia journalism — Richard Koci Hernandez, Paul Grabowicz and myself — have been poring over the project, trying to decipher what it brings to the table and how it might exemplify future story structures.
+
+The integration of multimedia in Snow Fall was purposeful. As New York Times Graphics Director Steve Duenes explained in an interview with Poynter Online, they were looking to find ways to create a seamless experience, “…So it didn’t feel like you were taking a detour, but the multimedia was part of the one narrative flow.”
+
+Beyond the multimedia integration, there were various technical and design components brought into play:
+
+There are silent videos that automatically play; some of them providing a graphical backdrop, others as informative graphics.
+There is a scrolling mechanism (called jquery.inview) which will trigger actions as the user scrolls. For example, it will play a video, graphic animation or change some CSS properties like fading the background.
+A “curtain” effect that reveals or covers images and videos as the user scrolls.
+
+While some of these are simple design embellishments, their power lies in the emotional response they trigger as you venture through the story — and I use “venture” intentionally, because this is the feeling that it evokes. Effective design triggers an emotional response which can enhance the story structure.
+
+Video Animations
+
+From the opening video animation — which could have just been a static image — the viewer is taken to a barren and ominous place. Using silent videos instead of still images is a much more effective way of conveying this sense of place.
+
+Example of a Cinemagraph
+
+I am seeing more of this use of video animation in place of static images in projects done by our grad students. It’s a way of making static design come alive, similar to the way portraits stare at their gazers in the Harry Potter world, or how Cinemagraphs can elicit a captivating — albiet sometimes creepy — viewer response.
+
+In Snow Fall, the opening animated images set the mood of the project in a similar fashion to background music setting the mood of a movie. It creates an atmosphere from the very moment the project opens. It’s important that these videos are silent and repetitive. They aren’t narratives — they aren’t meant to be watched or played in the same fashion as a stand-alone video. Also, auto-playing audio on websites is considered poor design practice and annoying to users.
+
+I expect we will be seeing many more video animations as a design element in future online journalism packages.
+
+Scrolling
+
+Next, let’s look at the various scrolling mechanisms in play. I am a proponent of using scrolling as a narrative device, even when the primary medium is not text. It is a new trend I’ve noticed and very different from the traditional non-scrolling routes such as clicking on arrows or tabs.
+
+One example of a scrollable narrative is a blog post by Cabel Sasser, co-founder of Panic software company (and not a professional journalist). He wrote a fascinating and suspenseful account of exploring the basement of the old Oregonian building. In this piece, which is simply a collection of photos and some small snippets of text, scrolling is the method used to advance the narrative. This creates suspense going from photo to photo, unveiling more and more of the narrative as the reader scrolls to explore this world.
+
+In more traditional journalism environments, this might have been a slideshow, which I think would have completely ruined the experience.
+
+Global Post’s America The Gutted project is all on one long web page in which the users scrolls down to see the different sections.
+
+We also see the trend toward scrolling in big online news packages. Global Post’s America The Gutted piece piece was built as a single long webpage rather than paginated into separate pages. In the past, this type of single-page design convention was discouraged because it added to the load-time of the page, and bandwidth was at a premium. But with the proliferation of broadband, some web producers are opting for fewer separate pages within a single story and more content on a single page.
+
+Scrolling also allows people to get a glimpse of what to expect from the package by quickly going down the page and scanning the content. Web usability studies show that users like to skim content, especially when presented with a large quantity of it. We’ve noticed that our journalism students similarly tend to scan through a piece before pausing to read or watch it.
+
+Curtain
+
+ESPN’s project on Doc Ellis uses a curtain effect to reveal each section of the project.
+
+Another mechanism used in the Snow Fall piece was the curtain effect, which creates the sense of revealing or concealing panels of content as the user scrolls. This was most notably used in a ESPN piece on Pittsburgh Pirates pitcher Doc Ellis.
+
+The curtain effect serves a few different purposes. Initially, it’s what my colleague Richard Koci Hernandez refers to as “eye candy,” a design embellishment that wows the user, and draws them into the story. but this effect is ephemeral and will lose its impact as more and more people use it and it becomes more commonplace.
+
+The curtain effect also makes the process of scrolling more playful and adds a sense of mystery as the story unfolds as the curtain rises.
+
+One of our graduate students, Erik Reyna, used this technology, called Curtain.js, in a story about homelessness. The curtain effect revealed different graphics and photos from the project, and encouraged readers to scroll through the piece.
+
+Summing up
+
+All of these components together create a more immersive experience for the viewer, like that found in traditional media like documentaries or long-form narratives. In a digital world, creating this experience needs to include design conventions and leveraging new technological innovations to engage readers. All of this is experimental, but my hope is journalists will analyze and build on projects like Snow Fall so we can more effectively deliver news and other content to the public.
+
+by koci hernandez on April 21, 2013
+Categories: Guest Post, Multimedia
+4  1
+Post navigation
+← “Silent Storytelling: Motion Speaks Louder Than Words” GUEST post by Danny Groner
+4 comments
+ Peter DeLaunay says:
+April 24, 2013 at 7:13 am
+
+Snow Fall multimedia applications can apply to the full spectrum of external communications…as a loyal NYT subscriber, I value the innovation and applaud extending journalism in this way. Oh, and I learned to ski at the Steven’s Pass ski area, and valued ‘The Avalanche at Tunnel Creek’ as a warning that avalanches don’t know you are an expert skier/boarder. Pulitzer was well deserved!
+
+Leave a Reply
+
+Your email address will not be published. Required fields are marked *
+
+Name *
+
+Email *
+
+Website
+
+Comment
+
+Quick Links
+10000words
+A Photo A Day
+CyberJournalist.net
+FrameWork LATimes
+Interactive Narratives
+Journerdism
+MagnumInMotion
+Mastering Multimedia
+MediaStorm Blog
+MercuryNewsPhoto
+New York Times Lens Blog
+Photojournalism Links
+The Click
+
+Recent Posts
+The ‘Snow Fall’ effect and dissecting the multimedia longform narrative
+“Silent Storytelling: Motion Speaks Louder Than Words” GUEST post by Danny Groner
+Limited Edition iPhoneography from CanvasPop
+Embrace the Remix | Kirby Ferguson explores creativity
+AFTER THE FALL by Matt Black
+Recent Comments
+Peter DeLaunay on The ‘Snow Fall’ effect and dissecting the multimedia longform narrative
+Building Multimedia Stories » Blog Archive » COJO 3530, Final Weeks: Video Editing on The ‘Snow Fall’ effect and dissecting the multimedia longform narrative
+O efeito de Snow Fall nas narrativas multimédia : Ponto Media on The ‘Snow Fall’ effect and dissecting the multimedia longform narrative
+RT @jrue: The “Snow Fall” effect and dissecting th… « telesle on twitter on The ‘Snow Fall’ effect and dissecting the multimedia longform narrative
+Jandro on Book Store
+Powered by WordPress | Theme: Immersion by Graph Paper Press.
