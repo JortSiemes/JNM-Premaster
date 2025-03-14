@@ -1,0 +1,607 @@
+Publication loaded
+1
+/
+10
+search
+group_add
+more_horiz
+get_app
+Science Advances
+Volume 8, Issue 18
+May 2022
+ARTICLE
+News credibility labels have limited average effects on news diet quality and fail to reduce misperceptions
+View article page
+Kevin Aslett, Andrew M. Guess, Richard Bonneau, Jonathan Nagler, and Joshua A. Tucker
+Copyright © 2022 The Authors, some rights reserved; exclusive licensee American Association for the Advancement of Science. No claim to original U.S. Government Works. Distributed under a Creative Commons Attribution License 4.0 (CC BY).
+https://doi.org/10.1126/sciadv.abl3844
+open_in_new
+Publisher
+American Association for the Advancement of Science
+eISSN
+2375-2548
+Received
+July 9, 2021
+Accepted
+March 18, 2022
+Published in issue
+May 6, 2022
+eLocator
+eabl3844
+Abstract
+As the primary arena for viral misinformation shifts toward transnational threats, the search continues for scalable countermeasures compatible with principles of transparency and free expression. We conducted a randomized field experiment evaluating the impact of source credibility labels embedded in users’ social feeds and search results pages. By combining representative surveys (n = 3337) and digital trace data (n = 968) from a subset of respondents, we provide a rare ecologically valid test of such an intervention on both attitudes and behavior. On average across the sample, we are unable to detect changes in real-world consumption of news from low-quality sources after 3 weeks. We can also rule out small effects on perceived accuracy of popular misinformation spread about the Black Lives Matter movement and coronavirus disease 2019. However, we present suggestive evidence of a substantively meaningful increase in news diet quality among the heaviest consumers of misinformation. We discuss the implications of our findings for scholars and practitioners.
+Abstract
+News credibility labels have limited average effects on news diet quality.
+Aslett
+ 
+et al
+.,
+ 
+Sci. Adv.
+ 
+8
+, eabl3844 (2022)
+ 
+6 May 2022
+S C I E N C E A D V A N C E S
+ 
+|
+ 
+R E S E A R C H A R T I C L E
+1 of 10
+
+
+S O C I A L S C I E N C E S
+
+
+News credibility labels have limited average effects
+
+
+on
+ 
+news diet quality and
+ 
+fail to
+ 
+reduce misperceptions
+
+
+Kevin
+ 
+Aslett
+1
+
+
+*, Andrew M.
+ 
+Guess
+2
+
+
+, Richard
+ 
+Bonneau
+1,3
+
+
+, Jonathan
+ 
+Nagler
+1,4
+
+
+, Joshua A.
+ 
+Tucker
+1,4
+
+
+As the primary arena for viral misinformation shifts toward transnational threats, the search continues for scal-
+
+
+able countermeasures compatible with principles of transparency and free expression. We conducted a random-
+
+
+ized field experiment evaluating the impact of source credibility labels embedded in users’ social feeds and search
+
+
+results pages. By combining representative surveys (
+n
+ 
+=
+ 
+3337) and digital trace data (
+n
+ 
+=
+ 
+968) from a subset of re-
+
+
+spondents, we provide a rare ecologically valid test of such an intervention on both attitudes and behavior. On
+
+
+average across the sample, we are unable to detect changes in real-world consumption of news from low-quality
+
+
+sources after 3 weeks. We can also rule out small effects on perceived accuracy of popular misinformation spread
+
+
+about the Black Lives Matter movement and coronavirus disease 2019. However, we present suggestive evidence
+
+
+of a substantively meaningful increase in news diet quality among the heaviest consumers of misinformation. We
+
+
+discuss the implications of our findings for scholars and practitioners.
+
+
+INTRODUCTION
+
+
+The internet and social media have drastically decreased the cost of
+
+
+disseminating information by reducing reliance on traditional gate-
+
+
+keepers. As a consequence of this openness and availability, news
+
+
+and information sources have flourished from a variety of ideolog-
+
+
+ical and cultural perspectives. The resulting cacophony has encouraged
+
+
+participation by previously underrepresented voices and enabled
+
+
+criticism of dominant authorities. At the same time, it has intersected
+
+
+with existing political divisions in ways that have contributed to pa-
+
+
+thologies in American political discourse including the spread of
+
+
+misinformation (
+1
+–
+5
+), disagreements about basic facts related to
+
+
+governance and policy (
+6
+,
+ 
+7
+), and lowered trust in established me-
+
+
+dia (
+8
+). Of particular concern is the possibility that these problems
+
+
+are interlinked: As political divisions widen, partisan media alienate
+
+
+people from authoritative sources, which could make it more diffi-
+
+
+cult to counteract potentially corrosive—and in the case of public
+
+
+health during a pandemic, life-threatening (
+9
+)—misinformation.
+
+
+Over the past several years, scholars, technologists, and policy-
+
+
+makers have proposed a number of solutions intended to reduce
+
+
+exposure to misleading information. These range from relatively in-
+
+
+trusive measures such as algorithmic downranking to subtle warn-
+
+
+ings and labels targeted at specific factual claims (
+10
+,
+ 
+11
+) and to
+
+
+general efforts to boost digital media literacy skills (
+12
+,
+ 
+13
+). A key
+
+
+challenge in these efforts is how to balance the strength of an inter-
+
+
+vention with potential negative externalities in the form of unin-
+
+
+tended spillover effects (
+14
+,
+ 
+15
+) or limits on individual autonomy
+
+
+and freedom of expression. With this tension in mind, we focus on
+
+
+simple feedback in the form of informational labels designed to edu-
+
+
+cate people about the quality of sources that they consume and view
+
+
+in their search or social media feeds (
+16
+). This approach builds on
+
+
+humans’ tendency to rely on cognitive shortcuts and heuristics, which,
+
+
+depending on context, can be relatively informative (
+17
+,
+ 
+18
+) or poten-
+
+
+tially distorting (
+19
+). In addition to being scalable relative to fact-checks,
+
+
+source labels are relevant for a broad array of publishers across the
+
+
+spectrum of reliability, rather than merely those designated as pur-
+
+
+veyors of misinformation. In this study, we build on recent innova-
+
+
+tions for rigorously evaluating online tools (
+20
+,
+ 
+21
+). In an online
+
+
+field experiment, we randomly encouraged participants to install a
+
+
+prominent web browser extension, NewsGuard, which embeds straight-
+
+
+forward source-level indicators of news reliability into users’ search
+
+
+engine results pages (SERPs), social feeds, and visited URLs. Differ-
+
+
+ent “shield” symbols are placed in feed to provide visual summaries
+
+
+of sources’ quality. A green shield indicates a reliable source (examples
+
+
+include CNN, Fox News, and
+ 
+The Washington Post
+), a red shield in-
+
+
+dicates an unreliable source (examples include Gateway Pundit, Epoch
+
+
+News, and Daily Kos), a gray shield indicates a source with user-
+
+
+generated content (such as YouTube, Wikipedia, and Reddit), and a
+
+
+gold shield represents satire (such as
+ 
+The Onion
+,
+ 
+Babylon Bee
+, and
+
+
+The Daily Mash
+). The user can click on the shield to see an overlay of
+
+
+more detailed information about the reliability of the news domain
+
+
+in question. Figure 1 displays how users are exposed to NewsGuard
+
+
+source labels.
+
+
+Prior research investigates the ability of expert source ratings to
+
+
+affect the believability of claims encountered online, including on
+
+
+health websites and social media (
+22
+,
+ 
+23
+). Theoretically, these rat-
+
+
+ings provide credible information to users about the “functional”
+
+
+dimension of a source’s reputation or its objective performance in a
+
+
+well-defined set of criteria as assessed by experts. Although other
+
+
+dimensions of reputation may not be as responsive to these judg-
+
+
+ments, experimental evidence suggests that these ratings, when shown
+
+
+alongside a mock news article, can influence the perceived truthful-
+
+
+ness of the article’s claim (
+22
+,
+ 
+24
+). NewsGuard provides a particu-
+
+
+larly comprehensive set of source ratings produced according to
+
+
+transparent criteria. Deploying these source ratings as visible labels
+
+
+across a user’s search and social feeds provides an opportunity to
+
+
+test the effectiveness of expert ratings as a general solution to online
+
+
+misinformation.
+
+
+Other attempts to leverage source-level information have been
+
+
+mixed. Although experimental demonstrations of source label effects
+
+
+on selective exposure are well known (
+25
+), studies have failed to con-
+
+
+vincingly show that these cues affect susceptibility to misinforma-
+
+
+tion (
+26
+,
+ 
+27
+). Part of the problem may be that people lack sufficient
+
+
+1
+
+
+Center for Social Media and Politics, New
+ 
+York University, New
+ 
+York, NY, USA.
+ 
+2
+
+
+Depart-
+
+
+ment of Politics, Princeton University, Princeton, NJ, USA.
+ 
+3
+
+
+Department of Biology,
+
+
+New
+ 
+York University, New
+ 
+York, NY, USA.
+ 
+4
+
+
+Wilf Family Department of Politics, New
+ 
+York
+
+
+University, New
+ 
+York, NY, USA.
+
+
+*Corresponding author. Email: kma412@nyu.edu
+
+
+Copyright © 2022
+
+
+The
+ 
+Authors, some
+
+
+rights reserved;
+
+
+exclusive licensee
+
+
+American Association
+
+
+for the Advancement
+
+
+of Science. No claim to
+
+
+original U.S.
+ 
+Government
+
+
+Works. Distributed
+
+
+under a Creative
+
+
+Commons Attribution
+
+
+License 4.0 (CC BY).
+Aslett
+ 
+et al
+.,
+ 
+Sci. Adv.
+ 
+8
+, eabl3844 (2022)
+ 
+6 May 2022
+S C I E N C E A D V A N C E S
+ 
+|
+ 
+R E S E A R C H A R T I C L E
+2 of 10
+
+
+knowledge about many sources (especially smaller, more unreliable
+
+
+ones that are rarely consumed) to be able to make useful inferences
+
+
+solely on the basis of a publisher’s name or logo. Expert ratings of the
+
+
+kind that NewsGuard provides potentially remedy this shortcom-
+
+
+ing by supplementing source cues with additional, independently
+
+
+verified information (see a Gallup report for survey data from a sam-
+
+
+ple of NewsGuard users) (
+28
+).
+
+
+A large, related literature on source credibility examines the at-
+
+
+tributes of sources that make them more believable (
+29
+,
+ 
+30
+). Re-
+
+
+searchers have sought to apply these insights to the problem of
+
+
+online misinformation, although a recent meta-analysis found that
+
+
+source credibility–based interventions were among the weakest of
+
+
+those studied for correcting misinformation (
+31
+). The treatments
+
+
+considered differ in two important respects from the source reli-
+
+
+ability labels that we study. First, they do not typically involve news
+
+
+publishers; “source credibility” conceptualizes messengers broadly
+
+
+to encompass institutions, highly esteemed individuals, or other
+
+
+potential trustworthy sources of information in society. Second,
+
+
+these studies specifically test the extent to which credibility can boost
+
+
+the efficacy of corrections to individual pieces of misinformation
+
+
+rather than display, as NewsGuard does, expert ratings alongside
+
+
+any article (sans correction).
+
+
+Existing work suggests relationships between exposure to misin-
+
+
+formation and various well-known pathologies. Misperceptions are
+
+
+Fig. 1. This figure displays how users are exposed to NewsGuard source labels in internet users’ SERPs, social feeds, and visited URLs.
