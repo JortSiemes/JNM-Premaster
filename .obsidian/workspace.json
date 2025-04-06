@@ -30,8 +30,17 @@
               "state": {
                 "file": "Vakken Y2/Scriptie/Onderzoek document/The Impact of Online News Features on Learning from News.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "The Impact of Online News Features on Learning from News"
@@ -74,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,6 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vakken Y2/Scriptie/Onderzoek document/The Impact of Online News Features on Learning from News.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +235,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for The Impact of Online News Features on Learning from News"
             }
           },
           {
@@ -261,7 +271,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ca08c21520dccbb5",
+  "active": "d2346fe8c33f1ae1",
   "lastOpenFiles": [
     "Vakken Y2/Innovaties in de Journalistiek/College 2.md",
     "Vakken Y2/Innovaties in de Journalistiek/College 3.md",
