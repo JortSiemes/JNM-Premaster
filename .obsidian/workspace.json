@@ -45,15 +45,36 @@
               "state": {
                 "file": "Vakken Y2/Innovaties in de Journalistiek/College 3.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "College 3"
             }
+          },
+          {
+            "id": "ca08c21520dccbb5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -72,7 +93,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -194,7 +216,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken Y2/Innovaties in de Journalistiek/College 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +225,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for College 3"
+              "title": "Backlinks"
             }
           },
           {
@@ -240,7 +261,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "39ea903d4b830506",
+  "active": "ca08c21520dccbb5",
   "lastOpenFiles": [
     "Vakken Y2/Innovaties in de Journalistiek/College 2.md",
     "Vakken Y2/Innovaties in de Journalistiek/College 3.md",
