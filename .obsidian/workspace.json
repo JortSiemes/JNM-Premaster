@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken Y2/Innovaties in de Journalistiek/College 3.md",
+                "file": "Vakken Y2/Innovaties in de Journalistiek/College 6.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -58,23 +58,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "College 3"
-            }
-          },
-          {
-            "id": "f0a4f683215b745d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "title": "College 6"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -216,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken Y2/Innovaties in de Journalistiek/College 3.md",
+                "file": "Vakken Y2/Innovaties in de Journalistiek/College 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +214,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for College 3"
+              "title": "Backlinks for College 6"
             }
           },
           {
@@ -238,9 +226,29 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "4b714588aae9ff13",
+            "type": "leaf",
+            "state": {
+              "type": "smart-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Smart Chat"
+            }
+          },
+          {
+            "id": "4bee8c4c7975a0a6",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Smart Connections"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -259,13 +267,16 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "f0a4f683215b745d",
+  "active": "4b714588aae9ff13",
   "lastOpenFiles": [
-    "Vakken Y2/Innovaties in de Journalistiek/College 2.md",
     "Vakken Y2/Innovaties in de Journalistiek/College 3.md",
+    "Vakken Y2/Innovaties in de Journalistiek/College 6.md",
+    "Vakken Y2/Innovaties in de Journalistiek/College 2.md",
     "Vakken Y2/Scriptie/Zotero/storage/9I3Y6AJD/range-slider.html",
     "Vakken Y2/Scriptie/Zotero/storage/9I3Y6AJD",
     "Vakken Y2/Scriptie/ScriptieOpzetTK_06_03_25.docx",
@@ -309,7 +320,6 @@
     "Onderwerpen/echo chamber.md",
     "Vakken Y2/Crossmediale onderzoeksweken/Feedback 12-11.md",
     "Vakken Y2/New media & society/College 5.md",
-    "Vakken Y2/New media & society/College 6.md",
     "Untitled.canvas"
   ]
 }
