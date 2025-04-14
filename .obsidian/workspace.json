@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken Y2/Innovaties in de Journalistiek/Bronnen voor tentamen.md",
+                "file": "Vakken Y2/Innovaties in de Journalistiek/Tentamen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,7 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bronnen voor tentamen"
+              "title": "Tentamen"
             }
           },
           {
@@ -247,13 +247,23 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "941471b7dfae815a",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 670.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,11 +278,16 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "copilot:Open Copilot Chat": false
     }
   },
   "active": "d2346fe8c33f1ae1",
   "lastOpenFiles": [
+    "Vakken Y2/Innovaties in de Journalistiek/Bronnen voor tentamen.md",
+    "Vakken Y2/Innovaties in de Journalistiek/College 2.md",
+    "Vakken Y2/Innovaties in de Journalistiek/College 3.md",
+    "Vakken Y2/Innovaties in de Journalistiek/College 1.md",
     "Vakken Y2/Innovaties in de Journalistiek/college Innovatie -Virtual Reality - AR.pptx",
     "Vakken Y2/Innovaties in de Journalistiek/Niet bevestigd 635504.crdownload",
     "Vakken Y2/Innovaties in de Journalistiek/Class 10 - AI and Automation.pptx",
@@ -283,13 +298,8 @@
     "Vakken Y2/Innovaties in de Journalistiek/Niet bevestigd 112350.crdownload",
     "Vakken Y2/Innovaties in de Journalistiek/Class 3 - Audience Metrics.pptx",
     "Vakken Y2/Innovaties in de Journalistiek/Niet bevestigd 930010.crdownload",
-    "Vakken Y2/Innovaties in de Journalistiek/Class 2 - OSINT.pptx",
     "Vakken Y2/Innovaties in de Journalistiek/Tentamen.md",
-    "Vakken Y2/Innovaties in de Journalistiek/Bronnen voor tentamen.md",
     "Vakken Y2/Scriptie/Onderzoek document/The Impact of Online News Features on Learning from News.md",
-    "Vakken Y2/Innovaties in de Journalistiek/College 2.md",
-    "Vakken Y2/Innovaties in de Journalistiek/College 3.md",
-    "Vakken Y2/Innovaties in de Journalistiek/College 1.md",
     "Vakken Y2/Crossmediale onderzoeksweken/Interview_MarijnJOngsma/Ondernemers geven Nederland een 6_ ‘Het gaat de verkeerde kant op’ _ Macro met Marijn Jongsma (FD) 9-3 screenshot.png",
     "Vakken Y2/Crossmediale onderzoeksweken/Interview_MarijnJOngsma/Ondernemers geven Nederland een 6_ ‘Het gaat de verkeerde kant op’ _ Macro met Marijn Jongsma (FD) 5-11 screenshot.png",
     "Vakken Y2/Crossmediale onderzoeksweken/Interview_MarijnJOngsma/Ondernemers geven Nederland een 6_ ‘Het gaat de verkeerde kant op’ _ Macro met Marijn Jongsma (FD) 2-29 screenshot.png",

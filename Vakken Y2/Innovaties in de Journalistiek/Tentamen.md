@@ -442,7 +442,7 @@ Foto’s van eekhoorns erbij? 
   
   
 
-Les 3: Publieksdata 
+# Les 3: Publieksdata 
 
   
 
@@ -644,7 +644,7 @@ Rechtstreekse communicatie met het publiek (Lisa EenVandaag?): . 
 
   
 
-Les 4: Osint
+# Les 4: Osint
 
   
 
@@ -766,7 +766,7 @@ In het huidige digitale medialandschap is basiskennis van OSINT essentieel:
 
   
 
-Les 5: Newsrecommenders
+# Les 5: Newsrecommenders
 
 Wat zijn news recommenders?
 
@@ -998,7 +998,7 @@ In een wereld met steeds meer desinformatie en misinformatie is het ook belangri
   
   
 
-Les 6: Social Media
+# Les 6: Social Media
 
 Slide16-24
 
@@ -1160,6 +1160,6 @@ Maar er zit een zekere spanning in de dynamiek tussen platforms en de journalist
   
   
 
-Les 7: AI
+# Les 7: AI
 
 **
