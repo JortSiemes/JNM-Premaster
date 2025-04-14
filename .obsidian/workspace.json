@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken Y2/Innovaties in de Journalistiek/Tentamen.md",
+                "file": "Vakken Y2/Innovaties in de Journalistiek/Bronnen voor tentamen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,7 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tentamen"
+              "title": "Bronnen voor tentamen"
             }
           },
           {
@@ -225,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakken Y2/Innovaties in de Journalistiek/Tentamen.md",
+                "file": "Vakken Y2/Innovaties in de Journalistiek/Bronnen voor tentamen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tentamen"
+              "title": "Backlinks for Bronnen voor tentamen"
             }
           },
           {
@@ -273,21 +273,23 @@
   },
   "active": "d2346fe8c33f1ae1",
   "lastOpenFiles": [
-    "Vakken Y2/Scriptie/Onderzoek document/The Impact of Online News Features on Learning from News.md",
+    "Vakken Y2/Innovaties in de Journalistiek/college Innovatie -Virtual Reality - AR.pptx",
+    "Vakken Y2/Innovaties in de Journalistiek/Niet bevestigd 635504.crdownload",
+    "Vakken Y2/Innovaties in de Journalistiek/Class 10 - AI and Automation.pptx",
+    "Vakken Y2/Innovaties in de Journalistiek/Niet bevestigd 601172.crdownload",
+    "Vakken Y2/Innovaties in de Journalistiek/Class 9 - Social Media.pptx",
+    "Vakken Y2/Innovaties in de Journalistiek/Niet bevestigd 282403.crdownload",
+    "Vakken Y2/Innovaties in de Journalistiek/Class 4 - News Recommenders.pptx",
+    "Vakken Y2/Innovaties in de Journalistiek/Niet bevestigd 112350.crdownload",
+    "Vakken Y2/Innovaties in de Journalistiek/Class 3 - Audience Metrics.pptx",
+    "Vakken Y2/Innovaties in de Journalistiek/Niet bevestigd 930010.crdownload",
+    "Vakken Y2/Innovaties in de Journalistiek/Class 2 - OSINT.pptx",
     "Vakken Y2/Innovaties in de Journalistiek/Tentamen.md",
+    "Vakken Y2/Innovaties in de Journalistiek/Bronnen voor tentamen.md",
+    "Vakken Y2/Scriptie/Onderzoek document/The Impact of Online News Features on Learning from News.md",
     "Vakken Y2/Innovaties in de Journalistiek/College 2.md",
     "Vakken Y2/Innovaties in de Journalistiek/College 3.md",
-    "Vakken Y2/Scriptie/Zotero/storage/9I3Y6AJD/range-slider.html",
-    "Vakken Y2/Scriptie/Zotero/storage/9I3Y6AJD",
-    "Vakken Y2/Scriptie/ScriptieOpzetTK_06_03_25.docx",
     "Vakken Y2/Innovaties in de Journalistiek/College 1.md",
-    "Vakken Y2/Stage/RutgerBetlem.docx",
-    "Vakken Y2/Scriptie/ScriptieOpzetTK_17_02_25.docx",
-    "Vakken Y2/Scriptie/ScriptieOpzetTK_15_02_25.docx",
-    "Vakken Y2/Scriptie/ScriptieOpzetTK_12_02_25.docx",
-    "Vakken Y2/Scriptie/ScriptieOpzetTK_11_02_25_feedback.docx",
-    "Vakken Y2/Scriptie/ScriptieOpzetTK_11_02_25.pdf",
-    "Vakken Y2/Scriptie/ScriptieOpzetTK_11_02_25.docx",
     "Vakken Y2/Crossmediale onderzoeksweken/Interview_MarijnJOngsma/Ondernemers geven Nederland een 6_ ‘Het gaat de verkeerde kant op’ _ Macro met Marijn Jongsma (FD) 9-3 screenshot.png",
     "Vakken Y2/Crossmediale onderzoeksweken/Interview_MarijnJOngsma/Ondernemers geven Nederland een 6_ ‘Het gaat de verkeerde kant op’ _ Macro met Marijn Jongsma (FD) 5-11 screenshot.png",
     "Vakken Y2/Crossmediale onderzoeksweken/Interview_MarijnJOngsma/Ondernemers geven Nederland een 6_ ‘Het gaat de verkeerde kant op’ _ Macro met Marijn Jongsma (FD) 2-29 screenshot.png",
@@ -317,8 +319,6 @@
     "Vakken Y1/Blok 2/Argumenteren en overtuigen/Totaal Tentamenstof AenO.md",
     "Onderwerpen/Stijl.md",
     "Onderwerpen/echo chamber.md",
-    "Vakken Y2/Crossmediale onderzoeksweken/Feedback 12-11.md",
-    "Vakken Y2/New media & society/College 5.md",
     "Untitled.canvas"
   ]
 }
