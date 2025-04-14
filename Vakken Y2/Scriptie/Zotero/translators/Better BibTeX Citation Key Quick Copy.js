@@ -14,9 +14,9 @@
 	},
 	"inRepository": false,
 	"configOptions": {
-		"hash": "875ac4b483637492ed209e38bdde2453f42d2e7f3fc9c8f607460574c9b62f6c"
+		"hash": "f698e8340dcd14adbc435757b3fd0b22b39c4741aeaa550c8f282870f65f1d52"
 	},
-	"lastUpdated": "2025-01-10"
+	"lastUpdated": "2025-04-06"
 }
 
 ZOTERO_CONFIG = {"GUID":"zotero@zotero.org","ID":"zotero","CLIENT_NAME":"Zotero","DOMAIN_NAME":"zotero.org","PRODUCER":"Digital Scholar","PRODUCER_URL":"https://digitalscholar.org","REPOSITORY_URL":"https://repo.zotero.org/repo/","BASE_URI":"http://zotero.org/","WWW_BASE_URL":"https://www.zotero.org/","PROXY_AUTH_URL":"https://zoteroproxycheck.s3.amazonaws.com/test","API_URL":"https://api.zotero.org/","STREAMING_URL":"wss://stream.zotero.org/","SERVICES_URL":"https://services.zotero.org/","API_VERSION":3,"CONNECTOR_MIN_VERSION":"5.0.39","PREF_BRANCH":"extensions.zotero.","BOOKMARKLET_ORIGIN":"https://www.zotero.org","BOOKMARKLET_URL":"https://www.zotero.org/bookmarklet/","START_URL":"https://www.zotero.org/start","QUICK_START_URL":"https://www.zotero.org/support/quick_start_guide","PDF_TOOLS_URL":"https://www.zotero.org/download/xpdf/","SUPPORT_URL":"https://www.zotero.org/support/","SYNC_INFO_URL":"https://www.zotero.org/support/sync","TROUBLESHOOTING_URL":"https://www.zotero.org/support/getting_help","FEEDBACK_URL":"https://forums.zotero.org/","CONNECTORS_URL":"https://www.zotero.org/download/connectors","CHANGELOG_URL":"https://www.zotero.org/support/changelog","CREDITS_URL":"https://www.zotero.org/support/credits_and_acknowledgments","LICENSING_URL":"https://www.zotero.org/support/licensing","GET_INVOLVED_URL":"https://www.zotero.org/getinvolved","DICTIONARIES_URL":"https://download.zotero.org/dictionaries/","PLUGINS_URL":"https://www.zotero.org/support/plugins","NEW_FEATURES_URL":"https://www.zotero.org/blog/zotero-7/"}
@@ -1196,7 +1196,7 @@ var { citeCreators, doExport, yearFromDate } = (() => {
   });
 
   // content/client.ts
-  var worker = typeof location !== "undefined" && location.search;
+  var worker = typeof location !== "undefined" && !!location.search;
   var searchParams = worker && new URLSearchParams(location.search);
   var name = (() => {
     var _a;
@@ -1214,7 +1214,6 @@ var { citeCreators, doExport, yearFromDate } = (() => {
   })();
   var slug = name.toLowerCase().replace("-", "");
   var isBeta = version.includes("beta");
-  var run = worker ? searchParams.get("run") : Zotero.Utilities.generateObjectKey();
   var locale = worker ? searchParams.get("locale") : Zotero.locale;
   var platform = worker ? searchParams.get("platform") : Zotero.isWin ? "win" : Zotero.isMac ? "mac" : Zotero.isLinux ? "lin" : "unk";
   var isWin = worker ? searchParams.get("isWin") === "true" : Zotero.isWin;
@@ -1422,7 +1421,6 @@ var { citeCreators, doExport, yearFromDate } = (() => {
     return `${date.year}`;
   }
   var Mode = {
-    // eslint-disable-next-line prefer-arrow/prefer-arrow-functions
     gitbook(items) {
       const citations = items.map((item) => `{{ "${item.citationKey}" | cite }}`);
       Zotero.write(citations.join(""));
@@ -1458,6 +1456,10 @@ var { citeCreators, doExport, yearFromDate } = (() => {
     orgRef3(items) {
       if (!items.length) return "";
       Zotero.write(`cite:&${items.map((item) => item.citationKey).join(";&")}`);
+    },
+    orgcite(items) {
+      if (!items.length) return "";
+      Zotero.write(`[cite:@${items.map((item) => item.citationKey).join("; @")}]`);
     },
     orgmode(items) {
       switch (Zotero.getHiddenPref("better-bibtex.quickCopyOrgMode")) {
