@@ -1617,4 +1617,96 @@ Resultaten:
 
 Implicaties: De groeiende rol van AI in de journalistiek vereist een heroverweging van de relatie tussen nieuwsorganisaties en platformbedrijven. Er is behoefte aan beleidsmaatregelen en strategische keuzes die de journalistieke autonomie waarborgen, zoals investeringen in eigen technologische infrastructuren en diversificatie van distributiekanalen. Daarnaast benadrukt het artikel het belang van transparantie en verantwoording in het gebruik van AI binnen de nieuwsproductie.​
 
-**
+Academische aantekeningen: AI in de journalistiek
+
+Definitie en concepten
+
+Kunstmatige intelligentie (AI): Verwijst in brede zin naar computersystemen die taken uitvoeren die doorgaans worden geassocieerd met menselijke intelligentie. In de praktijk gaat het vaak om ‘smalle’ AI die gericht is op specifieke taken.
+
+AI in de journalistiek: Een overkoepelende term voor computertechnologieën die menselijke vaardigheden simuleren in journalistieke domeinen zoals nieuwsproductie, gegevensanalyse en bronverificatie. Het gaat om computers die menselijk gedrag leren, patronen in gegevens herkennen en informatie genereren.
+
+Verantwoordelijke AI: benadrukt de ethische en verantwoordelijke ontwikkeling, inzet en gebruik van AI-systemen binnen nieuwsredacties. Het vereist naleving van maatschappelijke waarden, mensenrechten en het voorkomen van schadelijke resultaten. Belangrijke principes zijn menselijk toezicht, uitlegbaarheid, openbaarmaking van geautomatiseerde inhoud en gegevensbescherming.
+
+Machinaal leren: Een subset van AI waarbij systemen leren van gegevens om patronen te herkennen zonder expliciete programmering voor elk scenario. Soorten zijn supervised (vooraf gelabelde gegevens) en unsupervised learning (patronen/clusters herkennen).
+
+Diep leren: Een complexere vorm van machinaal leren waarbij vaak sprake is van versterkend leren, vergelijkbaar met hoe een kind leert door vallen en opstaan.
+
+Toepassingen in de journalistiek
+
+AI-toepassingen kunnen worden onderverdeeld in:
+
+  
+
+Onzichtbare AI (achter de schermen):
+
+Geautomatiseerde transcriptie, samenvatting en vertaling.
+
+SEO optimalisatie en taggen van content.
+
+Hulp bij feitencontrole.
+
+Data-analyse voor onderzoeksjournalistiek en interviewvoorbereiding.
+
+Zichtbare AI (contentcreatie):
+
+Robotjournalistiek: Geautomatiseerde generatie van nieuwsberichten, vooral voor onderwerpen die veel data bevatten, zoals sport, weer, financiën of verkiezingen. Voorbeeld: NOS die een robot gebruikt voor artikelen over verkiezingsuitslagen.
+
+AI-gegenereerd beeldmateriaal: Het creëren van illustraties of beelden met behulp van tools zoals Midjourney, DALL-E, etc.. Voorbeelden te zien bij RTV Oost en NOS Journaal.
+
+Visualisaties en explainer video's maken.
+
+Publieksgerichte AI (Distributie &amp; Interactie):
+
+Gepersonaliseerde content aanbevelingen en push notificaties (bijv. AD, NU.nl).
+
+AI-gestuurde chatbots voor interactie met het publiek (bijv. NOS).
+
+Moderatie van online reacties.
+
+Interactieve elementen zoals quizzen of uitleg.
+
+Voordelen en kansen
+
+Efficiëntie en snelheid: Het automatiseren van repetitieve taken verhoogt de productiesnelheid.
+
+Verbeterde mogelijkheden: AI kan grote datasets analyseren, onderzoeken ondersteunen en content op schaal genereren.
+
+Creatieve ondersteuning: AI kan journalisten helpen met schrijven, vertalen en het genereren van visuele content.
+
+Toegankelijkheid: Biedt betaalbare alternatieven voor stockfoto's en maakt beeldcreatie mogelijk waar camera's niet kunnen komen.
+
+Hulpbronvergroting: Kan kleinere nieuwsredacties helpen bij het uitvoeren van taken waar voorheen meer middelen voor nodig waren.
+
+Uitdagingen en risico's
+
+Ethische bezwaren:
+
+Vooroordelen en stereotypen: AI leert van gegevens, die maatschappelijke vooroordelen kunnen bevatten en bestendigen.
+
+Transparantie en verantwoording: Onduidelijkheid over hoe AI-systemen werken (“ondoorzichtige besluitvorming”) en wie verantwoordelijk is voor fouten.
+
+Privacy: Zorgen over het verzamelen en gebruiken van gebruikersgegevens, vooral voor gepersonaliseerde content en advertenties.
+
+Betrouwbaarheid: AI kan feitelijk onjuiste informatie of deepfakes genereren, waardoor mogelijk verkeerde informatie wordt verspreid.
+
+Journalistieke waarden: De noodzaak om professionele normen zoals nauwkeurigheid, objectiviteit en menselijk toezicht te handhaven bij het gebruik van AI. Sommige organisaties verklaren expliciet dat AI geen menselijke journalisten zal vervangen voor belangrijke verslaggeving.
+
+Kenniskloven en -silo's:
+
+Verschillen in technisch inzicht tussen redactioneel, technisch en managementpersoneel ("horizontale" en "verticale" silo's) belemmeren effectieve AI-integratie en de ontwikkeling van verantwoorde praktijken.
+
+Deze silo's kunnen de informatiestroom, innovatie en het benutten van collectieve intelligentie belemmeren.
+
+Beperkte middelen: Financiële beperkingen en technische problemen maken het moeilijk voor nieuwsorganisaties om zelfstandig AI te ontwikkelen, waardoor ze afhankelijk worden van externe leveranciers.
+
+Auteursrecht: Het trainen van AI-modellen op auteursrechtelijk beschermd materiaal zonder toestemming leidt tot juridische onzekerheden over auteurschap en intellectueel eigendom.
+
+Vertrouwen: De kans op fouten en misbruik kan het wantrouwen van het publiek in de journalistiek vergroten.
+
+Richtlijnen en governance
+
+Er is wereldwijd een groeiende behoefte aan en ontwikkeling van AI-richtlijnen in de journalistiek, gericht op transparantie, menselijk toezicht, gegevensbescherming en het behoud van journalistieke waarden.
+
+Specifieke richtlijnen van organisaties (bijv. Wired, DPG Media, Vlaamse Vereniging van Journalisten) benadrukken ethisch gebruik, transparantie, menselijke controle over de uiteindelijke inhoud en gegevensbeveiliging.
+
+Belangrijke aanbevelingen zijn vaak: controleer AI-uitvoer altijd, wees transparant naar het publiek, stuur geen vertrouwelijke gegevens naar AI-diensten en zorg ervoor dat menselijke journalisten verantwoordelijk blijven.
