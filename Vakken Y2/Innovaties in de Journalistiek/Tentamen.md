@@ -1,3 +1,33 @@
+
+
+### notitieruimte
+
+**a.**
+
+Ik kies het toepassingsgebied **Distributie & interactie**. Binnen dit gebied wordt AI ingezet om de verspreiding van nieuws te optimaliseren en de interactie met het publiek te verbeteren. Dit omvat bijvoorbeeld het personaliseren van nieuwsfeeds, het aanbevelen van relevante artikelen aan lezers, het modereren van commentaarsecties en het detecteren van nepnieuws op sociale media.
+
+De meest relevante AI-vorm hier is waarschijnlijk **Machine Learning**. Machine learning algoritmen kunnen leren van grote hoeveelheden data over gebruikersgedrag (klikgedrag, leesgedrag, demografische gegevens, etc.) om patronen te identificeren en voorspellingen te doen over welke content een individuele gebruiker waarschijnlijk interessant zal vinden. Rule-based systemen zijn te rigide en niet flexibel genoeg om de complexiteit van gebruikersgedrag te modelleren. Deep learning kan effectief zijn, maar vereist doorgaans nog grotere datasets en meer rekenkracht dan machine learning, en de voordelen zijn mogelijk niet significant genoeg voor veel distributie- en interactietoepassingen. Machine learning biedt een goede balans tussen nauwkeurigheid, flexibiliteit en implementeerbaarheid.
+
+**b.**
+
+Twee risico's binnen het toepassingsgebied Distributie & interactie zijn **bias** en **betrouwbaarheid**.
+
+*   **Bias:** Algoritmen die worden gebruikt om nieuwsfeeds te personaliseren, kunnen onbedoeld bestaande vooroordelen versterken. Als een algoritme bijvoorbeeld leert dat een bepaalde demografische groep vaker op artikelen over een bepaald onderwerp klikt, kan het die groep vaker artikelen over dat onderwerp tonen, waardoor een "filter bubble" ontstaat en de blootstelling aan diverse perspectieven wordt beperkt. Broussard et al. (2019) benadrukken dat bias in algoritmen vaak een gevolg is van bias in de data waarmee ze getraind zijn. Als de data bijvoorbeeld een onevenredig aantal artikelen van een bepaalde bron bevat, kan het algoritme die bron bevoordelen, zelfs als die bron niet de meest betrouwbare is. Dit kan leiden tot een vertekend beeld van de werkelijkheid voor de gebruiker.
+
+*   **Betrouwbaarheid:** AI-systemen die worden gebruikt om nepnieuws te detecteren, zijn niet onfeilbaar en kunnen fouten maken. Ze kunnen bijvoorbeeld satire of opinieartikelen verkeerd classificeren als nepnieuws, of ze kunnen er niet in slagen om subtielere vormen van desinformatie te detecteren. Broussard et al. (2019) waarschuwen voor het "black box" karakter van veel AI-systemen, waardoor het moeilijk is om te begrijpen hoe ze tot hun conclusies komen. Dit gebrek aan transparantie maakt het moeilijk om de betrouwbaarheid van de systemen te beoordelen en om fouten te corrigeren. Als een AI-systeem bijvoorbeeld een artikel ten onrechte als nepnieuws markeert, kan dit leiden tot onnodige censuur en schade aan de reputatie van de auteur of de publicatie.
+
+**c.**
+
+Simon (2022) argumenteert dat de afhankelijkheid van journalistieke organisaties van platformbedrijven (zoals Facebook, Google, Twitter) voor de distributie van hun content leidt tot een verlies van autonomie. Deze platformen gebruiken AI-algoritmen om te bepalen welke content aan welke gebruikers wordt getoond, en journalistieke organisaties hebben weinig controle over deze algoritmen. Dit betekent dat de zichtbaarheid van journalistieke content afhankelijk is van de algoritmen van de platformen, die vaak zijn ontworpen om engagement en winst te maximaliseren, in plaats van de kwaliteit of het belang van de journalistiek.
+
+Het risico van verlies van autonomie, zoals beschreven door Simon, verschilt van de risico's van bias en betrouwbaarheid (besproken in vraag b) in de zin dat het een meer structureel en systemisch probleem is. Bias en betrouwbaarheid zijn meer gerelateerd aan de technische aspecten van de AI-systemen zelf, terwijl verlies van autonomie te maken heeft met de machtsverhoudingen tussen journalistieke organisaties en platformbedrijven. De risico's zijn echter wel met elkaar verbonden. Bias in de algoritmen van platformbedrijven kan bijvoorbeeld leiden tot een oneerlijke verdeling van de zichtbaarheid van journalistieke content, waardoor de autonomie van bepaalde journalistieke organisaties verder wordt aangetast. Bovendien kan de afhankelijkheid van platformbedrijven journalistieke organisaties dwingen om hun content aan te passen aan de eisen van de algoritmen, wat kan leiden tot een verlies van redactionele onafhankelijkheid. Verlies van autonomie is dus een aanvulling op de risico's van bias en betrouwbaarheid, omdat het de context creëert waarin deze risico's zich kunnen manifesteren en versterken.
+
+
+
+
+
+
+
 # Les 1: VR
 
   
@@ -684,11 +714,73 @@ Bron: 
 
 [https://www.svdj.nl/nieuws/door-ab-testen-wordt-elke-kop-een-onweerstaanbare-verleider/](https://www.svdj.nl/nieuws/door-ab-testen-wordt-elke-kop-een-onweerstaanbare-verleider/)
 
-  
+  Rechtstreekse communicatie met het publiek (Lisa EenVandaag?): . 
 
-Rechtstreekse communicatie met het publiek (Lisa EenVandaag?): . 
+  **_The Political Power of Platforms: How Current Attempts to Regulate Misinformation Amplify Opinion Power_**
 
-  
+Dit artikel, getiteld "**The Political Power of Platforms: How Current Attempts to Regulate Misinformation Amplify Opinion Power**" door Natali Helberger, bekritiseert de huidige Europese pogingen om sociale mediaplatforms te reguleren1 .... De auteur stelt dat deze platforms niet langer gezien moeten worden als neutrale **intermediarissen** die de spraak van anderen faciliteren, maar als **actieve politieke actoren** die aanzienlijke **opinievormende macht** bezitten.
+
+Helberger introduceert het concept van "**opinievormende macht**" (vertaald uit het Duitse 'Meinungsmacht'), gedefinieerd als het vermogen van de media om de individuele en publieke opinievorming te beïnvloeden4 . Deze macht is nauw verbonden met het idee van **pluralisme** en de democratische vrees dat onevenwichtigheden in dit vermogen een gevaar kunnen vormen voor een diverse mediaomgeving en uiteindelijk de democratie zelf4 .
+
+De auteur betoogt dat de huidige Europese regelgevingsinitiatieven, die proberen platforms meer verantwoordelijk te maken voor de inhoud die door hun gebruikers wordt gedeeld, met name door het opleggen van nieuwe **zorgplichten** en **transparantieverplichtingen**, de rol van platforms als beheerders van online communicatie formaliseren en versterken5 .... Door zich te richten op het reguleren van de communicatiemacht van gebruikers, erkennen deze initiatieven onvoldoende de **systemische opinievormende macht** van de platforms zelf.
+
+Volgens Helberger hebben sociale mediaplatforms een groeiende macht verworven als centrale bijeenkomstplaatsen voor online aandacht en als leveranciers van de technologie die de online media aandrijft9 .... Dit heeft geleid tot een **zorgwekkende afhankelijkheid** van de traditionele media van deze platforms10 . Platforms bepalen in toenemende mate de voorwaarden waaronder de gevestigde media functioneren, inclusief toegang tot content, data, distributie-infrastructuur en de middelen om het publiek te beïnvloeden10 . Deze verschuiving van macht bedreigt de **waakhondfunctie** van de media11 . Ook regeringen worden steeds afhankelijker van platforms voor communicatie met hun burgers.
+
+De auteur waarschuwt dat de huidige regelgeving, door platforms te behandelen als facilitators van andermans spraak, hun eigen **opinievormende macht versterkt** en daarmee hun **politieke macht**7 .... Platforms verkopen hun overtuigingskracht aan de hoogste bieder en gebruiken hun macht om gebruikers te mobiliseren voor hun eigen doelen9 . Er zijn momenteel weinig regels die de manier waarop platforms zelf hun opinievormende macht uitoefenen beperken, zoals door middel van algoritmische beslissingen en politieke microtargeting.
+
+Helberger concludeert dat het verspreiden van media-macht, net als het verspreiden van stemrecht, essentieel is voor een democratisch systeem13 . De huidige focus op het reguleren van platforms via e-commercelogica houdt onvoldoende rekening met hun potentieel enorme opinievormende macht13 . De auteur stelt dat het tijd is om na te denken over manieren om de **concentratie van opinievormende macht in de digitale sfeer tegen te gaan**, mogelijk door het creëren van tegenmachten, het transparanter maken van algoritmen, het reguleren van online politieke advertenties en het scheiden van sociale infrastructuur van contentdistributie.
+
+Zonder adequate waarborgen is elke belofte van neutraliteit en eerlijkheid door platforms betekenisloos, en de mogelijkheid van misbruik van hun immense macht vormt een bedreiging voor de democratie16 .
+
+**_The Ethics of Web Analytics: Implications of using audience metrics in news construction_**
+
+Dit artikel, getiteld "**The Ethics of Web Analytics: Implications of using audience metrics in news construction**" door Edson C. Tandoc Jr. en Ryan J. Thomas, onderzoekt de **ethische implicaties van het gebruik van webanalyse in de nieuwsconstructie**1 .... Het stelt dat de verzameling en rapportage van publieksdata via webanalyse het proces van nieuwscreatie hervormt, waarbij journalisten zich steeds meer bewust worden van wat hun online publiek wil1 . Een belangrijke vraag is hoe toegang tot deze publieksgegevens de journalistiek beïnvloedt2 .
+
+Het artikel begint met de constatering dat het begrijpen van de wensen en het gedrag van het publiek, wat belangrijk is voor een publieksgerichte journalistiek, aanzienlijk is geëvolueerd van lezersonderzoeken naar de **nauwkeurige real-time tracking van online publieksgedrag door webanalyse**.
+
+Webanalyse wordt gedefinieerd als "de meting, verzameling, analyse en rapportage van internetdata met als doel het begrijpen en optimaliseren van webgebruik"4 . Hoewel webanalyse oorspronkelijk werd gebruikt voor online marketing, zagen nieuwsorganisaties ook het nut ervan in het begrijpen van hun online publiek5 . Het gebruik van automatisch gegenereerde lijsten van populaire verhalen is gemeengoed geworden6 . De toepassing van webanalyse in de journalistiek roept echter belangrijke vragen op, omdat het concept van 'conversie' duidelijk is in marketing (aankoop), maar complexer in de journalistiek die een publieke dienstfunctie combineert met een economische functie7 .
+
+De auteurs stellen drie **onderling verbonden ethische zorgen** over het gebruik van webanalyse in de journalistiek, vanuit een **communitair perspectief**2 ...:
+
+• **Het gevaar van het publiek te zien als gefragmenteerde segmenten op basis van consumentenvoorkeuren**2 .... Dit is inconsistent met de communitaristische functie van het nastreven van het gemeenschappelijk goed8 .
+
+• **Het argument tegen keuze als een moreel doel op zich**, waarbij een onderscheid moet worden gemaakt tussen **het publieke belang en datgene waarin het publiek geïnteresseerd is**2 .... Om het gemeenschappelijk goed te dienen, moet journalistiek meer bieden dan alleen wat het publiek wil9 .
+
+• **Het gevaar van het romantiseren van het publiek en het te sterk argumenteren tegen journalistieke autonomie**3 .... Een journalistiek die haar communitaristische rol vervult, heeft autonomie nodig9 .
+
+Het **communitairistische rol van journalistiek** draait om het **opbouwen van gemeenschap** en het faciliteren van publiek discours over het gemeenschappelijk goed10 .... Het doel is niet alleen het leveren van data aan lezers, maar het vormen van "moreel geletterde personen"13 . De trend naar personalisering van nieuws, mogelijk gemaakt door technologie, bedreigt deze idealen door sociale banden te verzwakken.
+
+Webanalyse kan bijdragen aan deze bedreiging door het **classificeren van publiek** op basis van directere en nauwkeurigere monitoring van hun voorkeuren14 .... Hoewel het volgen van publiek niet nieuw is, maakte webanalyse publieksfeedback zichtbaarder, waardoor het moeilijker te negeren werd.
+
+De praktijk van **publiekssegmentatie**, vaak gebaseerd op populariteit om verkeer te verhogen, kan leiden tot een "race naar de laagste gemene deler" en burgers opsluiten in groepen op basis van nauwe voorkeuren, in plaats van het bevorderen van een gemeenschap met een gedeelde kennisbasis19 .... De logica van online marketing, gericht op conversie (clicks), kan ertoe leiden dat minderheidsgroepen die geïnteresseerd zijn in bijvoorbeeld publieke zaken, gemarginaliseerd raken.
+
+Het artikel waarschuwt tegen het **romantiseren van publiekskeuze** dat gepaard gaat met de opkomst van webanalyse en personalisering24. Het idee dat consumentenkeuze gelijk staat aan vrijheid miskent het verschil tussen consumenten en burgers29 . Journalisten moeten zich richten op het dienen van burgers en het **publieke belang**, niet alleen op het bevredigen van de wensen van consumenten.
+
+Technologie die keuze als moreel doel op zich stelt, moet met voorzichtigheid worden gebruikt31 .... De focus moet liggen op hoe technologie de communitaristische missie van journalistiek kan bevorderen32 . Een overmatige nadruk op keuze kan leiden tot een afname van kwalitatieve journalistiek in het publieke belang, omdat de markt de voorkeur geeft aan goedkopere, lichtere nieuwsberichten32 .... Er is een kwalitatief verschil tussen wat het publiek wil en wat het nodig heeft voor een goed functionerende democratie.
+
+De toenemende invloed van marktwerking op de journalistiek bedreigt de **journalistieke autonomie**36 .... In het verleden was de institutionele abstractie van het publiek parallel aan de gevierde rol van de pers als vierde macht, waarbij journalistieke autonomie werd beschermd37 .... Journalisten baseerden zich op hun professionele oordeel om het publieke belang te bepalen39 .... De opkomst van webanalyse biedt de mogelijkheid tot **publieksgerichte besluitvorming**, waarbij beslissingen zelfs automatisch op basis van metrics kunnen worden gegenereerd ("algoritmische journalistiek").
+
+De auteurs stellen echter dat dit een **afwijking van de journalistieke ethiek** kan betekenen, richting een door marktlogica beheerste "free-for-all"43 . In plaats van journalisten te ontdoen van hun rol en agency in handen van de consument te plaatsen, moet er gewerkt worden aan betere, ethischere journalistiek binnen de huidige socio-economische context43 .... De expertise en het oordeel van de producent (de journalist) moeten niet worden genegeerd ten gunste van de vluchtige behoeften van de consument.
+
+Het artikel benadrukt dat journalistiek een cruciale rol speelt in het **overbruggen van verschillen** en het verbinden van individuen met de samenleving46 . De trend naar nieuwsperonalisatie kan echter de burgerschapszin aantasten47 . Journalistiek moet inclusief zijn, prioriteit geven aan wat het publiek nodig heeft, en haar **redactionele autonomie behouden** om haar communitaristische rol te vervullen.
+
+De conclusie pleit voor een heroriëntatie op de **communitairistische rol van journalistiek** in een debat dat te techno-centrisch is geworden50 . Het waarschuwt tegen het toepassen van een marktaanpak op journalistiek en benadrukt dat zowel journalisten als het publiek een rol te spelen hebben in het creëren van kwalitatieve journalistiek51 .... Journalisten moeten responsief zijn naar het publiek, maar ook het hogere doel van het publieke belang dienen door informatie te presenteren op een manier die het publiek kan waarderen en begrijpen55 .... Uiteindelijk is het doel van journalistiek het bevorderen van een goed functionerend democratisch proces56 .
+
+**_Popularity-driven Metrics: Audience Analytics and Shifting Opinion Power to Digital Platforms_**
+
+Dit artikel, getiteld "**Popularity-driven Metrics: Audience Analytics and Shifting Opinion Power to Digital Platforms**" door Tomás Dodds et al., onderzoekt hoe **audience analytics** en **populariteitsgedreven metrics** de nieuwsproductie beïnvloeden en een verschuiving in **opinievormende macht** naar digitale platforms veroorzaken1 .... De auteurs baseren hun analyse op een **etnografisch onderzoek** van enkele maanden in twee Chileense nieuwsredacties.
+
+Het artikel stelt dat met de integratie van digitale technologieën in de nieuwsproductie, nieuwsbedrijven in realtime het gedrag en de betrokkenheid van het publiek kunnen meten, waardoor redactionele en click-gebaseerde doelen steeds meer met elkaar verweven raken2 . Tools zoals **Chartbeat** en **Google Analytics** stellen redacteuren in staat om het publiek in de nieuwsredactie te betrekken2 .... Het onderzoek laat zien hoe de jacht op "**clickable news**" de redactionele processen en journalistieke prioriteiten beïnvloedt door de **gedataficeerde opinievormende macht van het publiek** achter de nieuwsproductie te veranderen2 . Deze verschuiving in opinievormende macht, verlies van controle en toegenomen afhankelijkheid van platforms kunnen bijdragen aan een meer geconcentreerd medialandschap.
+
+De auteurs introduceren het concept van **datafied audience opinion power**, waarbij de macht om de nieuwsagenda te beïnvloeden verschuift naar diegenen die de data van het publiek verzamelen en analyseren5 .... Hoewel het lijkt alsof een gedataficeerd publiek hierdoor meer macht krijgt, gaat de significantere machtsverschuiving naar de **platforms en technologiebedrijven** die de infrastructuur, metrics en data leveren9 . Nieuwsmedia worden steeds afhankelijker van deze **digitale intermediairs** om het publiek te bereiken en moeten zich aanpassen aan hun logica.
+
+Het etnografisch onderzoek in de Chileense nieuwsredacties van **Canal 13** en **La Tercera** illustreert deze dynamiek3 .... Journalisten ervaren een spanning tussen hun professionele idealen van nieuwswaardigheid en de noodzaak om onderwerpen te behandelen die goed presteren op sociale netwerken12 .... Zo werd in Teletrece de uitspraak "**Dat zou het erg goed doen op sociale netwerken!**" vaak gebruikt ter goedkeuring van onderwerpen, soms los van hun nieuwswaarde16 .... De redacteuren hielden via tools als Chartbeat nauwlettend in de gaten welke artikelen populair waren en zagen dit als een optimale integratie tussen sociale mediaplatforms en digitale journalisten18 . Er werd zelfs gesproken over "**Facebook's language**" in plaats van "T13's language", wat de invloed van platforms op de presentatie van nieuws benadrukt19 .... Nieuwsbedrijven voelen zich genoodzaakt "mee te spelen" met platforms zoals Facebook om zichtbaarheid te krijgen20 .
+
+Journalisten daarentegen ervoeren soms **professionele dissonantie** door het grote aantal verhalen over entertainment en celebritycultuur die ze moesten schrijven om de datafied audience tevreden te stellen13 .... Sommige journalisten probeerden dit te omzeilen door populaire verhalen te gebruiken als "**lure**" om gebruikers naar de website te trekken, waar ze vervolgens meer journalistiek verantwoorde verhalen hoopten te laten lezen.
+
+Het artikel concludeert dat de **opinievormende macht is verschoven van het publiek en de nieuwsredacties naar de audience metrics en degenen die deze definiëren en construeren**, met name de digitale platforms8 .... In plaats van macht aan het publiek te geven, verschuiven deze metrics de macht naar een gemeten en gedataficeerde versie van het publiek, gecreëerd door digitale platforms. Dit leidt tot een **concentratie van macht** in de handen van die platforms die het publiek kunnen construeren en de content kunnen distribueren.
+
+ De onderzoekers benadrukken dat de constructie van het publiek door deze platforms vaak **opaak** is23 .... Hoewel het lijkt alsof het publiek de journalistieke inhoud beïnvloedt, kunnen externe partijen snel bepalen op welke content het publiek reageert en de manier waarop metrics worden geconstrueerd aanpassen24 . Dit roept ethische vragen op over de **non-representatie** van bepaalde delen van het publiek die minder zichtbaar zijn in de data15 .... De auteurs pleiten voor verder onderzoek naar de **neutraliteit van data- en analyticsbedrijven** en de politieke aspecten van dataverzameling en -analyse25 .
 
 # Les 4: Osint
 
@@ -1437,3 +1529,116 @@ De belangrijkste consequentie van deze ontwikkelingen is een **potentieel verlie
 Het artikel sluit af met een **onderzoeksagenda** die zes gebieden voor verder onderzoek identificeert, waaronder het in kaart brengen van de actoren en hun activiteiten, het begrijpen van het daadwerkelijke gebruik van AI-tools, de gebruiksvoorwaarden en problemen, de motieven van platformbedrijven, mogelijke regulering en beleidsinterventies, en de bredere gevolgen voor het publieke domein29 ....
 
 De auteur erkent dat er ook andere AI-aanbieders zijn, maar stelt dat de oligopolistische positie van de platformbedrijven hen een unieke controle over de technologie in de nieuwsindustrie geeft36 . Hoewel de mate van controle die platformen uiteindelijk zullen verwerven onzeker is, benadrukt het artikel de noodzaak om de potentiële risico's voor de autonomie van de nieuwsindustrie serieus te nemen37 ....
+
+**
+
+Wat is AI? AI staat voor Artificial Intelligence, oftewel kunstmatige intelligentie. Dat betekent: computers die taken uitvoeren waarvoor normaal gesproken menselijke intelligentie nodig is. Ze leren van data, herkennen patronen en kunnen daaruit zelf informatie genereren.Waarom AI in de journalistiek? AI wordt steeds vaker toegepast vanwege de snelheid en efficiëntie die het biedt. Het helpt bij het automatiseren van taken zoals nieuwsproductie en data-analyse. Maar er zijn ook nadelen: zoals een gebrek aan menselijk inzicht, risico’s rond transparantie, en afhankelijkheid van technologie.
+
+Hoe werkt AI? Er zijn drie hoofdvormen:
+
+- Rule-based AI: vaste regels en logica.
+    
+- Machine learning: leert van data met of zonder vooraf gegeven labels.
+    
+- Deep learning: een geavanceerde vorm die patronen diep in data kan herkennen, vaak gebruikt in beeld- en taalherkenning.
+    
+
+Geschiedenis van AI AI is niet nieuw. Denk aan Eliza, de eerste chatbot in de jaren '60, en de Turing test van Alan Turing. Vanaf de jaren 2010 zien we een echte doorbraak met deep learning en toepassingen in het dagelijks leven zoals Siri, ChatGPT en gezichtsherkenning.
+
+AI in de journalistiek AI wordt al volop gebruikt in drie gebieden:
+
+1. Achter de schermen – denk aan transcriptietools zoals Whisper, vertaalsoftware, en data-analyse.
+    
+2. Contentcreatie – zoals robotjournalistiek, AI-beelden of deepfake-achtige reconstructies.
+    
+3. Distributie & interactie – gepersonaliseerde meldingen, moderatie van reacties, of AI-chatbots.
+    
+
+Kansen van AI AI kan redacties versterken, creatief ondersteunen, kosten besparen en sneller werken. Het is dus een hulpmiddel, geen vervanging. Journalisten blijven essentieel, bijvoorbeeld voor ethische afwegingen en controle.
+
+Risico’s van AI Er zijn belangrijke risico’s:
+
+- Bias in data: bijvoorbeeld vertalingen die stereotypen bevestigen.
+    
+- Betrouwbaarheid: AI heeft geen moreel besef, kan foute of misleidende informatie genereren.
+    
+- Verlies van autonomie: afhankelijkheid van grote platforms zoals Google of Meta.
+    
+- Auteursrecht: AI wordt getraind op bestaande content, vaak zonder toestemming.  
+      
+    
+
+Voorbeelden in de praktijk AI wordt gebruikt bij:
+
+- De Volkskrant en NU.nl voor transcriptie en moderatie.
+    
+- NOS Journaal, waar per ongeluk AI-beelden in de uitzending kwamen.
+    
+- De Provinciale Statenverkiezingen, waar met hulp van AI in één dag honderden lokale artikelen verschenen.
+    
+
+Do’s en Don’ts Do’s:
+
+- Controleer altijd AI-content.
+    
+- Wees transparant over het gebruik ervan.
+    
+- Bescherm persoonsgegevens.  
+      
+    
+
+Don’ts:
+
+- Verzend geen vertrouwelijke informatie.
+    
+- Gebruik AI-output nooit zonder menselijke controle.  
+      
+    
+
+Discussiepunten:
+
+Welke publieke discussies zijn er over AI in de media?
+
+Denk aan de impact op zowel productie als consumptie van nieuws. Wat zijn de kansen, maar ook de gevaren?
+
+  
+
+## Artikelen AI
+
+  
+
+Broussard, M., Diakopoulos, N., Guzman, A. L., Abebe, R., Dupagne, M., &amp; Chuan, C. H. (2019). Artificial intelligence and journalism. Journalism &amp; Mass Communication Quarterly. 
+
+Doel: Dit artikel onderzoekt de opkomst van kunstmatige intelligentie (AI) binnen de journalistiek en hoe AI-technologieën de productie, distributie en consumptie van nieuws beïnvloeden. Het doel is om een kader te bieden voor het begrijpen van de kansen en uitdagingen die AI met zich meebrengt voor journalistieke praktijken.​
+
+Methode: De auteurs presenteren een interdisciplinaire benadering, waarbij inzichten uit de communicatiewetenschap, computerwetenschap en mens-computerinteractie worden gecombineerd. Ze analyseren bestaande literatuur en praktijkvoorbeelden om de impact van AI op de journalistiek te conceptualiseren.​
+
+Resultaten:
+
+- Definitie van AI in de journalistiek: AI wordt gedefinieerd als systemen die taken uitvoeren die normaal menselijke intelligentie vereisen, zoals leren, redeneren en zelfcorrectie.
+    
+- Toepassingsgebieden: AI wordt ingezet voor taken zoals geautomatiseerde nieuwsproductie (bijv. sportverslagen, financiële rapporten), personalisatie van nieuwsaanbod en moderatie van gebruikersreacties.
+    
+- Uitdagingen: Er zijn zorgen over transparantie, bias in algoritmen, ethische overwegingen en de impact op werkgelegenheid binnen de journalistiek.​
+    
+
+Implicaties: De integratie van AI in de journalistiek vereist nieuwe vaardigheden van journalisten, zoals data-analyse en begrip van algoritmische processen. Er is behoefte aan richtlijnen en ethische kaders om de inzet van AI op een verantwoorde manier te begeleiden. Daarnaast benadrukt het artikel het belang van samenwerking tussen technologische en journalistieke disciplines om de voordelen van AI te maximaliseren en de risico's te minimaliseren.​
+
+Simon, F. M. (2022). Uneasy bedfellows: AI in the news, platform companies, and the issue of journalistic autonomy. Digital journalism.
+
+Doel: Dit artikel onderzoekt hoe de integratie van AI in de nieuwsproductie de afhankelijkheid van nieuwsorganisaties van platformbedrijven zoals Google en Facebook vergroot en wat de gevolgen zijn voor de journalistieke autonomie.​
+
+Methode :Simon voert een kritische analyse uit van de relatie tussen nieuwsorganisaties en platformbedrijven, met een focus op hoe AI-technologieën deze dynamiek beïnvloeden. Hij baseert zijn analyse op bestaande literatuur, beleidsdocumenten en praktijkvoorbeelden binnen de nieuwsindustrie.​
+
+Resultaten:
+
+- Versterkte afhankelijkheid: De inzet van AI-tools, vaak geleverd door grote technologiebedrijven, versterkt de afhankelijkheid van nieuwsorganisaties van deze platforms voor distributie, data-analyse en advertentie-inkomsten.
+    
+- Beperking van autonomie: Deze afhankelijkheid kan de redactionele onafhankelijkheid ondermijnen, aangezien algoritmische aanbevelingssystemen en platformrichtlijnen invloed uitoefenen op nieuwsselectie en -presentatie.
+    
+- Concentratie van macht: Platformbedrijven verkrijgen steeds meer controle over de informatiestroom, wat vragen oproept over de machtsbalans in het digitale medialandschap.​
+    
+
+Implicaties: De groeiende rol van AI in de journalistiek vereist een heroverweging van de relatie tussen nieuwsorganisaties en platformbedrijven. Er is behoefte aan beleidsmaatregelen en strategische keuzes die de journalistieke autonomie waarborgen, zoals investeringen in eigen technologische infrastructuren en diversificatie van distributiekanalen. Daarnaast benadrukt het artikel het belang van transparantie en verantwoording in het gebruik van AI binnen de nieuwsproductie.​
+
+**
