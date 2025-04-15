@@ -6,7 +6,47 @@
 
 # Les 1: VR
 
-  
+  ## Academische Aantekeningen: Immersive Journalism (VR/AR/MR)
+
+### Definities en Concepten
+
+- **Virtual Reality (VR):** Een technologie waarbij de gebruiker volledig wordt ondergedompeld in een digitale, computergegenereerde wereld. Met een headset (HMD) en vaak haptische controllers ervaart en interageert de gebruiker met deze omgeving, waardoor de zintuigen de digitale wereld als de 'echte' omgeving waarnemen.
+- **Augmented Reality (AR):** Legt digitale informatie (zoals beelden, geluiden, tekst) over de echte wereld heen. De echte wereld blijft centraal staan, maar wordt aangevuld met digitale lagen die de perceptie verrijken.
+- **Mixed Reality (MR):** Overbrugt de kloof tussen AR en VR, waarbij digitale objecten niet alleen over de echte wereld worden gelegd, maar er ook mee kunnen interageren alsof ze fysiek aanwezig zijn. Valt binnen het Reality-Virtuality Spectrum.
+- **Extended Reality (XR):** Een overkoepelende term voor VR, AR en MR.
+- **Immersive Journalism (IJ):** Nieuwsproductie die gebruikmaakt van immersieve technologieën (voornamelijk VR) om het publiek in staat te stellen situaties uit nieuwsberichten persoonlijk te ervaren. Het doel is een diepere verbinding tussen het publiek en het verhaal te creëren via first-person ervaringen.
+- **Media Richness Theorie:** Stelt dat media die rijker zijn aan zintuiglijke details een groter gevoel van aanwezigheid ('erbij zijn') creëren. VR wordt gezien als zeer 'rijk' omdat het meerdere zintuigen tegelijk aanspreekt.
+- **Immersive Storytelling:** Verschillende manieren waarop immersieve technologie wordt ingezet, variërend in de mate van interactie (beperkt vs. uitgebreid) en de mate waarin het apparaat de ervaring bepaalt (laag vs. hoog). Dit kan variëren van het observeren van een locatie/verhaal tot het actief participeren in een verhaal.
+
+### Toepassingen en Mogelijkheden in Journalistiek
+
+- **Ervaringen uit Eerste Hand:** Het publiek kan situaties 'beleven' in plaats van er alleen over te lezen of kijken, wat kan leiden tot diepere emotionele betrokkenheid en empathie ('VR als empathiemachine').
+- **Reconstructies:** Complexe of ontoegankelijke gebeurtenissen (bv. plaats delict, grenssituaties) kunnen in 3D worden nagebouwd (met CG-modellen) om het publiek inzicht te geven.
+- **360° Video:** Biedt een panoramisch beeld van een locatie of gebeurtenis, waardoor de kijker zelf kan rondkijken.
+- **Verduidelijking:** Kan helpen complexe onderwerpen inzichtelijker te maken en nieuwe perspectieven te bieden.
+- **Interactie:** Interactieve VR-ervaringen kunnen leiden tot verbeterde media-effecten en een sterker gevoel van beleving vergeleken met passieve (niet-interactieve) VR.
+
+### Uitdagingen en Beperkingen
+
+- **Cognitieve Belasting:** Hoge immersie kan leiden tot sterke emotionele verwerking, maar mogelijk ten koste gaan van cognitieve verwerking en informatieherinnering. De immersieve omgeving kan overweldigend zijn en afleiden. Studies tonen aan dat informatie uit 360° video's soms slecht wordt onthouden. Echter, voor bepaalde educatieve toepassingen (bv. cultureel erfgoed) kan VR de immersie en educatieve waarde juist verhogen.
+- **Kosten en Middelen:** Het produceren van immersieve content is duur, tijdrovend en vereist specifieke expertise en technologie, waardoor het momenteel vooral haalbaar is voor grote nieuwsbedrijven.
+- **Adoptie:** Economische drempels zoals de kosten van headsets, de benodigde infrastructuur (internet, software) en de perceptie van beperkte economische meerwaarde voor consumenten kunnen massale adoptie in de weg staan.
+- **Effectiviteit AR vs. VR:** Onderzoek suggereert dat het publiek de meerwaarde van VR positiever evalueert dan die van AR in immersieve journalistiek.
+
+### Ethische Overwegingen
+
+- **Manipulatie:** De mogelijkheid bestaat om de VR-ervaring te sturen (bv. door bewegingsvrijheid te beperken, sfeer te creëren) en zo een vertekend beeld van de werkelijkheid te geven.
+- **Privacy:** Immersieve technologieën kunnen (biometrische) gegevens verzamelen. Het is cruciaal om bewust om te gaan met privacyrisico's en te voldoen aan wetgeving (AVG).
+- **Transparantie:** Het moet duidelijk zijn voor het publiek dat ze naar immersieve content kijken, hoe deze is gemaakt (welke tools/technieken) en dat deze mogelijk gemanipuleerd kan zijn.
+- **Psychologisch Welzijn:** Er zijn zorgen over mogelijke negatieve effecten zoals depersonalisatie of het verwaarlozen van de fysieke omgeving bij intensief gebruik.
+- **Vervaging Realiteit:** De grens tussen de echte en virtuele wereld kan vervagen, wat morele en sociale risico's met zich meebrengt.
+- **Noodzaak Richtlijnen:** Er is behoefte aan duidelijke ethische kaders en training in digitale geletterdheid voor zowel makers als gebruikers.
+
+Bronnen en gerelateerde content
+
+[
+
+](https://contribution.usercontent.google.com/download?c=CgxiYXJkX3N0b3JhZ2USTxIMcmVxdWVzdF9kYXRhGj8KMDAwMDYzMmQzNDhiYmYzODgwN2ZkODJmMzkzMGE2MDllNzE1MmY0ZDFmMzgxODEwMBILEgcQua6j5NIcGAE&filename&opi=103135050)
 
 
 
