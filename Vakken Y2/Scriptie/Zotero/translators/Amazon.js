@@ -1,15 +1,15 @@
 {
 	"translatorID": "96b9f483-c44d-5784-cdad-ce21b984fe01",
+	"translatorType": 4,
 	"label": "Amazon",
 	"creator": "Sean Takats, Michael Berkowitz, and Simon Kornblith",
 	"target": "^https?://((www\\.)|(smile\\.))?amazon",
 	"minVersion": "3.0",
-	"maxVersion": "",
+	"maxVersion": null,
 	"priority": 100,
 	"inRepository": true,
-	"translatorType": 4,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2022-12-15 05:18:20"
+	"lastUpdated": "2025-03-20 15:45:00"
 }
 
 function detectWeb(doc, _url) {
@@ -279,8 +279,10 @@ function scrape(doc, url) {
 				)];
 			}
 			if (!role) role = 'author';
-			name = ZU.trimInternal(ZU.xpathText(authors[i], './span/a[contains(@class, "a-link-normal")]|./a[contains(@class, "a-link-normal")]'))
-				.replace(/\s*\([^)]+\)/, '').replace(/,\s*$/, '');
+			name = ZU.trimInternal(
+				ZU.xpathText(authors[i], './span/a[contains(@class, "a-link-normal")]|./a[contains(@class, "a-link-normal")]')
+					|| text(authors[i], ':scope > span > a[data-a-component="text-link"]')
+			).replace(/\s*\([^)]+\)/, '').replace(/,\s*$/, '');
 			if (item.itemType == 'audioRecording') {
 				item.creators.push({
 					lastName: name,
@@ -463,7 +465,6 @@ function scrape(doc, url) {
 		item.complete();
 	}
 }
-
 
 /** BEGIN TEST CASES **/
 var testCases = [
@@ -869,7 +870,7 @@ var testCases = [
 				"numPages": 1328,
 				"publisher": "Vintage",
 				"shortTitle": "1Q84",
-                "place": "London",
+				"place": "London",
 				"attachments": [
 					{
 						"title": "Amazon.com Link",

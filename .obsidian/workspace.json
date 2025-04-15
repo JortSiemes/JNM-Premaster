@@ -1,106 +1,37 @@
 {
   "main": {
-    "id": "a6e343bb07bbb325",
+    "id": "a677496144494cfe",
     "type": "split",
     "children": [
       {
-        "id": "985f48072a719f88",
+        "id": "d1bd70aec89c2dc3",
         "type": "tabs",
         "children": [
           {
-            "id": "5a82a5d4cafd24b4",
+            "id": "630bb0d71574d354",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken Y2/Scriptie/Onderzoek document/SIMPLY BELLS AND WHISTLES.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "SIMPLY BELLS AND WHISTLES"
-            }
-          },
-          {
-            "id": "d2346fe8c33f1ae1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken Y2/Scriptie/Onderzoek document/The Impact of Online News Features on Learning from News.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Impact of Online News Features on Learning from News"
-            }
-          },
-          {
-            "id": "39ea903d4b830506",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken Y2/Innovaties in de Journalistiek/College 6.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "College 6"
-            }
-          },
-          {
-            "id": "67f11e87fe1a6229",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b1b3c23f6a371631",
+    "id": "3049b95250c268d6",
     "type": "split",
     "children": [
       {
-        "id": "c012c68ab0e2c1a6",
+        "id": "b6433dc2951d7339",
         "type": "tabs",
         "children": [
           {
-            "id": "e46240856bb44aea",
+            "id": "6df8fc5fe0a11c25",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -113,7 +44,7 @@
             }
           },
           {
-            "id": "0c6b787e688c66b2",
+            "id": "88a0064e493ebb78",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -130,7 +61,7 @@
             }
           },
           {
-            "id": "5798dde9ede5e945",
+            "id": "e17bbb706d6b66d9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -146,183 +77,93 @@
     "width": 300
   },
   "right": {
-    "id": "990de90adb7af7a7",
+    "id": "c90477c3eff0acc1",
     "type": "split",
     "children": [
       {
-        "id": "f426312ce41c0515",
+        "id": "b882eac0d074e7fb",
         "type": "tabs",
         "children": [
           {
-            "id": "f9712ea4b461c517",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "e75035efdb60a4aa",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/Speech van Bush analyse.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Speech van Bush analyse"
-            }
-          },
-          {
-            "id": "9dd31374c3e55536",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
-            }
-          },
-          {
-            "id": "d2bc2656988f3da1",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Onderwerpen/transcoding.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of transcoding"
-            }
-          },
-          {
-            "id": "425eaebe7e08c266",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "5c257cfb7a3954e8",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "a22aa95c8e540564",
+            "id": "49ea0e4a61abe0fa",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for conflict-files-obsidian-git"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "a4d33bc35a3d9e93",
+            "id": "eed2b0eb58b105ac",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c281d4202fd7ed06",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1181389f57e436df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
-      "publish:Publish changes...": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "67f11e87fe1a6229",
-  "lastOpenFiles": [
-    "Vakken Y2/Innovaties in de Journalistiek/College 6.md",
-    "conflict-files-obsidian-git.md",
-    "Vakken Y2/Stage/Fd/Stage_Aanmeldingsformulier_JortSiemes_V2.docx",
-    "Vakken Y2/Scriptie/Feedback/Beoordeling scriptievoorstel Jort Siemes.pdf",
-    "Vakken Y2/Scriptie/Feedback",
-    "Vakken Y2/Scriptie/Articles/images/ExtraJoss.avif",
-    "Vakken Y2/Scriptie/Articles/Voor wie niet genoeg heeft aan vijf sterren is er de overtreffende trap van luxe.docx",
-    "Vakken Y2/Scriptie/Articles/images",
-    "Vakken Y2/Scriptie/Articles/FD_VanBruinkoolNaarAi.docx",
-    "Vakken Y2/Scriptie/Articles/FD_Nieuwe hype onder jongeren.docx",
-    "Vakken Y2/Scriptie/Articles",
-    "Vakken Y2/Innovaties in de Journalistiek/College 3.md",
-    "Vakken Y2/Innovaties in de Journalistiek/College 2.md",
-    "Vakken Y2/Scriptie/Zotero/storage/9I3Y6AJD/range-slider.html",
-    "Vakken Y2/Scriptie/Zotero/storage/9I3Y6AJD",
-    "Vakken Y2/Innovaties in de Journalistiek/College 1.md",
-    "Vakken Y2/Crossmediale onderzoeksweken/Interview_MarijnJOngsma/Ondernemers geven Nederland een 6_ ‘Het gaat de verkeerde kant op’ _ Macro met Marijn Jongsma (FD) 9-3 screenshot.png",
-    "Vakken Y2/Crossmediale onderzoeksweken/Interview_MarijnJOngsma/Ondernemers geven Nederland een 6_ ‘Het gaat de verkeerde kant op’ _ Macro met Marijn Jongsma (FD) 5-11 screenshot.png",
-    "Vakken Y2/Crossmediale onderzoeksweken/Interview_MarijnJOngsma/Ondernemers geven Nederland een 6_ ‘Het gaat de verkeerde kant op’ _ Macro met Marijn Jongsma (FD) 2-29 screenshot.png",
-    "Vakken Y2/Crossmediale onderzoeksweken/Interview_MarijnJOngsma/Marijn.png",
-    "Vakken Y2/Scriptie/Onderzoek document/SIMPLY BELLS AND WHISTLES.md",
-    "Vakken Y2/Scriptie/Onderzoek document/The Impact of Online News Features on Learning from News.md",
-    "Onderwerpen/Onderzoeksmethode.md",
-    "Vakken Y2/Crossmediale onderzoeksweken/CT_SpotifyIMGS/StepCT.jpg",
-    "Vakken Y2/Crossmediale onderzoeksweken/CT_SpotifyIMGS/SonjaCT.jpg",
-    "Vakken Y2/Crossmediale onderzoeksweken/CT_SpotifyIMGS/SinanCT.jpg",
-    "Vakken Y2/Crossmediale onderzoeksweken/CT_SpotifyIMGS/NoaCT.jpg",
-    "Vakken Y2/Crossmediale onderzoeksweken/CT_SpotifyIMGS/Nasrah_CT.jpg",
-    "Vakken Y1/Blok 1/Methoden en theorieen van Journalism Studies/onderwerpen/Inhoudsanalyse.md",
-    "Vakken Y2/Factchecken/College 2.md",
-    "Vakken Y2/Scriptie/Onderzoek document/Online News Production in Flanders.md",
-    "Vakken Y2/Scriptie/Onderzoek document/Multimedia, interactive and hypertextual features in divergent online news platforms.md",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/Tentamen Retorica 31-10.md",
-    "Vakken Y2/Scriptie/Algemene structuur masterproef.md",
-    "Onderwerpen/standaardgeschilpunten.md",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 1.md",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/Introductie 2 sept RAJ.md",
-    "Vakken Y2/New media & society/College 1.md",
-    "Onderwerpen/politieke rede.md",
-    "Vakken Y1/Blok 1/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 1 Journalistiek en Redactionele Vaardigheden.md",
-    "Vakken Y1/Blok 2/Argumenteren en overtuigen/Week 10.md",
-    "Vakken Y1/Blok 2/Argumenteren en overtuigen/Totaal Tentamenstof AenO.md",
-    "Onderwerpen/Stijl.md",
-    "Onderwerpen/echo chamber.md",
-    "Vakken Y2/Crossmediale onderzoeksweken/Feedback 12-11.md",
-    "Untitled.canvas"
-  ]
+  "active": "630bb0d71574d354",
+  "lastOpenFiles": []
 }

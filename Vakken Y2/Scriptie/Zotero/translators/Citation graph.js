@@ -16,10 +16,10 @@
 	},
 	"configOptions": {
 		"getCollections": true,
-		"hash": "7d01e6e85fefdc3fdcd8c51eee2b27595e85f5f5cb206c3788c476f079079fb5"
+		"hash": "b48ddd82e8bf435ffdb4674d55f987f76aea96620adc2e47d8816c1f6071656c"
 	},
 	"priority": 100,
-	"lastUpdated": "2025-01-10"
+	"lastUpdated": "2025-04-06"
 }
 
 ZOTERO_CONFIG = {"GUID":"zotero@zotero.org","ID":"zotero","CLIENT_NAME":"Zotero","DOMAIN_NAME":"zotero.org","PRODUCER":"Digital Scholar","PRODUCER_URL":"https://digitalscholar.org","REPOSITORY_URL":"https://repo.zotero.org/repo/","BASE_URI":"http://zotero.org/","WWW_BASE_URL":"https://www.zotero.org/","PROXY_AUTH_URL":"https://zoteroproxycheck.s3.amazonaws.com/test","API_URL":"https://api.zotero.org/","STREAMING_URL":"wss://stream.zotero.org/","SERVICES_URL":"https://services.zotero.org/","API_VERSION":3,"CONNECTOR_MIN_VERSION":"5.0.39","PREF_BRANCH":"extensions.zotero.","BOOKMARKLET_ORIGIN":"https://www.zotero.org","BOOKMARKLET_URL":"https://www.zotero.org/bookmarklet/","START_URL":"https://www.zotero.org/start","QUICK_START_URL":"https://www.zotero.org/support/quick_start_guide","PDF_TOOLS_URL":"https://www.zotero.org/download/xpdf/","SUPPORT_URL":"https://www.zotero.org/support/","SYNC_INFO_URL":"https://www.zotero.org/support/sync","TROUBLESHOOTING_URL":"https://www.zotero.org/support/getting_help","FEEDBACK_URL":"https://forums.zotero.org/","CONNECTORS_URL":"https://www.zotero.org/download/connectors","CHANGELOG_URL":"https://www.zotero.org/support/changelog","CREDITS_URL":"https://www.zotero.org/support/credits_and_acknowledgments","LICENSING_URL":"https://www.zotero.org/support/licensing","GET_INVOLVED_URL":"https://www.zotero.org/getinvolved","DICTIONARIES_URL":"https://download.zotero.org/dictionaries/","PLUGINS_URL":"https://www.zotero.org/support/plugins","NEW_FEATURES_URL":"https://www.zotero.org/blog/zotero-7/"}
@@ -66,13 +66,6 @@ var { doExport } = (() => {
   var __privateAdd = (obj, member, value) => member.has(obj) ? __typeError("Cannot add the same private member more than once") : member instanceof WeakSet ? member.add(obj) : member.set(obj, value);
   var __privateSet = (obj, member, value, setter) => (__accessCheck(obj, member, "write to private field"), setter ? setter.call(obj, value) : member.set(obj, value), value);
   var __privateMethod = (obj, member, method) => (__accessCheck(obj, member, "access private method"), method);
-
-  // gen/version.js
-  var require_version = __commonJS({
-    "gen/version.js"(exports, module) {
-      module.exports = "7.0.5";
-    }
-  });
 
   // node_modules/@stdlib/utils-define-property/lib/define_property.js
   var require_define_property = __commonJS({
@@ -1189,10 +1182,12 @@ var { doExport } = (() => {
     cacheDelete: false,
     cacheRetain: false,
     charmap: "",
+    chinese: false,
+    chineseSplitName: true,
     citeCommand: "cite",
     citekeyCaseInsensitive: true,
     citekeyFold: true,
-    citekeyFormat: "auth.lower + shorttitle(3,3) + year",
+    citekeyFormat: " auth.lower + shorttitle(3,3) + year",
     citekeyFormatEditing: "",
     citekeySearch: true,
     citekeyUnsafeChars: `\\"#%'(),={}~`,
@@ -1220,10 +1215,9 @@ var { doExport } = (() => {
     importUnknownTexCommand: "ignore",
     itemObserverDelay: 5,
     jabrefFormat: 0,
-    jieba: false,
+    japanese: false,
     keyConflictPolicy: "keep",
     keyScope: "library",
-    kuroshiro: false,
     language: "langid",
     logEvents: true,
     mapMath: "",
@@ -1410,6 +1404,7 @@ var { doExport } = (() => {
       "gitbook": "GitBook",
       "orgRef": "org-ref citation",
       "orgRef3": "org-ref v3 citation",
+      "orgcite": "Org-mode citation link",
       "orgmode": "Org-mode select link",
       "pandoc": "Pandoc citation",
       "roamCiteKey": "Roam Cite Key",
@@ -1577,7 +1572,7 @@ var { doExport } = (() => {
   };
 
   // content/client.ts
-  var worker = typeof location !== "undefined" && location.search;
+  var worker = typeof location !== "undefined" && !!location.search;
   var searchParams = worker && new URLSearchParams(location.search);
   var name = (() => {
     var _a3;
@@ -1595,7 +1590,6 @@ var { doExport } = (() => {
   })();
   var slug = name.toLowerCase().replace("-", "");
   var isBeta = version.includes("beta");
-  var run = worker ? searchParams.get("run") : Zotero.Utilities.generateObjectKey();
   var locale = worker ? searchParams.get("locale") : Zotero.locale;
   var platform = worker ? searchParams.get("platform") : Zotero.isWin ? "win" : Zotero.isMac ? "mac" : Zotero.isLinux ? "lin" : "unk";
   var isWin = worker ? searchParams.get("isWin") === "true" : Zotero.isWin;
@@ -1603,8 +1597,6 @@ var { doExport } = (() => {
   var isLinux = worker ? searchParams.get("isLinux") === "true" : Zotero.isLinux;
 
   // content/logger.ts
-  var version2 = require_version();
-  var run2 = `<${version2} ${run}>`;
   function stringifyXPCOM(obj) {
     if (!obj.QueryInterface) return "";
     if (obj.message) return `[XPCOM error ${obj.message}]`;
@@ -1628,21 +1620,28 @@ ${obj.stack}]`;
       if (value === null) return value;
       if (value instanceof Set) return [...value];
       if (value instanceof Map) return Object.fromEntries(value);
+      if (value instanceof RegExp) return value.source;
+      if (Array.isArray(value)) return value;
       switch (typeof value) {
         case "string":
         case "number":
         case "boolean":
+        case "function":
+        case "undefined":
           return value;
         case "object":
           return stringifyXPCOM(value) || stringifyError(value) || value;
       }
-      if (Array.isArray(value)) return value;
-      return void 0;
+      if (value.openDialog || value.querySelector) return value.toString();
+      return "{object}";
     };
+  }
+  function stringify(obj, indent) {
+    return JSON.stringify(obj, replacer(), indent);
   }
   function to_s(obj) {
     if (typeof obj === "string") return obj;
-    return JSON.stringify(obj, replacer(), 2);
+    return stringify(obj);
   }
   function format(...msg) {
     return msg.map(to_s).join(" ");
@@ -1675,7 +1674,7 @@ ${obj.stack}]`;
       }
     }
   }, _instances = new WeakSet(), prefix_fn = function(error) {
-    return `{${error ? "error: " : ""}${worker ? "worker: " : ""}${this.prefix}better-bibtex: ${run2}} `;
+    return `{${error ? "error: " : ""}${worker ? "worker: " : ""}${this.prefix}better-bibtex:} `;
   }, _a)();
 
   // content/file.ts
@@ -1694,7 +1693,7 @@ ${e.stack}
     }
     async isFile(path) {
       try {
-        return (await IOUtils.stat(path)).type === "file";
+        return (await IOUtils.stat(path)).type === "regular";
       } catch (err) {
         if (err.name !== "NotFoundError") log.error(path, "isFile", err);
         return false;
@@ -1703,8 +1702,8 @@ ${e.stack}
     async lastModified(path) {
       try {
         const stat = await IOUtils.stat(path);
-        if (stat.type !== "file") return 0;
-        return stat.lastModificationDate.getTime();
+        if (stat.type !== "regular") return 0;
+        return stat.lastModified;
       } catch {
         return 0;
       }
@@ -1730,9 +1729,6 @@ ${e.stack}
     basename(path) {
       const m = path.match(__privateGet(this, _basenameRE));
       return m ? m[2] : path;
-    }
-    isAbsolute(path) {
-      return isWin ? !!path.match(/:\\/) : path[0] === "/";
     }
   }, _home = new WeakMap(), _basenameRE = new WeakMap(), _a2)();
 
