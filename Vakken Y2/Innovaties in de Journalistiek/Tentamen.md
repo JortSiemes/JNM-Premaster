@@ -50,7 +50,7 @@ Bronnen:
 #### *2. Het belang van Datajournalistiek (Spreker 2)*  LARA
 
   
-
+ 
 Slide instructies:
 
 Niet  “Het belang van de datajournalistiek”. Dan op de slide de drie punten. En dan bij punt 3: het onthult verborgen verhalen dit plaatje van de panama papers schandaal: 
