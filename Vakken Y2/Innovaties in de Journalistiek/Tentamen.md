@@ -2,30 +2,6 @@
 
 ### notitieruimte
 
-**a.**
-
-Ik kies het toepassingsgebied **Distributie & interactie**. Binnen dit gebied wordt AI ingezet om de verspreiding van nieuws te optimaliseren en de interactie met het publiek te verbeteren. Dit omvat bijvoorbeeld het personaliseren van nieuwsfeeds, het aanbevelen van relevante artikelen aan lezers, het modereren van commentaarsecties en het detecteren van nepnieuws op sociale media.
-
-De meest relevante AI-vorm hier is waarschijnlijk **Machine Learning**. Machine learning algoritmen kunnen leren van grote hoeveelheden data over gebruikersgedrag (klikgedrag, leesgedrag, demografische gegevens, etc.) om patronen te identificeren en voorspellingen te doen over welke content een individuele gebruiker waarschijnlijk interessant zal vinden. Rule-based systemen zijn te rigide en niet flexibel genoeg om de complexiteit van gebruikersgedrag te modelleren. Deep learning kan effectief zijn, maar vereist doorgaans nog grotere datasets en meer rekenkracht dan machine learning, en de voordelen zijn mogelijk niet significant genoeg voor veel distributie- en interactietoepassingen. Machine learning biedt een goede balans tussen nauwkeurigheid, flexibiliteit en implementeerbaarheid.
-
-**b.**
-
-Twee risico's binnen het toepassingsgebied Distributie & interactie zijn **bias** en **betrouwbaarheid**.
-
-*   **Bias:** Algoritmen die worden gebruikt om nieuwsfeeds te personaliseren, kunnen onbedoeld bestaande vooroordelen versterken. Als een algoritme bijvoorbeeld leert dat een bepaalde demografische groep vaker op artikelen over een bepaald onderwerp klikt, kan het die groep vaker artikelen over dat onderwerp tonen, waardoor een "filter bubble" ontstaat en de blootstelling aan diverse perspectieven wordt beperkt. Broussard et al. (2019) benadrukken dat bias in algoritmen vaak een gevolg is van bias in de data waarmee ze getraind zijn. Als de data bijvoorbeeld een onevenredig aantal artikelen van een bepaalde bron bevat, kan het algoritme die bron bevoordelen, zelfs als die bron niet de meest betrouwbare is. Dit kan leiden tot een vertekend beeld van de werkelijkheid voor de gebruiker.
-
-*   **Betrouwbaarheid:** AI-systemen die worden gebruikt om nepnieuws te detecteren, zijn niet onfeilbaar en kunnen fouten maken. Ze kunnen bijvoorbeeld satire of opinieartikelen verkeerd classificeren als nepnieuws, of ze kunnen er niet in slagen om subtielere vormen van desinformatie te detecteren. Broussard et al. (2019) waarschuwen voor het "black box" karakter van veel AI-systemen, waardoor het moeilijk is om te begrijpen hoe ze tot hun conclusies komen. Dit gebrek aan transparantie maakt het moeilijk om de betrouwbaarheid van de systemen te beoordelen en om fouten te corrigeren. Als een AI-systeem bijvoorbeeld een artikel ten onrechte als nepnieuws markeert, kan dit leiden tot onnodige censuur en schade aan de reputatie van de auteur of de publicatie.
-
-**c.**
-
-Simon (2022) argumenteert dat de afhankelijkheid van journalistieke organisaties van platformbedrijven (zoals Facebook, Google, Twitter) voor de distributie van hun content leidt tot een verlies van autonomie. Deze platformen gebruiken AI-algoritmen om te bepalen welke content aan welke gebruikers wordt getoond, en journalistieke organisaties hebben weinig controle over deze algoritmen. Dit betekent dat de zichtbaarheid van journalistieke content afhankelijk is van de algoritmen van de platformen, die vaak zijn ontworpen om engagement en winst te maximaliseren, in plaats van de kwaliteit of het belang van de journalistiek.
-
-Het risico van verlies van autonomie, zoals beschreven door Simon, verschilt van de risico's van bias en betrouwbaarheid (besproken in vraag b) in de zin dat het een meer structureel en systemisch probleem is. Bias en betrouwbaarheid zijn meer gerelateerd aan de technische aspecten van de AI-systemen zelf, terwijl verlies van autonomie te maken heeft met de machtsverhoudingen tussen journalistieke organisaties en platformbedrijven. De risico's zijn echter wel met elkaar verbonden. Bias in de algoritmen van platformbedrijven kan bijvoorbeeld leiden tot een oneerlijke verdeling van de zichtbaarheid van journalistieke content, waardoor de autonomie van bepaalde journalistieke organisaties verder wordt aangetast. Bovendien kan de afhankelijkheid van platformbedrijven journalistieke organisaties dwingen om hun content aan te passen aan de eisen van de algoritmen, wat kan leiden tot een verlies van redactionele onafhankelijkheid. Verlies van autonomie is dus een aanvulling op de risico's van bias en betrouwbaarheid, omdat het de context creëert waarin deze risico's zich kunnen manifesteren en versterken.
-
-
-
-
-
 
 
 # Les 1: VR
@@ -46,7 +22,7 @@ Hoi allemaal, gezellig dat jullie er zijn bij dit eerste college, voorbereid doo
 
   
 
-Graag leggen wij jullie uit wat datajournalistiek nou precies betekent. Het Stimuleringsfonds voor de Journalistiek hanteert de volgende definitie: Datajournalistiek is journalistiek waarbij grote hoeveelheden documenten of cijfers eerst toegankelijk moeten worden gemaakt voordat een relevant verhaal mogelijk is. Geschiedenis van de datajournalistiek (vertellen anekdote): Het onderzoek van Philip Meyer naar de rellen in Detroit in 1967 vormt voor velen de bakermat van datajournalistiek of, zoals hij het zelf in zijn boeken beschrijft, computer-assisted reporting. Meyer onderzocht als een van de eerste journalisten met een computer onderzoek naar de achterliggende oorzaak van een gebeurtenis (educatie-achtergrond van mensen die deelnamen aan de rellen, enquête die door een computer geanalyseerd werd).
+Graag leggen wij jullie uit wat datajournalistiek nou precies betekent. Het Stimuleringsfonds voor de Journalistiek hanteert de volgende definitie: [[Datajournalistiek]] is journalistiek waarbij grote hoeveelheden documenten of cijfers eerst toegankelijk moeten worden gemaakt voordat een relevant verhaal mogelijk is. Geschiedenis van de datajournalistiek (vertellen anekdote): Het onderzoek van Philip Meyer naar de rellen in Detroit in 1967 vormt voor velen de bakermat van datajournalistiek of, zoals hij het zelf in zijn boeken beschrijft, computer-assisted reporting. Meyer onderzocht als een van de eerste journalisten met een computer onderzoek naar de achterliggende oorzaak van een gebeurtenis (educatie-achtergrond van mensen die deelnamen aan de rellen, enquête die door een computer geanalyseerd werd).
 
   
 

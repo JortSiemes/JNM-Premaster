@@ -1,0 +1,1 @@
+journalistiek waarbij grote hoeveelheden documenten of cijfers eerst toegankelijk moeten worden gemaakt voordat een relevant verhaal mogelijk is.
