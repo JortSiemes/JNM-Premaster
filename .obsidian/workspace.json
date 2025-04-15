@@ -192,10 +192,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Onderwerpen/transcoding.md"
+                "file": "Vakken Y2/Innovaties in de Journalistiek/Tentamen.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of transcoding"
+              "title": "Outline of Tentamen"
             }
           },
           {
@@ -257,11 +260,12 @@
               "title": "Copilot"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 561.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -280,7 +284,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "ca08c21520dccbb5",
+  "active": "d2bc2656988f3da1",
   "lastOpenFiles": [
     "Vakken Y2/Innovaties in de Journalistiek/College 3.md",
     "Vakken Y2/Scriptie/Onderzoek document/SIMPLY BELLS AND WHISTLES.md",

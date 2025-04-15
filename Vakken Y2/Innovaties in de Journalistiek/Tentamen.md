@@ -433,7 +433,53 @@ Beschrijving: Een onderzoek naar het aantal eekhoorns in Central Park. 
 Foto’s van eekhoorns erbij? 
 
   
-  
+  **_Data Journalism: the new punk_**
+
+Dit artikel stelt dat **datajournalistiek het nieuwe punk is**, door parallellen te trekken tussen de doe-het-zelf mentaliteit en toegankelijkheid van punk in de jaren '70 en de opkomst van datajournalistiek1 . Net zoals punk mensen zonder muzikale training aanmoedigde om bands te vormen, zo stelt het artikel dat in principe iedereen datajournalistiek kan bedrijven1 .
+
+Datajournalistiek omvat een **breed scala aan stijlen**, van visualisaties tot lange artikelen, waarbij de **gemeenschappelijke factor het gebruik van cijfers en statistieken is om een verhaal te vertellen**2 . Het uiteindelijke presentatieformaat is minder relevant dan het proces zelf2 . Er zijn verschillende vormen, van snelle datavisualisaties tot complexe onderzoeken2 . De auteur suggereert dat met datasets en gratis tools, **iedereen in theorie een datajournalist kan zijn**3 .
+
+Hoewel de mentaliteit van "iedereen kan het" aanwezig is, wordt er opgemerkt dat **niet iedereen het goed kan**, en dat goed uitgevoerde datajournalistiek een combinatie van kunst en wetenschap is3 . Er zijn parallellen met punk in de zin van **wederzijds wantrouwen tegen gevestigde autoriteit** en het **gezamenlijke doel om de werkelijkheid achter de façade te onthullen**3 . Er zijn veel "akkoorden" in datajournalistiek, verwijzend naar de vele gratis tools die beschikbaar zijn3 .
+
+Een belangrijk verschil met punk is dat er in datajournalistiek wel een **zekere mate van kwaliteit vereist is**, in tegenstelling tot de vroege punkbeweging waar het experimenteren belangrijker was dan perfectie3 . De auteur waardeert echter wel dat veel mensen experimenteren met datajournalistiek, zelfs als het resultaat niet altijd memorabel is, omdat hierdoor soms verrassende dingen ontstaan3 .
+
+Datajournalistiek wordt gezien als een **grote gelijkmaker**, waarbij veel mediabedrijven met vergelijkbare basiskennis starten als individuen die vanuit huis werken4 . Veel journalisten waren tot voor kort onzeker over spreadsheets4 . De lezer van een nieuwssite kan zich nu net zo machtig voelen als de redacteur, mede doordat journalisten steeds meer op hun gemeenschappen steunen voor betrokkenheid en verhalen4.
+
+ De datajournalistische gemeenschap is **jong en leert zichzelf voortdurend nieuwe vaardigheden aan**, wat een vergelijkbare vitaliteit en opwinding geeft als de punkbeweging5 .
+
+Steeds meer nieuwsteams ontdekken dat **data gelijk staat aan verhalen** en breiden hun teams uit5 . Sommigen zien het als een voortzetting van hun traditionele werk, maar dit negeert de grote machtsverschuiving die het internet heeft gecreëerd5 . Ondanks de beschikbare tools is er nog steeds een **leertraject**5 .
+
+Er zijn voorbeelden van succesvolle datajournalistiek van teams die met weinig middelen begonnen, zoals het team van het Argentijnse La Nacion, dat zichzelf Tableau aanleerde met gratis trainingen6 . Dit team wordt nu gezien als de beste datajournalistieke site in Zuid-Amerika7 .
+
+Datajournalistiek is niet alleen **onderzoeksjournalistiek** die misstanden aan het licht brengt, maar kan ook **licht werpen op minder begrepen onderwerpen** en ons helpen de wereld beter te begrijpen7 . Er is een **grote democratisering van data** gaande, waarbij cijfers niet langer alleen van experts zijn, maar van iedereen8 . Datajournalistiek is onderdeel van deze herovering van de feiten8 .
+
+**Datajournalistiek hoeft niet per se datavisualisatie te zijn**8 . Het gaat niet alleen om het produceren van grafieken, maar de resultaten lenen zich er vaak wel voor8 . Soms is een verhaal beter te vertellen met beelden en infographics, en soms met woorden9 . Het is **flexibel in formaat**9 . Eenvoudige visualisaties, zoals enkele grafieken, kunnen online zeer succesvol zijn omdat ze makkelijk te consumeren zijn. **Eenvoud en beknoptheid** zijn sterke punten in visuele communicatie9 .
+
+Soms kunnen **minder perfecte producties toch succesvol zijn als de informatie maar vitaal is**10 . Mensen zijn sneller geneigd een gebrek aan perfectie te vergeven dan onjuiste feiten10 . Experts in datavisualisatie benadrukken dat de **data de visualisatie moet kiezen**, en niet andersom, en dat niet alles een visualisatie nodig heeft10 .
+
+Hoewel sommigen datajournalistiek misschien geen "echte" journalistiek vinden, is dat niet relevant; het belangrijkste is dat het gebeurt10 . Net zoals punk de muzikale scene veranderde, **verandert datajournalistiek het journalistieke landschap**10 . De boodschap is dat mensen alles kunnen doen10 .
+
+De auteur, Simon Rogers, was ten tijde van het schrijven Data Editor bij Twitter en eerder bij The Guardian, waar hij de Datablog creëerde11 . Dit artikel is een herdruk uit het boek "Data Journalism, Mapping the future"11 .
+
+**_Data Journalism in the United States: Beyond the "usual suspects"_**
+
+Dit artikel, getiteld "**Data Journalism in the United States Beyond the 'usual suspects'**", onderzoekt het fenomeen van datajournalistiek in de Verenigde Staten door verder te kijken dan de meest bekende nieuwsorganisaties1 .... De auteurs, Katherine Fink en C. W. Anderson, wilden datajournalistiek niet alleen binnen individuele organisaties begrijpen, maar ook op interinstitutioneel niveau1 .
+
+Om dit te doen, voerden ze **semi-gestructureerde interviews met 23 datajournalisten** van Amerikaanse kranten (groot, middelgroot en klein) en online nieuwswebsites3 .... In plaats van een strikte definitie van datajournalistiek te hanteren, lieten ze de professionals binnen de organisaties zelf definiëren wat zij onder datajournalistiek verstaan4 .... De interviews gingen in op hun achtergrond, vaardigheden, tools, doelen, de rol van datajournalistiek binnen hun organisatie, hun werkprocessen (datavergaring, presentatie), kwaliteitsmeting en ervaren beperkingen3
+
+De resultaten toonden een **aanzienlijke variatie onder datajournalisten** in termen van hun opleiding, vaardigheden en doelen3 .... Velen hadden echter vergelijkbare uitdagingen, zoals het definiëren van hun rol binnen hun organisatie en het omgaan met beperkte middelen3
+
+Een belangrijke bevinding was de **prominente rol van het National Institute for Computer-Assisted Reporting (NICAR), de Universiteit van Missouri en Investigative Reporters & Editors (IRE)** in de achtergrond van veel datajournalisten8 .... Datajournalisten in kleinere en middelgrote kranten hadden vaak moeite om aan te blijven omdat ze naar grotere organisaties vertrokken8
+
+De **organisatorische rollen van datajournalisten waren zeer divers**, waarbij ze vaak geïsoleerd werkten in kleinere en middelgrote kranten en deel uitmaakten van grotere teams in grotere organisaties13 . Datajournalisten in kleinere organisaties hadden vaak een breder scala aan meer algemeen "technische" taken.
+
+De **persoonlijke waarden van datajournalisten** met betrekking tot storytelling en privacy beïnvloedden hun werk15 . Er was weinig consensus over hoe men over privacy dacht15 .... Opvallend was het geringe aantal datajournalisten dat actief lezersstatistieken gebruikte om verhaal keuzes en redactionele beslissingen te sturen.
+
+De productie van datajournalistiek werd vaak **beperkt door een gebrek aan tijd, technologische tools, mankracht en juridische middelen**10 . Deze beperkingen waren meer uitgesproken bij kleinere en middelgrote nieuwsorganisaties8 .... Gemakkelijk te verkrijgen en te verwerken data, zoals gegevens van het US Census Bureau, waren populair18 .... Grotere kranten hadden vaker ontwikkelaars in dienst en gebruikten geavanceerdere tools, terwijl kleinere organisaties meer afhankelijk waren van third-party en gratis software20 .... De economische neergang had een negatieve invloed op de productie van datajournalistiek bij veel Amerikaanse nieuwsorganisaties22 . Het ontbreken van juridische middelen belemmerde kleinere organisaties vaak in hun pogingen om data van overheidsbronnen te verkrijgen.
+
+Het artikel plaatst de bevindingen ook in een **vergelijkend perspectief met studies naar datajournalistiek in België, Zweden en Noorwegen**3 .... Hoewel een systematische vergelijking moeilijk is door het ontbreken van een gedeelde definitie, laten de studies zien dat een **gebrek aan tijd en middelen** in alle vier de landen belangrijke belemmeringen vormen voor de bredere toepassing van datajournalistiek25 . De **vage conceptie van datajournalistiek** kan er ook toe leiden dat datajournalisten in organisaties diverse, niet-kern taken op zich nemen, wat problematisch kan zijn in tijden van bezuinigingen.
+
+De auteurs concluderen dat datajournalistiek in de **grootste Amerikaanse nieuwsorganisaties en online platforms floreert**, terwijl de situatie bij **kleinere kranten precair** is en vaak afhangt van individuele initiatieven of gelukkige aanwervingen27 .... Deze kloof in middelen zou de al bestaande zorgen over de toekomst van kranten in kleinere metropoolgebieden in de Verenigde Staten vergroten.
   
   
   
@@ -763,7 +809,49 @@ In het huidige digitale medialandschap is basiskennis van OSINT essentieel:
     
 - Noodzaak: In een tijd waarin veel informatie (en desinformatie) online circuleert, is het simpelweg een noodzakelijke vaardigheid geworden. Zoals Dave van de Sande (NOS) aangeeft, is er binnen redacties de wens dat iedere redacteur een basiscursus krijgt, hoewel de implementatie tijd kost. Dit onderstreept het groeiende belang.
     
+**_Open-source investigation as a genre of conflict reporting_**
 
+Dit artikel onderzoekt **open-source onderzoek als een opkomend genre binnen de conflictverslaggeving**, met een specifieke focus op de **rol en reikwijdte van beelden van ooggetuigen**1 .... De auteur, Sandra Ristovska, analyseert de werkwijze van de **Visual Investigations Unit van The New York Times**, het eerste nieuwsteam dat zich uitsluitend op open-source onderzoek richt.
+
+Het artikel stelt dat open-source onderzoek, gedefinieerd als **verslaggeving die gebruikmaakt van openlijk beschikbare bronnen zoals sociale media, YouTube-video's en databases**2 ..., een prominente rol is gaan spelen dankzij de ontwikkeling van commerciële satellieten, sociale media en smartphones5 . De **overvloed aan visueel bewijsmateriaal online** stelt journalisten in staat om gebeurtenissen te reconstrueren, vooral wanneer directe toegang tot het terrein ontbreekt.
+
+Een belangrijk aspect dat in het artikel wordt belicht, is de **paradoxale werking van dit genre**1 .... Enerzijds **biedt het mogelijkheden voor de inclusie van een breder scala aan burgerstemmen** in het nieuws over conflicten door middel van rigoureuze verificatiepraktijken die de beelden van ooggetuigen een status van waarheidsclaims geven.
+
+Anderzijds **komen oude machtsstructuren in nieuwe contexten terug**, waardoor het potentieel van deze stemmen om sociale erkenning en invloed te verwerven kan worden beperkt7 . Ondanks de inzet van journalisten voor innovatie, blijven institutionele logica, het bedrijfsethos van sociale mediaplatforms en geopolitieke machtsverhoudingen de impact van ooggetuigenbeelden als platform voor stem beïnvloeden.
+
+Het artikel bespreekt de **betekenis van ooggetuigenbeelden als platform voor stem** in de context van het nieuwe institutionalisme9 .... Ooggetuigenbeelden, in een mediaomgeving waarin visualiteit een dominante nieuwswaarde is10 , stellen burgers in staat om hun persoonlijke ervaringen van geweld direct te delen10 . Dit claimt hun fundamentele recht om te communiceren en transformeert hen van slachtoffers tot actieve deelnemers10 . **Sociale mediaplatforms** fungeren echter als nieuwe gatekeepers die bepalen welke stemmen online aanwezigheid krijgen en potentieel in de mainstream media verschijnen11 .... Bovendien creëert het internet vaak nieuwe **asymmetrieën in zichtbaarheid**.
+
+De analyse van de Visual Investigations Unit laat zien hoe het team zich inzet om **diverse onderwerpen en stemmen** te belichten, met name die van mensen die onrecht, oorlog of conflict ervaren14 . Voorbeelden, zoals het onderzoek naar de chemische aanval in Douma, illustreren hoe open-source onderzoek toegang kan bieden tot verschillende ooggetuigenstemmen wanneer traditionele verslaggeving niet mogelijk is15 . De **verificatie van ooggetuigenbeelden** is cruciaal in dit proces, waardoor stem zichtbaarheid en legitimiteit als waarheidsgetuigenis krijgt.
+
+Het artikel werpt ook een kritische blik op de **term "open source"** zelf, die connotaties heeft met de softwarebeweging en soms de precaire omstandigheden van de productie en het gebruik van ooggetuigenbeelden verhult16 .... Ooggetuigenbeelden zijn niet zomaar data, maar **belichaamde getuigenissen van mensen die risico's nemen** om de wereld te informeren17 . Er zijn onopgeloste kwesties met betrekking tot rechten en toestemming voor ooggetuigenmedia.
+
+De **nadruk op verificatie**, hoewel belangrijk voor journalistieke integriteit18 , kan soms de getuigen zelf naar de achtergrond drukken en de bredere culturele, politieke, juridische, beroepsmatige en economische uitdagingen binnen de journalistiek overschaduwen19 . Daarnaast zijn er **ethische en politieke zorgen** met betrekking tot de bescherming van bronnen en het verkrijgen van informed consent.
+
+Bovendien is open-source onderzoek niet immuun voor de **bestaande machtsverhoudingen en hiërarchieën binnen de westerse journalistiek**, zoals blijkt uit de afhankelijkheid van lokale stringers in conflictgebieden die vaak onderbetaald en ondergewaardeerd worden22 .... De levens van minder bevoorrechte actoren die risico's nemen om ooggetuigenbeelden te produceren, lijken soms minder belangrijk voor de instituties die afhankelijk van hen zijn24 .
+
+Het artikel concludeert dat hoewel open-source onderzoek mogelijkheden creëert voor de articulatie van stem door middel van ooggetuigenbeelden, het **tekortschiet in het faciliteren van bredere sociale erkenning en invloed van die stem**.
+
+Daarom stelt de auteur voor dat de journalistiek **meer ruimte moet creëren voor dialoog en "luisteren" naar de communicatieve behoeften van diverse ooggetuigenstemmen**26 . Het erkennen van de precaire omstandigheden van degenen die hun leven riskeren om beelden te maken, is net zo belangrijk als het verifiëren van hun claims27 . Dit evenwicht tussen spreken en luisteren kan de legitimiteit van ooggetuigenbeelden als platform voor stem versterken27 .
+
+**_Open Source Intelligence as Critical Pedagogy; Or, the Humanities Classroom as Digital Human Rights Lab_**
+
+Dit artikel, getiteld "**Open Source Intelligence as Critical Pedagogy; Or, the Humanities Classroom as Digital Human Rights Lab**" van Jason Rhys Parry, onderzoekt hoe **open-source inlichtingen (OSINT)** kan worden ingezet als een **interdisciplinaire pedagogische methode** in het humaniora-onderwijs, met een focus op mensenrechtenonderzoek1 .
+
+Het artikel legt uit dat OSINT verwijst naar **informatie die is verzameld uit openbaar beschikbare, in plaats van geheime bronnen**2 . In de context van hedendaagse technologie betekent dit het gebruik van online bronnen zoals sociale media en andere digitale data om bewijs van bijvoorbeeld door de staat gesponsorde misstanden te verzamelen en te verifiëren2.
+
+Een belangrijk aspect van moderne OSINT is de **lage drempel tot toegang**, aangezien de benodigde tools vaak gratis en online beschikbaar zijn2 . Het artikel noemt als voorbeeld het feit dat het Internationaal Strafhof in 2017 iemand heeft aangeklaagd op basis van video's die op sociale media waren geplaatst, wat het **precedent schept voor het gebruik van OSINT in internationale rechtbanken**2 .
+
+De auteur beschrijft een cursus waarin studenten **informatie over wereldwijde repressie van activisten verzamelden en verifieerden** met behulp van OSINT-methoden4 . Door onderzoek in vreemde talen, contact met lokale NGO's en journalisten, en het beoordelen van tegenstrijdige berichten, werden de studenten effectief **onderzoeksjournalisten** die een openbaar toegankelijk archief van mensenrechten schendingen creëerden4 .
+
+Het artikel bespreekt twee specifieke OSINT-technieken die in de klas werden gebruikt: **reverse image searching** en **geolocation**5
+
+• **Reverse image searching** met tools zoals TinEye werd gebruikt om de geschiedenis van digitale afbeeldingen te achterhalen en te controleren of oudere beelden werden misbruikt om recente gebeurtenissen te illustreren5 .... Een voorbeeld hiervan was de analyse van tweets die een foto van een bombardement in Gaza in 2008 ten onrechte als een aanval in Jemen in 2018 presenteerden7 .... Deze oefening leidde tot discussies over **retorische ethiek, misinformatie versus desinformatie, en de complexiteit van het label "nepnieuws"**8 .... De studenten ontdekten dat Amerikaanse raketten wel degelijk in de oorlog in Jemen werden gebruikt, wat de initiële misrepresentatie van de foto nuanceerde11 .
+
+• **Geolocation** werd toegepast op een video van een verwoeste site in Hodeidah, Jemen, gepost door een Russisch nieuwsagentschap6 .... Studenten identificeerden **landschappelijke kenmerken** in de video en vergeleken deze met satellietbeelden op Google Earth om de locatie te verifiëren12 .... Deze oefening demonstreerde ook de **geopolitieke invloeden op de resolutie van satellietbeelden** en ontwikkelde een nieuw begrip van **remote sensing**14 .... De "toon historische beelden" functie van Google Earth werd gebruikt om de impact van de door Saoedi-Arabië geleide blokkade van Jemen op de haven van Hodeidah te illustreren15 ....
+
+Het artikel benadrukt ook de **pedagogische voordelen** van het gebruik van OSINT, zoals het ontwikkelen van **kritisch denkvermogen**, het leren navigeren in het "post-truth" tijdperk en het bevorderen van **actief digitaal burgerschap**1 .... Echter, het waarschuwt ook voor de **ethische overwegingen** en het risico op **plaatsvervangend trauma** bij het omgaan met gewelddadige beelden van conflictzones19 .... Het trainen van studenten in OSINT moet daarom gepaard gaan met strategieën om de potentiële psychologische impact te verminderen21 .
+
+Concluderend stelt de auteur dat OSINT een **waardevol model voor toekomstige humaniora-klaslokalen** kan bieden, dat niet alleen praktische vaardigheden in mediaverificatie bijbrengt, maar ook theoretische reflectie op technologie, waarheid en retoriek stimuleert, en de documentatie van mensenrechtenschendingen kan democratiseren.
   
 
 # Les 5: Newsrecommenders
@@ -992,7 +1080,87 @@ Wanneer het journalisten gelukt is om het hierover eens te worden en codes te on
 
 In een wereld met steeds meer desinformatie en misinformatie is het ook belangrijk dat journalisten meer het gesprek met elkaar voeren over de toekomst van de journalistiek en de kernwaarden van het beroep, zodat gebruikers niet het vertrouwen verliezen in de journalistiek en de aanbevelingen die nieuwsmedia geven.
 
-  
+  **_On the Democratic Role of News Recommenders_**
+
+Dit artikel, getiteld "**On the Democratic Role of News Recommenders**" door Natali Helberger, onderzoekt de vraag of **algoritmische nieuwsrecommenders** een bedreiging vormen voor de **democratische rol van de media**, of juist een kans zijn.
+
+Het artikel ontwikkelt een **conceptueel kader** om de bedreigingen en mogelijkheden rondom de democratische rol van nieuwsrecommenders te beoordelen en presenteert een **typologie van verschillende 'democratische recommenders'**1 .
+
+De auteur constateert dat hoewel algoritmische nieuwsrecommandaties een belangrijke rol zullen spelen in de democratische bijdrage van de pers, er nog steeds debat is over de wenselijkheid van deze ontwikkeling2 . Er zijn zorgen geuit over mogelijke negatieve gevolgen voor de democratie, zoals **filterbubbels, polarisatie, fragmentatie en de teloorgang van de publieke sfeer**2
+
+Daarnaast is er bezorgdheid over het **'black box'-karakter** van recommenders en de moeilijkheid om algoritmen verantwoordelijk te houden voor hun publieke waarde-implicaties2 .... Aan de andere kant worden er ook **kansen** gezien voor de nieuwsmedia, zoals het **verjongen van de media, een grotere responsiviteit op de interesses van lezers, nieuwe businessmodellen en slimmere, data-gedreven manieren om met het publiek in contact te komen**2
+
+Uit een Reuters-rapport uit 2018 bleek dat bijna driekwart van de geïnterviewde redacteuren, CEO's en digitale leiders al experimenteerden met AI of dit van plan waren, met een focus op algoritmische nieuwsrecommandaties naast robotjournalistiek.
+
+Het artikel benadrukt dat nieuwsrecommenders de taak hebben om de groeiende overvloed aan online informatie te filteren8 . Over het algemeen kunnen vier typen algoritmen voor nieuwsrecommandaties worden onderscheiden: gepersonaliseerde aanbevelingen op basis van **metadata (content based), inzichten in wat andere gebruikers graag lezen (collaborative filtering), data over hun gebruikers (knowledge based), of een combinatie hiervan**.
+
+Een ander belangrijk onderscheid is dat tussen **zelfgekozen aanbevelingen** (gebruikers bepalen de selectiecriteria) en **voorgeselecteerde aanbevelingen** (media bepalen de selectie op basis van vrijwillig verstrekte of afgeleide data)8 . Het artikel richt zich op de laatste categorie, waarbij de macht om de nieuwsblootstelling van individuen actief te sturen en vorm te geven nieuwe verantwoordelijkheden en fundamentele vragen oproept over de rol van nieuwsrecommenders in het volbrengen van de democratische missie van de media8 .
+
+Om deze vragen te beantwoorden, is meer inzicht nodig in de **verschillende waarden die op het spel staan** en hoe gepersonaliseerde aanbevelingen de realisatie van deze waarden positief of negatief kunnen beïnvloeden9 . Het doel van het artikel is daarom te onderzoeken hoe de **democratische theorie** een nuttig kader kan bieden voor het beoordelen van de bedreigingen en kansen die nieuwsrecommenders met zich meebrengen voor de democratische rol van de media9 .
+
+Het artikel stelt dat de media een centrale rol spelen in elke democratische samenleving, met minstens twee belangrijke functies: **burgers informeren** met de informatie die ze nodig hebben om zinvolle politieke keuzes te maken en democratisch gekozen vertegenwoordigers ter verantwoording te roepen (**'waakhondfunctie'**) en het creëren van een **divers publiek forum** waar verschillende ideeën en meningen kunnen worden geuit, ontmoet, bediscussieerd en afgewogen10 .... Deze twee rollen kunnen in het geval van nieuwsrecommenders zelfs conflicteren11 .
+
+De auteur bespreekt vervolgens **verschillende democratische modellen** (liberaal, participatief en deliberatief) en de implicaties daarvan voor de rol en het ontwerp van nieuwsrecommenders12 .
+
+• Vanuit een **liberaal democratisch perspectief** kunnen recommenders een **bevrijdende rol** spelen door de interesses en informatievoorkeuren van gebruikers centraal te stellen13 . Het is in principe de **prerogatief van burgers** om te beslissen welke informatie ze nodig hebben om weloverwogen beslissingen te nemen, vrij van externe invloeden14 . Een liberale recommender zou gebruikers autonomie en de mogelijkheid tot zelfselectie bieden15 .... Bezorgdheid in dit model richt zich op **externe invloeden** op de editorialiteit en de mogelijke **concentratie van markt- of opinievormende macht**18 .... Diversiteit wordt gezien als iets dat door de interesses van de heterogene burgerij wordt gedreven15 .
+
+• **Participatieve democratische modellen** leggen de nadruk op een **gedeelde burgercultuur en actieve participatie van burgers** als de centrale mechanismen voor politieke wilsvorming20 . Hier geldt dat **maatschappelijk belang boven individueel eigenbelang** gaat en er hoge normatieve verwachtingen zijn van wat het betekent om een goede burger te zijn21 . Een participatieve recommender zou gericht zijn op het **inclusief en proportioneel representeren van verschillende ideeën en meningen in de samenleving** en het activeren en mobiliseren van alle groepen in de samenleving22 .... Er is hier meer aandacht voor wat burgers **'zouden moeten weten'** om actief deel te nemen aan de politiek22 .... Transparantie over de redactionele logica achter aanbevelingen is cruciaal om de media verantwoordelijk te houden5 .
+
+• **Deliberatieve (of discursieve) democratische modellen** delen de focus op gemeenschap en actieve burgers, maar benadrukken het **proces van het identificeren, onderhandelen en uiteindelijk overeenkomen van verschillende waarden en kwesties**25 . De media hebben hier een bijzondere nadruk op hun **publieke forumfunctie**, waarbij het niet genoeg is om mensen 'slechts' te informeren, maar ze ook een arena moeten bieden voor discussie en confrontatie met verschillende en uitdagende standpunten26 .... Een deliberatieve recommender zou gebruikers kunnen **uitdagen en blootstellen aan ideeën en meningen waarmee ze niet bekend zijn**, met als doel tolerantie en openheid van geest te bevorderen28 .... **Diversiteit** wordt hier gezien als instrumenteel om gebruikers uit te dagen hun mening te vergelijken en te wijzigen27 . Transparantie over de logica achter selecties is van fundamenteel belang30 .
+
+Ten slotte schetst het artikel **vier typen democratische recommenders**: de liberale, participatieve, deliberatieve en kritische recommender, waarbij de laatste gericht zou zijn op het onder de aandacht brengen van minderheidsstandpunten en het uitdagen van vooroordelen30 .... Het artikel concludeert dat nieuwsrecommenders zowel bedreigingen als kansen bieden voor de democratische rol van de media, en dat het cruciaal is om de technologie te implementeren met een diepgaand begrip van de democratische waarden die algoritmische aanbevelingen kunnen dienen33 . Er is geen 'gouden standaard' voor democratische recommenders, en de keuze voor een bepaald type recommender hangt af van de democratische theorie die men aanhangt en de waarden die men belangrijk vindt33 .... De analyse toont aan dat de potentiële antidemocratische effecten van filterbubbels en beperkte diversiteit moeten worden bekeken in relatie tot de waarden die op het spel staan34 . Het artikel benadrukt de noodzaak voor media en beleidsmakers om actief na te denken over hoe recommenders de redactionele missie kunnen bevorderen35 . Algoritmische nieuwsrecommandaties zijn op zichzelf niet goed of slecht voor de democratie; het is de manier waarop de media de technologie gebruiken die bedreigingen of kansen creëert17 .
+
+**_My Friends, Editors, Algorithms, and I. Examining audience attitudes to news selection_**
+
+Dit artikel, getiteld "**My Friends, Editors, Algorithms, and I. Examining audience attitudes to news selection**" door Neil Thurman et al., onderzoekt de **opvattingen van het publiek over nieuwsselectiemechanismen**, met name door redacteuren en journalisten versus algoritmen1 .... De studie analyseert data van een **enquête onder 53.314 personen in 26 landen** om te bepalen in hoeverre men gelooft dat selectie door redacteuren en algoritmen goede manieren zijn om online nieuws te verkrijgen, en om de relaties tussen individuele kenmerken en deze overtuigingen te onderzoeken2.
+
+De resultaten tonen aan dat het publiek collectief van mening is dat **algoritmische selectie op basis van het eerdere consumptiegedrag van de gebruiker een betere manier is om nieuws te krijgen dan redactionele curatie**3 .... Er zijn echter significante individuele verschillen in deze overtuigingen, die worden beïnvloed door factoren zoals leeftijd, vertrouwen in nieuws, privacybezorgdheid en mobiele nieuwsconsumptie3.
+
+De studie onderscheidt twee vormen van algoritmische selectie: **user tracking** (gebaseerd op het eigen consumptiegedrag) en **peer filtering** (gebaseerd op het consumptiegedrag van vrienden)7 . Uit de resultaten blijkt dat **user tracking over het algemeen als de beste methode wordt beschouwd**, gevolgd door selectie door redacteuren en journalisten, terwijl **peer filtering het minst populair is**6 .... Er waren echter interessante verschillen tussen de 26 onderzochte landen8
+
+Het onderzoek analyseert ook de invloed van verschillende **individuele kenmerken** op de voorkeur voor nieuwsselectiemethoden9 .
+
+• Er is een verband tussen het **vertrouwen in nieuwsorganisaties** en de beoordeling van redactionele selectie; een afnemend vertrouwen leidt tot een lagere waardering hiervan10 .... Interessant is dat de waardering van geautomatiseerde personalisatie minder wordt beïnvloed door wantrouwen in de media10 ....
+
+• Een **hogere leeftijd** gaat gepaard met een lagere waardering voor alle vormen van nieuwsselectie, maar ouderen prefereren redactionele selectie boven algoritmische personalisatie13 ....
+
+• Een **lager opleidingsniveau** hangt samen met een lagere waardering voor alle vormen van nieuwsselectie, met een significant sterker effect voor peer-based personalisatie13 ....
+
+• Wie nieuws voornamelijk via **mobiele apparaten** consumeert, is het vaker eens dat alle vormen van nieuwsselectie goed zijn, met een sterker effect voor personalisatie op basis van eigen gedrag16 .
+
+• Een hogere **interesse in nieuws** leidt tot een grotere waardering voor alle vormen van selectie, maar het effect is het zwakst voor peer-based personalisatie16 .
+
+• Frequent **gebruik van sociale media als nieuwsbron** is geassocieerd met een hogere waardering voor alle selectiemethoden, met een significant sterker effect voor geautomatiseerde personalisatie16 .
+
+• **Betalen voor online nieuws** is een positieve voorspeller voor de overtuiging dat alle vormen van nieuwsselectie goed zijn, maar het effect is sterker voor redactionele selectie en peer-based personalisatie16 ....
+
+• Meer **privacybezorgdheid** over nieuwspersonalisatie leidt tot een lagere waardering voor alle vormen van selectie, met het sterkste effect voor personalisatie op basis van eigen gedrag18 .
+
+• Bezorgdheid over het **missen van belangrijke informatie** door personalisatie vermindert de waardering voor alle vormen van selectie, met een significant sterker effect voor peer-based personalisatie18 ....
+
+• Bezorgdheid over het **missen van uitdagende standpunten** door personalisatie vermindert de waardering voor alle vormen van selectie, zonder significante verschillen tussen de methoden18 .
+
+De auteurs vergelijken hun bevindingen met het model van Logg, Minson en Moore (2018)20 .... Hoewel ze deels overeenkomen in de algemene waardering van algoritmen boven mensen, **contradicteren hun resultaten dat de voorkeur voor algoritmen aanhoudt, zelfs wanneer de menselijke aanbevelingen van experts (redacteuren en journalisten) komen**20 .... Deze tegenstrijdigheid wordt verklaard door de ambivalente houding ten opzichte van de expertise van journalisten en redacteuren22 ....
+
+De studie toont ook aan dat de **waardering van algoritmen afhangt van de bron van de data**, waarbij user tracking de voorkeur geniet boven peer filtering20 .... De beperkte effectiviteit en mogelijke problemen met peer filtering (zoals het missen van belangrijke informatie) kunnen deze bevinding verklaren19 ....
+
+Concluderend stellen de auteurs dat hoewel er een algemene waardering is voor algoritmische nieuwsselectie, deze complex is en wordt beïnvloed door individuele kenmerken en de specifieke context van nieuws23
+
+De bevindingen suggereren dat nieuwsbedrijven kansen hebben in personalisatie voor jongere en mobiele gebruikers, maar ook de neutraliteit van platformalgoritmen moeten uitdagen, de privacy van gebruikers moeten benadrukken en de waarde van hun gecureerde content moeten promoten30 . De studie erkent enkele beperkingen, zoals het meten van meningen in plaats van gedrag31 , en roept op tot verder onderzoek naar de preciezere meting van voorkeuren voor nieuwsselectie32 .
+
+**_Safeguarding the Journalistic DNA: Attitudes towards the Role of Professional Values in Algorithmic News Recommender Designs_**
+
+Dit artikel, getiteld "**Safeguarding the Journalistic DNA: Attitudes towards the Role of Professional Values in Algorithmic News Recommender Designs**" door Mariella Bastian, Natali Helberger en Mykola Makhortykh, onderzoekt hoe **media professionals de impact van algoritmische nieuwsrecommenders (ANRs) op hun professionele normen en de missies van hun mediaorganisaties ervaren**, en hoe deze normen en missies in het ontwerp van ANRs kunnen worden geïntegreerd1 . De studie is gebaseerd op **diepte-interviews met 17 mediaprofessionals** (journalisten, data scientists en productmanagers) van twee kwaliteitskranten: **Het Financieele Dagblad (FD) in Nederland en Neue Zürcher Zeitung (NZZ) in Zwitserland**, die beide bezig waren met het ontwerpen of herontwerpen van hun ANRs2 ....
+
+Het artikel onderscheidt twee categorieën journalistieke waarden: **organisatie-gericht** (zoals objectiviteit en diversiteit) en **publieksgericht** (zoals privacy en gebruikerscontrole)5 .... De bevindingen tonen aan dat er **verschillende opvattingen bestaan onder de geïnterviewde professionals over het belang en de implementatie van specifieke waarden in het ontwerp van ANRs**, afhankelijk van hun professionele achtergrond1 .
+
+De studie identificeert een selectie van waarden die door de meeste geïnterviewden als **"kern" journalistieke waarden voor ANR-ontwerp en -implementatie** worden beschouwd. Dit zijn **transparantie, diversiteit, redactionele autonomie, een breed информацие aanbod, persoonlijke relevantie, bruikbaarheid en verrassing**8 . Andere waarden, zoals objectiviteit, neutraliteit en plezier in gebruik, worden ook als belangrijk gezien, maar minder essentieel voor algoritmisch ontwerp8 .
+
+De auteurs benadrukken dat de **implementatie van ANRs nieuwsredacties dwingt om hun kernwaarden en redactionele beslissingen kritisch te herzien en te verwoorden**8 . Sommige waarden, zoals privacy, moeten op organisatieniveau worden geïntegreerd, terwijl andere, zoals objectiviteit, beter op het niveau van de aanbevolen content kunnen worden geoperationaliseerd8 .... De **verschillende redactionele missies van mediaorganisaties** beïnvloeden ook de houding ten opzichte van journalistieke waarden en hun rol in het vormgeven van ANRs9 .
+
+De studie concludeert dat een **verantwoordelijk en waardegedreven gebruik van ANRs vereist dat nieuwsorganisaties intern een organisatiebreed proces aangaan om hun kernwaarden met betrekking tot ANR-gebruik te identificeren en deze vervolgens te communiceren naar gebruikers en de maatschappij**10 . Daarnaast is **samenwerking tussen professionals met verschillende achtergronden** die betrokken zijn bij het ontwerp en de implementatie van gepersonaliseerde contentaanbiedingen van groot belang11 ....
+
+Het artikel erkent de **beperkingen van de studie**, zoals de relatief kleine steekproef en het feit dat het slechts twee traditionele kwaliteitskranten betreft13 . Desondanks benadrukt het de **urgentie van verder onderzoek** naar de perceptie van journalistieke waarden in de context van de adoptie van AI-gedreven innovaties in nieuwsredacties en de integratie van deze percepties in zowel algoritmische ontwerpen als organisatorische routines14 . De bevindingen laten zien dat er **geen universele algoritmische oplossing** is, en dat de opvattingen over de rol van journalistieke waarden in het ontwerp van ANRs aanzienlijk verschillen12 .
   
   
   
@@ -1155,11 +1323,117 @@ Maar er zit een zekere spanning in de dynamiek tussen platforms en de journalist
 
 - Denk: onderzoeksjournalistiek is zwaar werk, kost tijd en is duur. Hierdoor is het soms moeilijk om ook nog al die platforms in de gaten te hoouden.
     
+**_Reporting with WhatsApp: Mobile Chat Applications’ Impact on Journalistic Practices_**
 
+Dit artikel, getiteld "**Reporting with WhatsApp: Mobile Chat Applications’ Impact on Journalistic Practices**" door Tomás Dodds, onderzoekt de **redenen waarom journalisten WhatsApp gebruiken en de gevolgen van deze mobiele chatapplicatie op hun nieuwsproductiepraktijken**1 . De studie is gebaseerd op **zeven maanden etnografisch onderzoek in de nieuwsredacties van twee Chileense mediaorganisaties:** de krant La Tercera en de televisienieuwsafdeling van Canal 13 (Teletrece)2 . De methodologie omvatte **participerende observatie en interviews met journalisten**3 .
+
+De conclusies van het artikel suggereren dat het wijdverbreide gebruik van WhatsApp door Chileense journalisten de nieuwsproductie op minstens drie manieren heeft beïnvloed4 :
+
+• **Verandering in temporaliteit:** WhatsApp heeft de **tijdstructuur van de journalistieke routine getransformeerd**4 .... De snelheid van de app zorgt voor een **versnelling van de informatievergaring en -verspreiding**5 .... Journalisten voelen de druk om snel te reageren op berichten van bronnen, zelfs buiten reguliere werktijden7 .... WhatsApp-groepen zijn sneller en efficiënter geworden dan traditionele persconferenties5 . Het concept van een primeur ("scoop") wordt nu gemeten in seconden9 .
+
+• **Nieuwe relaties met intimiteit:** Het gebruik van WhatsApp heeft geleid tot **nieuwe relaties tussen journalisten en bronnen die gekenmerkt worden door een hoge mate van intimiteit**4 .... De informele aard van de communicatie, het gebruik van emoji's en snelle reacties creëren een gevoel van nabijheid10 .... Dit kan echter de **professionele grenzen tussen journalist en bron vervagen**12 .... Hoewel het de toegang tot bronnen kan versnellen10 ..., kan het ook leiden tot verwarring over wat "off the record" is13 ....
+
+• **Nieuwe niveaus van mutaliteit en kameraadschap:** Er zijn **nieuwe vormen van wederkerigheid en kameraadschap ontstaan in de communicatie tussen journalisten**4 .... Journalisten delen informatie, citaten en waarschuwingen met elkaar in WhatsApp-groepen, zelfs tussen verschillende mediaorganisaties15 . Dit wordt mede mogelijk gemaakt doordat de informatie toch snel algemeen bekend zal zijn9 .... WhatsApp overbrugt ook de kloof tussen verschillende platforms binnen een mediabedrijf, zoals televisie, web en radio16 .
+
+Het artikel benadrukt dat **journalistiek gezien kan worden als een socio-technisch systeem**17 ..., waarbij de technologie (WhatsApp) de journalistieke praktijken beïnvloedt8 ....
+
+De studie maakt gebruik van **Hodder’s theorie van mens-ding-verstrengeling** om de afhankelijkheidsrelatie tussen journalisten en WhatsApp te analyseren20 .... Journalisten wenden zich tot WhatsApp omdat het een snelle en privé manier lijkt om met bronnen te communiceren22 , maar realiseren zich mogelijk niet alle gevolgen hiervan22 ....
+
+De studie constateert ook dat WhatsApp **economische en materiële beperkingen tussen nieuwsredacties kan verminderen**24 . Kleinere journalistieke projecten hebben via WhatsApp een grotere kans om relevante informatie te verkrijgen24 .
+
+Er worden echter ook **negatieve aspecten** genoemd. De **informaliteit van WhatsApp kan de privacy en intimiteit beïnvloeden**25 . Journalisten worden geconfronteerd met de uitdaging om de grens tussen "off" en "on the record" te bepalen13 .... Er is ook bezorgdheid over de **onontkoombaarheid van deze technologie**, waardoor journalisten er sterk van afhankelijk worden om hun werk te doen26 . Er is ook kritiek dat jongere, onervaren journalisten mogelijk niet de traditionele methoden van informatievergaring leren18 ....
+
+De bevindingen zijn **beperkt tot de context van democratische landen en Chileense nieuwsredacties** met een hoge internetpenetratie26 . Toekomstig onderzoek zou de impact van andere platforms zoals Twitter en Facebook moeten onderzoeken28 .
+
+Concluderend stelt de studie dat hoewel WhatsApp voordelen biedt voor de journalistiek, het ook leidt tot significante veranderingen in de nieuwsproductie, de relaties met bronnen en de dynamiek binnen nieuwsredacties18 .... De **verstrengeling van journalisten met deze technologie vereist een kritische blik op de kosten en baten** van deze afhankelijkheid28 .
+
+**Facebook, nieuwsmedia en platformafhankelijkheid: De institutionele impact van nieuwsdistributie op sociale platforms**
+
+Dit artikel, getiteld "**Facebook, nieuwsmedia en platformafhankelijkheid: De institutionele impact van nieuwsdistributie op sociale platforms**" door James Meese en Edward Hurcombe, onderzoekt de **afhankelijkheid van nieuwsorganisaties van platforms zoals Facebook voor publieksbereik** en hoe deze afhankelijkheid zich in de praktijk manifesteert1 .... De studie is gebaseerd op **interviews met 15 Australische nieuwsprofessionals en industrieel veldwerk**4.
+
+Het artikel stelt vast dat hoewel Facebook belangrijk blijft, **nieuwsmediaorganisaties recentelijk hun distributiestrategieën en bijbehorende bedrijfsmodellen zijn gaan diversifiëren** als reactie op de algoritmewijzigingen van Facebook1 ....
+
+Belangrijke bevindingen zijn:
+
+• **Aanvankelijke afhankelijkheid van Facebook:** In de jaren 2010 werden platforms, met name Facebook, steeds belangrijker voor de nieuwsdistributie, doordat ze nieuws naar publiek brachten en publiek naar nieuwsmediaorganisaties8 .... In november 2016 kwam meer dan 80% van de verkeersverwijzingen naar digitale uitgevers in een netwerk van Parse.ly van Facebook en Google9 . Nieuwsmedia zagen platforms als een nieuwe kans in een economisch moeilijke sector10 . Facebook werd centraal vanwege de omvang van het gebruikersbestand, waardoor uitgevers afhankelijk werden van het platform voor verkeer van sociale media naar hun websites10 ....
+
+• **Invloed van algoritmes:** Algoritmes speelden een krachtige rol bij het vormgeven van nieuwsdistributie op platforms en hadden invloed op de bedrijfsmodellen van nieuwsmedia11 . Het werk van Van Dijck en Poell (2013) suggereert dat de technologische principes van platforms nieuwsmedia transformeren en afstemmen op de sociale en economische doelstellingen van sociale mediabedrijven11 . Andere wetenschappers stellen dat de algoritmische logica van dominante platforms een 'isomorf' effect heeft op nieuwsmedia, waardoor ze de prioriteiten en waarden van deze platforms overnemen12 .
+
+• **Facebook's veranderende relatie met nieuws:** Facebook's interesse in nieuws groeide toen het een bedrijfsmodel rond online adverteren ontwikkelde13 . De algoritme-update van 2013 die de posts van nieuwsuitgevers boostte, stimuleerde Facebook-gerichte distributiestrategieën13 .... Facebook ontwikkelde vervolgens technologieën zoals Instant Articles en prioriteerde video, wat leidde tot de 'pivot-to-video' door nieuwsmedia14 .... Echter, relaties verslechterden door problemen met monetisatie van Instant Articles, misleidende videomedia-statistieken en Facebook's terugtrekking uit nieuwsdistributie na de kritiek op de verspreiding van misinformatie tijdens de Amerikaanse verkiezingen van 201617 .... In januari 2018 veranderde Facebook zijn News Feed-algoritme om meer posts van vrienden en familie te tonen, waardoor de content van uitgevers werd beperkt19 ....
+
+• **Diversificatie van distributiestrategieën:** Als reactie op de veranderingen in het Facebook-algoritme, zijn Australische nieuwsmediaorganisaties hun online distributiestrategieën gaan diversifiëren7 .... Dit omvat het heroverwegen van de relatie met Facebook, minder premium video-content op het platform plaatsen22 , de focus verleggen naar **zoekmachineoptimalisatie (SEO)** om verkeer via Google te genereren23 ..., het volgen van publiek naar andere platforms zoals Instagram25 ... en het investeren in andere inkomstenbronnen zoals evenementen en native advertising27 .... Grotere traditionele nieuwsmediaorganisaties verschoven van display advertising naar abonnementsmodellen, waardoor direct verkeer meer werd gewaardeerd dan verkeer van sociale media29 ....
+
+• **Platformafhankelijkheid kritisch bekeken:** Hoewel er een periode was van afhankelijkheid van Facebook, was deze niet universeel en was deze meer uitgesproken bij sociale nieuwsbedrijven dan bij traditionele mediabedrijven32 .... Zelfs afhankelijke relaties begonnen te verschuiven toen Facebook zich van nieuws afkeerde34 . De dominantie van Facebook als centrale intermediair voor nieuwsdistributie was ongelijk en het resultaat van een complex samenspel tussen publieksgewoonten en mediabedrijfsstrategieën35 .
+
+• **Institutionele geschiedenis:** De verschuiving naar en weer van sociale media kan worden begrepen binnen een langere institutionele geschiedenis van journalistiek en digitale media, gekenmerkt door momenten van conservatisme, verandering en vertrek in de zoektocht naar een duurzaam bedrijfsmodel36 ....
+
+• **Implicaties voor beleid:** Gezien de bezorgdheid van overheden over platformafhankelijkheid, bespreekt het artikel de ontwikkelingen in Australië, waar de overheid ingrijpt om een verplichte gedragscode in te voeren om de relatie tussen platforms en uitgevers te reguleren, met name gericht op revenue sharing en algoritmische transparantie41 .... De auteurs benadrukken dat beleidsmakers voorzichtig moeten zijn bij het interveniëren in deze dynamische relaties45 .
+
+De auteurs concluderen dat de relaties tussen platforms en uitgevers complex en variabel zijn en dat het concept van permanente platformafhankelijkheid genuanceerd moet worden bekeken
+
+**_The Platformization of the Web: Making Web Data Platform Ready_**
+
+Dit artikel van Anne Helmond, getiteld "**The Platformization of the Web: Making Web Data Platform Ready**", onderzoekt de **ontwikkeling van sociale netwerksites tot sociale mediaplatforms** en de opkomst van het **platform als dominant infrastructureel en economisch model van het sociale web**, een proces dat de auteur **platformisering** noemt1 ....
+
+De kern van deze platformisering is de **uitbreiding van sociale mediaplatforms naar de rest van het web en hun streven om externe webdata "platform ready" te maken**1 .... Het artikel analyseert de **specifieke technologische architectuur en ontologische eigenheid van platforms**, met name hun **programmeerbaarheid**1 ....
+
+De auteur situeert de ontwikkeling van Facebook als platform in deze bredere context1 .... Hoewel Facebook aanvankelijk werd gezien als een sociale netwerksite5 , heeft oprichter Mark Zuckerberg Facebook vanaf het begin beschouwd als een **computationeel platform voor andere applicaties**5 .... Helmond benadrukt dat de verschuiving van sociale netwerksites naar sociale mediaplatforms plaatsvindt op het moment dat deze sites **Application Programming Interfaces (API's)** aanbieden, waardoor ze **programmeerbaar** worden7 . De API wordt zo een cruciale plek om de gevolgen van deze programmeerbaarheid kritisch te onderzoeken7 .
+
+Het artikel bespreekt de **geschiedenis van web-API's**, die in de vroege jaren 2000 ontstonden als business-to-business oplossingen voor e-commerce, en hoe de focus in het midden van de jaren 2000 verschoof naar toegang tot user-generated content en gebruikersinformatie door sociale netwerksites8 .... **Tim O’Reilly** wordt genoemd als iemand die bedrijven aanmoedigde een platformstrategie te volgen door hun data open te stellen9 .
+
+Helmond gaat dieper in op de **verschillende niveaus en voorwaarden van programmeerbaarheid** van internetgebaseerde softwareplatforms, verwijzend naar de indeling van **Marc Andreessen** in drie types: **Level 1 "Access API"**, **Level 2 "Plug-In API"**, en **Level 3 "Runtime Environment" API**10 .... De meeste sociale mediaplatforms bieden een Level 1 of Level 2 API12 .
+
+De auteur introduceert het concept **platformisering** om de manier te beschrijven waarop platforms het web herformatteren volgens de logica van sociale media13 . Dit gebeurt door de **decentralisatie van data-productie en de recentralisatie van platform-ready data**13 . Websites maken hun programmeerbaarheid mogelijk door de **scheiding van content en presentatie (via XML)**, de **modularisering van content en features (via widgets)**, en de **koppeling met databases**14 .
+
+**Facebook's social plug-ins**, zoals de Like-knop, worden beschreven als tools die platformfunctionaliteit uitbreiden naar externe websites en tegelijkertijd data van buiten Facebook.com terug naar de database sturen, wat functioneert als **"edge-creating devices"**15 . Om websites compatibel te maken met Facebook's platform, moeten webmasters **JavaScript-code (de Facebook SDK)** inbedden, waardoor hun pagina's **platform ready** worden voor datacommunicatie met Facebook16 .
+
+Een ander belangrijk onderdeel van Facebook's platforminfrastructuur is de **Open Graph**, die expliciet gericht is op het **platform ready maken van externe data**17 . Door middel van **Open Graph tags** kunnen webmasters hun sites markeren met gestructureerde informatie die Facebook's crawler gebruikt om content op het platform te distribueren en de betrokkenheid te vergroten18 .
+
+Het artikel concludeert dat **platformisering rust op de duale logica van de expansie van sociale mediaplatforms naar de rest van het web en hun gelijktijdige streven om externe web- en appdata platform ready te maken**19 . Deze **dubbele logica** wordt geoperationaliseerd door platform-eigen objecten zoals API's, social plug-ins en de Open Graph, die de infrastructurele model van het platform verbinden met zijn economische doelen19 . De auteur beoogt met dit artikel een **materieel-technisch perspectief op platforms** te bieden en de gevolgen van de **programmeerbaarheid van platforms** kritisch te onderzoeken20 .
   
   
   
 
 # Les 7: AI
 
-**
+**Artificial intelligence (AI)**
+
+**_Artificial Intelligence and Journalism_**
+
+Dit artikel, getiteld "**Artificial Intelligence and Journalism**" en samengesteld door Seth C. Lewis in een speciaal forum, onderzoekt de **betekenis en implicaties van artificiële intelligentie (AI) voor de journalistiek**1 .... De bijdragen van verschillende experts benadrukken de noodzaak om de **hype rond AI te nuanceren** en een **mensgerichte benadering** te ontwikkelen voor de toepassing ervan in de nieuwsindustrie3.
+
+Een belangrijk punt is dat **AI vaak verkeerd wordt begrepen** als een vorm van sentiente machines, terwijl het in werkelijkheid een tak van de computerwetenschap is die zich richt op het **simuleren van menselijke intelligentie**, met name door **machine learning**1 .... Machine learning stelt machines in staat om van data te leren, patronen te herkennen en daaropvolgende oordelen te vellen met minimale menselijke tussenkomst6 . In een journalistieke context kan **"communicatieve AI"** verwijzen naar technologieën zoals chatbots en geautomatiseerde schrijfsystemen die als communicatoren functioneren6 .
+
+Het artikel benadrukt dat de opkomst van AI in de journalistiek moet worden gezien in de bredere context van de **digitalisering van media**, die al ingrijpende gevolgen heeft gehad voor businessmodellen, werkroutines en de informatievoorziening8 . AI-technologieën vormen in die zin een onderdeel van een **reconfiguratie van journalistiek in relatie tot computationele processen**8 .
+
+Verschillende auteurs in het forum pleiten voor een **"mensgerichte toekomst"** van AI in de journalistiek5 .... **Broussard** waarschuwt tegen **technochauvinisme**, de aanname dat technische oplossingen altijd superieur zijn, en benadrukt dat het doel van journalistiek en onderzoek naar journalistiek is om inzichten in de **mensheid** te rapporteren4 .... **Diakopoulos** stelt dat AI een **nieuw medium** is waarmee journalisten hun **ethische en normatieve waarden** kunnen uitdrukken via de code die ze implementeren5 .... Hij ziet AI niet als banenvernietiger, maar eerder als een technologie die **nieuwe vormen van werk** creëert door de **hybridisering van mens en AI** in journalistieke workflows5 ....
+
+**Guzman** benadrukt dat de studie van AI **interdisciplinaire samenwerking** vereist, met name met technologie-gerichte velden, en dat we moeten leren van de geschiedenis van industriële automatisering18 .... Ze introduceert het concept van **human-machine communication (HMC)** als een manier om de communicatie tussen mensen en AI-technologieën te theoretiseren18 ....
+
+Een belangrijk aandachtspunt is dat **AI niet neutraal is** en de **vooroordelen van zijn makers** kan weerspiegelen10 .... **Abebe** waarschuwt dat een focus op "mensgerichte AI" het risico loopt **historisch gemarginaliseerde gemeenschappen over het hoofd te zien** en te schaden9 .... Ze benadrukt dat journalistiek een belangrijke rol kan spelen bij het belichten van deze tekortkomingen en het bevorderen van AI voor sociaal welzijn9 ....
+
+**Dupagne en Chuan** pleiten voor een **proactieve houding** ten opzichte van AI-ontwikkeling in de journalistiek en benadrukken de noodzaak van een beter begrip van wat AI kan en waarschijnlijk zal bereiken9 .... Ze wijzen erop dat AI al op verschillende manieren in nieuwsrooms wordt toegepast31 . Ze benadrukken dat het definiëren van de **doelen voor AI-toepassingen** een verantwoordelijkheid is van iedereen en dat menselijke waarden op deze manier in AI kunnen worden gecodeerd32 . Ten slotte bespreken ze het belang van **onderwijs en curricula** die journalisten en communicatiewetenschappers in staat stellen om AI op een conceptueel niveau te begrijpen, zonder noodzakelijkerwijs diepgaande technische kennis te vereisen9
+
+Kortom, het artikel schetst een complex beeld van de relatie tussen AI en journalistiek, waarbij kansen en uitdagingen hand in hand gaan. Het benadrukt de noodzaak van een kritische, mensgerichte benadering die rekening houdt met ethische implicaties, mogelijke biases en de behoeften van alle gemeenschappen, en pleit voor interdisciplinaire samenwerking en adequate opleiding om de potentie van AI in de journalistiek op een verantwoorde manier te benutten2 ....
+
+**_Uneasy Bedfellows: AI in the News, Platform Companies and the Issue of Journalistic Autonomy_**
+
+Dit artikel van Felix M. Simon, getiteld "**Uneasy Bedfellows: AI in the News, Platform Companies and the Issue of Journalistic Autonomy**", analyseert de **rol van platformbedrijven zoals Google, Amazon en Microsoft in de productie en distributie van nieuws**, en de mogelijke gevolgen van de **toenemende adoptie van artificiële intelligentie (AI) door nieuwsorganisaties**1 .... De auteur betoogt dat de introductie van AI in de nieuwssector het risico inhoudt dat de **controle over en de afhankelijkheid van platformbedrijven toeneemt**2
+
+De kern van het argument is dat platformbedrijven, die al een belangrijke rol spelen in de distributie van nieuws via hun platforms4 ..., door hun dominantie in de ontwikkeling en aanbieding van AI-diensten en -infrastructuur, hun **controle kunnen uitbreiden naar de middelen van productie in de journalistiek**4 .... AI dringt steeds meer door in alle stadia van het journalistieke proces, van nieuwsgaring tot productie en distributie.
+
+Simon definieert **platformbedrijven** als de dominante Amerikaanse technologiegiganten zoals Alphabet/Google, Facebook (nu Meta), Microsoft, Apple en Amazon3 . Hij definieert **AI** breed als de activiteit van het computationeel simuleren van menselijke activiteiten en vaardigheden in nauw omschreven domeinen, meestal door de toepassing van machine learning13 . In de context van nieuws omvat AI machine learning en vormen van Natural Language Processing14 . AI wordt in de nieuwsindustrie gezien als potentieel voor meer efficiëntie, winst en het oplossen van bestaande problemen2.
+
+De relatie tussen nieuwsorganisaties en platformbedrijven wordt gekenmerkt door een **spanning tussen de bereidheid tot samenwerking en de angst voor afhankelijkheid**8 . De dominantie van platformbedrijven in AI is het resultaat van hun **structurele voordelen**, zoals grote infrastructuren, toegang tot enorme hoeveelheden data, financiële middelen en de mogelijkheid om talent aan te trekken15 ....
+
+Deze voordelen maken het voor veel nieuwsorganisaties moeilijk om AI onafhankelijk te ontwikkelen en te implementeren18 .
+
+De toenemende afhankelijkheid van platformbedrijven voor AI leidt tot het concept van **'infrastructure capture'**, waarbij nieuwsmedia niet duurzaam kunnen opereren zonder de fysieke of digitale middelen en diensten van de platformen die ze zouden moeten controleren5
+
+Dit kan leiden tot **vendor lock-in**, waarbij nieuwsorganisaties afhankelijk worden van de AI-infrastructuur van één aanbieder21 .... Daarnaast bezitten platformen **artefactuele en contractuele controle** over hun infrastructuur en diensten, waardoor ze de mogelijkheden, aanpasbaarheid en interoperabiliteit van AI-oplossingen voor nieuwsorganisaties kunnen beïnvloeden23 . De **ondoorzichtigheid van AI** kan het voor nieuwsorganisaties moeilijk maken om de beslissingen en resultaten van deze systemen te begrijpen24 .
+
+De belangrijkste consequentie van deze ontwikkelingen is een **potentieel verlies van autonomie voor de nieuwsindustrie**4 .... Autonomie wordt gezien als essentieel voor de rol van de nieuwsmedia in het publieke domein als aanbieder van informatie voor debat en deliberatie, en als waakhond25 . De controle van platformbedrijven over de AI-infrastructuur kan de discretionaire beslissingsbevoegdheid van journalisten beperken en hun vermogen om deze systemen kritisch te onderzoeken ondermijnen27 . Bovendien kan het de nieuwsindustrie als geheel in de richting van de waarden en logica van platformbedrijven duwen, zoals grotere kwantificering en commercialisering28 .
+
+Het artikel sluit af met een **onderzoeksagenda** die zes gebieden voor verder onderzoek identificeert, waaronder het in kaart brengen van de actoren en hun activiteiten, het begrijpen van het daadwerkelijke gebruik van AI-tools, de gebruiksvoorwaarden en problemen, de motieven van platformbedrijven, mogelijke regulering en beleidsinterventies, en de bredere gevolgen voor het publieke domein29 ....
+
+De auteur erkent dat er ook andere AI-aanbieders zijn, maar stelt dat de oligopolistische positie van de platformbedrijven hen een unieke controle over de technologie in de nieuwsindustrie geeft36 . Hoewel de mate van controle die platformen uiteindelijk zullen verwerven onzeker is, benadrukt het artikel de noodzaak om de potentiële risico's voor de autonomie van de nieuwsindustrie serieus te nemen37 ....
