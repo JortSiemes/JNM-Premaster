@@ -1,7 +1,16 @@
 
 
+
 ### notitieruimte
 
+<<<<<<< Updated upstream
+=======
+
+
+
+
+
+>>>>>>> Stashed changes
 
 
 # Les 1: VR

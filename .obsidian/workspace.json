@@ -182,6 +182,7 @@
       "publish:Publish changes...": false
     }
   },
+<<<<<<< Updated upstream
   "active": "630bb0d71574d354",
   "lastOpenFiles": [
     "Vakken Y2/Innovaties in de Journalistiek/Zelfgemaakte/SocialMedia_Presentatie.pdf",
@@ -193,6 +194,10 @@
     "Vakken Y2/Innovaties in de Journalistiek/Zelfgemaakte/AR_Presentatie.pdf",
     "Vakken Y2/Innovaties in de Journalistiek/Zelfgemaakte",
     "Datajournalistiek.md",
+=======
+  "active": "1181389f57e436df",
+  "lastOpenFiles": [
+>>>>>>> Stashed changes
     "conflict-files-obsidian-git.md"
   ]
 }
