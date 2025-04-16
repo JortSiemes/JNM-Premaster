@@ -1,62 +1,14 @@
 {
   "main": {
-    "id": "a6e343bb07bbb325",
+    "id": "a677496144494cfe",
     "type": "split",
     "children": [
       {
-        "id": "985f48072a719f88",
+        "id": "d1bd70aec89c2dc3",
         "type": "tabs",
         "children": [
           {
-            "id": "5a82a5d4cafd24b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken Y2/Scriptie/Onderzoek document/SIMPLY BELLS AND WHISTLES.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "SIMPLY BELLS AND WHISTLES"
-            }
-          },
-          {
-            "id": "39ea903d4b830506",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vakken Y2/Innovaties in de Journalistiek/College 3.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "College 3"
-            }
-          },
-          {
-            "id": "ca08c21520dccbb5",
+            "id": "630bb0d71574d354",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,22 +31,21 @@
               "title": "Tentamen"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b1b3c23f6a371631",
+    "id": "3049b95250c268d6",
     "type": "split",
     "children": [
       {
-        "id": "c012c68ab0e2c1a6",
+        "id": "b6433dc2951d7339",
         "type": "tabs",
         "children": [
           {
-            "id": "e46240856bb44aea",
+            "id": "6df8fc5fe0a11c25",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -107,7 +58,7 @@
             }
           },
           {
-            "id": "0c6b787e688c66b2",
+            "id": "88a0064e493ebb78",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -124,7 +75,7 @@
             }
           },
           {
-            "id": "5798dde9ede5e945",
+            "id": "e17bbb706d6b66d9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -140,15 +91,48 @@
     "width": 300
   },
   "right": {
-    "id": "990de90adb7af7a7",
+    "id": "c90477c3eff0acc1",
     "type": "split",
     "children": [
       {
-        "id": "f426312ce41c0515",
+        "id": "b882eac0d074e7fb",
         "type": "tabs",
         "children": [
           {
-            "id": "f9712ea4b461c517",
+            "id": "49ea0e4a61abe0fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vakken Y2/Innovaties in de Journalistiek/Tentamen.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Tentamen"
+            }
+          },
+          {
+            "id": "eed2b0eb58b105ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vakken Y2/Innovaties in de Journalistiek/Tentamen.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Tentamen"
+            }
+          },
+          {
+            "id": "c281d4202fd7ed06",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -163,31 +147,7 @@
             }
           },
           {
-            "id": "e75035efdb60a4aa",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/Speech van Bush analyse.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Speech van Bush analyse"
-            }
-          },
-          {
-            "id": "9dd31374c3e55536",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
-            }
-          },
-          {
-            "id": "d2bc2656988f3da1",
+            "id": "1181389f57e436df",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -200,137 +160,39 @@
               "icon": "lucide-list",
               "title": "Outline of Tentamen"
             }
-          },
-          {
-            "id": "425eaebe7e08c266",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "5c257cfb7a3954e8",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "a22aa95c8e540564",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Vakken Y2/Innovaties in de Journalistiek/Bronnen voor tentamen.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Bronnen voor tentamen"
-            }
-          },
-          {
-            "id": "a4d33bc35a3d9e93",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
-            "id": "941471b7dfae815a",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
           }
         ],
         "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 561.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "copilot:Open Copilot Chat": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
-      "publish:Publish changes...": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
-      "copilot:Open Copilot Chat": false
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "ca08c21520dccbb5",
+  "active": "630bb0d71574d354",
   "lastOpenFiles": [
-    "Vakken Y2/Innovaties in de Journalistiek/College 6.md",
-    "Vakken Y2/Innovaties in de Journalistiek/Zelfgemaakte/NewsRecommenders_Presentatie.pdf",
     "Vakken Y2/Innovaties in de Journalistiek/Zelfgemaakte/SocialMedia_Presentatie.pdf",
     "Vakken Y2/Innovaties in de Journalistiek/Zelfgemaakte/Publieksdata_Presentatie.pdf",
     "Vakken Y2/Innovaties in de Journalistiek/Zelfgemaakte/OSINT_Presentatie.pdf",
+    "Vakken Y2/Innovaties in de Journalistiek/Zelfgemaakte/NewsRecommenders_Presentatie.pdf",
     "Vakken Y2/Innovaties in de Journalistiek/Zelfgemaakte/Datajournalistiek_Presentatie.pdf",
     "Vakken Y2/Innovaties in de Journalistiek/Zelfgemaakte/Ai_Presentatie.pdf",
-    "Vakken Y2/Innovaties in de Journalistiek/Tentamen.md",
     "Vakken Y2/Innovaties in de Journalistiek/Zelfgemaakte/AR_Presentatie.pdf",
-    "Vakken Y2/Innovaties in de Journalistiek/College 3.md",
-    "Vakken Y1/Blok 1/Inleiding in de journalistiek/Hoorcolleges/Hoorcollege 10 Inleiding in de Journalistiek.md",
-    "Vakken Y2/Innovaties in de Journalistiek/Zelfgemaakte/mso9227.tmp",
-    "Vakken Y2/Innovaties in de Journalistiek/~$college Innovatie -Virtual Reality - AR.pptx",
-    "Vakken Y2/Innovaties in de Journalistiek/~$Class 9 - Social Media.pptx",
+    "Vakken Y2/Innovaties in de Journalistiek/Zelfgemaakte",
     "Datajournalistiek.md",
-    "conflict-files-obsidian-git.md",
-    "Vakken Y2/Scriptie/Onderzoek document/SIMPLY BELLS AND WHISTLES.md",
-    "copilot-conversations/Journalistieke_autonomie_staat_door_diverse_innovaties_onder_druk._Noem_er@20250414_231057.md",
-    "Vakken Y2/Innovaties in de Journalistiek/Bronnen voor tentamen.md",
-    "Vakken Y2/Innovaties in de Journalistiek/College 2.md",
-    "Vakken Y2/Innovaties in de Journalistiek/College 1.md",
-    "Vakken Y2/Scriptie/Onderzoek document/The Impact of Online News Features on Learning from News.md",
-    "Vakken Y2/Crossmediale onderzoeksweken/Interview_MarijnJOngsma/Ondernemers geven Nederland een 6_ ‘Het gaat de verkeerde kant op’ _ Macro met Marijn Jongsma (FD) 9-3 screenshot.png",
-    "Vakken Y2/Crossmediale onderzoeksweken/Interview_MarijnJOngsma/Ondernemers geven Nederland een 6_ ‘Het gaat de verkeerde kant op’ _ Macro met Marijn Jongsma (FD) 5-11 screenshot.png",
-    "Vakken Y2/Crossmediale onderzoeksweken/Interview_MarijnJOngsma/Ondernemers geven Nederland een 6_ ‘Het gaat de verkeerde kant op’ _ Macro met Marijn Jongsma (FD) 2-29 screenshot.png",
-    "Vakken Y2/Crossmediale onderzoeksweken/Interview_MarijnJOngsma/Marijn.png",
-    "Onderwerpen/Onderzoeksmethode.md",
-    "Vakken Y2/Crossmediale onderzoeksweken/CT_SpotifyIMGS/StepCT.jpg",
-    "Vakken Y2/Crossmediale onderzoeksweken/CT_SpotifyIMGS/SonjaCT.jpg",
-    "Vakken Y2/Crossmediale onderzoeksweken/CT_SpotifyIMGS/SinanCT.jpg",
-    "Vakken Y2/Crossmediale onderzoeksweken/CT_SpotifyIMGS/NoaCT.jpg",
-    "Vakken Y2/Crossmediale onderzoeksweken/CT_SpotifyIMGS/Nasrah_CT.jpg",
-    "Vakken Y2/Crossmediale onderzoeksweken/CT_SpotifyIMGS/JanineCT.jpg",
-    "Vakken Y1/Blok 1/Methoden en theorieen van Journalism Studies/onderwerpen/Inhoudsanalyse.md",
-    "Vakken Y2/Factchecken/College 2.md",
-    "Vakken Y2/Scriptie/Onderzoek document/Online News Production in Flanders.md",
-    "Vakken Y2/Scriptie/Onderzoek document/Multimedia, interactive and hypertextual features in divergent online news platforms.md",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/Tentamen Retorica 31-10.md",
-    "Vakken Y2/Scriptie/Algemene structuur masterproef.md",
-    "Onderwerpen/standaardgeschilpunten.md",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/Colleges/College 1.md",
-    "Vakken Y2/Retorica & Argumentatie in journalistiek/Introductie 2 sept RAJ.md",
-    "Vakken Y2/New media & society/College 1.md",
-    "Onderwerpen/politieke rede.md",
-    "Vakken Y1/Blok 1/Journalistieke en Redactionele Vaardigheden/Colleges/Werkcollege 1 Journalistiek en Redactionele Vaardigheden.md",
-    "Untitled.canvas"
+    "conflict-files-obsidian-git.md"
   ]
 }
