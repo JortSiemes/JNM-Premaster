@@ -1,14 +1,17 @@
 {
 	"translatorID": "9ec64cfd-bea7-472a-9557-493c0c26b0fb",
+	"translatorType": 1,
 	"label": "MEDLINE/nbib",
 	"creator": "Sebastian Karcher",
 	"target": "txt",
 	"minVersion": "4.0",
-	"maxVersion": "",
+	"maxVersion": null,
 	"priority": 100,
 	"inRepository": true,
-	"translatorType": 1,
-	"lastUpdated": "2023-06-09 02:21:30"
+	"configOptions": {
+		"async": true
+	},
+	"lastUpdated": "2025-04-29 03:15:00"
 }
 
 /*
@@ -180,7 +183,7 @@ function processTag(item, tag, value) {
 	}
 }
 
-function doImport() {
+async function doImport() {
 	var line = true;
 	var tag = false;
 	var data = false;
@@ -200,7 +203,7 @@ function doImport() {
 				// unset info
 				tag = data = false;
 				// new item
-				finalizeItem(item);
+				await finalizeItem(item);
 				item = new Zotero.Item();
 				item.creatorsBackup = [];
 			}
@@ -225,7 +228,7 @@ function doImport() {
 	if (tag) { // save any unprocessed tags
 		processTag(item, tag, data);
 		// and finalize with some post-processing
-		finalizeItem(item);
+		await finalizeItem(item);
 	}
 }
 
@@ -305,7 +308,7 @@ function finalizeItem(item) {
 	delete item.itemTypeBackup;
 	// titles for books are mapped to bookTitle
 	if (item.itemType == "book") item.title = item.bookTitle;
-	item.complete();
+	return item.complete();
 }
 
 /** BEGIN TEST CASES **/

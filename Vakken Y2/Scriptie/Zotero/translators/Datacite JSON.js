@@ -8,7 +8,7 @@
 	"maxVersion": null,
 	"priority": 100,
 	"inRepository": true,
-	"lastUpdated": "2025-03-26 15:35:00"
+	"lastUpdated": "2025-04-29 03:15:00"
 }
 
 /*
@@ -111,7 +111,9 @@ function doImport() {
 	if (data.types.citeproc && mappingTypes[data.types.citeproc]) {
 		type = mappingTypes[data.types.citeproc];
 	}
-	if (["softwaresourcecode", "softwareapplication", "mobileapplication", "videogame", "webapplication"].includes(data.types.schemaOrg.toLowerCase())) {
+	if (data.types.schemaOrg
+			&& ["softwaresourcecode", "softwareapplication", "mobileapplication", "videogame", "webapplication"]
+				.includes(data.types.schemaOrg.toLowerCase())) {
 		type = "computerProgram";
 	}
 	if (data.types.resourceTypeGeneral == "BookChapter") {
