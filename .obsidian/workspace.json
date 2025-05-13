@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakken Y2/Innovaties in de Journalistiek/Tentamen.md",
+                "file": "Jortnalistiek/Mail Jeroen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,19 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tentamen"
+              "title": "Mail Jeroen"
+            }
+          },
+          {
+            "id": "b8f9d6f9c364c9b9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Vakken Y2/Innovaties in de Journalistiek/Bronnen/broussard-et-al-2019-artificial-intelligence-and-journalism.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "broussard-et-al-2019-artificial-intelligence-and-journalism"
             }
           }
         ]
@@ -152,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakken Y2/Innovaties in de Journalistiek/Tentamen.md",
+                "file": "Jortnalistiek/Mail Jeroen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tentamen"
+              "title": "Outline of Mail Jeroen"
             }
           }
         ],
@@ -182,22 +194,29 @@
       "publish:Publish changes...": false
     }
   },
-<<<<<<< Updated upstream
   "active": "630bb0d71574d354",
   "lastOpenFiles": [
-    "Vakken Y2/Innovaties in de Journalistiek/Zelfgemaakte/SocialMedia_Presentatie.pdf",
-    "Vakken Y2/Innovaties in de Journalistiek/Zelfgemaakte/Publieksdata_Presentatie.pdf",
-    "Vakken Y2/Innovaties in de Journalistiek/Zelfgemaakte/OSINT_Presentatie.pdf",
-    "Vakken Y2/Innovaties in de Journalistiek/Zelfgemaakte/NewsRecommenders_Presentatie.pdf",
-    "Vakken Y2/Innovaties in de Journalistiek/Zelfgemaakte/Datajournalistiek_Presentatie.pdf",
-    "Vakken Y2/Innovaties in de Journalistiek/Zelfgemaakte/Ai_Presentatie.pdf",
-    "Vakken Y2/Innovaties in de Journalistiek/Zelfgemaakte/AR_Presentatie.pdf",
-    "Vakken Y2/Innovaties in de Journalistiek/Zelfgemaakte",
+    "Jortnalistiek/Untitled.md",
+    "Jortnalistiek/Mail Jeroen.md",
+    "Vakken Y2/Innovaties in de Journalistiek/Bronnen voor tentamen.md",
+    "Vakken Y2/Innovaties in de Journalistiek/Tentamen.md",
+    "Vakken Y2/Innovaties in de Journalistiek/Bronnen/broussard-et-al-2019-artificial-intelligence-and-journalism.pdf",
+    "Vakken Y2/Innovaties in de Journalistiek/Bronnen/Data Journalism in the United States.pdf",
+    "Vakken Y2/Innovaties in de Journalistiek/Bronnen/Artificial Intelligence.md",
+    "Vakken Y2/Innovaties in de Journalistiek/Bronnen/14_Parry_spring_201920200219-36034-e8g5om-with-cover-page-v2.pdf",
+    "Vakken Y2/Innovaties in de Journalistiek/Bronnen/Open Source Intelligence as Critical Pedagogy; Or, the Humanities Classroom as Digital Human Rights Lab.md",
+    "Vakken Y2/Innovaties in de Journalistiek/Bronnen/rogers-2014-data-journalism-is-the-new-punk.pdf",
+    "Vakken Y2/Innovaties in de Journalistiek/Bronnen/rogers-2014-data-journalism-is-the-new-punk.pdf.crdownload",
+    "Vakken Y2/Innovaties in de Journalistiek/Bronnen/In Data Journalism, Tech Matters Less Than the People - The New York Times.pdf",
+    "Vakken Y2/Innovaties in de Journalistiek/Bronnen/In Data Journalism, Tech Matters Less Than the People - The New York Times.pdf.crdownload",
+    "Vakken Y2/Innovaties in de Journalistiek/Bronnen/Data Journalism in the United States.pdf.crdownload",
+    "Vakken Y2/Innovaties in de Journalistiek/Bronnen/ristovska-2022-open-source-investigation-as-a-genre-of-conflict-reporting.pdf",
+    "Vakken Y2/Innovaties in de Journalistiek/Bronnen/ristovska-2022-open-source-investigation-as-a-genre-of-conflict-reporting.pdf.crdownload",
+    "Vakken Y2/Innovaties in de Journalistiek/College 6.md",
+    "Vakken Y2/Innovaties in de Journalistiek/College 3.md",
+    "Vakken Y2/Innovaties in de Journalistiek/College 2.md",
+    "Vakken Y2/Innovaties in de Journalistiek/College 1.md",
     "Datajournalistiek.md",
-=======
-  "active": "1181389f57e436df",
-  "lastOpenFiles": [
->>>>>>> Stashed changes
     "conflict-files-obsidian-git.md"
   ]
 }

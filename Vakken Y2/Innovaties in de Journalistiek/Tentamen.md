@@ -1,16 +1,86 @@
 
-
-
 ### notitieruimte
 
-<<<<<<< Updated upstream
-=======
+Vraag 1
+**Antwoord:** (b) Emoties
+
+Question 2 (4 points) 
+**Antwoord:** (d) Jazz
+
+
+Question 3 (4 points) 
+**Antwoord:** (c) Mensen en vaardigheden
+
+
+Question 4 (4 points) 
+**Antwoord:** (a) Publieksprivacy
+
+Vraag 5
+**Antwoord:** (d) Politieke spelers
+
+Question 6 (4 points) 
+**Antwoord:** (b) Nieuwsselectie-algoritmen
+
+
+Question 7 (4 points) 
+**Antwoord:** (a) Webdata integreren met sociale mediaplatforms
+
+Question 8 (4 points) 
+**Antwoord:** (d) Het publiek meer betrokken maakt
+
+
+Question 9 (4 points) 
+**Antwoord:** (c) Spanningen rondom journalistieke autonomie
+
+
+Question 10 (4 points) 
+**Antwoord:** (c) Journalistieke autonomie
 
 
 
+**1. Analyse van de invloed van mobiele chatapps (zoals WhatsApp) op de journalistieke praktijk:**
+
+**Positieve invloeden:**
+
+*   **Snellere en efficiëntere communicatie:** WhatsApp maakt directe communicatie met bronnen, collega's en het publiek mogelijk, wat de snelheid van nieuwsgaring en -verspreiding verhoogt. Dit is cruciaal in een 24/7 nieuwsomgeving.
+*   **Toegang tot nieuwe bronnen en perspectieven:** Journalisten kunnen via WhatsApp in contact komen met bronnen die anders moeilijk bereikbaar zouden zijn, bijvoorbeeld in conflictgebieden of gesloten gemeenschappen. Het biedt toegang tot burgerjournalistiek en directe getuigenverslagen.
+*   **Verbeterde samenwerking:** WhatsApp-groepen faciliteren snelle en efficiënte samenwerking tussen journalisten, redacteuren en andere betrokkenen bij het nieuwsproces.
+*   **Nieuwe vormen van storytelling:** WhatsApp kan worden gebruikt om verhalen op een meer interactieve en persoonlijke manier te vertellen, bijvoorbeeld door middel van live updates, Q&A's met bronnen of het delen van exclusieve content.
+*   **Verhoogde betrokkenheid van het publiek:** Journalisten kunnen WhatsApp gebruiken om direct met hun publiek in dialoog te treden, feedback te verzamelen en vragen te beantwoorden.
+
+**Negatieve invloeden:**
+
+*   **Verlies van controle over informatie:** Informatie die via WhatsApp wordt gedeeld, kan gemakkelijk worden gemanipuleerd of verkeerd geïnterpreteerd. Journalisten moeten extra waakzaam zijn om de betrouwbaarheid van bronnen en informatie te verifiëren.
+*   **Privacyrisico's:** Het gebruik van WhatsApp brengt privacyrisico's met zich mee voor zowel journalisten als hun bronnen. Communicatie kan worden onderschept of gehackt, waardoor gevoelige informatie in verkeerde handen kan vallen.
+*   **Ethische dilemma's:** Het gebruik van WhatsApp kan ethische dilemma's opleveren, bijvoorbeeld met betrekking tot de bescherming van bronnen, de vertrouwelijkheid van informatie en de transparantie van de journalistieke werkwijze.
+*   **Blurring van de grens tussen privé en professioneel:** Het gebruik van WhatsApp kan leiden tot een blurring van de grens tussen privé en professioneel, wat kan leiden tot stress en burn-out bij journalisten.
+*   **Afhankelijkheid van een commercieel platform:** Journalisten worden afhankelijk van een commercieel platform dat zijn eigen algoritmes en beleidsregels hanteert, wat de redactionele onafhankelijkheid kan aantasten.
+
+**Ethische overwegingen en impact op traditionele journalistieke waarden en methoden:**
+
+*   **Waarheidsgetrouwheid en nauwkeurigheid:** De snelheid van WhatsApp-communicatie kan ten koste gaan van de zorgvuldigheid en nauwkeurigheid van de berichtgeving. Journalisten moeten extra inspanningen leveren om informatie te verifiëren en te controleren.
+*   **Onafhankelijkheid:** De afhankelijkheid van een commercieel platform kan de redactionele onafhankelijkheid aantasten. Journalisten moeten zich bewust zijn van de potentiële invloed van het platform op hun werk en proberen deze te minimaliseren.
+*   **Fairness en onpartijdigheid:** WhatsApp kan worden gebruikt om selectief informatie te verspreiden of om bepaalde perspectieven te bevoordelen. Journalisten moeten zich bewust zijn van deze risico's en streven naar een evenwichtige en onpartijdige berichtgeving.
+*   **Verantwoordelijkheid:** Journalisten moeten verantwoordelijk omgaan met de informatie die ze via WhatsApp verspreiden en de potentiële gevolgen daarvan voor het publiek.
+*   **Transparantie:** Journalisten moeten transparant zijn over hun gebruik van WhatsApp en de bronnen van hun informatie.
+
+**2. Vergelijking met de bredere discussie over de politieke macht van platforms (Helberger, 2020):**
+
+De invloed van WhatsApp op de journalistieke praktijk is een microkosmos van de bredere discussie over de politieke macht van platforms. Helberger (2020) benadrukt dat platforms zoals WhatsApp niet alleen technische infrastructuren zijn, maar ook actoren met een aanzienlijke politieke macht. Deze macht komt voort uit hun controle over de verspreiding van informatie, hun algoritmes die bepalen wat gebruikers zien, en hun vermogen om de publieke opinie te beïnvloeden.
+
+**Overeenkomsten:**
+
+*   **Gatekeeping:** Platforms fungeren als gatekeepers van informatie, bepalen welke informatie wordt verspreid en welke niet. Dit geldt zowel voor nieuwsberichten als voor andere vormen van content.
+*   **Algoritmische bias:** De algoritmes van platforms kunnen leiden tot bias in de informatie die gebruikers te zien krijgen, waardoor bepaalde perspectieven worden bevoordeeld en andere worden gemarginaliseerd.
+*   **Echokamers en polarisatie:** Platforms kunnen bijdragen aan de vorming van echokamers en polarisatie, doordat gebruikers voornamelijk in contact komen met informatie die hun eigen overtuigingen bevestigt.
+*   **Desinformatie en nepnieuws:** Platforms worden gebruikt om desinformatie en nepnieuws te verspreiden, wat de publieke opinie kan beïnvloeden en de democratie kan ondermijnen.
+*   **Gebrek aan transparantie en verantwoording:** Platforms zijn vaak ondoorzichtig over hun algoritmes en beleidsregels, waardoor het moeilijk is om ze ter verantwoording te roepen voor de gevolgen van hun acties.
+
+**Conclusie:**
+
+Het gebruik van WhatsApp door journalisten biedt kansen voor snellere en efficiëntere communicatie, maar brengt ook risico's met zich mee voor de journalistieke ethiek en de redactionele onafhankelijkheid. Deze risico's zijn vergelijkbaar met de bredere zorgen over de politieke macht van platforms, die de verspreiding van informatie controleren en de publieke opinie kunnen beïnvloeden. Journalisten moeten zich bewust zijn van deze risico's en proactief maatregelen nemen om ze te minimaliseren. Dit vereist een kritische houding ten opzichte van platforms, een sterke focus op ethische principes en een voortdurende inspanning om de betrouwbaarheid en nauwkeurigheid van informatie te waarborgen.
 
 
->>>>>>> Stashed changes
 
 
 # Les 1: VR
@@ -1759,3 +1829,48 @@ Er is wereldwijd een groeiende behoefte aan en ontwikkeling van AI-richtlijnen i
 Specifieke richtlijnen van organisaties (bijv. Wired, DPG Media, Vlaamse Vereniging van Journalisten) benadrukken ethisch gebruik, transparantie, menselijke controle over de uiteindelijke inhoud en gegevensbeveiliging.
 
 Belangrijke aanbevelingen zijn vaak: controleer AI-uitvoer altijd, wees transparant naar het publiek, stuur geen vertrouwelijke gegevens naar AI-diensten en zorg ervoor dat menselijke journalisten verantwoordelijk blijven.
+
+Trust and Fear in the Newsroom: How Emotions Drive the Exchange of Innovative Ideas (Porcu et al., 2021)
+ABSTRACT This article analyses the social processes that stimulate the exchange of new ideas in newsrooms. New ideas are vital for legacy media news organisations to innovate and fundamentally reinvent themselves, which is crucial for their survival. Ample research in other disciplines has shown that perceptions of “trust” and “fear” are strong drivers for sharing (or not sharing) creative ideas at work. However, what fosters the sharing and developing of new ideas has been strikingly under-researched in journalism studies. To fill this research gap we ask: how do perceptions of trust and fear in the newsroom stimulate (or not) the sharing and developing of new ideas? Data have been gathered in the newsrooms of two Dutch newspapers, using qualitative interviews and non-participant observation. To enable new idea sharing to benefit all, people need to experience both trust in their peers and in their management. Results show that only newsroom elites perceive both types of trust and, hence, feel free to share their new ideas with management. This means that within newsrooms in transformation the innovative potential of the majority of people is not utilised as they fear to share their creative or new ideas upwards in the hierarchy.
+Key Points and Arguments:
+1.	Innovation in Journalism:
+•	Innovative capabilities are crucial for legacy news media to survive and thrive in the competitive media landscape.
+•	True innovation involves fundamental cultural transformation rather than chasing technological trends.
+•	Innovative Learning Culture (ILC): A culture that stimulates people to work together, grow, and experiment, fostering creativity and innovation.
+2.	Emotional Drivers: Trust and Fear:
+•	Trust: Perceived reliance or safety in relation to peers (horizontal trust) and superiors (vertical trust). Encourages sharing of new ideas.
+•	Fear: Perceived anxiety or unsafety related to colleagues and superiors, discouraging the sharing of new ideas due to expected punishment.
+•	Balance between trust and fear influences the willingness to take risks and share creative ideas.
+3.	Social Processes in the Newsroom:
+•	Horizontal Trust: Trust among peers, especially within news desks or "islands," stimulates daily sharing of story ideas.
+•	Vertical Trust: Trust between staff and management, crucial for sharing ideas beyond daily stories. Limited to newsroom elites who are close to management.
+•	Horizontal Fear: Fear among peers, especially regarding future management roles, hinders open feedback and discussion.
+•	Vertical Fear: Fear of management's negative treatment, including humiliation and belittling, prevents upward sharing of new ideas.
+4.	Social Groups in the Newsroom:
+•	Newsroom Elites: Includes newsroom establishment, usual suspects, and happy few. Perceive both horizontal and vertical trust, feel free to share ideas with management.
+•	Larger Newsroom: Includes silent majority and flex people. Perceive horizontal trust but vertical fear, hindering the sharing of new ideas with management.
+•	Flex People: Precarious labor relations, lack of trust, and fear of job insecurity.
+5.	Impact on Innovation:
+•	Stimulating Aspects: Lack of fear and presence of trust stimulate the sharing and developing of new ideas.
+•	Non-Stimulating Aspects: Fear of punishment, lack of vertical trust, and precarious labor relations hinder innovation.
+•	Newsroom Culture: Not homogenous; perceptions of trust and fear vary based on social hierarchical positions.
+6.	Recommendations:
+•	Management should actively reduce fear and promote trust to foster an innovative learning culture.
+•	Encourage open communication, mutual trust, and a supportive culture to stimulate the exchange of new ideas.
+•	Address the fears and trust issues specific to different social groups in the newsroom.
+Keywords:
+•	Emotional Drivers
+•	Trust
+•	Fear
+•	Creativity
+•	Newsroom Innovation
+•	Innovative Learning Culture (ILC)
+•	Horizontal Trust
+•	Vertical Trust
+•	Horizontal Fear
+•	Vertical Fear
+•	Newsroom Elites
+•	Larger Newsroom
+•	Flex People
+•	Social Processes
+•	Innovation in Journalism
