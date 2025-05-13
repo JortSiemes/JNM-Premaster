@@ -1,0 +1,6 @@
+Drank,"Cafeïne (mg per portie)","Bron Portiegrootte"
+"Extra Joss",50,"1 zakje"
+"Filterkoffie",90,"1 kopje (125 ml)"
+"Energiedrank (standaard)",80,"1 blikje (250 ml)"
+"Zwarte Thee",40,"1 kopje (125 ml)"
+"Cola",25,"1 glas (250 ml)"

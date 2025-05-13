@@ -8,7 +8,7 @@
 	"maxVersion": null,
 	"priority": 100,
 	"inRepository": true,
-	"lastUpdated": "2025-03-29 04:40:00"
+	"lastUpdated": "2025-04-30 20:55:00"
 }
 
 /*
@@ -68,8 +68,9 @@ async function processDOI(doi) {
 	let currentDate = new Date();
 	// Outage: 29 March 2025, 11:00–14:00 UTC
 	// Start 1 hour before (10:00 UTC) and end 2 hours after (16:00 UTC)
-	let startDate = new Date(Date.UTC(2025, 2, 29, 10, 0, 0));
-	let endDate   = new Date(Date.UTC(2025, 2, 29, 16, 0, 0));
+	// TEMP for April 30 outage
+	let startDate = new Date(Date.UTC(2025, 3, 30, 12, 0, 0));
+	let endDate   = new Date(Date.UTC(2025, 4, 2, 0, 0, 0));
 	if (currentDate >= startDate && currentDate <= endDate) {
 		try {
 			let raJSON = await requestJSON(
